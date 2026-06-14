@@ -19,6 +19,15 @@ body {
   box-sizing: border-box !important;
 }
 
+a {
+  color: #58a6ff !important;
+  text-decoration: underline !important;
+  font-weight: bold;
+}
+a:hover {
+  color: #f2cc60 !important; /* Passe en jaune or au survol de la souris */
+}
+
 // 2. JUSTIFICATION ET NETTOYAGE DU TEXTE COURANT
 p, li {
   text-align: justify !important; // Justifie le texte sur toute la largeur
