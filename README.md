@@ -2,11 +2,13 @@
 ### Vers un écosystème national d'autonomie énergétique, sanitaire et agricole
 **Note stratégique indépendante — Juin 2026**
 
+📥 **[Télécharger le document officiel au format PDF](manifeste_souverainete_technologique_v3_propre.pdf)**
+
 ---
 
 ## I. Constat : L'érosion silencieuse de notre souveraineté
 
-La France traverse une crise stratégique majeure, marquée par un fossé grandissant entre ses capacités d'innovation technologique et sa réalité industrielle. Sous couvert d'orthodoxie administrative et de gestion à courte vue, nous sacrifions nos fleurons industriels sur l'autel de la démagogie, de la bureaucratie et de l'incompétence en matière de technologie, de science et de finance. Le constat est indéniable : notre nation, historiquement pionnière dans l'ingénierie et l'énergie, perd sa maîtrise technologique. Ce déclin à tous les niveaux est ressenti inconsciemment par la population, qui exprime une frustration généralisée face à cette dégradation continue.
+La France traverse une crise stratégique majeure, marquée par un fossé grandissant entre ses capacités d'innovation technologique et sa réalité industrielle. Sous couvert d'orthodoxie administrative et de gestion à courte vue, nous sacrifions nos fleurons industriels sur l'autel de la démagogie, de la bureaucratie et de l'incompétence en matière de technologie, de science et de finance. Le constat est indéniable : notre nation, historiquement pionnière dans l'ingénierie et l'énergie, perd sa maîtrise technologique. Ce déclin à tous les niveaux est ressenti inconsciemment par la population, qui exprime une frustration généralisée face à cette dégradation continue.
 
 Pendant que nos PME de haute valeur, porteuses de ruptures majeures, sont soumises à une prédation financière acharnée, à des faillites évitables ou à l'exil forcé vers des terres plus accueillantes, nos brevets sont captés par des puissances étrangères. Ces nations, plus pragmatiques, ont compris l'urgence de s'approprier les technologies de demain tandis que nous les abandonnons en haut lieu par manque de vision stratégique.
 
@@ -48,7 +50,7 @@ L'outil industriel national ne pourra pas survivre sans une refonte totale de se
 ### L'audit des valeurs stratégiques : Un bouclier face à la prédation financière
 L'État doit lancer, sans délai, un recensement national des PME technologiques de rupture dont le savoir-faire est critique pour notre survie. Ces entreprises doivent être sanctuarisées, protégées de la prédation financière étrangère et accompagnées pour passer à l'échelle industrielle. 
 
-L'État doit impérativement mettre en place un bouclier financier — un **Fonds anti-dilution de souveraineté** — pour interdire le recours forcé à des structures prédatrices de financement alternatif (fonds spéculatifs abusant des lignes d'OCEANE ou de BSA) qui spolient et détruisent l’épargne des investisseurs français logée dans les PEA-PME. Ces mécanismes prédateurs organisent la vente à découvert systématique de nos pépites cotées ; ils diluent massivement le capital social par l'émission de millions, voire de milliards d'actions nouvelles, et provoquent l'assaut immédiat de Hedge Funds en position short dès la signature des contrats. Ces pratiques rendent toute gouvernance stable impossible, pulvérisent la valorisation boursière et bloquent définitivement l'accès au crédit bancaire traditionnel, offrant ainsi notre propriété intellectuelle aux puissances étrangères sur un plateau.
+L'État doit impérativement mettre en place un bouclier financier — un **Fonds anti-dilution de souveraineté** — pour interdire le recours forcé à des structures prédatrices de financement alternatif (fonds spéculatifs abusant des lignes d'OCEANE ou de BSA) qui spolient et détruisent l’épargne des investisseurs français logée dans les PEA-PME. Ces mechanisms prédateurs organisent la vente à découvert systématique de nos pépites cotées ; ils diluent massivement le capital social par l'émission de millions, voire de milliards d'actions nouvelles, et provoquent l'assaut immédiat de Hedge Funds en position short dès la signature des contrats. Ces pratiques rendent toute gouvernance stable impossible, pulvérisent la valorisation boursière et bloquent définitivement l'accès au crédit bancaire traditionnel, offrant ainsi notre propriété intellectuelle aux puissances étrangères sur un plateau.
 
 ---
 
