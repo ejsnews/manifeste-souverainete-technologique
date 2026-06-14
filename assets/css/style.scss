@@ -6,14 +6,14 @@
 body {
   background-color: #0d1117 !important;
   color: #f0f6fc !important;
-  font-size: 20px !important;
-  line-height: 1.8 !important;
+  font-size: 16px !important;
+  line-height: 1.5 !important;
 }
 
 // Suppression des limitations de largeur du thème pour occuper tout le cadre
 .container-lg, .wrapper, .main-content, header, section {
-  max-width: 100% !important; 
-  width: 100% !important;
+  max-width: 90% !important; 
+  width: 90% !important;
   padding: 40px 30px !important;
   margin: 0 !important;
   box-sizing: border-box !important;
