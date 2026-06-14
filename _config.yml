@@ -1,4 +1,4 @@
-theme: jekyll-theme-merlot # ou le nom de votre thème actuel
+theme: jekyll-theme-primer # ou le nom de votre thème actuel
 title: " " # Met un espace vide pour effacer le titre automatique
 description: " " # Efface la description automatique
 show_downloads: false # Désactive les boutons de téléchargement natifs
