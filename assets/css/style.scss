@@ -2,41 +2,67 @@
 ---
 @import "{{ site.theme }}";
 
-// On ajuste la police globale pour le confort visuel
+// Forçage d'un thème sombre haut de gamme et ultra-lisible
 body {
-  font-size: 19px !important;
+  background-color: #0d1117 !important; // Noir de code pur (style GitHub Dark)
+  color: #f0f6fc !important;           // Écriture blanc cassé très lumineuse
+  font-size: 20px !important;          // Texte grand et confortable
   line-height: 1.8 !important;
-  color: #24292e !important;
 }
 
-// On élargit la zone de texte pour éviter l'effet "colonne étroite"
-.container-lg {
+// Conteneur principal bien centré et aéré
+.container-lg, .wrapper, .main-content {
   max-width: 850px !important;
-  padding: 30px 20px !important;
+  background-color: #0d1117 !important;
+  color: #f0f6fc !important;
+  padding: 40px 20px !important;
+  margin: 0 auto !important;
 }
 
-// On stylise le tableau technique pour qu'il soit aéré
+// Titres en Jaune/Or pour structurer le manifeste
+h1, h2, h3, h4 {
+  color: #f2cc60 !important;           // Jaune doré lumineux, aucun reflet agressif
+  font-weight: 700 !important;
+}
+h1 { font-size: 2.4em !important; margin-bottom: 0.8em !important; }
+h2 { font-size: 1.8em !important; margin-top: 1.6em !important; border-bottom: 1px solid #30363d !important; padding-bottom: 0.4em !important; }
+h3 { font-size: 1.4em !important; }
+
+// Liens internet (s'il y en a)
+a {
+  color: #58a6ff !important;           // Bleu clair électrique bien visible sur noir
+  text-decoration: underline !important;
+}
+
+// Mise en valeur du tableau technique (Module H6)
 table {
   display: table !important;
   width: 100% !important;
-  font-size: 17px !important;
-  margin: 30px 0 !important;
-  
+  font-size: 18px !important;
+  margin: 35px 0 !important;
+  border-collapse: collapse !important;
+  background-color: #161b22 !important; // Gris foncé pour détacher le tableau du fond
+  border: 1px solid #30363d !important;
+
   th, td {
-    padding: 12px 15px !important;
-    border: 1px solid #dfe2e5 !important;
+    padding: 14px 16px !important;
+    border: 1px solid #30363d !important;
+    color: #f0f6fc !important;
   }
   th {
-    background-color: #f6f8fa !important;
+    background-color: #21262d !important;
+    color: #f2cc60 !important;         // Titres du tableau en jaune
   }
 }
 
-// On stylise l'avertissement final (Disclaimer)
+// Encadré de l'avertissement final (Disclaimer)
 blockquote {
-  padding: 15px 20px !important;
-  color: #57606a !important;
-  border-left: 4px solid #2f81f7 !important;
-  background-color: #f6f8fa !important;
+  padding: 20px !important;
+  color: #8b949e !important;           // Gris clair pour le ton juridique
+  border-left: 4px solid #f2cc60 !important; // Ligne jaune à gauche
+  background-color: #161b22 !important; // Fond de bloc gris foncé
   font-style: italic !important;
-  margin: 30px 0 !important;
+  margin: 35px 0 !important;
+  
+  p { color: #8b949e !important; }
 }
