@@ -1,4 +1,4 @@
-# Manifeste pour la Souveraineté et la Résilience Technologique
+# Manifeste pour la souveraineté et la résilience Technologique
 ### Vers un écosystème national d'autonomie énergétique, sanitaire et agricole
 **Note Stratégique Indépendante — Juin 2026**
 
@@ -33,22 +33,22 @@ Elle offre enfin une mission vertueuse à la révolution robotique : plutôt que
 | Paramètre | Valeur Standard Spécifiée |
 | :--- | :--- |
 | **Capacité Nominale Thermique** | 2 MW à 5 MW par unité modulaire |
-| **Intrants (Biomasse résiduelle / Déchets)** | 1,0 à 1,2 tonne / heure (Humidité < 30%) |
+| **Intrants (Biomasse résiduelle / Déchets)** | 1,0 à 1,2 tonne / heure (Selon l'humidité < 30%) |
 | **Production Hydrogène Vert H₂** | 130 à 150 kg / heure (Pureté 99,97%) |
-| **Co-produit : Biochar Solide** | 300 à 350 kg / heure (Séquestration carbone stable) |
+| **Co-produit : Biochar Solide** | 250 à 300 kg / heure (Séquestration carbone stable) |
 | **Rendement Énergétique Global** | > 75% à 80% (Procédé endothermique optimisé) |
 | **Coût net de production estimé (H₂)** | < 2,00 € / kg (Valorisation des crédits carbone incluse) |
 
 ---
 
-## III. Le Plan Boursier et Financier : Protéger nos pépites
+## III. Le Plan boursier et financier : Protéger nos pépites
 
 L'outil industriel national ne pourra pas survivre sans une refonte totale de ses mécanismes de protection financière. Il est inadmissible que les fleurons technologiques français soient livrés à la prédation boursière.
 
 ### L'Audit des valeurs stratégiques : Un bouclier face à la prédation financière
 L'État doit lancer, sans délai, un recensement national des PME technologiques de rupture dont le savoir-faire est critique pour notre survie. Ces entreprises doivent être sanctuarisées, protégées de la prédation financière étrangère et accompagnées pour passer à l'échelle industrielle. 
 
-L'État doit impérativement mettre en place un bouclier financier — un **Fonds Anti-Dilution de Souveraineté** — pour interdire le recours forcé à des structures prédatrices de financement alternatif (fonds spéculatifs abusant des lignes d'OCEANE ou de BSA) qui spolient et détruisent l’épargne des investisseurs français logée dans les PEA-PME. Ces mécanismes prédateurs organisent la vente à découvert systématique de nos pépites cotées ; ils diluent massivement le capital social par l'émission de millions, voire de milliards d'actions nouvelles, et provoquent l'assaut immédiat de Hedge Funds en position short dès la signature des contrats. Ces pratiques rendent toute gouvernance stable impossible, pulvérisent la valorisation boursière et bloquent définitivement l'accès au crédit bancaire traditionnel, offrant ainsi notre propriété intellectuelle aux puissances étrangères sur un plateau.
+L'État doit impérativement mettre en place un bouclier financier — un **Fonds anti-dilution de souveraineté** — pour interdire le recours forcé à des structures prédatrices de financement alternatif (fonds spéculatifs abusant des lignes d'OCEANE ou de BSA) qui spolient et détruisent l’épargne des investisseurs français logée dans les PEA-PME. Ces mécanismes prédateurs organisent la vente à découvert systématique de nos pépites cotées ; ils diluent massivement le capital social par l'émission de millions, voire de milliards d'actions nouvelles, et provoquent l'assaut immédiat de Hedge Funds en position short dès la signature des contrats. Ces pratiques rendent toute gouvernance stable impossible, pulvérisent la valorisation boursière et bloquent définitivement l'accès au crédit bancaire traditionnel, offrant ainsi notre propriété intellectuelle aux puissances étrangères sur un plateau.
 
 ---
 
@@ -56,19 +56,19 @@ L'État doit impérativement mettre en place un bouclier financier — un **Fond
 
 Le sursaut industriel exige des décisions immédiates et pragmatiques pour briser le verrou de l'immobilisme.
 
-1. **L'instauration d'un « Fast-Track Réglementaire » pour les projets de souveraineté :** L'orthodoxie administrative française et la complexité des instructions d'urbanisme ou des procédures ICPE constituent aujourd'hui des goulots d'étranglement qui tuent l'innovation dans l'œuf, imposant des délais de 18 à 24 mois avant la moindre mise en service. Face à l'urgence budgétaire et économique, l'État doit instaurer un mécanisme de « Fast-Track » réglementaire, accordant un droit à l'expérimentation immédiate et des autorisations d'exploitation provisoires en moins de 3 mois pour toute installation modulaire décentralisée couplée à une infrastructure critique (hôpitaux, bases logistiques, coopératives agricoles).
+1. **L'instauration d'un « Fast-Track réglementaire » pour les projets de souveraineté :** L'orthodoxie administrative française et la complexité des instructions d'urbanisme ou des procédures ICPE constituent aujourd'hui des goulots d'étranglement qui tuent l'innovation dans l'œuf, imposant des délais de 18 à 24 mois avant la moindre mise en service. Face à l'urgence budgétaire et économique, l'État doit instaurer un mécanisme de « Fast-Track » réglementaire, accordant un droit à l'expérimentation immédiate et des autorisations d'exploitation provisoires en moins de 3 mois pour toute installation modulaire décentralisée couplée à une infrastructure critique (hôpitaux, bases logistiques, coopératives agricoles).
 2. **Garantie publique des risques d'industrialisation :** Si une technologie est vitale pour la nation, le risque financier est, par nature, un risque national que l'État se doit de couvrir. Le financement ne doit plus être une simple opération comptable déléguée, mais un investissement stratégique.
 3. **Priorisation absolue de la commande publique :** Systématisation du déploiement de ces unités de thermolyse décentralisées dans toutes les infrastructures critiques du pays. En devenant le premier client de ses propres innovations, la France créera l'effet d'entraînement nécessaire pour conquérir les marchés mondiaux.
 
 ---
 
-## Conclusion : Le Choix de l'Histoire
+## Conclusion : Le choix de l'histoire
 
 La technologie de la thermolyse sèche décentralisée ne propose pas une simple alternative, elle pose les bases d'une résilience civilisationnelle. Fuir une Terre devenue inhabitable pour aller vivre dans l'espace ne peut et ne doit pas être la seule ambition de l'humanité. Notre devoir est de réparer notre monde avec le génie de notre ingénierie. 
 
 L'avenir de la France et du monde sera autonome, robotisé, décarboné et souverain, ou il ne sera pas. Nous avons les machines pour dépolluer, le procédé pour transmuter le déchet en énergie pure, et le mécanisme pour refroidir l'atmosphère par la séquestration du carbone. Il est temps de cesser de laisser mourir nos technologies révolutionnaires, de les abandonner à la bureaucratie ou de les livrer en pâture à la prédation financière. La France possède les ressources pour mener cette renaissance ; il ne manque plus que la volonté politique de reprendre le contrôle de notre destin industriel et de passer à l'action.
 
-**EJS — Note Stratégique Indépendante**
+**EJS — Note stratégique indépendante**
 
 ---
 
