@@ -1,12 +1,12 @@
 # Manifeste pour la souveraineté et la résilience Technologique
 ### Vers un écosystème national d'autonomie énergétique, sanitaire et agricole
-**Note Stratégique Indépendante — Juin 2026**
+**Note stratégique indépendante — Juin 2026**
 
 ---
 
 ## I. Constat : L'érosion silencieuse de notre souveraineté
 
-La France traverse une crise stratégique majeure, marquée par un décalage croissant entre ses capacités d'innovation technologique et sa réalité industrielle. Sous couvert d'orthodoxie administrative et d'une gestion court-termiste, nous sacrifions nos fleurons industriels sur l'autel de la bureaucratie. Ce constat est sans appel : notre nation, historiquement pionnière dans l'ingénierie et l'énergie, est en train de perdre sa maîtrise technologique.
+La France traverse une crise stratégique majeure, marquée par un fossé grandissant entre ses capacités d'innovation technologique et sa réalité industrielle. Sous couvert d'orthodoxie administrative et de gestion à courte vue, nous sacrifions nos fleurons industriels sur l'autel de la démagogie, de la bureaucratie et de l'incompétence en matière de technologie, de science et de finance. Le constat est indéniable : notre nation, historiquement pionnière dans l'ingénierie et l'énergie, perd sa maîtrise technologique. Ce déclin à tous les niveaux est ressenti inconsciemment par la population, qui exprime une frustration généralisée face à cette dégradation continue.
 
 Pendant que nos PME de haute valeur, porteuses de ruptures majeures, sont soumises à une prédation financière acharnée, à des faillites évitables ou à l'exil forcé vers des terres plus accueillantes, nos brevets sont captés par des puissances étrangères. Ces nations, plus pragmatiques, ont compris l'urgence de s'approprier les technologies de demain tandis que nous les abandonnons en haut lieu par manque de vision stratégique.
 
@@ -15,11 +15,11 @@ Le modèle énergétique que nous suivons actuellement est, à bien des égards,
 
 ---
 
-## II. La Solution : La rupture technologique par la thermolyse de biomasse décentralisée
+## II. La solution : La rupture technologique par la thermolyse de biomasse décentralisée
 
 Face à cette impasse, il existe une alternative technologique française, mature et immédiatement déployable : la production décentralisée d'hydrogène vert, de gaz renouvelables et de carburants de synthèse à partir de la thermolyse de biomasse et de résidus organiques, couplée à une co-production de biochar.
 
-### Le Piège Thermodynamique Global : L'illusion des énergies propres face à l'urgence du puits de carbone
+### Le piège thermodynamique global : L'illusion des énergies propres face à l'urgence du puits de carbone
 L'erreur conceptuelle majeure des politiques énergétiques actuelles réside dans l'oubli des lois les plus élémentaires de la thermodynamique. Déployer massivement l'électrolyse reposant sur le nucléaire ou un hydrogène d'origine fossile mal compensé ne résout en rien la crise climatique si l'on continue à saturer l'atmosphère de vecteurs thermiques sans décarboner en parallèle. Toute production massive d'énergie, même étiquetée comme "propre", génère structurellement une chaleur anthropique dissipée qui vient réchauffer l'enveloppe terrestre. Or, tant que le stock de CO₂ historique reste présent dans l'atmosphère, il agit comme une serre verrouillée, empêchant cette chaleur de s'évacuer vers l'espace. Vouloir consommer toujours plus d'énergie dans un système saturé en carbone sans créer de puits de carbone simultané est une aberration physique.
 
 À cet égard, l'avènement imminent de l'intelligence artificielle générative et de la robotique lourde va agir comme un accélérateur exponentiel de ce phénomène. Ce "baby drill" technologique — l’usage frénétique, global et inconsidéré de la puissance de calcul et des flottes de machines — va créer un appel d'air énergétique sans précédent dans l'histoire humaine, menant la Terre vers une impasse écologique irréversible si l'infrastructure sous-jacente reste inchangée.
@@ -30,22 +30,22 @@ Elle offre enfin une mission vertueuse à la révolution robotique : plutôt que
 
 ### Caractéristiques techniques fondamentales (Module standard H6)
 
-| Paramètre | Valeur Standard Spécifiée |
+| Paramètre | Valeur standard spécifiée |
 | :--- | :--- |
-| **Capacité Nominale Thermique** | 2 MW à 5 MW par unité modulaire |
-| **Intrants (Biomasse résiduelle / Déchets)** | 1,0 à 1,2 tonne / heure (Selon l'humidité < 30%) |
-| **Production Hydrogène Vert H₂** | 130 à 150 kg / heure (Pureté 99,97%) |
-| **Co-produit : Biochar Solide** | 250 à 300 kg / heure (Séquestration carbone stable) |
-| **Rendement Énergétique Global** | > 75% à 80% (Procédé endothermique optimisé) |
+| **Capacité nominale thermique** | 2 MW à 5 MW par unité modulaire |
+| **Intrants (biomasse résiduelle / Déchets)** | 1,0 à 1,2 tonne / heure (Selon l'humidité < 30%) |
+| **Production hydrogène vert H₂** | 130 à 150 kg / heure (Pureté 99,97%) |
+| **Co-produit : Biochar solide** | 250 à 300 kg / heure (Séquestration carbone stable) |
+| **Rendement énergétique global** | > 75% à 80% (Procédé endothermique optimisé) |
 | **Coût net de production estimé (H₂)** | < 2,00 € / kg (Valorisation des crédits carbone incluse) |
 
 ---
 
-## III. Le Plan boursier et financier : Protéger nos pépites
+## III. Le plan boursier et financier : Protéger nos pépites
 
 L'outil industriel national ne pourra pas survivre sans une refonte totale de ses mécanismes de protection financière. Il est inadmissible que les fleurons technologiques français soient livrés à la prédation boursière.
 
-### L'Audit des valeurs stratégiques : Un bouclier face à la prédation financière
+### L'audit des valeurs stratégiques : Un bouclier face à la prédation financière
 L'État doit lancer, sans délai, un recensement national des PME technologiques de rupture dont le savoir-faire est critique pour notre survie. Ces entreprises doivent être sanctuarisées, protégées de la prédation financière étrangère et accompagnées pour passer à l'échelle industrielle. 
 
 L'État doit impérativement mettre en place un bouclier financier — un **Fonds anti-dilution de souveraineté** — pour interdire le recours forcé à des structures prédatrices de financement alternatif (fonds spéculatifs abusant des lignes d'OCEANE ou de BSA) qui spolient et détruisent l’épargne des investisseurs français logée dans les PEA-PME. Ces mécanismes prédateurs organisent la vente à découvert systématique de nos pépites cotées ; ils diluent massivement le capital social par l'émission de millions, voire de milliards d'actions nouvelles, et provoquent l'assaut immédiat de Hedge Funds en position short dès la signature des contrats. Ces pratiques rendent toute gouvernance stable impossible, pulvérisent la valorisation boursière et bloquent définitivement l'accès au crédit bancaire traditionnel, offrant ainsi notre propriété intellectuelle aux puissances étrangères sur un plateau.
