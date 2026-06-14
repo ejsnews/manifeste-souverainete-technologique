@@ -2,43 +2,41 @@
 ---
 @import "{{ site.theme }}";
 
-// Optimisation de la lisibilité globale
+// On ajuste la police globale pour le confort visuel
 body {
-  font-size: 19px;          // Augmente la taille générale du texte
-  line-height: 1.7;         // Plus d'espace entre les lignes pour reposer l'œil
-  color: #24292e;           // Un noir adouci, plus confortable à lire
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 19px !important;
+  line-height: 1.8 !important;
+  color: #24292e !important;
 }
 
-// Optimisation de la zone de lecture
-.container-lg, .markdown-body {
-  max-width: 800px;         // Largeur idéale pour éviter que l'œil ne se perde
-  padding: 45px;
-  margin: 0 auto;
+// On élargit la zone de texte pour éviter l'effet "colonne étroite"
+.container-lg {
+  max-width: 850px !important;
+  padding: 30px 20px !important;
 }
 
-// Amélioration des titres
-h1 { font-size: 2.25em; line-height: 1.2; margin-bottom: 0.5em; }
-h2 { font-size: 1.75em; margin-top: 1.5em; margin-bottom: 0.5em; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; }
-h3 { font-size: 1.35em; margin-top: 1.2em; }
-
-// Amélioration des tableaux techniques (comme votre tableau H6)
+// On stylise le tableau technique pour qu'il soit aéré
 table {
-  display: table;
-  width: 100%;
-  font-size: 17px;
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
+  display: table !important;
+  width: 100% !important;
+  font-size: 17px !important;
+  margin: 30px 0 !important;
   
   th, td {
-    padding: 12px 15px;     // Plus d'espace dans les cellules
+    padding: 12px 15px !important;
+    border: 1px solid #dfe2e5 !important;
+  }
+  th {
+    background-color: #f6f8fa !important;
   }
 }
 
-// Amélioration des citations ou avertissements (Disclaimer)
+// On stylise l'avertissement final (Disclaimer)
 blockquote {
-  font-style: italic;
-  color: #6a737d;
-  border-left: 0.25em solid #dfe2e5;
-  padding: 0 1em;
+  padding: 15px 20px !important;
+  color: #57606a !important;
+  border-left: 4px solid #2f81f7 !important;
+  background-color: #f6f8fa !important;
+  font-style: italic !important;
+  margin: 30px 0 !important;
 }
