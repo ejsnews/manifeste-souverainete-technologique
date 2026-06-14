@@ -2,46 +2,58 @@
 ---
 @import "{{ site.theme }}";
 
-// Forçage d'un thème sombre haut de gamme et ultra-lisible
+// 1. FORÇAGE DU THÈME SOMBRE ET REMPLISSAGE DE TOUT L'ESPACE
 body {
-  background-color: #0d1117 !important; // Noir de code pur (style GitHub Dark)
-  color: #f0f6fc !important;           // Écriture blanc cassé très lumineuse
-  font-size: 20px !important;          // Texte grand et confortable
+  background-color: #0d1117 !important;
+  color: #f0f6fc !important;
+  font-size: 20px !important;
   line-height: 1.8 !important;
 }
 
-// Conteneur principal bien centré et aéré
-.container-lg, .wrapper, .main-content {
-  max-width: 850px !important;
-  background-color: #0d1117 !important;
-  color: #f0f6fc !important;
-  padding: 40px 20px !important;
-  margin: 0 auto !important;
+// Suppression des limitations de largeur du thème pour occuper tout le cadre
+.container-lg, .wrapper, .main-content, header, section {
+  max-width: 100% !important; 
+  width: 100% !important;
+  padding: 40px 30px !important;
+  margin: 0 !important;
+  box-sizing: border-box !important;
 }
 
-// Titres en Jaune/Or pour structurer le manifeste
+// 2. JUSTIFICATION ET NETTOYAGE DU TEXTE COURANT
+p, li {
+  text-align: justify !important; // Justifie le texte sur toute la largeur
+  color: #f0f6fc !important;
+}
+
+// 3. NETTOYAGE RADICAL DU HAUT DE PAGE (Masquage des textes redondants demandés)
+header, .page-header {
+  h1 { display: none !important; } // Masque "manifeste-souverainete-technologique" redondant
+  h2 { display: none !important; } // Masque les sous-titres automatiques du thème
+}
+
+// Masquage du bloc "View on GitHub" et des boutons du haut peu lisibles
+.downloads, .buttons, .view-on-github, a[href*="github.com"] {
+  display: none !important;
+}
+
+// 4. TITRES DU MANIFESTE (Jaune d'or lumineux)
 h1, h2, h3, h4 {
-  color: #f2cc60 !important;           // Jaune doré lumineux, aucun reflet agressif
+  color: #f2cc60 !important;
   font-weight: 700 !important;
+  text-align: left !important; // Les titres restent alignés à gauche pour le style
 }
 h1 { font-size: 2.0em !important; margin-bottom: 0.8em !important; }
 h2 { font-size: 1.6em !important; margin-top: 1.6em !important; border-bottom: 1px solid #30363d !important; padding-bottom: 0.4em !important; }
 h3 { font-size: 1.2em !important; }
 
-// Liens internet (s'il y en a)
-a {
-  color: #58a6ff !important;           // Bleu clair électrique bien visible sur noir
-  text-decoration: underline !important;
-}
-
-// Mise en valeur du tableau technique (Module H6)
+// 5. TABLEAU TECHNIQUE (Optimisé pleine largeur)
 table {
   display: table !important;
   width: 100% !important;
   font-size: 18px !important;
   margin: 35px 0 !important;
   border-collapse: collapse !important;
-  background-color: #161b22 !important; // Gris foncé pour détacher le tableau du fond
+  background-color: #161b22 !important;
   border: 1px solid #30363d !important;
 
   th, td {
@@ -51,18 +63,30 @@ table {
   }
   th {
     background-color: #21262d !important;
-    color: #f2cc60 !important;         // Titres du tableau en jaune
+    color: #f2cc60 !important;
   }
 }
 
-// Encadré de l'avertissement final (Disclaimer)
+// 6. AVERTISSEMENT FINAL (Disclaimer)
 blockquote {
   padding: 20px !important;
-  color: #8b949e !important;           // Gris clair pour le ton juridique
-  border-left: 4px solid #f2cc60 !important; // Ligne jaune à gauche
-  background-color: #161b22 !important; // Fond de bloc gris foncé
+  border-left: 4px solid #f2cc60 !important;
+  background-color: #161b22 !important;
   font-style: italic !important;
   margin: 35px 0 !important;
+  p { text-align: justify !important; color: #8b949e !important; }
+}
+
+// 7. RELÉGATION DES MENTIONS DE CRÉDIT TOUT EN BAS DE LA PAGE
+footer, .site-footer {
+  display: block !important;
+  margin-top: 60px !important;
+  padding-top: 20px !important;
+  border-top: 1px solid #30363d !important;
+  font-size: 13px !important;
+  color: #8b949e !important;
+  text-align: center !important;
   
-  p { color: #8b949e !important; }
+  // Force l'apparition discrète en bas si le thème les y place
+  span, a { color: #8b949e !important; font-size: 13px !important; }
 }
