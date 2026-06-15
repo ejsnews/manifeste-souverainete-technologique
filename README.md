@@ -4,7 +4,7 @@
 
 📥 **[Télécharger le manifeste de souveraineté technologique (au format PDF)](manifeste_souverainete_technologique_v3.pdf)**
 
-📥 **[Consulter la présentation stratégique (Kit de Plaidoyer)](kit-plaidoyer.pdf)**
+📥 **[Consulter la présentation stratégique (Kit de Plaidoyer au format PDF)]([kit-plaidoyer.pdf](Kit%20de%20Plaidoyer%20_%20Souverainet%C3%A9%20Technologique.pdf))**
 
 📥 **[Consulter le résumé exécutif de la souveraineté énergétique & résilience industrielle](EXECUTIVE_SUMMARY.md)**
 
