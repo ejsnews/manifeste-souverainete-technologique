@@ -34,6 +34,8 @@ Dans ce contexte de tension absolue, la technologie de thermolyse décentralisé
 
 Elle offre enfin une mission vertueuse à la révolution robotique : plutôt que de saturer les réseaux, les systèmes automatisés et les robots de demain doivent être mis au service de la dépollution active de la planète — notamment en collectant et en triant nos millions de tonnes de déchets plastiques et organiques pour alimenter ces modules de transformation.
 
+![Architecture en cascade de la thermolyse](architecture-cascade.png)
+
 ### Caractéristiques techniques fondamentales (Module standard H6)
 
 | Paramètre | Valeur standard spécifiée |
