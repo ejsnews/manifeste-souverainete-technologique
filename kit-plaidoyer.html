@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kit de plaidoyer : souveraineté technologique</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        /* Configuration générale du deck professionnel */
+        * { box-sizing: border-box; }
+        body { background-color: #0d1117; display: grid; gap: 40px; margin: 0; padding: 40px 0; place-items: center; }
+
+        .slide-container {
+            align-items: flex-start;
+            background-color: #0a0c10;
+            border-radius: 12px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+            display: flex;
+            flex-direction: column;
+            font-family: 'Urbanist', sans-serif;
+            height: 720px;
+            justify-content: flex-start;
+            overflow: hidden;
+            padding: 50px 70px;
+            position: relative;
+            width: 1280px;
+            color: #f0f6fc;
+        }
+
+        /* Décorations de fond : effet bokeh et lignes or */
+        .slide-container::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: radial-gradient(circle at 90% 10%, rgba(242, 204, 96, 0.05) 0%, transparent 40%);
+            z-index: 0;
+        }
+
+        .slide-container::after {
+            content: '';
+            position: absolute;
+            bottom: 40px; left: 70px; right: 70px;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, #f2cc60, transparent);
+            opacity: 0.3;
+            z-index: 0;
+        }
+
+        .slide-container > * { position: relative; z-index: 1; }
+
+        /* Typographie et titres (Règle FR stricte appliquée) */
+        h1, h2, h3 { color: #f2cc60; margin: 0; font-weight: 700; line-height: 1.2; text-transform: none; }
+        h1 { font-size: 64px; letter-spacing: -1px; }
+        .slide-title { font-size: 44px; margin-bottom: 40px; border-left: 5px solid #f2cc60; padding-left: 20px; text-align: left; width: 100%; }
+        p, li, td, th { font-size: 20px; color: #c9d1d9; line-height: 1.6; }
+
+        .content-area { flex-grow: 1; width: 100%; display: flex; flex-direction: column; justify-content: center; }
+
+        /* Mises en page spécifiques */
+        .title-layout { text-align: center; width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; }
+        .title-layout .subtitle { font-size: 28px; margin-top: 30px; color: #8b949e; max-width: 800px; }
+
+        .two-column { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; width: 100%; }
+        
+        .tiled-content { display: flex; gap: 30px; width: 100%; }
+        .tile { flex: 1; background: #161b22; padding: 40px; border-radius: 16px; border: 1px solid #30363d; transition: border-color 0.3s; }
+        .tile:hover { border-color: #f2cc60; }
+        .tile .icon { font-size: 48px; color: #f2cc60; margin-bottom: 25px; }
+        .tile h3 { font-size: 24px; margin-bottom: 15px; color: #fff; }
+
+        /* Infographie (Layout spécifique) */
+        .infographic-flow { display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 20px 0; }
+        .flow-step { flex: 1; background: #161b22; padding: 30px; border-radius: 12px; text-align: center; border: 2px solid #30363d; position: relative; }
+        .flow-step.active { border-color: #f2cc60; background: rgba(242, 204, 96, 0.05); }
+        .flow-arrow { font-size: 32px; color: #f2cc60; padding: 0 15px; }
+
+        /* Tableaux */
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th { background: #161b22; color: #f2cc60; text-align: left; padding: 15px; border-bottom: 2px solid #30363d; font-weight: 600; text-transform: none; }
+        td { padding: 15px; border-bottom: 1px solid #30363d; }
+        tr.highlight { background: rgba(242, 204, 96, 0.05); font-weight: 700; }
+
+        /* Numéros mis en avant */
+        .highlight-numbers { display: flex; justify-content: space-around; width: 100%; margin-top: 50px; }
+        .stat-item { text-align: center; }
+        .stat-number { font-size: 100px; font-weight: 700; color: #f2cc60; line-height: 1; }
+        .stat-label { font-size: 22px; color: #8b949e; margin-top: 10px; }
+
+        .bullet-title { font-weight: bold; color: #fff; }
+    </style>
+</head>
+<body>
+
+<div class="slide-container" id="slide1">
+    <div class="title-layout">
+        <h1>Manifeste pour la souveraineté technologique</h1>
+        <p class="subtitle">Note stratégique indépendante et kit de plaidoyer pour une autonomie énergétique, sanitaire et agricole.</p>
+        <div style="margin-top: 40px; color: #f2cc60; font-size: 24px; font-weight: 600;">
+            <i class="fa-solid fa-file-pdf"></i> Document disponible au format PDF
+        </div>
+    </div>
+</div>
+
+<div class="slide-container" id="slide2">
+    <h2 class="slide-title">Executive summary : les verrous</h2>
+    <div class="content-area">
+        <div class="tiled-content">
+            <div class="tile">
+                <div class="icon"><i class="fa-solid fa-triangle-exclamation"></i></div>
+                <h3>Risque thermodynamique</h3>
+                <p>L'électrolyse lourde entre en compétition directe avec l'IA et l'électrification globale. Elle dissipe une chaleur anthropique sans puits de carbone.</p>
+            </div>
+            <div class="tile">
+                <div class="icon"><i class="fa-solid fa-atom"></i></div>
+                <h3>Illusion des solutions</h3>
+                <p>Le nucléaire et l'hydrogène blanc injectent de l'énergie thermique dans un système saturé en CO₂ sans offrir de retrait carbone. La serre reste verrouillée.</p>
+            </div>
+            <div class="tile">
+                <div class="icon"><i class="fa-solid fa-shield-virus"></i></div>
+                <h3>Prédation financière</h3>
+                <p>Les PME de rupture sont asphyxiées par le short-selling et les financements dilutifs (OCEANE/BSA) avant leur déploiement industriel.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="slide-container" id="slide3">
+    <h2 class="slide-title">La rupture : la thermolyse de biomasse en cascade</h2>
+    <div class="content-area">
+        <div class="two-column">
+            <div>
+                <p>Une technologie française mature, nécessitant peu de capitaux d'amorçage par rapport aux modèles centralisés, immédiatement industrialisable et offrant un retour sur investissement extrêmement rapide.</p>
+                <p>L'objectif consiste à substituer les hydrocarbures fossiles par des vecteurs verts capturant massivement le CO₂ via les résidus organiques locaux.</p>
+            </div>
+            <div style="background: #161b22; padding: 30px; border-radius: 12px; border: 1px solid #30363d;">
+                <ul style="list-style: none; padding: 0; margin: 0;">
+                    <li style="margin-bottom: 20px;"><i class="fa-solid fa-check-circle" style="color:#f2cc60; margin-right: 10px;"></i> <span class="bullet-title">Architecture modulaire :</span> couplage thermique S-iC / C-iC.</li>
+                    <li style="margin-bottom: 20px;"><i class="fa-solid fa-check-circle" style="color:#f2cc60; margin-right: 10px;"></i> <span class="bullet-title">Compétitivité brute :</span> coût cible inférieur à 2,00 € / kg d'hydrogène.</li>
+                    <li style="margin-bottom: 0;"><i class="fa-solid fa-check-circle" style="color:#f2cc60; margin-right: 10px;"></i> <span class="bullet-title">Bilan carbone :</span> émissions nativement négatives.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="slide-container" id="slide4">
+    <h2 class="slide-title">Infographie : architecture en cascade</h2>
+    <div class="content-area">
+        <div class="infographic-flow">
+            <div class="flow-step">
+                <i class="fa-solid fa-leaf" style="font-size: 40px; color:#f2cc60; margin-bottom:15px;"></i>
+                <h4 style="margin:0; font-size: 20px; color: #fff;">Intrants locaux</h4>
+                <p style="font-size:15px; margin: 5px 0 0 0;">Déchets organiques et résidus agricoles</p>
+            </div>
+            <div class="flow-arrow"><i class="fa-solid fa-chevron-right"></i></div>
+            <div class="flow-step active">
+                <i class="fa-solid fa-gears" style="font-size: 40px; color:#f2cc60; margin-bottom:15px;"></i>
+                <h4 style="margin:0; font-size: 20px; color: #fff;">Cascade thermique</h4>
+                <p style="font-size:15px; margin: 5px 0 0 0;">Modules S-iC / C-iC avec craquage des coproduits</p>
+            </div>
+            <div class="flow-arrow"><i class="fa-solid fa-chevron-right"></i></div>
+            <div class="flow-step">
+                <i class="fa-solid fa-bolt" style="font-size: 40px; color:#f2cc60; margin-bottom:15px;"></i>
+                <h4 style="margin:0; font-size: 20px; color: #fff;">Vecteurs propres</h4>
+                <p style="font-size:15px; margin: 5px 0 0 0;">Hydrogène pur, SAF et syngas industriel</p>
+            </div>
+            <div class="flow-arrow"><i class="fa-solid fa-plus"></i></div>
+            <div class="flow-step">
+                <i class="fa-solid fa-cloud-arrow-down" style="font-size: 40px; color:#f2cc60; margin-bottom:15px;"></i>
+                <h4 style="margin:0; font-size: 20px; color: #fff;">Puits de carbone</h4>
+                <p style="font-size:15px; margin: 5px 0 0 0;">Biochar solide de haute pureté séquestré</p>
+            </div>
+        </div>
+        <p style="text-align: center; margin-top: 40px; font-style: italic; color: #8b949e;">"Une alternative physique à l'électrolyse : refroidir l'atmosphère par le stockage solide du carbone."</p>
+    </div>
+</div>
+
+<div class="slide-container" id="slide5">
+    <h2 class="slide-title">Performance globale spécifiée</h2>
+    <div class="content-area">
+        <table>
+            <thead>
+                <tr>
+                    <th>Indicateur clé</th>
+                    <th>Valeur et caractéristique technique</th>
+                    <th>Impact sur la souveraineté</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><span class="bullet-title">Flexibilité des intrants</span></td>
+                    <td>Biomasse, déchets, résidus (humidité tolérée)</td>
+                    <td>Indépendance totale vis-à-vis des réseaux centralisés</td>
+                </tr>
+                <tr>
+                    <td><span class="bullet-title">Rendement énergétique</span></td>
+                    <td>Optimisé entre 75 % et 80 %</td>
+                    <td>Efficacité maximale sans gaspillage thermique anthropique</td>
+                </tr>
+                <tr>
+                    <td><span class="bullet-title">Coût de production</span></td>
+                    <td>Entre 0,00 € et moins de 2,00 € / kg d'hydrogène</td>
+                    <td>Compétitivité immédiate face aux énergies fossiles</td>
+                </tr>
+                <tr>
+                    <td><span class="bullet-title">Agilité de déploiement</span></td>
+                    <td><strong>2 à 3 semaines pour la pose sur bitume</strong></td>
+                    <td>Déploiement immédiat sans chantiers lourds de génie civil</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="slide-container" id="slide6">
+    <h2 class="slide-title">L'agilité industrielle : le levier bitume</h2>
+    <div class="content-area">
+        <div class="two-column">
+            <div>
+                <p>Contrairement aux projets centralisés exigeant des permis de construire complexes et des infrastructures fixes, ces modules redéfinissent l'agilité de terrain :</p>
+                <ul style="list-style: none; padding: 0; margin-top: 25px;">
+                    <li style="margin-bottom: 20px;"><i class="fa-solid fa-clock-rotate-left" style="color:#f2cc60; margin-right: 10px;"></i> <strong>Déploiement en 15 jours :</strong> installation directe sur bitume.</li>
+                    <li style="margin-bottom: 20px;"><i class="fa-solid fa-truck-ramp-box" style="color:#f2cc60; margin-right: 10px;"></i> <strong>Mobilité totale :</strong> modules déplaçables à tout moment selon les gisements.</li>
+                    <li style="margin-bottom: 0;"><i class="fa-solid fa-hand-holding-dollar" style="color:#f2cc60; margin-right: 10px;"></i> <strong>Retour sur investissement :</strong> rentabilité d'exploitation immédiate.</li>
+                </ul>
+            </div>
+            <div class="highlight-numbers">
+                <div class="stat-item">
+                    <div class="stat-number">0</div>
+                    <div class="stat-label">Fondation requise</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">21</div>
+                    <div class="stat-label">Jours pour la mise en service</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="slide-container" id="slide7">
+    <h2 class="slide-title">Mobilité : BMW iX5 (hydrogène Haffner vs essence)</h2>
+    <div class="content-area">
+        <table>
+            <thead>
+                <tr>
+                    <th>Paramètre d'exploitation</th>
+                    <th>Véhicule essence standard</th>
+                    <th>BMW iX5 (hydrogène comprimé Haffner)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><span class="bullet-title">Consommation moyenne aux 100 km</span></td>
+                    <td>~6,5 litres</td>
+                    <td><strong>~0,93 kg d'hydrogène</strong></td>
+                </tr>
+                <tr>
+                    <td><span class="bullet-title">Prix moyen du carburant</span></td>
+                    <td>~1,70 € / litre</td>
+                    <td><strong>1,50 € / kg</strong> (en station de distribution)</td>
+                </tr>
+                <tr class="highlight">
+                    <td><span class="bullet-title">Coût réel aux 100 km</span></td>
+                    <td>~10,00 €</td>
+                    <td><strong>~1,40 €</strong></td>
+                </tr>
+                <tr>
+                    <td><span class="bullet-title">Avantage économique direct</span></td>
+                    <td>Référence</td>
+                    <td><strong>Facture de carburant divisée par 7</strong></td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="margin-top: 20px; font-size: 16px; color: #8b949e;">Analyse basée sur une autonomie de 750 km pour 7 kg d'hydrogène comprimé. Modèle économique soutenu par le biochar.</p>
+    </div>
+</div>
+
+<div class="slide-container" id="slide8">
+    <h2 class="slide-title">Le bouclier financier anti-dilution</h2>
+    <div class="content-area">
+        <div class="two-column">
+            <div>
+                <h3>Sanctuaire du capital</h3>
+                <p>Il est crucial de protéger les investisseurs français logés dans les dispositifs PEA-PME contre la prédation financière organisée.</p>
+                <p>Les attaques spéculatives à découvert bloquent la capacité d'accès au crédit bancaire classique au moment clé de l'industrialisation.</p>
+            </div>
+            <div>
+                <ul style="list-style: none; padding: 0; margin: 0;">
+                    <li style="background: #161b22; padding: 20px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #30363d;">
+                        <i class="fa-solid fa-ban" style="color: #f2cc60; margin-right: 10px;"></i> <strong>Interdire les mécanismes toxiques :</strong> arrêt des financements de type OCEANE ou BSA.
+                    </li>
+                    <li style="background: #161b22; padding: 20px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #30363d;">
+                        <i class="fa-solid fa-vault" style="color: #f2cc60; margin-right: 10px;"></i> <strong>Fonds de souveraineté :</strong> créer un outil de garantie du capital des pépites greenTech cotées.
+                    </li>
+                    <li style="background: #161b22; padding: 20px; border-radius: 8px; border: 1px solid #30363d;">
+                        <i class="fa-solid fa-chart-line-down" style="color: #f2cc60; margin-right: 10px;"></i> <strong>Encadrement du short-selling :</strong> stopper la spéculation abusive sur les technologies stratégiques.
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="slide-container" id="slide9">
+    <h2 class="slide-title">Objectif : fast-track réglementaire</h2>
+    <div class="content-area">
+        <div class="tiled-content" style="align-items: center;">
+            <div style="flex: 1.5;">
+                <p style="font-size: 24px; color: #f2cc60;">Réduire à moins de 3 mois les instructions administratives pour les modules mobiles stratégiques.</p>
+                <p style="margin-top: 20px;">L'inertie réglementaire actuelle (18 à 24 mois) paralyse l'innovation de terrain. Le déploiement rapide à proximité immédiate des infrastructures critiques doit devenir une priorité publique :</p>
+                <ul style="margin-top: 15px;">
+                    <li>Hôpitaux et centres de santé publics</li>
+                    <li>Hubs logistiques et réseaux de transport lourd</li>
+                    <li>Coopératives agricoles (synergie biochar et carburants de synthèse)</li>
+                </ul>
+            </div>
+            <div class="tile" style="flex: 1; border-color: #f2cc60;">
+                <div class="icon"><i class="fa-solid fa-bolt-lightning"></i></div>
+                <h3>Urgence d'action</h3>
+                <p>Permettre aux élus locaux d'intégrer des technologies comme celles développées par Haffner Energy pour reprendre le contrôle de leur politique énergétique en quelques semaines.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="slide-container" id="slide10">
+    <div class="title-layout">
+        <h2 style="font-size: 56px;">Le choix de l'histoire</h2>
+        <p style="font-size: 24px; margin-top: 30px; text-align: center; max-width: 900px;">La France possède l'ingénierie et les ressources nécessaires pour mener cette renaissance industrielle et thermique décentralisée.</p>
+        <p style="margin-top: 40px; font-weight: 700; color: #f2cc60; font-size: 26px;">L'avenir sera autonome, décarboné et souverain, ou il ne sera pas.</p>
+    </div>
+</div>
+
+<div class="slide-container" id="slide11">
+    <div class="title-layout">
+        <h2>Documentation et diffusion</h2>
+        <p class="subtitle" style="margin-top: 10px;">Le manifeste complet ainsi que le kit de plaidoyer sont accessibles publiquement</p>
+        <div style="margin-top: 50px; display: flex; gap: 60px;">
+            <div style="text-align: center;">
+                <div class="icon" style="font-size: 50px; color: #f2cc60; margin-bottom: 10px;"><i class="fa-brands fa-github"></i></div>
+                <p style="font-size: 16px; margin: 0;">ejsnews.github.io</p>
+            </div>
+            <div style="text-align: center;">
+                <div class="icon" style="font-size: 50px; color: #f2cc60; margin-bottom: 10px;"><i class="fa-brands fa-x-twitter"></i></div>
+                <p style="font-size: 16px; margin: 0;">@SouveraineteTech</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
