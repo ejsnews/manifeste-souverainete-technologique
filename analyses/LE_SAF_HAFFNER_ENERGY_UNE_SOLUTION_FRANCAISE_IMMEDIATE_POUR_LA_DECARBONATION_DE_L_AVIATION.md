@@ -1,6 +1,6 @@
 # LE SAF HAFFNER ENERGY : UNE SOLUTION FRANÇAISE IMMÉDIATE POUR LA DÉCARBONATION DE L'AVIATION
 
-📥 **[Consulter le Manifeste pour la souveraineté et la résilience technologique](/README.md)**
+📥 **[Consulter le Manifeste pour la souveraineté et la résilience technologique](/manifeste-souverainete-technologique/)**
 
 ---
 
