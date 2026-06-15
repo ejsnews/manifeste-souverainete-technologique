@@ -19,6 +19,8 @@ Cette technologie permet de substituer les hydrocarbures fossiles par des vecteu
 * **Bilan émissions négatives :** Co-production de biochar solide de haute pureté. Ce coproduit séquestre durablement le carbone biogénique dans le sol, transformant l'unité industrielle en un puits de carbone actif.
 * **Rentabilité sans subvention :** Le coût net de l'hydrogène cible est estimé entre 0,00 € / kg et moins de 2,00 € / kg selon le coût d'opportunité de la biomasse, rendu possible par la valorisation conjointe de l'énergie et des crédits carbone associés au biochar.
 
+![Architecture en cascade de la thermolyse](architecture-cascade.png)
+
 ---
 
 ### Objectifs stratégiques du plaidoyer
