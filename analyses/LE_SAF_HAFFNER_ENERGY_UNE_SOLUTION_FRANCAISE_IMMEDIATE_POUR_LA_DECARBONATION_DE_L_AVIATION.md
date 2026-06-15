@@ -1,5 +1,7 @@
 # LE SAF HAFFNER ENERGY : UNE SOLUTION FRANÇAISE IMMÉDIATE POUR LA DÉCARBONATION DE L'AVIATION
 
+📥 **[Consulter le Manifeste pour la souveraineté et la résilience technologique](README.md)**
+
 ---
 
 Note technique et économique — EJS
@@ -30,6 +32,7 @@ Un second module (H4/S-iC), actuellement en développement, est destiné à dém
 
 Au-delà du seul prix, SAFNOCA présente un faisceau d'avantages cumulés pour un acquéreur (compagnie aérienne, aéroport, ou industriel cherchant à sécuriser un approvisionnement SAF) : un carburant déjà proche du prix du fossile sans les subventions nécessaires à l'e-SAF, un crédit carbone biochar valorisable indépendamment, une installation modulaire (2-5 MW), sans fondation, opérationnelle en moins d'un mois, et une indépendance vis-à-vis des marchés mondiaux du carburant et de l'électricité.
 
+---
 
 ## 5. Conclusion
 
