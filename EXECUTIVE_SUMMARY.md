@@ -10,18 +10,18 @@ L'infrastructure énergétique et industrielle fait face à deux verrous majeurs
 3. **La prédation financière des innovations :** Les PME technologiques de rupture cotées (PEA-PME) subissent une spéculation à découvert agressive (short-selling) via des financements dilutifs (OCEANE/BSA), détruisant leur capacité industrielle avant même leur déploiement.
 
 ### La solution : La thermolyse de biomasse décentralisée en cascade
-L'alternative repose sur une rupture technologique française, mature et immédiatement industrialisable : la transformation thermique décentralisée de résidus organiques et de biomasses locales, combinée à une architecture de couplage thermique en cascade.
+L'alternative repose sur une rupture technologique française, mature, nécessitant peu de moyens financiers, immédiatement industrialisable et rentable (retour sur investissement en un trimestre) consistant à remplacer le pétrole par un hydrogène vert capturant massivement le CO₂ : la transformation thermique décentralisée de résidus organiques et de biomasses locales, combinée à une architecture de couplage thermique en cascade. Cette technologie permettant avec son Syngas de produire toutes sortes de dérivés du pétrole.
 
 #### Principes fondamentaux & performance globale
 * **Flexibilité multi-intrants :** Valorisation des gisements locaux de biomasse résiduelle et de déchets organiques, avec une tolérance thermique accrue à l'humidité et à la variabilité des matières.
 * **Vecteurs énergétiques flexibles :** Génération à très haut rendement de gaz de synthèse (Syngas) local hautement compétitif (estimé à ~0,035 € / kWh), d'hydrogène vert haute pureté (99,97%) ou de carburants de synthèse (e-SAF) pour l'aviation.
 * **Bilan émissions négatives :** Co-production de biochar solide de haute pureté. Ce coproduit séquestre durablement le carbone biogénique dans le sol, transformant l'unité industrielle en un puits de carbone actif.
-* **Rentabilité sans subvention :** Un coût net de l'hydrogène cible estimé à moins de 2,00 € / kg à terme grâce à la valorisation conjointe de l'énergie et des crédits carbone associés au biochar.
+* **Rentabilité sans subvention :** Un coût net de l'hydrogène cible est estimé entre 0,00 € / kg et moins de 2,00 € / kg selon la biomasse à terme grâce à la valorisation conjointe de l'énergie et des crédits carbone associés au biochar.
 
 ---
 
 ### Objectifs stratégiques du plaidoyer
 
 1. **Bouclier financier :** Instaurer un Fonds anti-dilution de souveraineté pour interdire les mécanismes de financement toxiques et sanctuariser le capital de nos pépites énergétiques cotées.
-2. **Fast-track réglementaire :** Réduire à moins de 3 mois les instructions administratives et d'urbanisme (ICPE) pour le déploiement de modules décentralisés à proximité des infrastructures critiques (hôpitaux, hubs logistiques, coopératives).
+2. **Concernant Haffner Energy, Fast-track réglementaire :** Réduire à moins de 3 mois les instructions administratives et d'urbanisme (ICPE) pour le déploiement de modules décentralisés à proximité des infrastructures critiques (hôpitaux, hubs logistiques, coopératives).
 3. **Dynamique territoriale :** Permettre aux élus locaux et aux zones industrielles de reprendre le contrôle de leur politique de déchets et de leur facture énergétique, indépendamment des réseaux centralisés.
