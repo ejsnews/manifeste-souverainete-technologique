@@ -1,4 +1,4 @@
-# THERMOLYSE DÉCENTRALISÉE HAFFNER ENERGY : L'INDÉPENDANCE ÉNERGÉTIQUE À PORTÉE DE CHAQUE TERRITOIRE [(English version - EN)](RURAL_ELECTED_AUTHORITIES.md)
+# THERMOLYSE DÉCENTRALISÉE HAFFNER ENERGY : L'INDÉPENDANCE ÉNERGÉTIQUE À PORTÉE DE CHAQUE TERRITOIRE [(English version - EN)](HYDROGEN_INDEPENDENCE_WITHIN_REACH_OF_EVERY_TERRITORY_LOCAL_AUTHORITIES_RURAL_ELECTED_AUTHORITIES.md)
 
 📥 [Consulter le Manifeste pour la souveraineté et la résilience technologique](../README.md)
 
@@ -33,7 +33,7 @@ du réseau.
 
 Caractéristiques clés du module H6 (données publiques) :
 
-- **Puissance** : 2 à 5 MW thermochimiques
+  - **Puissance** : 2 à 5 MW thermochimiques
 - **Production** : 60 kg H₂/h en continu
 - **Intrants** : ~1 tonne de biomasse brute/heure 
   (140 types testés avec succès)
