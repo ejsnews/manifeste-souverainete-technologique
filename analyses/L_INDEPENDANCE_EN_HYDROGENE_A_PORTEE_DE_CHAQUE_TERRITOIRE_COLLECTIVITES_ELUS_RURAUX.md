@@ -33,7 +33,7 @@ du réseau.
 
 Caractéristiques clés du module H6 (données publiques) :
 
-  - **Puissance** : 2 à 5 MW thermochimiques
+- **Puissance** : 2 à 5 MW thermochimiques
 - **Production** : 60 kg H₂/h en continu
 - **Intrants** : ~1 tonne de biomasse brute/heure 
   (140 types testés avec succès)
