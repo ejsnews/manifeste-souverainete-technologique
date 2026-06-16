@@ -1,6 +1,6 @@
 # HAFFNER ENERGY: FRANCE IS LETTING ITS ENERGY REVOLUTION GO ABROAD [(French version - FR)](REVOLUTION_ENERGETIQUE_ET_ABANDON_DE_SOUVERAINETE_NATIONALE.md)
 
-📥 **[Consult the Manifesto for Technological Sovereignty and Resilience](../README.md)**
+📥 [Consult the Manifesto for Technological Sovereignty and Resilience](../README.md)
 
 ---
 Independent Strategic Note — EJS — June 2026
