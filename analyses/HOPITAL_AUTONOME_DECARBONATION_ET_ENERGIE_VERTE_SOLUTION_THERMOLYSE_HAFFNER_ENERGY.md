@@ -1,6 +1,6 @@
 # HÔPITAL AUTONOME ET CIRCULAIRE : LA THERMOLYSE HAFFNER ENERGY AU SERVICE DE LA RÉSILIENCE SANITAIRE [(English version - EN)](AUTOMATED_HOSPITAL_DECARBONIZATION_AND_GREEN_ENERGY_THERMOLYSIS_SOLUTION_HAFFNER_ENERGY.md)
 
-📥 **[Consulter le Manifeste pour la souveraineté et la résilience technologique](../README.md)**
+📥 [Consulter le Manifeste pour la souveraineté et la résilience technologique](../README.md)
 
 Note stratégique et économique — EJS
 
