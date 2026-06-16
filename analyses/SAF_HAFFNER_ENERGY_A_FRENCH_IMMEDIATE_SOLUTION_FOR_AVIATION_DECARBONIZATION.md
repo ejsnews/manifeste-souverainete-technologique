@@ -1,7 +1,7 @@
 # SAF HAFFNER ENERGY: AN IMMEDIATE SOLUTION FOR THE DECARBONIZATION OF AVIATION [(French version - FR)](LE_SAF_HAFFNER_ENERGY_UNE_SOLUTION_FRANCAISE_IMMEDIATE_POUR_LA_DECARBONATION_DE_L_AVIATION.md)
 
 
-📥 **[Consult the Manifesto for technological sovereignty and resilience (FR)](../README.md)**
+📥 [Consult the Manifesto for technological sovereignty and resilience (FR)](../README.md)
 
 ---
 Technical and Economic Note — EJS
