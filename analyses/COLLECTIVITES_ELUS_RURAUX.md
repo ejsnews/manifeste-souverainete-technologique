@@ -1,6 +1,6 @@
 # THERMOLYSE DÉCENTRALISÉE HAFFNER ENERGY : L'INDÉPENDANCE ÉNERGÉTIQUE À PORTÉE DE CHAQUE TERRITOIRE [(English version - EN)](RURAL_ELECTED_AUTHORITIES.md)
 
-📥 [Consulter le Manifeste pour la souveraineté et la résilience technologique](https://ejsnews.github.io/manifeste-souverainete-technologique/)
+📥 [Consulter le Manifeste pour la souveraineté et la résilience technologique](../README.md)
 
 Note stratégique et économique — EJS
 
