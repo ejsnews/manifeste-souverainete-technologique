@@ -1,12 +1,12 @@
-# SAF HAFFNER ENERGY: A FRENCH IMMEDIATE SOLUTION FOR THE DECARBONIZATION OF AVIATION [(French version - FR)](LE_SAF_HAFFNER_ENERGY_UNE_SOLUTION_FRANCAISE_IMMEDIATE_POUR_LA_DECARBONATION_DE_L_AVIATION.md)
+# SAF HAFFNER ENERGY: AN IMMEDIATE SOLUTION FOR THE DECARBONIZATION OF AVIATION [(French version - FR)](LE_SAF_HAFFNER_ENERGY_UNE_SOLUTION_FRANCAISE_IMMEDIATE_POUR_LA_DECARBONATION_DE_L_AVIATION.md)
 
 
-📥 **[Consult the french Manifesto for technological sovereignty and resilience](../README.md)**
+📥 **[Consult the Manifesto for technological sovereignty and resilience (FR)](../README.md)**
 
 ---
 Technical and Economic Note — EJS
 
-## 1. A French Delay to Overcome
+## 1. A Delay to Overcome
 
 The European ReFuelEU Aviation regulation requires a steadily increasing incorporation of sustainable aviation fuels (SAF): 2% in 2025, 6% in 2030, 32% in 2040, and 63% in 2050 — representing an eightfold increase in demand between 2030 and 2050. However, during a roundtable organized by the FNAM, French air transport stakeholders themselves highlighted France’s lag compared to other countries, particularly the United States.
 
