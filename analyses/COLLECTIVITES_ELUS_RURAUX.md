@@ -22,8 +22,7 @@ faible résilience en cas de coupure ou de crise logistique.
 
 ---
 
-## 2. La solution : un module Haffner Energy posé en 3 semaines, 
-## sans fondation
+## 2. La solution : un module Haffner Energy posé en 3 semaines, sans fondation
 
 La technologie de thermolyse sèche développée par Haffner Energy 
 (module C-iC H6) transforme la biomasse résiduelle locale — pailles, 
@@ -86,8 +85,7 @@ gratuits ou contribuer au remboursement des équipements.
 
 ---
 
-## 4. Souveraineté alimentaire et agricole : les coopératives 
-## au cœur du dispositif
+## 4. Souveraineté alimentaire et agricole : les coopératives au cœur du dispositif
 
 Les coopératives agricoles constituent un partenaire naturel 
 pour le déploiement territorial des modules Haffner Energy. 
