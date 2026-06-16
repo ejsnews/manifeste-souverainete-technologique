@@ -1,6 +1,7 @@
 # HAFFNER ENERGY : LA FRANCE LAISSE PARTIR SA RÉVOLUTION ÉNERGÉTIQUE À L'ÉTRANGER [(English version - EN)](ENERGY_REVOLUTION_AND_ABANDONMENT_OF_NATIONAL_SOVEREIGNTY.md)
 
 📥 [Consulter le Manifeste pour la souveraineté et la résilience technologique](../README.md)
+
 ---
 
 Note stratégique indépendante — EJS — Juin 2026
