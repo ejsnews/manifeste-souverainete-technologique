@@ -34,6 +34,12 @@ p, li {
   color: #f0f6fc !important;
 }
 
+ul, ol, li {
+    padding-left: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 // 3. NETTOYAGE RADICAL DU HAUT DE PAGE (Masquage des textes redondants demandés)
 header, .page-header {
   h1 { display: none !important; } // Masque "manifeste-souverainete-technologique" redondant
