@@ -10,12 +10,7 @@
 
 ## Introduction : l'énergie, un choix de civilisation
 
-Choisir une source d'énergie, ce n'est pas seulement 
-choisir un prix au kilowattheure. C'est choisir 
-un niveau de dépendance géopolitique, une empreinte 
-sur les sols et l'atmosphère, une capacité de résilience 
-en cas de crise, et une trajectoire pour les générations 
-suivantes.
+Face à la capitulation des États-Unis face à l'Iran, le choix d'une source d'énergie ne se résume pas à choisir un prix par kilowattheure. C'est choisir un niveau de dépendance géopolitique, une empreinte sur les sols et l'atmosphère, une capacité de résilience en cas de crise, et une trajectoire pour les générations suivantes.
 
 Le tableau ci-dessous compare l'ensemble des sources 
 d'énergie disponibles ou en développement selon 
