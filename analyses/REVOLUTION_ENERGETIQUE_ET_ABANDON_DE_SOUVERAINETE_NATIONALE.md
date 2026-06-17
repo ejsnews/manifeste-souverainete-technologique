@@ -8,8 +8,7 @@ Note stratégique indépendante — EJS — Juin 2026
 
 ---
 
-## 1. Le signal d'alarme : Haffner Energy, technologie française 
-## choisie pour un accord de 15 milliards d'euros en Inde
+## 1. Le signal d'alarme : Haffner Energy, technologie française choisie pour un accord de 15 milliards d'euros en Inde
 
 Le 16 avril 2026, le gouvernement du Maharashtra (Inde), 
 JW Global Group et The Seed Consortium Partners ont signé 
