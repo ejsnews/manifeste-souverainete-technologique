@@ -8,7 +8,7 @@
 ---
 ## Introduction: Energy, a Civilizational Choice
 
-Choosing an energy source is not just about choosing a price per kilowatt-hour. It means choosing a level of geopolitical dependence, an impact on soils and the atmosphere, a capacity for resilience in times of crisis, and a trajectory for future generations.
+Faced with the US capitulation to Iran, choosing an energy source is not just about choosing a price per kilowatt-hour. It means choosing a level of geopolitical dependence, an impact on soils and the atmosphere, a capacity for resilience in times of crisis, and a trajectory for future generations.
 
 The table below compares all available or developing energy sources according to nine objective criteria, in the French and European context of 2026. This is not an ideological plea: the numbers speak for themselves.
 
@@ -19,6 +19,8 @@ One technology stands out from all the others by its ability to simultaneously s
 
 | Energy Source                  | Sovereignty     | Non-Carbonized | Decarbonizes | Air Pol. | Soil Pol.     | CO₂   | Price (€/kWh) | CAPEX (€/kW) |
 |--------------------------------|-----------------|----------------|--------------|----------|---------------|-------|---------------|--------------|
+| **Haffner H6/C-iC + biochar**  | **🟢 None**   | **✅**         | **✅**       | **🟢 None** | **🟢 Regenerates** | **🟢** | **< 0.060** | **1,000** |
+| **Haffner H4/S-iC + biochar (upcoming)** | **🟢 None** | **✅**     | **✅**       | **🟢 None** | **🟢 Regenerates** | **🟢** | **< 0.030** | **In progress** |
 | Coal                           | 🔴 High        | ❌             | ❌           | 🔴 High | 🔴 High      | 🔴    | 0.11         | 3,000       |
 | Oil                            | 🔴 High        | ❌             | ❌           | 🔴 High | 🔴 High      | 🔴    | 0.20         | 1,200       |
 | Natural Gas (CCGT)             | 🔴 High        | ❌             | ❌           | 🟠 Medium| 🟠 Low      | 🔴    | 0.12         | 850         |
@@ -42,8 +44,6 @@ One technology stands out from all the others by its ability to simultaneously s
 | Biogas / Methanization         | 🟢 None       | ⚠️             | ❌           | 🟠 Low  | 🟢 None     | ⚠️    | 0.09         | 2,500       |
 | 1G Biofuels (rapeseed/maize)   | 🟢 None       | ⚠️             | ❌           | 🟠 Low  | 🟠 Inputs   | ⚠️    | 0.14         | 1,500       |
 | e-SAF (electrolysis + FT)      | 🟡 Low        | ✅             | ❌           | 🟢 None | 🟢 None     | 🟢    | 0.30         | 3,500       |
-| **Haffner H6/C-iC + biochar**  | **🟢 None**   | **✅**         | **✅**       | **🟢 None** | **🟢 Regenerates** | **🟢** | **< 0.060** | **1,000** |
-| **Haffner H4/S-iC + biochar (upcoming)** | **🟢 None** | **✅**     | **✅**       | **🟢 None** | **🟢 Regenerates** | **🟢** | **< 0.030** | **In progress** |
 
 ---
 ## Reading the Table
@@ -86,6 +86,7 @@ It is the only system that simultaneously combines:
 - Accessible CAPEX (€1,000/kW, financeable via leasing)
 - Rapid deployment (< 1 month, no civil engineering)
 - Soil regeneration (biochar as agricultural amendment)
+
 
 ### The H4/S-iC Module: Further Disruption Ahead
 
