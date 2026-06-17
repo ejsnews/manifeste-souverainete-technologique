@@ -34,6 +34,8 @@ Haffner Energy**.
 
 | Source d'Énergie | Souveraineté | Non-carbonisé | Décarbonise | Pol. Air | Pol. Sols | CO₂ | Prix (€/kWh) | CAPEX (€/kW) |
 |---|---|---|---|---|---|---|---|---|
+| **Haffner H6/C-iC biochar** | **🟢 Nul** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **< 0,060** | **1 000** |
+| **Haffner H4/S-iC biochar (à venir)** | **🟢 Nul** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **< 0,030** | **En cours** |
 | Charbon | 🔴 Élevée | ❌ | ❌ | 🔴 Élevée | 🔴 Élevée | 🔴 | 0,11 | 3 000 |
 | Pétrole | 🔴 Élevée | ❌ | ❌ | 🔴 Élevée | 🔴 Élevée | 🔴 | 0,20 | 1 200 |
 | Gaz Naturel (CCGT) | 🔴 Élevée | ❌ | ❌ | 🟠 Moyenne | 🟠 Faible | 🔴 | 0,12 | 850 |
@@ -57,8 +59,6 @@ Haffner Energy**.
 | Biogaz / Méthanisation | 🟢 Nul | ⚠️ | ❌ | 🟠 Faible | 🟢 Nulle | ⚠️ | 0,09 | 2 500 |
 | Biocarburants 1G (colza/maïs) | 🟢 Nul | ⚠️ | ❌ | 🟠 Faible | 🟠 Intrants | ⚠️ | 0,14 | 1 500 |
 | e-SAF (électrolyse + FT) | 🟡 Faible | ✅ | ❌ | 🟢 Nulle | 🟢 Nulle | 🟢 | 0,30 | 3 500 |
-| **Haffner H6/C-iC biochar** | **🟢 Nul** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **< 0,060** | **1 000** |
-| **Haffner H4/S-iC biochar (à venir)** | **🟢 Nul** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **< 0,030** | **En cours** |
 
 ---
 
@@ -163,6 +163,7 @@ simultanément :
   sans génie civil)
 - Régénération des sols (biochar 
   comme amendement agricole)
+
 
 ### Le module H4/S-iC : une rupture supplémentaire en préparation
 
