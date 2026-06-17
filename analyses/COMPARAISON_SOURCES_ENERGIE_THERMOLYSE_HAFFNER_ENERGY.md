@@ -58,9 +58,8 @@ Haffner Energy**.
 | Biogaz / Méthanisation | 🟢 Nul | ⚠️ | ❌ | 🟠 Faible | 🟢 Nulle | ⚠️ | 0,09 | 2 500 |
 | Biocarburants 1G (colza/maïs) | 🟢 Nul | ⚠️ | ❌ | 🟠 Faible | 🟠 Intrants | ⚠️ | 0,14 | 1 500 |
 | e-SAF (électrolyse + FT) | 🟡 Faible | ✅ | ❌ | 🟢 Nulle | 🟢 Nulle | 🟢 | 0,30 | 3 500 |
-| **Haffner H6 (C-iC)** | **🟢 Nul** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **< 0,060** | **1 000** |
-| **Haffner H6 net (+ biochar)** | **🟢 Nul** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **< 0,040** | **1 000** |
-| **Haffner H4/S-iC (à venir)** | **🟢 Nul** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **En cours** | **En cours** |
+| **Haffner H6/C-iC biochar** | **🟢 Nul** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **< 0,060** | **1 000** |
+| **Haffner H4/S-iC biochar (à venir)** | **🟢 Nul** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **< 0,030** | **En cours** |
 
 ---
 
