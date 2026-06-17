@@ -8,24 +8,39 @@ Note stratégique indépendante — EJS — Juin 2026
 
 ---
 
-## 1. Le signal d'alarme : 15 milliards d'euros partis en Inde
+## 1. Le signal d'alarme : Haffner Energy, technologie française 
+## choisie pour un accord de 15 milliards d'euros en Inde
 
-Le 16 avril 2026, le gouvernement du Maharashtra (Inde) 
-a signé avec Haffner Energy un accord-cadre de 15 milliards 
-d'euros portant sur quatre projets industriels majeurs, 
-dont une unité de production d'hydrogène vert de 280 M€ 
-produisant 6 900 tonnes par an via la technologie HYNOCA.
+Le 16 avril 2026, le gouvernement du Maharashtra (Inde), 
+JW Global Group et The Seed Consortium Partners ont signé 
+un protocole d'accord (MoU) portant sur environ 15 milliards 
+d'euros d'investissements répartis sur quatre projets 
+d'infrastructures et de technologies propres.
 
-Pendant ce temps, en France, aucune commande publique 
-d'envergure n'a été passée. Aucun fast-track réglementaire 
-n'a été instauré. Aucun bouclier financier n'a été déployé 
-pour protéger cette PME de rupture de la prédation 
-des marchés financiers.
+Haffner Energy y figure en qualité de **partenaire technologique** 
+pour l'hydrogène vert — deux des quatre projets reposent 
+sur ses technologies, dont une unité de production d'hydrogène 
+vert de 280 M€ produisant 6 900 tonnes par an via la technologie 
+SYNOCA®, et un campus IA/data center de 1,4 GW (10,4 Md€) 
+dont la résilience énergétique repose sur la biomasse locale 
+traitée par Haffner.
+
+Haffner Energy reste une entreprise française, basée à 
+Vitry-le-François. Ce MoU n'est pas une perte pour la France : 
+c'est la preuve que sa technologie est reconnue à l'échelle 
+internationale. C'est en revanche un révélateur brutal 
+du paradoxe français : pendant que l'Inde déploie 
+massivement cette technologie française, aucune commande 
+publique d'envergure n'a été passée en France. Aucun 
+fast-track réglementaire n'a été instauré. Aucun bouclier 
+financier n'a été déployé pour protéger cette PME 
+de la prédation des marchés financiers.
 
 C'est le schéma que la France répète depuis vingt ans : 
 elle finance la recherche, forme les ingénieurs, 
-brevet les technologies — puis laisse les autres nations, 
-plus pragmatiques, en capter les fruits industriels.
+brevète les technologies — puis laisse les autres nations, 
+plus pragmatiques, en capter les fruits industriels 
+en premier.
 
 ---
 
@@ -141,23 +156,13 @@ et non depuis l'Inde ou ailleurs.
 
 ## 5. Conclusion : le choix de l'histoire
 
-La France a inventé le TGV, le Concorde, 
-le réacteur nucléaire civil. Elle a failli 
-laisser partir Airbus. Elle a laissé partir 
-Alcatel, Thomson, Alstom Énergie.
+La France a inventé le TGV, le Concorde, le réacteur nucléaire civil. Elle a failli laisser partir Airbus. Elle a laissé partir Alcatel, Thomson, Alstom Énergie.
 
-Elle est en train de laisser partir 
-Haffner Energy.
+Elle est en train de laisser partir Haffner Energy.
 
-L'accord du Maharashtra n'est pas 
-une success story à célébrer : 
-c'est un avertissement. La technologie 
-qui peut décarboner la planète, 
-rendre chaque territoire énergétiquement 
-souverain et effacer 30 à 40 milliards 
-d'euros de déficit commercial annuel 
-est en train de trouver preneur — 
-mais pas en France.
+L'accord du Maharashtra est une success story pour Haffner Energy — et simultanément un avertissement 
+pour la France. La technologie qui peut décarboner la planète, rendre chaque territoire énergétiquement 
+souverain et effacer 30 à 40 milliards d'euros de déficit commercial annuel est en train de trouver preneur — mais pas en France.
 
 Il reste encore le temps d'agir. 
 Pas longtemps.
