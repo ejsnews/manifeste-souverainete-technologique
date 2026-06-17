@@ -6,13 +6,19 @@
 Independent Strategic Note — EJS — June 2026
 
 ---
-## 1. The Wake-Up Call: €15 Billion Headed to India
+## 1. The warning sign: Haffner Energy, French technology chosen for a €15 billion deal in India
 
-On April 16, 2026, the government of Maharashtra (India) signed a framework agreement worth €15 billion with Haffner Energy for four major industrial projects, including a €280 million green hydrogen production unit producing 6,900 tonnes per year using HYNOCA technology.
+The On April 16, 2026, the government of Maharashtra (India), JW Global Group, and The Seed Consortium Partners signed a Memorandum of Understanding (MoU) for approximately €15 billion in investments across four clean technology and infrastructure projects.
 
-Meanwhile, in France, no major public order has been placed. No regulatory fast-track has been implemented. No financial shield has been deployed to protect this disruptive SME from financial market predation.
+Haffner Energy is a technology partner for green hydrogen—two of the four projects rely on its technologies, including a €280 million green hydrogen production unit producing 6,900 tons per year using SYNOCA® technology, and a 1.4 GW AI/data center campus (€10.4 billion) whose energy resilience is based on locally sourced biomass processed by Haffner.
 
-This is the pattern France has been repeating for twenty years: it finances research, trains engineers, patents technologies — then lets other, more pragmatic nations capture the industrial benefits.
+Haffner Energy remains a French company, headquartered in Vitry-le-François. This MoU is not a loss for France:
+it proves that its technology is recognized internationally.
+
+However, it starkly reveals the French paradox: while India is massively deploying this French technology, no large-scale public contracts have been placed in France. No regulatory fast-track has been established. No financial shield has been deployed to protect this SME from the predatory practices of the financial markets.
+
+This is the pattern France has been repeating for twenty years:
+it finances research, trains engineers, patents technologies — then lets other, more pragmatic nations reap the industrial benefits first.
 
 ---
 ## 2. What France Is Letting Go
@@ -68,7 +74,7 @@ France invented the TGV, Concorde, and the civil nuclear reactor. It nearly let 
 
 It is now in the process of letting Haffner Energy go.
 
-The Maharashtra agreement is not a success story to celebrate: it is a warning. The technology that can decarbonize the planet, make every territory energy sovereign, and erase €30 to 40 billion of annual trade deficit is finding buyers — but not in France.
+The Maharashtra agreement is a success story for Haffner Energy — and simultaneously a warning for France. The technology that can decarbonize the planet, make every territory energy sovereign, and erase €30 to 40 billion of annual trade deficit is finding buyers — but not in France.
 
 There is still time to act.
 
