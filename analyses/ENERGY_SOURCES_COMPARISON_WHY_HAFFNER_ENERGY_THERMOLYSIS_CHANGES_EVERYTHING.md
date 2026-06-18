@@ -2,6 +2,8 @@
 
 📥 [Consult the Manifesto for Technological Sovereignty and Resilience](../README.md)
 
+📥 [Global comparison of energy sources: HAFFNER ENERGY changes everything](ENERGY_SOURCES_COMPARISON_WHY_HAFFNER_ENERGY_THERMOLYSIS_CHANGES_EVERYTHING.md)
+
 ---
 *Independent Technical and Economic Note — EJS — June 2026*
 
