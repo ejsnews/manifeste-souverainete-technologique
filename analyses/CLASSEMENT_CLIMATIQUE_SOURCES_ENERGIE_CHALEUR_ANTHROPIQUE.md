@@ -1,6 +1,6 @@
-# CLASSEMENT CLIMATIQUE DES SOURCES D'ÉNERGIE
+# CLASSEMENT CLIMATIQUE DES SOURCES D'ÉNERGIE [(English version - EN)](CLIMATE_RANKING_ENERGY_SOURCES_ANTHROPIC_HEAT_INCLUDED.md)
+
 ## Scoring sur 24 points — Chaleur anthropique incluse
-[(English version - EN)](ENERGY_CLIMATE_RANKING_ANTHROPIC_HEAT_INCLUDED.md)
 
 📥 [Manifeste pour la souveraineté et la résilience technologique](../README.md)
 
@@ -44,14 +44,9 @@
 </thead>
 <tbody>
 <tr class="r-s1">
-  <td>1</td><td>🇫🇷 Haffner H6 net (+ biochar)</td>
+  <td>1</td><td>🇫🇷 Haffner H6/C-iC (+ biochar)</td>
   <td>4</td><td>4</td><td>6★</td><td>4</td><td>4</td><td>4★</td>
   <td class="score">24+★</td>
-</tr>
-<tr class="r-s2">
-  <td>2</td><td>🇫🇷 Haffner H6 (C-iC)</td>
-  <td>4</td><td>4</td><td>5</td><td>4</td><td>4</td><td>4</td>
-  <td class="score">23</td>
 </tr>
 <tr class="r-s3">
   <td>3</td><td>🇫🇷 Haffner H4/S-iC ⏳</td>
