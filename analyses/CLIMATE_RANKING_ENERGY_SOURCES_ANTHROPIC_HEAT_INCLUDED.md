@@ -167,9 +167,11 @@
 </tr>
 </tbody>
 </table>
-[HYNOCA® in the spotlight: REFORMERS' EU-funded Renewable Energy Valley project in the Netherlands wins the "Clean Project" award at World Hydrogen 2025](https://www.haffner-energy.com/hynoca-recognized-as-eu-funded-reformers-renewable-energy-valley-project-in-netherlands-awarded-world-hydrogen-2025-prize-clean-project-category/)
+
+[HYNOCA® in the spotlight: REFORMERS EU-funded Renewable Energy Valley project in the Netherlands wins the « Clean Project » award at World Hydrogen 2025](https://www.haffner-energy.com/hynoca-recognized-as-eu-funded-reformers-renewable-energy-valley-project-in-netherlands-awarded-world-hydrogen-2025-prize-clean-project-category/)
 
 ![Haffner Energy is the winner and game changer](images/haffner_winner_and_game_changer_EN.jpg)
+
 ---
 ### Legend
 
