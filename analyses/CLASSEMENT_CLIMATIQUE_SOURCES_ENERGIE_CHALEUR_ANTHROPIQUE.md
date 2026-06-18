@@ -175,6 +175,8 @@
 
 ---
 
+![Haffner Energy is the winner and game changer](images/haffner_winner_and_game_changer_FR.jpg)
+
 ### Légende
 
 | Symbole | Signification |
