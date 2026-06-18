@@ -39,127 +39,127 @@
 </thead>
 <tbody>
 <tr class="r-s1">
-  <td>1</td><td>🇫🇷 Haffner H6/C-iC (+ biochar)</td>
-  <td>4</td><td>4</td><td>6★</td><td>4</td><td>4</td><td>4★</td>
-  <td class="score">24+★</td>
-</tr>
-<tr class="r-s3">
-  <td>3</td><td>🇫🇷 Haffner H4/S-iC ⏳</td>
+  <td>1</td><td>🇫🇷 Haffner H4/S-iC ⏳</td>
   <td>4</td><td>4</td><td>6★</td><td>4</td><td>4</td><td>4★</td>
   <td class="score">24+★⏳</td>
 </tr>
+<tr class="r-s3">
+  <td>2</td><td>🇫🇷 Haffner H6/C-iC (+ biochar)</td>
+  <td>4</td><td>4</td><td>6★</td><td>4</td><td>4</td><td>4★</td>
+  <td class="score">24+★</td>
+</tr>
 <tr class="r-s4">
-  <td>4</td><td>Tidal / Wave</td>
+  <td>3</td><td>Tidal / Wave</td>
   <td>4</td><td>4</td><td>0</td><td>4</td><td>4</td><td>4</td>
   <td class="score">18</td>
 </tr>
 <tr class="r-s5">
-  <td>5</td><td>Onshore Wind</td>
+  <td>4</td><td>Onshore Wind</td>
   <td>3</td><td>4</td><td>0</td><td>4</td><td>4</td><td>4</td>
   <td class="score">17</td>
 </tr>
 <tr class="r-s6">
-  <td>6</td><td>Offshore Wind</td>
+  <td>5</td><td>Offshore Wind</td>
   <td>3</td><td>4</td><td>0</td><td>4</td><td>3</td><td>4</td>
   <td class="score">16</td>
 </tr>
 <tr class="r-s6">
-  <td>7</td><td>Solar PV</td>
+  <td>6</td><td>Solar PV</td>
   <td>3</td><td>4</td><td>0</td><td>4</td><td>3</td><td>4</td>
   <td class="score">16</td>
 </tr>
 <tr class="r-s6">
-  <td>8</td><td>Solar CSP</td>
+  <td>7</td><td>Solar CSP</td>
   <td>3</td><td>4</td><td>0</td><td>4</td><td>3</td><td>4</td>
   <td class="score">16</td>
 </tr>
 <tr class="r-s6">
-  <td>9</td><td>Hydropower</td>
+  <td>8</td><td>Hydropower</td>
   <td>4</td><td>4</td><td>0</td><td>4</td><td>3</td><td>4</td>
   <td class="score">16</td>
 </tr>
 <tr class="r-s7">
-  <td>10</td><td>Geothermal</td>
+  <td>9</td><td>Geothermal</td>
   <td>4</td><td>4</td><td>0</td><td>4</td><td>3</td><td>3</td>
   <td class="score">15</td>
 </tr>
 <tr class="r-s7">
-  <td>11</td><td>White Hydrogen (natural)</td>
+  <td>10</td><td>White Hydrogen (natural)</td>
   <td>3</td><td>4</td><td>0</td><td>4</td><td>3</td><td>3</td>
   <td class="score">15</td>
 </tr>
 <tr class="r-s7">
-  <td>12</td><td>Nuclear Fusion (ITER)</td>
+  <td>11</td><td>Nuclear Fusion (ITER)</td>
   <td>3</td><td>4</td><td>0</td><td>4</td><td>4</td><td>2</td>
   <td class="score">15</td>
 </tr>
 <tr class="r-s8">
-  <td>13</td><td>Biogas / Methanization</td>
+  <td>12</td><td>Biogas / Methanization</td>
   <td>4</td><td>2</td><td>1</td><td>3</td><td>3</td><td>3</td>
   <td class="score">13</td>
 </tr>
 <tr class="r-s8">
-  <td>14</td><td>Green Hydrogen (electrolysis)</td>
+  <td>13</td><td>Green Hydrogen (electrolysis)</td>
   <td>3</td><td>4</td><td>0</td><td>4</td><td>3</td><td>1</td>
   <td class="score">13</td>
 </tr>
 <tr class="r-s9">
-  <td>15</td><td>Conventional Biomass</td>
+  <td>14</td><td>Conventional Biomass</td>
   <td>4</td><td>2</td><td>1</td><td>2</td><td>3</td><td>3</td>
   <td class="score">12</td>
 </tr>
 <tr class="r-s9">
-  <td>16</td><td>e-SAF (electrolysis + FT)</td>
+  <td>15</td><td>e-SAF (electrolysis + FT)</td>
   <td>3</td><td>4</td><td>0</td><td>4</td><td>3</td><td>1</td>
   <td class="score">12</td>
 </tr>
 <tr class="r-s9">
-  <td>17</td><td>Nuclear (existing amortized fleet)</td>
+  <td>16</td><td>Nuclear (existing amortized fleet)</td>
   <td>3</td><td>4</td><td>0</td><td>4</td><td>2</td><td>1</td>
   <td class="score">12</td>
 </tr>
 <tr class="r-s9">
-  <td>18</td><td>New EPR2 Nuclear</td>
+  <td>17</td><td>New EPR2 Nuclear</td>
   <td>3</td><td>4</td><td>0</td><td>4</td><td>2</td><td>1</td>
   <td class="score">12</td>
 </tr>
 <tr class="r-s10">
-  <td>19</td><td>Clean Coal (CCS)</td>
+  <td>18</td><td>Clean Coal (CCS)</td>
   <td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td>
   <td class="score">10</td>
 </tr>
 <tr class="r-s11">
-  <td>20</td><td>1G Biofuels (rapeseed/maize)</td>
+  <td>19</td><td>1G Biofuels (rapeseed/maize)</td>
   <td>4</td><td>2</td><td>0</td><td>2</td><td>2</td><td>2</td>
   <td class="score">9</td>
 </tr>
 <tr class="r-s12">
-  <td>21</td><td>Blue Hydrogen</td>
+  <td>20</td><td>Blue Hydrogen</td>
   <td>2</td><td>2</td><td>0</td><td>2</td><td>2</td><td>1</td>
   <td class="score">7</td>
 </tr>
 <tr class="r-s13">
-  <td>22</td><td>Natural Gas (CCGT)</td>
+  <td>21</td><td>Natural Gas (CCGT)</td>
   <td>2</td><td>1</td><td>0</td><td>2</td><td>2</td><td>0</td>
   <td class="score">6</td>
 </tr>
 <tr class="r-s13">
-  <td>23</td><td>Grey Hydrogen</td>
+  <td>22</td><td>Grey Hydrogen</td>
   <td>2</td><td>1</td><td>0</td><td>2</td><td>2</td><td>0</td>
   <td class="score">6</td>
 </tr>
 <tr class="r-s14">
-  <td>24</td><td>Fuel Oil (backup)</td>
+  <td>23</td><td>Fuel Oil (backup)</td>
   <td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td>
   <td class="score">3</td>
 </tr>
 <tr class="r-s14">
-  <td>25</td><td>Oil</td>
+  <td>24</td><td>Oil</td>
   <td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td>
   <td class="score">3</td>
 </tr>
 <tr class="r-s15">
-  <td>26</td><td>Coal</td>
+  <td>25</td><td>Coal</td>
   <td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td>
   <td class="score">1</td>
 </tr>
