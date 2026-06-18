@@ -2,6 +2,8 @@
 
 📥 [Consulter le Manifeste pour la souveraineté et la résilience technologique](../README.md)
 
+📥 [Classement climatique des sources d'énergies](CLASSEMENT_CLIMATIQUE_SOURCES_ENERGIE_CHALEUR_ANTHROPIQUE.md)
+
 ---
 
 *Note technique et économique indépendante — EJS — Juin 2026*
