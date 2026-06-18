@@ -6,6 +6,8 @@
 
 📥 [Comparaison mondiale des sources d’energie : HAFFNER ENERGY change tout](COMPARAISON_SOURCES_ENERGIE_THERMOLYSE_HAFFNER_ENERGY.md)
 
+📥 [L'indépendance en hydrogène à portée de chaque territoire ou collectivités et élus ruraux](L_INDEPENDANCE_EN_HYDROGENE_A_PORTEE_DE_CHAQUE_TERRITOIRE_COLLECTIVITES_ELUS_RURAUX.md)
+
 *Note technique indépendante — EJS — Juin 2026*
 
 ---
