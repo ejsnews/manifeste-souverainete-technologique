@@ -3,6 +3,7 @@
 ## Scoring sur 24 points — Chaleur anthropique incluse
 
 📥 [Manifeste pour la souveraineté et la résilience technologique](../README.md)
+
 📥 [Comparaison mondiale des sources d’energie : HAFFNER ENERGY change tout](CLASSEMENT_CLIMATIQUE_SOURCES_ENERGIE_CHALEUR_ANTHROPIQUE.md)
 
 *Note technique indépendante — EJS — Juin 2026*
