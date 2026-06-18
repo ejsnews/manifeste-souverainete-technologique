@@ -4,6 +4,7 @@
 
 📥 [Consult the Manifesto for Technological Sovereignty and Resilience](../README.md)
 
+
 *Independent Technical Note — EJS — June 2026*
 
 ---
