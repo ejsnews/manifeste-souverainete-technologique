@@ -28,30 +28,6 @@
 
 ---
 
-<style>
-.ranking-table { width:100%; border-collapse:collapse; font-size:15px; margin:20px 0; }
-.ranking-table th { background:#21262d; color:#f2cc60; padding:8px 6px; border:1px solid #30363d; text-align:center; }
-.ranking-table td { padding:6px 6px; border:1px solid #30363d; text-align:center; }
-.ranking-table td:nth-child(2) { text-align:left; font-weight:bold; }
-.score { font-weight:bold; font-size:1.1em; }
-/* Dégradé vert → rouge sur fond sombre */
-.r-s1  { background:#0a2e0a; color:#4ade80; }
-.r-s2  { background:#0d3510; color:#4ade80; }
-.r-s3  { background:#112e10; color:#86efac; }
-.r-s4  { background:#1a3d10; color:#86efac; }
-.r-s5  { background:#1f4212; color:#a3e635; }
-.r-s6  { background:#2a4a10; color:#bef264; }
-.r-s7  { background:#344a10; color:#d9f99d; }
-.r-s8  { background:#3d4510; color:#fef08a; }
-.r-s9  { background:#453510; color:#fde047; }
-.r-s10 { background:#4a2a10; color:#fb923c; }
-.r-s11 { background:#4a2210; color:#f97316; }
-.r-s12 { background:#4a1810; color:#ef4444; }
-.r-s13 { background:#3d1010; color:#ef4444; }
-.r-s14 { background:#2e0808; color:#dc2626; }
-.r-s15 { background:#1a0505; color:#b91c1c; }
-</style>
-
 <table class="ranking-table">
 <thead>
 <tr>
