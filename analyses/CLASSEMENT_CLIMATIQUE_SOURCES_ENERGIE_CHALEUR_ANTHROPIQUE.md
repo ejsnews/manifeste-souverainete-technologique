@@ -4,7 +4,7 @@
 
 📥 [Manifeste pour la souveraineté et la résilience technologique](../README.md)
 
-📥 [Comparaison mondiale des sources d’energie : HAFFNER ENERGY change tout](CLASSEMENT_CLIMATIQUE_SOURCES_ENERGIE_CHALEUR_ANTHROPIQUE.md)
+📥 [Comparaison mondiale des sources d’energie : HAFFNER ENERGY change tout](COMPARAISON_SOURCES_ENERGIE_THERMOLYSE_HAFFNER_ENERGY.md)
 
 *Note technique indépendante — EJS — Juin 2026*
 
