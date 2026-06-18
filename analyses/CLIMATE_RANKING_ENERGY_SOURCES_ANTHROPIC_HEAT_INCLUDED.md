@@ -6,6 +6,8 @@
 
 📥 [Global comparison of energy sources: HAFFNER ENERGY changes everything](ENERGY_SOURCES_COMPARISON_WHY_HAFFNER_ENERGY_THERMOLYSIS_CHANGES_EVERYTHING.md)
 
+📥 [Hydrogen independence within reach of every region, community, and rural elected official](HYDROGEN_INDEPENDENCE_WITHIN_REACH_OF_EVERY_TERRITORY_LOCAL_AUTHORITIES_RURAL_ELECTED_AUTHORITIES.md)
+
 *Independent Technical Note — EJS — June 2026*
 
 ---
