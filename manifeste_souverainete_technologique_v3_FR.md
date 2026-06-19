@@ -1,10 +1,10 @@
-**MANIFESTE POUR LA SOUVERAINETÉ ET LA RÉSILIENCE TECHNOLOGIQUE**
+# MANIFESTE POUR LA SOUVERAINETÉ ET LA RÉSILIENCE TECHNOLOGIQUE
 
 *Vers un écosystème national d\'autonomie énergétique, sanitaire et agricole*
 
 Note Stratégique Indépendante - EJS - Juin 2026
 
-**I. Constat : L\'érosion silencieuse de notre souveraineté**
+## I. Constat : L\'érosion silencieuse de notre souveraineté
 
 La France traverse une crise stratégique majeure, marquée par un
 décalage croissant entre ses capacités d\'innovation technologique et sa
@@ -66,8 +66,8 @@ reprenons, dès aujourd\'hui, le contrôle total de notre destin
 technologique et énergétique par le déploiement massif de systèmes de
 thermolyse décentralisée.
 
-**II. La Solution : La thermolyse de biomasse décentralisée à très fort
-rendement**
+## II. La Solution : La thermolyse de biomasse décentralisée à très fort
+rendement
 
 **Le piège thermodynamique global : L\'illusion des énergies propres
 face à l\'urgence du puits de carbone**
@@ -272,8 +272,7 @@ transformons nos infrastructures critiques en de véritables forteresses
     Toute biomasse donnera de très importantes quantités d'hydrogène et
     de Biochar, ce dernier ayant une valeur commerciale.
 
-**III. Bilan Économique et Choc Macroéconomique : L\'inversion de la
-courbe du déclin par l\'autonomie territoriale**
+## III. Bilan Économique et Choc Macroéconomique : L\'inversion de la courbe du déclin par l\'autonomie territoriale
 
 Le modèle de thermolyse décentralisée ne se limite pas à une prouesse
 technique ; il constitue un levier de restructuration budgétaire
@@ -391,7 +390,7 @@ macroéconomiques directs :
   -----------------------------------------------------------------------
 
 
-**IV. Appel à l\'action : Choc de souveraineté nationale**
+## IV. Appel à l\'action : Choc de souveraineté nationale
 
 Il est impératif que l\'État cesse d\'être l\'observateur passif de son
 propre déclassement. Le bon sens exige une rupture immédiate dans la
@@ -453,7 +452,7 @@ ailleurs:
     nécessaire pour conquérir les marchés mondiaux.
     
 
-**Conclusion : Le choix de l\'Histoire**
+## Conclusion : Le choix de l\'Histoire
 
 La sanctuarisation d\'un gisement agnostique et non conflictuel : L\'une
 des forces majeures de cette rupture technologique réside dans son
