@@ -260,9 +260,9 @@ transformons nos infrastructures critiques en de véritables forteresses
     nous-mêmes et nous allégeons durablement la charge financière pesant
     sur le budget national.
 
-    <img src="media/image9.jpg" width="700" alt="Haffner Energy — ">
+    <img src="media/image9.jpg" width="700" alt="Haffner Energy — Il existe de nombreuses plateformes logistiques, qu'il s'agisse de plateformes de Rungis ou de centres d'approvisionnement pour divers centres commerciaux. Ces secteurs génèrent d'importants déchets, notamment des cartons, des palettes en bois, des matières organiques et d'autres matériaux, facilement valorisables et transformables sur place en biocarburants de haute qualité à des prix très bas pour la logistique. Capturons le carbone atmosphérique sous forme de biochar, sauvons la planète en gagnant beaucoup d'argent et assainissons-la.">
 
-    <img src="media/image10.jpg" width="700" alt="Haffner Energy — ">
+    <img src="media/image10.jpg" width="700" alt="Haffner Energy — Une ville possède de nombreuses sources de biomasse qui engendrent des coûts élevés. Au lieu de dépenser et de gaspiller de l'argent en brûlant vos ressources, transformez cet or organique en actifs pour générer des revenus et sauver la planète. Tout peut être transformé en or si nous cessons de suivre les politiques gouvernementales. Agissez localement pour créer votre propre système vertueux en produisant vos propres carburants verts à des prix inférieurs à ceux des carburants fossiles. Arrêtez de faire n'importe quoi sans jamais sacrifier votre confort ; nettoyez, illuminez et embellissez votre ville en adoptant la méthode Haffner Energy.">
 
 
 -   **Prévention des risques : Des charges d'assurances en chute libre
@@ -471,10 +471,10 @@ financière ou environnementale, que nous transformons en actif
 stratégique sans aucune pression sur la souveraineté alimentaire ou
 forestière de la Nation.
 
-    <img src="media/image12.jpg" width="700" alt="Haffner Energy — ">
+    <center><img src="media/image12.jpg" width="700" alt="Haffner Energy — "></center>
 
 
-    <img src="media/image13.jpg" width="700" alt="Haffner Energy — ">
+    <center><img src="media/image13.jpg" width="700" alt="Haffner Energy — "></center>
 
 
 La technologie de la thermolyse sèche décentralisée ne propose pas une
