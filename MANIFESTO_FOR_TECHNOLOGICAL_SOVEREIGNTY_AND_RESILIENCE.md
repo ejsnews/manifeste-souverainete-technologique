@@ -130,4 +130,20 @@ The sanctuarization of an agnostic and non-conflictual deposit: One of the major
 
 Decentralized dry thermolysis technology does not propose a simple alternative, it lays the foundations of a civilizational resilience. Fleeing an Earth that has become uninhabitable to go live in space cannot and must not be humanity’s only ambition. Our duty is to repair our world with the genius of our engineering. The future of France and the world will be autonomous, robotized, decarbonized and sovereign, or it will not be. We have the machines to depollute, the process to transmute waste into pure energy, and the mechanism to cool the atmosphere through carbon sequestration. It is time to stop letting our revolutionary technologies die, abandon them to bureaucracy or deliver them to financial predation. France has the resources to lead this renaissance; all that is missing is the political will to regain control of our industrial destiny and take action.
 
+---
+
+## 📚 Related Sectoral Analyses
+
+This manifesto has been declined into targeted technical notes by audience:
+
+- 🏥 [Autonomous Hospital Decarbonization and Green Energy Thermolysis Solution](analyses/AUTOMATED_HOSPITAL_DECARBONIZATION_AND_GREEN_ENERGY_THERMOLYSIS_SOLUTION_HAFFNER_ENERGY.md)
+- 🪖 [Tactical Energy Autonomy: Defense and Military Sovereignty](analyses/TACTICAL_ENERGY_AUTONOMY_DEFENSE_MILITARY_SOVEREIGNTY.md)
+- 🌾 [Hydrogen Independence Within Reach of Every Territory (Local Authorities, Rural Elected Officials)](analyses/HYDROGEN_INDEPENDENCE_WITHIN_REACH_OF_EVERY_TERRITORY_LOCAL_AUTHORITIES_RURAL_ELECTED_AUTHORITIES.md)
+- ✈️ [SAF Haffner Energy: A French Immediate Solution for Aviation Decarbonization](analyses/SAF_HAFFNER_ENERGY_A_FRENCH_IMMEDIATE_SOLUTION_FOR_AVIATION_DECARBONIZATION.md)
+- 🇫🇷 [Energy Revolution and Abandonment of National Sovereignty](analyses/ENERGY_REVOLUTION_AND_ABANDONMENT_OF_NATIONAL_SOVEREIGNTY.md)
+- 📊 [Energy Sources Comparison: Why Haffner Energy Thermolysis Changes Everything](analyses/ENERGY_SOURCES_COMPARISON_WHY_HAFFNER_ENERGY_THERMOLYSIS_CHANGES_EVERYTHING.md)
+- 🌡️ [Climate Ranking of Energy Sources: Anthropic Heat Included](analyses/CLIMATE_RANKING_ENERGY_SOURCES_ANTHROPIC_HEAT_INCLUDED.md)
+
+---
+
 **Disclaimer:** *This strategic note is an independent contribution to the public debate on industrial and energy sovereignty. The author expresses personal opinions based on public data and in no way acts on behalf of the company mentioned. Being himself an individual shareholder, this text is shared in a spirit of transparency, for exclusively informative and macroeconomic analysis purposes. It does not in any way constitute investment advice, an incentive to buy or a stock market recommendation.*
