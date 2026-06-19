@@ -40,7 +40,7 @@ massive des usages. En privilégiant des solutions qui consomment une
 énergie précieuse au lieu de la générer intelligemment, nous entrons
 dans un cercle vicieux au nom d'une écologie factice.
 
-<img src="media/image2.jpg" width="174" alt="Haffner Energy - La planete Terre brule alors qu'une solution verte energetique universelle qui decarbonise existe avec des prix sous le fossile">
+<img src="media/image2.jpg" width="500" alt="Haffner Energy - La planete Terre brule alors qu'une solution verte energetique universelle qui decarbonise existe avec des prix sous le fossile">
 
 Cette stratégie fragilise non seulement notre économie, mais elle
 hypothèque également notre capacité à soutenir le développement futur de
