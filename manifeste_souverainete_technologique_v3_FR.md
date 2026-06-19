@@ -1,8 +1,6 @@
-**MANIFESTE POUR LA SOUVERAINETÉ\
-ET LA RÉSILIENCE TECHNOLOGIQUE**
+**MANIFESTE POUR LA SOUVERAINETÉ ET LA RÉSILIENCE TECHNOLOGIQUE**
 
-*Vers un écosystème national d\'autonomie énergétique, sanitaire et
-agricole*
+*Vers un écosystème national d\'autonomie énergétique, sanitaire et agricole*
 
 Note Stratégique Indépendante - EJS - Juin 2026
 
@@ -492,6 +490,22 @@ en pâture à la prédation financière. La France possède les ressources
 pour mener cette renaissance ; il ne manque plus que la volonté
 politique de reprendre le contrôle de notre destin industriel et de
 passer à l\'action.
+
+---
+
+## 📚 Analyses complémentaires sectorielles
+
+Ce manifeste a été décliné en notes techniques ciblées par public :
+
+- 🏥 [Hôpital autonome et circulaire : la thermolyse au service de la résilience sanitaire](analyses/HOPITAL_AUTONOME_DECARBONATION_ET_ENERGIE_VERTE_SOLUTION_THERMOLYSE_HAFFNER_ENERGY.md)
+- 🪖 [Autonomie énergétique tactique : défense et souveraineté militaire](analyses/AUTONOMIE_ENERGETIQUE_TACTIQUE_DEFENSE_SOUVERAINETE_MILITAIRE.md)
+- 🌾 [L'indépendance en hydrogène à portée de chaque territoire (collectivités, élus ruraux)](analyses/L_INDEPENDANCE_EN_HYDROGENE_A_PORTEE_DE_CHAQUE_TERRITOIRE_COLLECTIVITES_ELUS_RURAUX.md)
+- ✈️ [Le SAF Haffner Energy : une solution française immédiate pour la décarbonation de l'aviation](analyses/LE_SAF_HAFFNER_ENERGY_UNE_SOLUTION_FRANCAISE_IMMEDIATE_POUR_LA_DECARBONATION_DE_L_AVIATION.md)
+- 🇫🇷 [Haffner Energy : la France laisse partir sa révolution énergétique à l'étranger](analyses/REVOLUTION_ENERGETIQUE_ET_ABANDON_DE_SOUVERAINETE_NATIONALE.md)
+- 📊 [Comparaison mondiale des sources d'énergie : pourquoi la thermolyse Haffner Energy change tout](analyses/COMPARAISON_SOURCES_ENERGIE_THERMOLYSE_HAFFNER_ENERGY.md)
+- 🌡️ [Classement climatique des sources d'énergie : chaleur anthropique incluse](analyses/CLASSEMENT_CLIMATIQUE_SOURCES_ENERGIE_CHALEUR_ANTHROPIQUE.md)
+
+---
 
 **Avertissement :** *Cette note stratégique est une contribution
 indépendante au débat public sur la souveraineté industrielle et
