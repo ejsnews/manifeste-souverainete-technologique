@@ -224,9 +224,7 @@ transformons nos infrastructures critiques en de véritables forteresses
     manipulation des déchets infectieux et assure la continuité des
     soins, indépendamment des aléas extérieurs.
 
-    ![HJ6x214WcAAaWl4
-    (1024×559)](media/image7.jpeg){width="4.908333333333333in"
-    height="2.6794138232720908in"}
+<img src="media/image7.jpg" width="700" alt="Haffner Energy peut transformer toute forme de biomasse — y compris les déchets cellulosiques tels que les masques et vêtements du personnel ou des patients, ou encore les déchets alimentaires hospitaliers — en gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Le tri peut être effectué dans une zone protégée par un robot Optimus. Ce gaz de synthèse peut être facilement converti en une large gamme de carburants verts, comme de l'hydrogène ultra-pur destiné aux véhicules des services d'urgence médicale (SAMU). La chaleur fatale peut être valorisée pour le chauffage des bâtiments ou pour produire de l'électricité pour l'hôpital. Cette solution ne se contente pas de séquestrer du carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des combustibles fossiles. Elle offre à l'hôpital l'opportunité d'atteindre l'autosuffisance énergétique tout en préservant la planète.">
 
 -   **La révolution de la mobilité militaire : La miniaturisation au
     service de l\'autonomie tactique :** La vulnérabilité des forces
@@ -243,8 +241,7 @@ transformons nos infrastructures critiques en de véritables forteresses
     extérieurs ; c\'est, sur le champ de bataille, la garantie de
     l\'autonomie et de la supériorité opérationnelle.
 
-    ![Image](media/image8.jpeg){width="5.892508748906387in"
-    height="3.216666666666667in"}
+<img src="media/image8.jpg" width="700" alt="Haffner Energy peut transformer toute forme de biomasse — y compris les déchets cellulosiques tels que les masques et vêtements du personnel ou des patients, ou encore les déchets alimentaires hospitaliers — en gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Le tri peut être effectué dans une zone protégée par un robot Optimus. Ce gaz de synthèse peut être facilement converti en une large gamme de carburants verts, comme de l'hydrogène ultra-pur destiné aux véhicules des services d'urgence médicale (SAMU). La chaleur fatale peut être valorisée pour le chauffage des bâtiments ou pour produire de l'électricité pour l'hôpital. Cette solution ne se contente pas de séquestrer du carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des combustibles fossiles. Elle offre à l'hôpital l'opportunité d'atteindre l'autosuffisance énergétique tout en préservant la planète.">
 
 -   **Dépollution et Santé publique : Une économie du vivant :** Il est
     temps de rompre avec les méthodes archaïques de l\'incinération
