@@ -2,7 +2,7 @@
 
 *Towards a National Ecosystem of Energy, Health and Agricultural Autonomy*
 
-📥 [Consult the Manifesto for Technological Sovereignty and Resilience](../README.md)
+📥 [Consult the Manifesto for Technological Sovereignty and Resilience](README.md)
 
 Independent Strategic Note - EJS - June 2026
 
