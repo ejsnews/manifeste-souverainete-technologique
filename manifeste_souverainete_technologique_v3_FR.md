@@ -2,7 +2,7 @@
 
 *Vers un écosystème national d\'autonomie énergétique, sanitaire et agricole*
 
-📥 [Consultez le Manifeste pour la souveraineté et la résilience technologiques](../README.md)
+📥 [Consultez le Manifeste pour la souveraineté et la résilience technologiques](README.md)
 
 Note Stratégique Indépendante - EJS - Juin 2026
 
