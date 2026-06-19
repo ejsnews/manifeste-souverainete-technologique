@@ -476,6 +476,8 @@ forestière de la Nation.
 
     <center><img src="media/image13.jpg" width="700" alt="Haffner Energy — "></center>
 
+    <img src="media/image10.jpg" width="700" alt="Haffner Energy — Une ville possède de nombreuses sources de biomasse qui engendrent des coûts élevés. Au lieu de dépenser et de gaspiller de l'argent en brûlant vos ressources, transformez cet or organique en actifs pour générer des revenus et sauver la planète. Tout peut être transformé en or si nous cessons de suivre les politiques gouvernementales. Agissez localement pour créer votre propre système vertueux en produisant vos propres carburants verts à des prix inférieurs à ceux des carburants fossiles. Arrêtez de faire n'importe quoi sans jamais sacrifier votre confort ; nettoyez, illuminez et embellissez votre ville en adoptant la méthode Haffner Energy.">
+
 
 La technologie de la thermolyse sèche décentralisée ne propose pas une
 simple alternative, elle pose les bases d\'une résilience
