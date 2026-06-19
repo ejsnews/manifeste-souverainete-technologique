@@ -24,7 +24,7 @@ pragmatiques, ont compris l\'urgence de s\'approprier les technologies
 de demain tandis que nous les abandonnons en haut lieu par manque de
 vision stratégique.
 
-<img src="media/image1.jpg" width="174" alt="Haffner Energy - L'echec des politiques ecologiques absurdes">
+<img src="media/FR/image1.jpg" width="174" alt="Haffner Energy - L'echec des politiques ecologiques absurdes">
 
 Le modèle énergétique que nous suivons actuellement est, à bien des
 égards, une impasse financière et écologique. Fondé sur une dépendance
@@ -40,7 +40,7 @@ massive des usages. En privilégiant des solutions qui consomment une
 énergie précieuse au lieu de la générer intelligemment, nous entrons
 dans un cercle vicieux au nom d'une écologie factice.
 
-<img src="media/image2.jpg" width="700" alt="Haffner Energy - La planete Terre brule alors qu'une solution verte energetique universelle qui decarbonise existe avec des prix sous le fossile">
+<img src="media/FR/image2.jpg" width="700" alt="Haffner Energy - La planete Terre brule alors qu'une solution verte energetique universelle qui decarbonise existe avec des prix sous le fossile">
 
 Cette stratégie fragilise non seulement notre économie, mais elle
 hypothèque également notre capacité à soutenir le développement futur de
@@ -97,7 +97,7 @@ précédent dans l\'histoire humaine, menant la Terre vers une impasse
 écologique irréversible si l\'infrastructure sous-jacente reste
 inchangée.
 
-<img src="media/image3.jpg" width="700" alt="Haffner Energy – Alors que l'Amérique capitule face à un Iran victorieux, Trump relance sa politique de forage intensif. Si les nouvelles technologies fondées sur l'intelligence artificielle constituent une avancée pour l'humanité, leur alimentation en énergie ne peut plus reposer sur des méthodes obsolètes. À moins de vouloir détruire la planète, nous devons opter pour la solution Haffner Energy : une solution universelle d'énergie verte qui décarbone l'atmosphère tout en fournissant une énergie propre à des tarifs inférieurs à ceux des combustibles fossiles.">
+<img src="media/FR/image3.jpg" width="700" alt="Haffner Energy – Alors que l'Amérique capitule face à un Iran victorieux, Trump relance sa politique de forage intensif. Si les nouvelles technologies fondées sur l'intelligence artificielle constituent une avancée pour l'humanité, leur alimentation en énergie ne peut plus reposer sur des méthodes obsolètes. À moins de vouloir détruire la planète, nous devons opter pour la solution Haffner Energy : une solution universelle d'énergie verte qui décarbone l'atmosphère tout en fournissant une énergie propre à des tarifs inférieurs à ceux des combustibles fossiles.">
 
 Dans ce contexte de tension absolue, la technologie de thermolyse
 développée par Haffner Energy s\'impose comme la seule architecture
@@ -115,7 +115,7 @@ produirons des carburants de synthèse et de l\'hydrogène à un coût
 inférieur aux énergies fossiles, tout en guérissant activement la
 biosphère.
 
-<img src="media/image4.jpg" width="700" alt="Haffner Energy – Alors que l'Amérique capitule face à un Iran victorieux, Trump relance sa politique de forage intensif. Elon Musk reconnaît que l'humanité agit de manière insensée et court à sa perte en détruisant son habitat. Son unique vision est la conquête de l'espace. Bien que ce rêve fantastique soit exaltant, il existe une autre réalité : la vie dans l'espace est extrêmement difficile et incertaine, et de nombreux défis nous y attendent, qui ne seront pas résolus avant des siècles. Sauver la Terre n'est pas si difficile et pourrait s'avérer extrêmement rentable si les décideurs politiques s'y engageaient. C'est là que la grande majorité des êtres humains continueront de vivre. Si les nouvelles technologies fondées sur l'intelligence artificielle constituent une avancée majeure pour l'humanité, leur alimentation en énergie ne peut plus reposer sur des méthodes obsolètes. À moins de vouloir détruire la planète, nous devons opter pour la solution Haffner Energy : une solution d'énergie verte universelle qui décarbone l'atmosphère tout en fournissant une énergie propre à des tarifs inférieurs à ceux des énergies fossiles.">
+<img src="media/FR/image4.jpg" width="700" alt="Haffner Energy – Alors que l'Amérique capitule face à un Iran victorieux, Trump relance sa politique de forage intensif. Elon Musk reconnaît que l'humanité agit de manière insensée et court à sa perte en détruisant son habitat. Son unique vision est la conquête de l'espace. Bien que ce rêve fantastique soit exaltant, il existe une autre réalité : la vie dans l'espace est extrêmement difficile et incertaine, et de nombreux défis nous y attendent, qui ne seront pas résolus avant des siècles. Sauver la Terre n'est pas si difficile et pourrait s'avérer extrêmement rentable si les décideurs politiques s'y engageaient. C'est là que la grande majorité des êtres humains continueront de vivre. Si les nouvelles technologies fondées sur l'intelligence artificielle constituent une avancée majeure pour l'humanité, leur alimentation en énergie ne peut plus reposer sur des méthodes obsolètes. À moins de vouloir détruire la planète, nous devons opter pour la solution Haffner Energy : une solution d'énergie verte universelle qui décarbone l'atmosphère tout en fournissant une énergie propre à des tarifs inférieurs à ceux des énergies fossiles.">
 
 La technologie de thermolyse constitue le pilier d\'un nouveau modèle de
 société, un paradigme où chaque territoire --- du quartier urbain à la
@@ -163,7 +163,7 @@ décomposée pour en extraire une gamme complète de produits stratégiques
     alimentaire. Nos agriculteurs ne seront plus à la merci de la
     volatilité des cours du gaz naturel.
 
-<img src="media/image5.jpg" width="700" alt="Haffner Energy – transforme toute forme de biomasse en un gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Ce gaz de synthèse peut être aisément converti en une large gamme de carburants verts : hydrogène ultra-pur, SAF (carburant d'aviation durable) vert, méthane, méthanol, ammoniac et engrais. Cette solution ne se contente pas de séquestrer le carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des énergies fossiles. Elle offre la possibilité d'atteindre l'autosuffisance tout en sauvant la planète.">
+<img src="media/FR/image5.jpg" width="700" alt="Haffner Energy – transforme toute forme de biomasse en un gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Ce gaz de synthèse peut être aisément converti en une large gamme de carburants verts : hydrogène ultra-pur, SAF (carburant d'aviation durable) vert, méthane, méthanol, ammoniac et engrais. Cette solution ne se contente pas de séquestrer le carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des énergies fossiles. Elle offre la possibilité d'atteindre l'autosuffisance tout en sauvant la planète.">
 
 **2. Le Biochar enrichi, or noir des sols et actif réglementaire**
 
@@ -192,7 +192,7 @@ de générer de l\'énergie : elle recrée une cohérence entre l\'économie,
 la terre et la santé publique. Chaque unité installée sur le territoire
 devient un maillon de la reconstruction de notre autonomie nationale.
 
-<img src="media/image6.jpg" width="700" alt="Haffner Energy — Si les modules hautement rentables de Haffner Energy permettent de transformer toute forme de biomasse volumineuse, insalubre ou toxique en gaz de synthèse (composé d'hydrogène et de monoxyde de carbone) et en biochar — lesquels peuvent ensuite être aisément convertis en une vaste gamme de carburants verts (hydrogène ultra-pur, SAF/carburant d'aviation durable, méthane, méthanol, ammoniac et engrais) —, il existe également un moyen simple et efficace d'accroître considérablement les revenus tout en séquestrant davantage de carbone pour des siècles : la culture de bambou sauvage sur des terres marginales. Cette pratique génère des revenus substantiels et fournit une énergie locale et souveraine à des prix inférieurs à ceux des combustibles fossiles. Ce faisant, l'agriculteur offre à son pays la possibilité d'atteindre l'autosuffisance énergétique tout en préservant la planète.">
+<img src="media/FR/image6.jpg" width="700" alt="Haffner Energy — Si les modules hautement rentables de Haffner Energy permettent de transformer toute forme de biomasse volumineuse, insalubre ou toxique en gaz de synthèse (composé d'hydrogène et de monoxyde de carbone) et en biochar — lesquels peuvent ensuite être aisément convertis en une vaste gamme de carburants verts (hydrogène ultra-pur, SAF/carburant d'aviation durable, méthane, méthanol, ammoniac et engrais) —, il existe également un moyen simple et efficace d'accroître considérablement les revenus tout en séquestrant davantage de carbone pour des siècles : la culture de bambou sauvage sur des terres marginales. Cette pratique génère des revenus substantiels et fournit une énergie locale et souveraine à des prix inférieurs à ceux des combustibles fossiles. Ce faisant, l'agriculteur offre à son pays la possibilité d'atteindre l'autosuffisance énergétique tout en préservant la planète.">
 
 
 
@@ -224,7 +224,7 @@ transformons nos infrastructures critiques en de véritables forteresses
     manipulation des déchets infectieux et assure la continuité des
     soins, indépendamment des aléas extérieurs.
 
-<img src="media/image7.jpg" width="700" alt="Haffner Energy peut transformer toute forme de biomasse — y compris les déchets cellulosiques tels que les masques et vêtements du personnel ou des patients, ou encore les déchets alimentaires hospitaliers — en gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Le tri peut être effectué dans une zone protégée par un robot Optimus. Ce gaz de synthèse peut être facilement converti en une large gamme de carburants verts, comme de l'hydrogène ultra-pur destiné aux véhicules des services d'urgence médicale (SAMU). La chaleur fatale peut être valorisée pour le chauffage des bâtiments ou pour produire de l'électricité pour l'hôpital. Cette solution ne se contente pas de séquestrer du carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des combustibles fossiles. Elle offre à l'hôpital l'opportunité d'atteindre l'autosuffisance énergétique tout en préservant la planète.">
+<img src="media/FR/image7.jpg" width="700" alt="Haffner Energy peut transformer toute forme de biomasse — y compris les déchets cellulosiques tels que les masques et vêtements du personnel ou des patients, ou encore les déchets alimentaires hospitaliers — en gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Le tri peut être effectué dans une zone protégée par un robot Optimus. Ce gaz de synthèse peut être facilement converti en une large gamme de carburants verts, comme de l'hydrogène ultra-pur destiné aux véhicules des services d'urgence médicale (SAMU). La chaleur fatale peut être valorisée pour le chauffage des bâtiments ou pour produire de l'électricité pour l'hôpital. Cette solution ne se contente pas de séquestrer du carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des combustibles fossiles. Elle offre à l'hôpital l'opportunité d'atteindre l'autosuffisance énergétique tout en préservant la planète.">
 
 -   **La révolution de la mobilité militaire : La miniaturisation au
     service de l\'autonomie tactique :** La vulnérabilité des forces
@@ -241,7 +241,7 @@ transformons nos infrastructures critiques en de véritables forteresses
     extérieurs ; c\'est, sur le champ de bataille, la garantie de
     l\'autonomie et de la supériorité opérationnelle.
 
-<img src="media/image8.jpg" width="700" alt="Haffner Energy — Les modules H4 ou H6 (dénommés S-iC et C-iC) sont facilement transportables et peuvent être installés sans fondations lourdes. Ils sont faciles à entretenir, déplaçables et peuvent être combinés pour accroître la capacité globale. Compte tenu de leur conception, une évolution probable de ces modules serait la miniaturisation et une mobilité accrue afin de faciliter la location, ainsi que la production locale d'énergie à partir de tout type de biomasse. Une application naturelle serait l'usage militaire tactique sur des terrains difficiles, où le ravitaillement des véhicules sous le feu ennemi s'avère impossible.">
+<img src="media/FR/image8.jpg" width="700" alt="Haffner Energy — Les modules H4 ou H6 (dénommés S-iC et C-iC) sont facilement transportables et peuvent être installés sans fondations lourdes. Ils sont faciles à entretenir, déplaçables et peuvent être combinés pour accroître la capacité globale. Compte tenu de leur conception, une évolution probable de ces modules serait la miniaturisation et une mobilité accrue afin de faciliter la location, ainsi que la production locale d'énergie à partir de tout type de biomasse. Une application naturelle serait l'usage militaire tactique sur des terrains difficiles, où le ravitaillement des véhicules sous le feu ennemi s'avère impossible.">
 
 -   **Dépollution et Santé publique : Une économie du vivant :** Il est
     temps de rompre avec les méthodes archaïques de l\'incinération
@@ -260,9 +260,9 @@ transformons nos infrastructures critiques en de véritables forteresses
     nous-mêmes et nous allégeons durablement la charge financière pesant
     sur le budget national.
 
-    <img src="media/image9.jpg" width="700" alt="Haffner Energy — Il existe de nombreuses plateformes logistiques, qu'il s'agisse de plateformes de Rungis ou de centres d'approvisionnement pour divers centres commerciaux. Ces secteurs génèrent d'importants déchets, notamment des cartons, des palettes en bois, des matières organiques et d'autres matériaux, facilement valorisables et transformables sur place en biocarburants de haute qualité à des prix très bas pour la logistique. Capturons le carbone atmosphérique sous forme de biochar, sauvons la planète en gagnant beaucoup d'argent et assainissons-la.">
+    <img src="media/FR/image9.jpg" width="700" alt="Haffner Energy — Il existe de nombreuses plateformes logistiques, qu'il s'agisse de plateformes de Rungis ou de centres d'approvisionnement pour divers centres commerciaux. Ces secteurs génèrent d'importants déchets, notamment des cartons, des palettes en bois, des matières organiques et d'autres matériaux, facilement valorisables et transformables sur place en biocarburants de haute qualité à des prix très bas pour la logistique. Capturons le carbone atmosphérique sous forme de biochar, sauvons la planète en gagnant beaucoup d'argent et assainissons-la.">
 
-    <img src="media/image10.jpg" width="700" alt="Haffner Energy — Une ville possède de nombreuses sources de biomasse qui engendrent des coûts élevés. Au lieu de dépenser et de gaspiller de l'argent en brûlant vos ressources, transformez cet or organique en actifs pour générer des revenus et sauver la planète. Tout peut être transformé en or si nous cessons de suivre les politiques gouvernementales. Agissez localement pour créer votre propre système vertueux en produisant vos propres carburants verts à des prix inférieurs à ceux des carburants fossiles. Arrêtez de faire n'importe quoi sans jamais sacrifier votre confort ; nettoyez, illuminez et embellissez votre ville en adoptant la méthode Haffner Energy.">
+    <img src="media/FR/image10.jpg" width="700" alt="Haffner Energy — Une ville possède de nombreuses sources de biomasse qui engendrent des coûts élevés. Au lieu de dépenser et de gaspiller de l'argent en brûlant vos ressources, transformez cet or organique en actifs pour générer des revenus et sauver la planète. Tout peut être transformé en or si nous cessons de suivre les politiques gouvernementales. Agissez localement pour créer votre propre système vertueux en produisant vos propres carburants verts à des prix inférieurs à ceux des carburants fossiles. Arrêtez de faire n'importe quoi sans jamais sacrifier votre confort ; nettoyez, illuminez et embellissez votre ville en adoptant la méthode Haffner Energy.">
 
 
 -   **Prévention des risques : Des charges d'assurances en chute libre
@@ -329,7 +329,7 @@ macroéconomiques directs :
     la charge financière structurelle qui pèse sur les budgets de la
     Sécurité Sociale.
 
-    <img src="media/image11.jpg" width="700" alt="Haffner Energy — Les engrais agricoles sont déversés sur les côtes et prolifèrent d'algues encombrantes, malodorantes et toxiques. Elles font fuir les touristes, tuent la faune, polluent et détruisent les paysages et engendrent des coûts d'entretien considérables, tandis que les revenus des communes côtières diminuent. La solution ? Transformer cette pollution marine en source de revenus. Mélangez ces algues à d'autres biomasses pour produire des carburants. Fabriquez du biochar. Dépolluez vos plages, gagnez de l'argent, beaucoup d'argent. Séquestrez du carbone pour des siècles.">
+    <img src="media/FR/image11.jpg" width="700" alt="Haffner Energy — Les engrais agricoles sont déversés sur les côtes et prolifèrent d'algues encombrantes, malodorantes et toxiques. Elles font fuir les touristes, tuent la faune, polluent et détruisent les paysages et engendrent des coûts d'entretien considérables, tandis que les revenus des communes côtières diminuent. La solution ? Transformer cette pollution marine en source de revenus. Mélangez ces algues à d'autres biomasses pour produire des carburants. Fabriquez du biochar. Dépolluez vos plages, gagnez de l'argent, beaucoup d'argent. Séquestrez du carbone pour des siècles.">
 
 
 -   **Flexibilité et agilité des modèles de déploiement :** Pour
@@ -473,9 +473,9 @@ financière ou environnementale, que nous transformons en actif
 stratégique sans aucune pression sur la souveraineté alimentaire ou
 forestière de la Nation.
 
-  <center><img src="media/image12.jpg" width="700" alt="Haffner Energy — Une ville possède de nombreuses sources de biomasse qui engendrent des coûts élevés. Mais au lieu de dépenser et de gaspiller de l'argent en brûlant ses ressources, la ville peut transformer l'ensemble de ses charges en actifs, générer des revenus inedits et sauver la planète. Tout peut être transformé en or si nous cessons de suivre les politiques gouvernementales. Agissez localement pour créer votre propre système vertueux en produisant vos propres carburants verts à des prix inférieurs à ceux des carburants fossiles et offrir ainsi la gratuité de ses transports en communs. Arrêtez de faire n'importe quoi sans jamais sacrifier votre confort ; nettoyez, illuminez et embellissez votre ville en adoptant la méthode Haffner Energy."></center>
+  <center><img src="media/FR/image12.jpg" width="700" alt="Haffner Energy — Une ville possède de nombreuses sources de biomasse qui engendrent des coûts élevés. Mais au lieu de dépenser et de gaspiller de l'argent en brûlant ses ressources, la ville peut transformer l'ensemble de ses charges en actifs, générer des revenus inedits et sauver la planète. Tout peut être transformé en or si nous cessons de suivre les politiques gouvernementales. Agissez localement pour créer votre propre système vertueux en produisant vos propres carburants verts à des prix inférieurs à ceux des carburants fossiles et offrir ainsi la gratuité de ses transports en communs. Arrêtez de faire n'importe quoi sans jamais sacrifier votre confort ; nettoyez, illuminez et embellissez votre ville en adoptant la méthode Haffner Energy."></center>
 
-  <center><img src="media/image13.jpg" width="700" alt="Haffner Energy — Simplification, rapidité, retour sur investissement quasi immédiat, réduction significative des dépenses d'investissement, modularité dans le choix de la puissance, mobilité, efficacité, autonomie, disponibilité d'énergie verte 24h/24 et 7j/7, énergie au prix des combustibles fossiles et chute vertigineuse des coûts globaux."></center>
+  <center><img src="media/FR/image13.jpg" width="700" alt="Haffner Energy — Simplification, rapidité, retour sur investissement quasi immédiat, réduction significative des dépenses d'investissement, modularité dans le choix de la puissance, mobilité, efficacité, autonomie, disponibilité d'énergie verte 24h/24 et 7j/7, énergie au prix des combustibles fossiles et chute vertigineuse des coûts globaux."></center>
   
 La technologie de la thermolyse sèche décentralisée ne propose pas une
 simple alternative, elle pose les bases d\'une résilience
