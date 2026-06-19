@@ -26,6 +26,8 @@ vision stratégique.
 
 ![](media/image1.jpg){width="1.8137904636920386in"
 height="3.0216557305336833in"}
+![description](media/image1.jpg =400x600)
+<img src="media/image1.jpg" width="174" alt="description">
 
 Le modèle énergétique que nous suivons actuellement est, à bien des
 égards, une impasse financière et écologique. Fondé sur une dépendance
