@@ -24,10 +24,7 @@ pragmatiques, ont compris l\'urgence de s\'approprier les technologies
 de demain tandis que nous les abandonnons en haut lieu par manque de
 vision stratégique.
 
-![](media/image1.jpg){width="1.8137904636920386in"
-height="3.0216557305336833in"}
-![description](media/image1.jpg =400x600)
-<img src="media/image1.jpg" width="174" alt="description">
+<img src="media/image1.jpg" width="174" alt="Haffner Energy - L'echec des politiques ecologiques absurdes">
 
 Le modèle énergétique que nous suivons actuellement est, à bien des
 égards, une impasse financière et écologique. Fondé sur une dépendance
@@ -43,8 +40,7 @@ massive des usages. En privilégiant des solutions qui consomment une
 énergie précieuse au lieu de la générer intelligemment, nous entrons
 dans un cercle vicieux au nom d'une écologie factice.
 
-![Image](media/image2.jpg){width="5.877529527559055in"
-height="3.283333333333333in"}
+<img src="media/image2.jpg" width="174" alt="Haffner Energy - La planete Terre brule alors qu'une solution verte energetique universelle qui decarbonise existe avec des prix sous le fossile">
 
 Cette stratégie fragilise non seulement notre économie, mais elle
 hypothèque également notre capacité à soutenir le développement futur de
