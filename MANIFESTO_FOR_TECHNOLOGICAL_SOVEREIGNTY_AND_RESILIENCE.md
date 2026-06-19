@@ -1,6 +1,8 @@
-# MANIFESTO FOR TECHNOLOGICAL SOVEREIGNTY AND RESILIENCE
+# MANIFESTO FOR TECHNOLOGICAL SOVEREIGNTY AND RESILIENCE [(French version - FR)](manifeste_souverainete_technologique_v3_FR.md)
 
 *Towards a National Ecosystem of Energy, Health and Agricultural Autonomy*
+
+📥 [Consult the Manifesto for Technological Sovereignty and Resilience](../README.md)
 
 Independent Strategic Note - EJS - June 2026
 
