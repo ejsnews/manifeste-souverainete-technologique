@@ -392,6 +392,8 @@ macroéconomiques directs :
                          et crédits de séquestration carbone CORC).
   -----------------------------------------------------------------------
 
+  <img src="media/image11.jpg" width="700" alt="Haffner Energy — ">
+
 **IV. Appel à l\'action : Choc de souveraineté nationale**
 
 Il est impératif que l\'État cesse d\'être l\'observateur passif de son
