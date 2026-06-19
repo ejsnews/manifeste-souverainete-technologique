@@ -173,40 +173,15 @@ Le modèle de thermolyse décentralisée ne se limite pas à une prouesse techni
 
 **Données techniques et économiques de référence (Module C-iC H6)**
 
-  -----------------------------------------------------------------------
-  **Puissance            Module modulaire décentralisé de 2 MW à 5 MW
-  thermochimique**       nominal.
-  ---------------------- ------------------------------------------------
-  **Débit de production  Production continue de 60 kg d\'hydrogène
-  unique**               ultra-pur (H2) par heure et par module C-iC de
-                         base.
-
-  **Rendement de         De 75% à plus de 80% d\'efficacité énergétique
-  conversion**           globale (solide → gaz utile), sans aucune
-                         cascade biochimique.
-
-  **Intrants &           \~1 tonne de biomasse brute/heure (Paille de
-  Consommation**         blé, résidus forestiers, Bois B, algues, CSR
-                         séchés, 140 types testés avec succès). Procédé
-                         auto-thermique sans besoin électrique
-                         significatif du réseau.
-
-  **CAPEX initial        2 à 5 millions d\'euros par module d\'ingénierie
-  estimé**               conteneurisé selon le carburant souhaité
-                         (Syngas, H2, biométhane, SAF...). Assemblage
-                         usine, installation rapide en \<1 mois sans
-                         génie civil.
-
-  **OPEX net cible**     Coût de revient inférieur à 2 €/kg d\'hydrogène
-                         de haute pureté ou équivalent carburant
-                         (SAF/méthane), amortissement inclus et équilibré
-                         par la valorisation des co-produits.
-
-  **Co-produit           Production de 200kg de biochar solide par tonne
-  valorisé**             de biomasse (amendement agricole à haute valeur
-                         et crédits de séquestration carbone CORC).
-  -----------------------------------------------------------------------
-
+| Paramètre | Détail |
+|---|---|
+| **Puissance thermochimique** | Module modulaire décentralisé de 2 MW à 5 MW nominal. |
+| **Débit de production unique** | Production continue de 60 kg d'hydrogène ultra-pur (H2) par heure et par module C-iC de base. |
+| **Rendement de conversion** | De 75% à plus de 80% d'efficacité énergétique globale (solide → gaz utile), sans aucune cascade biochimique. |
+| **Intrants & Consommation** | ~1 tonne de biomasse brute/heure (Paille de blé, résidus forestiers, Bois B, algues, CSR séchés, 140 types testés avec succès). Procédé auto-thermique sans besoin électrique significatif du réseau. |
+| **CAPEX initial estimé** | 2 à 5 millions d'euros par module d'ingénierie conteneurisé selon le carburant souhaité (Syngas, H2, biométhane, SAF...). Assemblage usine, installation rapide en <1 mois sans génie civil. |
+| **OPEX net cible** | Coût de revient inférieur à 2 €/kg d'hydrogène de haute pureté ou équivalent carburant (SAF/méthane), amortissement inclus et équilibré par la valorisation des co-produits. |
+| **Co-produit valorisé** | Production de 200 kg de biochar solide par tonne de biomasse (amendement agricole à haute valeur et crédits de séquestration carbone CORC). |
 
 ## IV. Appel à l\'action : Choc de souveraineté nationale
 
