@@ -454,7 +454,6 @@ ailleurs:
     ses propres innovations, la France créera l\'effet d\'entraînement
     nécessaire pour conquérir les marchés mondiaux.
     
-  <img src="media/image11.jpg" width="700" alt="Haffner Energy — ">
 
 **Conclusion : Le choix de l\'Histoire**
 
@@ -473,8 +472,9 @@ une ressource locale, fatale, aujourd\'hui considérée comme une charge
 financière ou environnementale, que nous transformons en actif
 stratégique sans aucune pression sur la souveraineté alimentaire ou
 forestière de la Nation.
+  <center><img src="media/image11.jpg" width="700" alt="Haffner Energy — "></center>
 
-    <center><img src="media/image12.jpg" width="700" alt="Haffner Energy — "></center>
+    <img src="media/image12.jpg" width="700" alt="Haffner Energy — ">
 
 
     <center><img src="media/image13.jpg" width="700" alt="Haffner Energy — "></center>
