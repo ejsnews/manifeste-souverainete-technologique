@@ -11,12 +11,12 @@ d\'une gestion court-termiste, nous sacrifions nos fleurons industriels sur l\'a
 
 Pendant que nos PME de haute valeur, porteuses de ruptures majeures, sont soumises à une prédation financière acharnée, à des faillites évitables ou à l\'exil forcé vers des terres plus accueillantes, nos brevets sont captés par des puissances étrangères. Ces nations, plus pragmatiques, ont compris l\'urgence de s\'approprier les technologies de demain tandis que nous les abandonnons en haut lieu par manque de vision stratégique.
 
-<img src="media/FR/image1.jpg" width="174" alt="Haffner Energy - L'echec des politiques ecologiques absurdes">
+<center><img src="media/FR/image1.jpg" width="174" alt="Haffner Energy - L'echec des politiques ecologiques absurdes"></center>
 
 Le modèle énergétique que nous suivons actuellement est, à bien des égards, une impasse financière et écologique. Fondé sur une dépendance excessive aux réseaux centralisés et sur une confiance aveugle dans des technologies non écologiques comme l\'électrolyse produite avec des énergies fossiles ou nucléaires, si bien que cet hydrogène se retrouve en compétition avec les intelligences artificielles, les cryptomonnaies ou l'industrie, ce système crée de l'inflation, épuise nos ressources
 financières et sature nos infrastructures électriques. L\'électrolyse en réseau agit comme un goulot d\'étranglement qui congestionne une infrastructure électrique nationale déjà saturée par l\'électrification massive des usages. En privilégiant des solutions qui consomment une énergie précieuse au lieu de la générer intelligemment, nous entrons dans un cercle vicieux au nom d'une écologie factice.
 
-<img src="media/FR/image2.jpg" width="700" alt="Haffner Energy - La planete Terre brule alors qu'une solution verte energetique universelle qui decarbonise existe avec des prix sous le fossile">
+<center><img src="media/FR/image2.jpg" width="700" alt="Haffner Energy - La planete Terre brule alors qu'une solution verte energetique universelle qui decarbonise existe avec des prix sous le fossile"></center>
 
 Cette stratégie fragilise non seulement notre économie, mais elle hypothèque également notre capacité à soutenir le développement futur de l\'intelligence artificielle et de la robotique, qui exigeront une puissance disponible massive, décentralisée et, surtout, souveraine. 
 Chaque térawattheure gaspillé dans l\'électrolyse est un térawattheure arraché aux supercalculateurs et à la souveraineté numérique de la France. Il est temps de mettre fin à cet aveuglément qui promeut notre déclin industriel par l'entremise d'une rupture technologique immédiate et radicale.
@@ -35,13 +35,13 @@ une chaleur anthropique dissipée qui vient réchauffer l\'enveloppe terrestre. 
 
 À cet égard, l\'avènement imminent de l\'intelligence artificielle générative et de la robotique lourde va agir comme un accélérateur exponentiel de ce phénomène. Ce baby drill technologique --- l'usage frénétique, global et inconsidéré de la puissance de calcul et des flottes de machines --- va créer un appel d\'air énergétique sans précédent dans l\'histoire humaine, menant la Terre vers une impasse écologique irréversible si l\'infrastructure sous-jacente reste inchangée.
 
-<img src="media/FR/image3.jpg" width="700" alt="Haffner Energy – Alors que l'Amérique capitule face à un Iran victorieux, Trump relance sa politique de forage intensif. Si les nouvelles technologies fondées sur l'intelligence artificielle constituent une avancée pour l'humanité, leur alimentation en énergie ne peut plus reposer sur des méthodes obsolètes. À moins de vouloir détruire la planète, nous devons opter pour la solution Haffner Energy : une solution universelle d'énergie verte qui décarbone l'atmosphère tout en fournissant une énergie propre à des tarifs inférieurs à ceux des combustibles fossiles.">
+<center><img src="media/FR/image3.jpg" width="700" alt="Haffner Energy – Alors que l'Amérique capitule face à un Iran victorieux, Trump relance sa politique de forage intensif. Si les nouvelles technologies fondées sur l'intelligence artificielle constituent une avancée pour l'humanité, leur alimentation en énergie ne peut plus reposer sur des méthodes obsolètes. À moins de vouloir détruire la planète, nous devons opter pour la solution Haffner Energy : une solution universelle d'énergie verte qui décarbone l'atmosphère tout en fournissant une énergie propre à des tarifs inférieurs à ceux des combustibles fossiles."></center>
 
 Dans ce contexte de tension absolue, la technologie de thermolyse développée par Haffner Energy s\'impose comme la seule architecture industrielle au monde capable de résoudre cette double équation simultanément : elle génère une énergie propre, hautement compétitive, tout en extrayant et en séquestrant définitivement le carbone sous forme de biochar solide. Elle ne se contente pas d\'être neutre ; elle est négative en carbone. Elle offre enfin une mission vertueuse à la
 révolution robotique : plutôt que de saturer les réseaux, les systèmes automatisés et les robots de demain doivent être mis au service de la dépollution active de la planète---notamment en collectant et en triant nos millions de tonnes de déchets plastiques et organiques pour alimenter ces modules de transformation. C\'est ainsi que nous produirons des carburants de synthèse et de l\'hydrogène à un coût inférieur aux énergies fossiles, tout en guérissant activement la
 biosphère.
 
-<img src="media/FR/image4.jpg" width="700" alt="Haffner Energy – Alors que l'Amérique capitule face à un Iran victorieux, Trump relance sa politique de forage intensif. Elon Musk reconnaît que l'humanité agit de manière insensée et court à sa perte en détruisant son habitat. Son unique vision est la conquête de l'espace. Bien que ce rêve fantastique soit exaltant, il existe une autre réalité : la vie dans l'espace est extrêmement difficile et incertaine, et de nombreux défis nous y attendent, qui ne seront pas résolus avant des siècles. Sauver la Terre n'est pas si difficile et pourrait s'avérer extrêmement rentable si les décideurs politiques s'y engageaient. C'est là que la grande majorité des êtres humains continueront de vivre. Si les nouvelles technologies fondées sur l'intelligence artificielle constituent une avancée majeure pour l'humanité, leur alimentation en énergie ne peut plus reposer sur des méthodes obsolètes. À moins de vouloir détruire la planète, nous devons opter pour la solution Haffner Energy : une solution d'énergie verte universelle qui décarbone l'atmosphère tout en fournissant une énergie propre à des tarifs inférieurs à ceux des énergies fossiles.">
+<center><img src="media/FR/image4.jpg" width="700" alt="Haffner Energy – Alors que l'Amérique capitule face à un Iran victorieux, Trump relance sa politique de forage intensif. Elon Musk reconnaît que l'humanité agit de manière insensée et court à sa perte en détruisant son habitat. Son unique vision est la conquête de l'espace. Bien que ce rêve fantastique soit exaltant, il existe une autre réalité : la vie dans l'espace est extrêmement difficile et incertaine, et de nombreux défis nous y attendent, qui ne seront pas résolus avant des siècles. Sauver la Terre n'est pas si difficile et pourrait s'avérer extrêmement rentable si les décideurs politiques s'y engageaient. C'est là que la grande majorité des êtres humains continueront de vivre. Si les nouvelles technologies fondées sur l'intelligence artificielle constituent une avancée majeure pour l'humanité, leur alimentation en énergie ne peut plus reposer sur des méthodes obsolètes. À moins de vouloir détruire la planète, nous devons opter pour la solution Haffner Energy : une solution d'énergie verte universelle qui décarbone l'atmosphère tout en fournissant une énergie propre à des tarifs inférieurs à ceux des énergies fossiles."></center>
 
 La technologie de thermolyse constitue le pilier d\'un nouveau modèle de société, un paradigme où chaque territoire --- du quartier urbain à la coopérative agricole --- cesse d\'être un simple consommateur passif pour devenir son propre producteur d\'indépendance. Ce n\'est pas seulement une alternative énergétique, c\'est une architecture
 écologique d'autonomie parfaite produisant proprement et massivement à des prix proches du fossile.
@@ -71,7 +71,7 @@ Ce système transforme radicalement le \"déchet\", qui ne coûte plus à enfoui
     alimentaire. Nos agriculteurs ne seront plus à la merci de la
     volatilité des cours du gaz naturel.
 
-<img src="media/FR/image5.jpg" width="700" alt="Haffner Energy – transforme toute forme de biomasse en un gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Ce gaz de synthèse peut être aisément converti en une large gamme de carburants verts : hydrogène ultra-pur, SAF (carburant d'aviation durable) vert, méthane, méthanol, ammoniac et engrais. Cette solution ne se contente pas de séquestrer le carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des énergies fossiles. Elle offre la possibilité d'atteindre l'autosuffisance tout en sauvant la planète.">
+<center><img src="media/FR/image5.jpg" width="700" alt="Haffner Energy – transforme toute forme de biomasse en un gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Ce gaz de synthèse peut être aisément converti en une large gamme de carburants verts : hydrogène ultra-pur, SAF (carburant d'aviation durable) vert, méthane, méthanol, ammoniac et engrais. Cette solution ne se contente pas de séquestrer le carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des énergies fossiles. Elle offre la possibilité d'atteindre l'autosuffisance tout en sauvant la planète."></center>
 
 **2. Le Biochar enrichi, or noir des sols et actif réglementaire**
 
@@ -100,39 +100,17 @@ de générer de l\'énergie : elle recrée une cohérence entre l\'économie,
 la terre et la santé publique. Chaque unité installée sur le territoire
 devient un maillon de la reconstruction de notre autonomie nationale.
 
-<img src="media/FR/image6.jpg" width="700" alt="Haffner Energy — Si les modules hautement rentables de Haffner Energy permettent de transformer toute forme de biomasse volumineuse, insalubre ou toxique en gaz de synthèse (composé d'hydrogène et de monoxyde de carbone) et en biochar — lesquels peuvent ensuite être aisément convertis en une vaste gamme de carburants verts (hydrogène ultra-pur, SAF/carburant d'aviation durable, méthane, méthanol, ammoniac et engrais) —, il existe également un moyen simple et efficace d'accroître considérablement les revenus tout en séquestrant davantage de carbone pour des siècles : la culture de bambou sauvage sur des terres marginales. Cette pratique génère des revenus substantiels et fournit une énergie locale et souveraine à des prix inférieurs à ceux des combustibles fossiles. Ce faisant, l'agriculteur offre à son pays la possibilité d'atteindre l'autosuffisance énergétique tout en préservant la planète.">
+<center><img src="media/FR/image6.jpg" width="700" alt="Haffner Energy — Si les modules hautement rentables de Haffner Energy permettent de transformer toute forme de biomasse volumineuse, insalubre ou toxique en gaz de synthèse (composé d'hydrogène et de monoxyde de carbone) et en biochar — lesquels peuvent ensuite être aisément convertis en une vaste gamme de carburants verts (hydrogène ultra-pur, SAF/carburant d'aviation durable, méthane, méthanol, ammoniac et engrais) —, il existe également un moyen simple et efficace d'accroître considérablement les revenus tout en séquestrant davantage de carbone pour des siècles : la culture de bambou sauvage sur des terres marginales. Cette pratique génère des revenus substantiels et fournit une énergie locale et souveraine à des prix inférieurs à ceux des combustibles fossiles. Ce faisant, l'agriculteur offre à son pays la possibilité d'atteindre l'autosuffisance énergétique tout en préservant la planète."></center>
 
 
+**3. Sécurité et Résilience Globale : L\'hôpital et le territoire au cœur de l\'autonomie**
 
-**3. Sécurité et Résilience Globale : L\'hôpital et le territoire au
-cœur de l\'autonomie**
-
-La véritable souveraineté repose sur la capacité d\'une nation à
-maintenir ses services essentiels, même sous la pression d'incompétences
-étatiques, d'un refus systémique de l'intelligence artificielle ou de la
-dette. En intégrant la thermolyse à l\'automatisation de pointe, nous
-transformons nos infrastructures critiques en de véritables forteresses
-énergétiques, écologiques et sanitaires.
+La véritable souveraineté repose sur la capacité d\'une nation à maintenir ses services essentiels, même sous la pression d'incompétences étatiques, d'un refus systémique de l'intelligence artificielle ou de la dette. En intégrant la thermolyse à l\'automatisation de pointe, nous transformons nos infrastructures critiques en de véritables forteresses énergétiques, écologiques et sanitaires.
 
 -   **Hubs Hôpitaux-Cités : L\'hôpital autonome et circulaire :**
-    L\'hôpital, centre névralgique de notre système de santé, doit
-    cesser d\'être une dépendance fragile du réseau. En couplant la
-    technologie de thermolyse à l\'automatisation robotisée (un robot de
-    type Optimus peut s'en charger), nous créons un circuit fermé d\'une
-    efficacité inégalée. Les robots prennent en charge la logistique
-    interne complexe : ils collectent et trient, avec une précision et
-    une sécurité chirurgicale, les déchets hospitaliers et organiques
-    urbains. Ces matières sont acheminées en temps réel vers l\'unité de
-    thermolyse intégrée au site. Le résultat est une autosuffisance
-    totale : l\'énergie produite alimente les blocs opératoires, tandis
-    que la chaleur fatale génère, par des systèmes de machines à
-    absorption le chauffage des bâtiments ou bien le froid nécessaire à
-    la conservation des médicaments, des vaccins et au fonctionnement
-    des morgues. Ce système protège le personnel soignant des risques de
-    manipulation des déchets infectieux et assure la continuité des
-    soins, indépendamment des aléas extérieurs.
+    L\'hôpital, centre névralgique de notre système de santé, doit cesser d\'être une dépendance fragile du réseau. En couplant la technologie de thermolyse à l\'automatisation robotisée (un robot de type Optimus peut s'en charger), nous créons un circuit fermé d\'une efficacité inégalée. Les robots prennent en charge la logistique interne complexe : ils collectent et trient, avec une précision et une sécurité chirurgicale, les déchets hospitaliers et organiques urbains. Ces matières sont acheminées en temps réel vers l\'unité de thermolyse intégrée au site. Le résultat est une autosuffisance totale : l\'énergie produite alimente les blocs opératoires, tandis que la chaleur fatale génère, par des systèmes de machines à absorption le chauffage des bâtiments ou bien le froid nécessaire à la conservation des médicaments, des vaccins et au fonctionnement des morgues. Ce système protège le personnel soignant des risques de manipulation des déchets infectieux et assure la continuité des soins, indépendamment des aléas extérieurs.
 
-<img src="media/FR/image7.jpg" width="700" alt="Haffner Energy peut transformer toute forme de biomasse — y compris les déchets cellulosiques tels que les masques et vêtements du personnel ou des patients, ou encore les déchets alimentaires hospitaliers — en gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Le tri peut être effectué dans une zone protégée par un robot Optimus. Ce gaz de synthèse peut être facilement converti en une large gamme de carburants verts, comme de l'hydrogène ultra-pur destiné aux véhicules des services d'urgence médicale (SAMU). La chaleur fatale peut être valorisée pour le chauffage des bâtiments ou pour produire de l'électricité pour l'hôpital. Cette solution ne se contente pas de séquestrer du carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des combustibles fossiles. Elle offre à l'hôpital l'opportunité d'atteindre l'autosuffisance énergétique tout en préservant la planète.">
+<center><img src="media/FR/image7.jpg" width="700" alt="Haffner Energy peut transformer toute forme de biomasse — y compris les déchets cellulosiques tels que les masques et vêtements du personnel ou des patients, ou encore les déchets alimentaires hospitaliers — en gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Le tri peut être effectué dans une zone protégée par un robot Optimus. Ce gaz de synthèse peut être facilement converti en une large gamme de carburants verts, comme de l'hydrogène ultra-pur destiné aux véhicules des services d'urgence médicale (SAMU). La chaleur fatale peut être valorisée pour le chauffage des bâtiments ou pour produire de l'électricité pour l'hôpital. Cette solution ne se contente pas de séquestrer du carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des combustibles fossiles. Elle offre à l'hôpital l'opportunité d'atteindre l'autosuffisance énergétique tout en préservant la planète."></center>
 
 -   **La révolution de la mobilité militaire : La miniaturisation au
     service de l\'autonomie tactique :** La vulnérabilité des forces
@@ -149,7 +127,7 @@ transformons nos infrastructures critiques en de véritables forteresses
     extérieurs ; c\'est, sur le champ de bataille, la garantie de
     l\'autonomie et de la supériorité opérationnelle.
 
-<img src="media/FR/image8.jpg" width="700" alt="Haffner Energy — Les modules H4 ou H6 (dénommés S-iC et C-iC) sont facilement transportables et peuvent être installés sans fondations lourdes. Ils sont faciles à entretenir, déplaçables et peuvent être combinés pour accroître la capacité globale. Compte tenu de leur conception, une évolution probable de ces modules serait la miniaturisation et une mobilité accrue afin de faciliter la location, ainsi que la production locale d'énergie à partir de tout type de biomasse. Une application naturelle serait l'usage militaire tactique sur des terrains difficiles, où le ravitaillement des véhicules sous le feu ennemi s'avère impossible.">
+<center><img src="media/FR/image8.jpg" width="700" alt="Haffner Energy — Les modules H4 ou H6 (dénommés S-iC et C-iC) sont facilement transportables et peuvent être installés sans fondations lourdes. Ils sont faciles à entretenir, déplaçables et peuvent être combinés pour accroître la capacité globale. Compte tenu de leur conception, une évolution probable de ces modules serait la miniaturisation et une mobilité accrue afin de faciliter la location, ainsi que la production locale d'énergie à partir de tout type de biomasse. Une application naturelle serait l'usage militaire tactique sur des terrains difficiles, où le ravitaillement des véhicules sous le feu ennemi s'avère impossible."></center>
 
 -   **Dépollution et Santé publique : Une économie du vivant :** Il est
     temps de rompre avec les méthodes archaïques de l\'incinération
@@ -168,100 +146,30 @@ transformons nos infrastructures critiques en de véritables forteresses
     nous-mêmes et nous allégeons durablement la charge financière pesant
     sur le budget national.
 
-    <img src="media/FR/image9.jpg" width="700" alt="Haffner Energy — Il existe de nombreuses plateformes logistiques, qu'il s'agisse de plateformes de Rungis ou de centres d'approvisionnement pour divers centres commerciaux. Ces secteurs génèrent d'importants déchets, notamment des cartons, des palettes en bois, des matières organiques et d'autres matériaux, facilement valorisables et transformables sur place en biocarburants de haute qualité à des prix très bas pour la logistique. Capturons le carbone atmosphérique sous forme de biochar, sauvons la planète en gagnant beaucoup d'argent et assainissons-la.">
+    <center><img src="media/FR/image9.jpg" width="700" alt="Haffner Energy — Il existe de nombreuses plateformes logistiques, qu'il s'agisse de plateformes de Rungis ou de centres d'approvisionnement pour divers centres commerciaux. Ces secteurs génèrent d'importants déchets, notamment des cartons, des palettes en bois, des matières organiques et d'autres matériaux, facilement valorisables et transformables sur place en biocarburants de haute qualité à des prix très bas pour la logistique. Capturons le carbone atmosphérique sous forme de biochar, sauvons la planète en gagnant beaucoup d'argent et assainissons-la."></center>
 
-    <img src="media/FR/image10.jpg" width="700" alt="Haffner Energy — Une ville possède de nombreuses sources de biomasse qui engendrent des coûts élevés. Au lieu de dépenser et de gaspiller de l'argent en brûlant vos ressources, transformez cet or organique en actifs pour générer des revenus et sauver la planète. Tout peut être transformé en or si nous cessons de suivre les politiques gouvernementales. Agissez localement pour créer votre propre système vertueux en produisant vos propres carburants verts à des prix inférieurs à ceux des carburants fossiles. Arrêtez de faire n'importe quoi sans jamais sacrifier votre confort ; nettoyez, illuminez et embellissez votre ville en adoptant la méthode Haffner Energy.">
+    <center><img src="media/FR/image10.jpg" width="700" alt="Haffner Energy — Une ville possède de nombreuses sources de biomasse qui engendrent des coûts élevés. Au lieu de dépenser et de gaspiller de l'argent en brûlant vos ressources, transformez cet or organique en actifs pour générer des revenus et sauver la planète. Tout peut être transformé en or si nous cessons de suivre les politiques gouvernementales. Agissez localement pour créer votre propre système vertueux en produisant vos propres carburants verts à des prix inférieurs à ceux des carburants fossiles. Arrêtez de faire n'importe quoi sans jamais sacrifier votre confort ; nettoyez, illuminez et embellissez votre ville en adoptant la méthode Haffner Energy."></center>
 
 
--   **Prévention des risques : Des charges d'assurances en chute libre
-    :** Aujourd'hui, beaucoup de terrains ne sont pas entretenus du fait
-    du coût que cela entraîne. Ces négligences entraînent souvent des
-    feux de forêts qui ensuite mettent en péril des habitations. Demain,
-    le défrichage systématique des zones à risque sera un travail
-    fortement rémunéré étant donné le très haut rendement des modules.
-    Toute biomasse donnera de très importantes quantités d'hydrogène et
-    de Biochar, ce dernier ayant une valeur commerciale.
+-   **Prévention des risques : Des charges d'assurances en chute libre :** Aujourd'hui, beaucoup de terrains ne sont pas entretenus du fait du coût que cela entraîne. Ces négligences entraînent souvent des feux de forêts qui ensuite mettent en péril des habitations. Demain, le défrichage systématique des zones à risque sera un travail fortement rémunéré étant donné le très haut rendement des modules.
+    Toute biomasse donnera de très importantes quantités d'hydrogène et de Biochar, ce dernier ayant une valeur commerciale.
 
 ## III. Bilan Économique et Choc Macroéconomique : L\'inversion de la courbe du déclin par l\'autonomie territoriale
 
-Le modèle de thermolyse décentralisée ne se limite pas à une prouesse
-technique ; il constitue un levier de restructuration budgétaire
-profonde pour la nation, capable de redéfinir la structure même de notre
-Produit Intérieur Brut (PIB). Notre système étatique actuel,
-structurellement déficitaire, est, d'une part, exploité par les
-politiques pour asseoir leurs élections, et est, d'autre part, asservi
-aux fluctuations des marchés mondiaux de l\'énergie et aux coûts
-croissants du traitement des déchets. Le déploiement de cette
-technologie permettrait de briser ce cycle par trois leviers
-macroéconomiques directs :
+Le modèle de thermolyse décentralisée ne se limite pas à une prouesse technique ; il constitue un levier de restructuration budgétaire profonde pour la nation, capable de redéfinir la structure même de notre Produit Intérieur Brut (PIB). Notre système étatique actuel, structurellement déficitaire, est, d'une part, exploité par les politiques pour asseoir leurs élections, et est, d'autre part, asservi aux fluctuations des marchés mondiaux de l\'énergie et aux coûts croissants du traitement des déchets. Le déploiement de cette technologie permettrait de briser ce cycle par trois leviers macroéconomiques directs :
 
--   **La fin de l\'hémorragie des importations fossiles et le
-    redressement de la balance commerciale :** En valorisant nos propres
-    ressources --- biomasse agricole, gisements forestiers et déchets
-    municipaux --- nous cessons de transférer des milliards d\'euros
-    vers l\'étranger pour acheter des énergies fossiles qui
-    réchaufferont l'atmosphère. La facture énergétique de la France
-    s\'élève chaque année entre 60 et 80 milliards d\'euros, constituant
-    la cause majeure de notre déficit commercial chronique. En y
-    ajoutant les 3 milliards d\'euros d\'importations d\'engrais et
-    d\'ammoniac basés sur le gaz fossile, notre souveraineté financière
-    est littéralement siphonnée. Substituer ces importations par une
-    production thermochimique décentralisée et transformer la France en
-    exportatrice nette de Biochar haute performance (crédits CORC)
-    permettrait de redresser la balance commerciale à hauteur de 30 à 40
-    milliards d\'euros par an, effaçant d\'un coup près de la moitié du
-    déficit national.
+-   **La fin de l\'hémorragie des importations fossiles et le redressement de la balance commerciale :** En valorisant nos propres ressources --- biomasse agricole, gisements forestiers et déchets municipaux --- nous cessons de transférer des milliards d\'euros vers l\'étranger pour acheter des énergies fossiles qui réchaufferont l'atmosphère. La facture énergétique de la France s\'élève chaque année entre 60 et 80 milliards d\'euros, constituant la cause majeure de notre déficit commercial chronique. En y ajoutant les 3 milliards d\'euros d\'importations d\'engrais et d\'ammoniac basés sur le gaz fossile, notre souveraineté financière est littéralement siphonnée. Substituer ces importations par une production thermochimique décentralisée et transformer la France en exportatrice nette de Biochar haute performance (crédits CORC) permettrait de redresser la balance commerciale à hauteur de 30 à 40 milliards d\'euros par an, effaçant d\'un coup près de la moitié du déficit national.
 
--   **L\'effet multiplicateur sur le PIB et l\'allègement de la dette
-    publique :** Chaque milliard d\'euros qui n\'est plus versé aux
-    cartels pétroliers ou aux puissances gazières étrangères reste
-    injecté dans l\'économie réelle de nos territoires. Ce basculement
-    des flux financiers génère un gain mécanique de 1,5 à 2 points de
-    PIB annuel. Ce regain de richesse souveraine offre à l\'État des
-    recettes fiscales organiques nouvelles sans alourdir la fiscalité
-    des ménages, amorçant le seul véritable processus viable de
-    remboursement de notre dette publique abyssale par l\'augmentation
-    de la richesse produite et non par l\'austérité.
+-   **L\'effet multiplicateur sur le PIB et l\'allègement de la dette publique :** Chaque milliard d\'euros qui n\'est plus versé aux cartels pétroliers ou aux puissances gazières étrangères reste injecté dans l\'économie réelle de nos territoires. Ce basculement des flux financiers génère un gain mécanique de 1,5 à 2 points de PIB annuel. Ce regain de richesse souveraine offre à l\'État des recettes fiscales organiques nouvelles sans alourdir la fiscalité des ménages, amorçant le seul véritable processus viable de remboursement de notre dette publique abyssale par l\'augmentation de la richesse produite et non par l\'austérité.
 
--   **Le dividende social : Emplois souverains et confort de vie
-    sanitaire :** Contrairement aux industries lourdes centralisées,
-    l\'architecture modulaire de 2MW à 5MW appelle un maillage
-    industriel de proximité. C\'est la promesse de la création de 50 000
-    à 80 000 emplois non délocalisables au cœur de nos campagnes et de
-    nos municipalités. Parallèlement, le remplacement progressif de
-    l\'incinération de masse par la thermolyse propre assainit l\'air de
-    nos cités. En éliminant les particules fines et les polluants de
-    combustion, cette transition élève radicalement le confort de vie et
-    la santé publique, allégeant de plusieurs milliards d\'euros par an
-    la charge financière structurelle qui pèse sur les budgets de la
-    Sécurité Sociale.
+-   **Le dividende social : Emplois souverains et confort de vie sanitaire :** Contrairement aux industries lourdes centralisées, l\'architecture modulaire de 2MW à 5MW appelle un maillage industriel de proximité. C\'est la promesse de la création de 50 000 à 80 000 emplois non délocalisables au cœur de nos campagnes et de nos municipalités. Parallèlement, le remplacement progressif de l\'incinération de masse par la thermolyse propre assainit l\'air de nos cités. En éliminant les particules fines et les polluants de combustion, cette transition élève radicalement le confort de vie et la santé publique, allégeant de plusieurs milliards d\'euros par an la charge financière structurelle qui pèse sur les budgets de la Sécurité Sociale.
 
-    <img src="media/FR/image11.jpg" width="700" alt="Haffner Energy — Les engrais agricoles sont déversés sur les côtes et prolifèrent d'algues encombrantes, malodorantes et toxiques. Elles font fuir les touristes, tuent la faune, polluent et détruisent les paysages et engendrent des coûts d'entretien considérables, tandis que les revenus des communes côtières diminuent. La solution ? Transformer cette pollution marine en source de revenus. Mélangez ces algues à d'autres biomasses pour produire des carburants. Fabriquez du biochar. Dépolluez vos plages, gagnez de l'argent, beaucoup d'argent. Séquestrez du carbone pour des siècles.">
+    <center><img src="media/FR/image11.jpg" width="700" alt="Haffner Energy — Les engrais agricoles sont déversés sur les côtes et prolifèrent d'algues encombrantes, malodorantes et toxiques. Elles font fuir les touristes, tuent la faune, polluent et détruisent les paysages et engendrent des coûts d'entretien considérables, tandis que les revenus des communes côtières diminuent. La solution ? Transformer cette pollution marine en source de revenus. Mélangez ces algues à d'autres biomasses pour produire des carburants. Fabriquez du biochar. Dépolluez vos plages, gagnez de l'argent, beaucoup d'argent. Séquestrez du carbone pour des siècles."></center>
 
+-   **Flexibilité et agilité des modèles de déploiement :** Pour garantir une adoption massive et rapide, le système modulaire peu coûteux d'une puissance allant de 2MW à 5MW par module, mobile, ne demandant pas de fondation, presque pas d'électricité, opérationnel en 3 semaines, offre un retour sur investissement unique et une adaptabilité financière totale. Qu\'il s\'agisse de contrats de leasing, d\'achat direct par des acteurs privés ou de la création de coopératives territoriales d\'énergie, chaque solution est conçue pour maximiser la réactivité. Cette agilité permet à chaque acteur, du plus petit agriculteur à la plus grande collectivité, d\'accéder à l\'indépendance énergétique sans subir le frein des lourdeurs bancaires traditionnelles.
 
--   **Flexibilité et agilité des modèles de déploiement :** Pour
-    garantir une adoption massive et rapide, le système modulaire peu
-    coûteux d'une puissance allant de 2MW à 5MW par module, mobile, ne
-    demandant pas de fondation, presque pas d'électricité, opérationnel
-    en 3 semaines, offre un retour sur investissement unique et une
-    adaptabilité financière totale. Qu\'il s\'agisse de contrats de
-    leasing, d\'achat direct par des acteurs privés ou de la création de
-    coopératives territoriales d\'énergie, chaque solution est conçue
-    pour maximiser la réactivité. Cette agilité permet à chaque acteur,
-    du plus petit agriculteur à la plus grande collectivité, d\'accéder
-    à l\'indépendance énergétique sans subir le frein des lourdeurs
-    bancaires traditionnelles.
-
--   **Le rendement par la valorisation de la valeur :** Cette
-    technologie transforme en transmutant les déchets de biomasse,
-    c'est-à-dire les charges, en actifs et en revenus. Aujourd\'hui, le
-    traitement des déchets est une perte financière engloutie par des
-    coûts de gestion lourds. Demain, cette même matière peut devenir une
-    source constante d\'énergie et d\'engrais. Cette valeur économique,
-    au lieu de disparaître dans des processus d\'élimination coûteux,
-    polluants et contribuant au réchauffement climatique, reste captée
-    sur le territoire, stimulant l\'emploi local, finançant les services
-    publics et renforçant durablement la trésorerie des collectivités.
+-   **Le rendement par la valorisation de la valeur :** Cette technologie transforme en transmutant les déchets de biomasse,
+    c'est-à-dire les charges, en actifs et en revenus. Aujourd\'hui, le traitement des déchets est une perte financière engloutie par des coûts de gestion lourds. Demain, cette même matière peut devenir une source constante d\'énergie et d\'engrais. Cette valeur économique, au lieu de disparaître dans des processus d\'élimination coûteux, polluants et contribuant au réchauffement climatique, reste captée sur le territoire, stimulant l\'emploi local, finançant les services publics et renforçant durablement la trésorerie des collectivités.
 
 **Données techniques et économiques de référence (Module C-iC H6)**
 
@@ -302,83 +210,22 @@ macroéconomiques directs :
 
 ## IV. Appel à l\'action : Choc de souveraineté nationale
 
-Il est impératif que l\'État cesse d\'être l\'observateur passif de son
-propre déclassement. Le bon sens exige une rupture immédiate dans la
-conduite destructrice de la politique industrielle en France et
-ailleurs:
+Il est impératif que l\'État cesse d\'être l\'observateur passif de son propre déclassement. Le bon sens exige une rupture immédiate dans la conduite destructrice de la politique industrielle en France et ailleurs:
 
--   **L\'Audit des valeurs stratégiques :** L\'État doit lancer, sans
-    délai, un recensement national des PME technologiques de rupture
-    dont le savoir-faire est critique pour notre survie. Ces entreprises
-    doivent être sanctuarisées, protégées de la prédation financière
-    étrangère et accompagnées pour passer à l\'échelle industrielle.
-    L\'État doit impérativement mettre en place un bouclier financier
-    --- un Fonds Anti-Dilution de Souveraineté --- pour interdire le
-    recours forcé à des structures prédatrices de financement alternatif
-    (fonds spéculatifs abusant des lignes d\'OCEANE ou de BSA) qui
-    spolient et détruisent l'épargne des investisseurs français logée
-    dans les PEA-PME. Ces mécanismes prédateurs organisent la vente à
-    découvert systématique de nos pépites cotées ; ils diluent
-    massivement le capital social par l\'émission de millions, voire de
-    milliards d\'actions nouvelles, et provoquent l\'assaut immédiat de
-    Hedge Funds en position short dès la signature des contrats. Ces
-    pratiques rendent toute gouvernance stable impossible, pulvérisent
-    la valorisation boursière et bloquent définitivement l\'accès au
-    crédit bancaire traditionnel, offrant ainsi notre propriété
-    intellectuelle aux puissances étrangères sur un plateau.
+-   **L\'Audit des valeurs stratégiques :** L\'État doit lancer, sans délai, un recensement national des PME technologiques de rupture dont le savoir-faire est critique pour notre survie. Ces entreprises doivent être sanctuarisées, protégées de la prédation financière étrangère et accompagnées pour passer à l\'échelle industrielle.
+    L\'État doit impérativement mettre en place un bouclier financier --- un Fonds Anti-Dilution de Souveraineté --- pour interdire le recours forcé à des structures prédatrices de financement alternatif (fonds spéculatifs abusant des lignes d\'OCEANE ou de BSA) qui spolient et détruisent l'épargne des investisseurs français logée dans les PEA-PME. Ces mécanismes prédateurs organisent la vente à découvert systématique de nos pépites cotées ; ils diluent massivement le capital social par l\'émission de millions, voire de milliards d\'actions nouvelles, et provoquent l\'assaut immédiat de Hedge Funds en position short dès la signature des contrats. Ces pratiques rendent toute gouvernance stable impossible, pulvérisent la valorisation boursière et bloquent définitivement l\'accès au crédit bancaire traditionnel, offrant ainsi notre propriété intellectuelle aux puissances étrangères sur un plateau.
 
--   **La Réforme des outils de financement :** Les verrous statutaires
-    qui empêchent des organismes comme la BPI de soutenir les
-    entreprises de souveraineté en période de risque doivent être levés.
-    Si une technologie est vitale pour la nation, si elle peut sauver la
-    planète et désendetter le pays, le risque financier est, par nature,
-    un risque national que l\'État se doit de couvrir. Le financement ne
-    doit plus être une simple opération comptable confiée à un
-    irresponsable, mais un investissement stratégique pour la pérennité
-    du pays.
+-   **La Réforme des outils de financement :** Les verrous statutaires qui empêchent des organismes comme la BPI de soutenir les entreprises de souveraineté en période de risque doivent être levés.
+    Si une technologie est vitale pour la nation, si elle peut sauver la planète et désendetter le pays, le risque financier est, par nature, un risque national que l\'État se doit de couvrir. Le financement ne doit plus être une simple opération comptable confiée à un irresponsable, mais un investissement stratégique pour la pérennité du pays.
 
--   **L\'instauration d\'un « Fast-Track Réglementaire » pour les
-    projets de souveraineté :** L\'orthodoxie administrative française
-    et la complexité des instructions d\'urbanisme ou des procédures
-    ICPE (Installations Classées pour la Protection de l\'Environnement)
-    constituent aujourd\'hui des goulots d\'étranglement qui tuent
-    l\'innovation dans l\'œuf, imposant des délais de 18 à 24 mois avant
-    la moindre mise en service. Face à l\'urgence budgétaire et
-    climatique, l\'État doit instaurer un mécanisme de « Fast-Track »
-    réglementaire, accordant un droit à l\'expérimentation immédiate et
-    des autorisations d\'exploitation provisoires en moins de 3 mois
-    pour toute installation modulaire décentralisée couplée à une
-    infrastructure critique (hôpitaux, bases logistiques, coopératives
-    agricoles). La bureaucratie ne doit plus être le fossoyeur de notre
-    résilience territoriale.
+-   **L\'instauration d\'un « Fast-Track Réglementaire » pour les projets de souveraineté :** L\'orthodoxie administrative française et la complexité des instructions d\'urbanisme ou des procédures ICPE (Installations Classées pour la Protection de l\'Environnement) constituent aujourd\'hui des goulots d\'étranglement qui tuent l\'innovation dans l\'œuf, imposant des délais de 18 à 24 mois avant la moindre mise en service. Face à l\'urgence budgétaire et climatique, l\'État doit instaurer un mécanisme de « Fast-Track » réglementaire, accordant un droit à l\'expérimentation immédiate et des autorisations d\'exploitation provisoires en moins de 3 mois pour toute installation modulaire décentralisée couplée à une infrastructure critique (hôpitaux, bases logistiques, coopératives agricoles). La bureaucratie ne doit plus être le fossoyeur de notre résilience territoriale.
 
--   **La Priorisation absolue de la commande publique :** La puissance
-    de l\'État doit servir de levier d\'entraînement. Si les
-    performances de cette technologie sont confirmées, il faut une
-    systématisation du déploiement de ces unités dans toutes les
-    infrastructures critiques : hôpitaux, bases logistiques militaires
-    et zones agricoles prioritaires. En devenant le premier client de
-    ses propres innovations, la France créera l\'effet d\'entraînement
-    nécessaire pour conquérir les marchés mondiaux.
-    
+-   **La Priorisation absolue de la commande publique :** La puissance de l\'État doit servir de levier d\'entraînement. Si les performances de cette technologie sont confirmées, il faut une systématisation du déploiement de ces unités dans toutes les infrastructures critiques : hôpitaux, bases logistiques militaires et zones agricoles prioritaires. En devenant le premier client de ses propres innovations, la France créera l\'effet d\'entraînement nécessaire pour conquérir les marchés mondiaux.
 
 ## Conclusion : Le choix de l\'Histoire
 
-La sanctuarisation d\'un gisement agnostique et non conflictuel : L\'une
-des forces majeures de cette rupture technologique réside dans son
-agnosticisme total vis-à-vis des intrants. Contrairement aux filières de
-biocarburants de première génération qui entrent en conflit direct avec
-les terres agricoles alimentaires, ou aux projets de biomasse lourde
-menaçant le couvert forestier, le modèle de thermolyse décentralisée
-s\'appuie exclusivement sur des gisements résiduels non valorisés.
-Pailles de céréales, résidus sylvicoles, bois de récupération en fin de
-vie (Classe B), biodéchets urbains ou combustibles solides de
-récupération (CSR) issus des refus de tri : le gisement national
-exploitable se compte en dizaines de millions de tonnes par an. C\'est
-une ressource locale, fatale, aujourd\'hui considérée comme une charge
-financière ou environnementale, que nous transformons en actif
-stratégique sans aucune pression sur la souveraineté alimentaire ou
-forestière de la Nation.
+La sanctuarisation d\'un gisement agnostique et non conflictuel : L\'une des forces majeures de cette rupture technologique réside dans son agnosticisme total vis-à-vis des intrants. Contrairement aux filières de biocarburants de première génération qui entrent en conflit direct avec les terres agricoles alimentaires, ou aux projets de biomasse lourde menaçant le couvert forestier, le modèle de thermolyse décentralisée s\'appuie exclusivement sur des gisements résiduels non valorisés.
+Pailles de céréales, résidus sylvicoles, bois de récupération en fin de vie (Classe B), biodéchets urbains ou combustibles solides de récupération (CSR) issus des refus de tri : le gisement national exploitable se compte en dizaines de millions de tonnes par an. C\'est une ressource locale, fatale, aujourd\'hui considérée comme une charge financière ou environnementale, que nous transformons en actif stratégique sans aucune pression sur la souveraineté alimentaire ou forestière de la Nation.
 
   <center><img src="media/FR/image12.jpg" width="700" alt="Haffner Energy — Une ville possède de nombreuses sources de biomasse qui engendrent des coûts élevés. Mais au lieu de dépenser et de gaspiller de l'argent en brûlant ses ressources, la ville peut transformer l'ensemble de ses charges en actifs, générer des revenus inedits et sauver la planète. Tout peut être transformé en or si nous cessons de suivre les politiques gouvernementales. Agissez localement pour créer votre propre système vertueux en produisant vos propres carburants verts à des prix inférieurs à ceux des carburants fossiles et offrir ainsi la gratuité de ses transports en communs. Arrêtez de faire n'importe quoi sans jamais sacrifier votre confort ; nettoyez, illuminez et embellissez votre ville en adoptant la méthode Haffner Energy."></center>
 
