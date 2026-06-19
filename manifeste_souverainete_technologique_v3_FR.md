@@ -329,7 +329,7 @@ macroéconomiques directs :
     la charge financière structurelle qui pèse sur les budgets de la
     Sécurité Sociale.
 
-    <img src="media/image11.jpg" width="700" alt="Haffner Energy — ">
+    <img src="media/image11.jpg" width="700" alt="Haffner Energy — Les engrais agricoles sont déversés sur les côtes et prolifèrent d'algues encombrantes, malodorantes et toxiques. Elles font fuir les touristes, tuent la faune, polluent et détruisent les paysages et engendrent des coûts d'entretien considérables, tandis que les revenus des communes côtières diminuent. La solution ? Transformer cette pollution marine en source de revenus. Mélangez ces algues à d'autres biomasses pour produire des carburants. Fabriquez du biochar. Dépolluez vos plages, gagnez de l'argent, beaucoup d'argent. Séquestrez du carbone pour des siècles.">
 
 
 -   **Flexibilité et agilité des modèles de déploiement :** Pour
@@ -472,16 +472,11 @@ une ressource locale, fatale, aujourd\'hui considérée comme une charge
 financière ou environnementale, que nous transformons en actif
 stratégique sans aucune pression sur la souveraineté alimentaire ou
 forestière de la Nation.
-  <center><img src="media/image11.jpg" width="700" alt="Haffner Energy — "></center>
 
-    <img src="media/image12.jpg" width="700" alt="Haffner Energy — ">
+  <center><img src="media/image12.jpg" width="700" alt="Haffner Energy — Une ville possède de nombreuses sources de biomasse qui engendrent des coûts élevés. Mais au lieu de dépenser et de gaspiller de l'argent en brûlant ses ressources, la ville peut transformer l'ensemble de ses charges en actifs, générer des revenus inedits et sauver la planète. Tout peut être transformé en or si nous cessons de suivre les politiques gouvernementales. Agissez localement pour créer votre propre système vertueux en produisant vos propres carburants verts à des prix inférieurs à ceux des carburants fossiles et offrir ainsi la gratuité de ses transports en communs. Arrêtez de faire n'importe quoi sans jamais sacrifier votre confort ; nettoyez, illuminez et embellissez votre ville en adoptant la méthode Haffner Energy."></center>
 
-
-    <center><img src="media/image13.jpg" width="700" alt="Haffner Energy — "></center>
-
-    <img src="media/image10.jpg" width="700" alt="Haffner Energy — Une ville possède de nombreuses sources de biomasse qui engendrent des coûts élevés. Au lieu de dépenser et de gaspiller de l'argent en brûlant vos ressources, transformez cet or organique en actifs pour générer des revenus et sauver la planète. Tout peut être transformé en or si nous cessons de suivre les politiques gouvernementales. Agissez localement pour créer votre propre système vertueux en produisant vos propres carburants verts à des prix inférieurs à ceux des carburants fossiles. Arrêtez de faire n'importe quoi sans jamais sacrifier votre confort ; nettoyez, illuminez et embellissez votre ville en adoptant la méthode Haffner Energy.">
-
-
+  <center><img src="media/image13.jpg" width="700" alt="Haffner Energy — Simplification, rapidité, retour sur investissement quasi immédiat, réduction significative des dépenses d'investissement, modularité dans le choix de la puissance, mobilité, efficacité, autonomie, disponibilité d'énergie verte 24h/24 et 7j/7, énergie au prix des combustibles fossiles et chute vertigineuse des coûts globaux."></center>
+  
 La technologie de la thermolyse sèche décentralisée ne propose pas une
 simple alternative, elle pose les bases d\'une résilience
 civilisationnelle. Fuir une Terre devenue inhabitable pour aller vivre
