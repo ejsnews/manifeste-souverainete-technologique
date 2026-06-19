@@ -10,7 +10,7 @@ France is going through a major strategic crisis, marked by a growing gap betwee
 
 While our high-value SMEs, carriers of major breakthroughs, are subjected to fierce financial predation, avoidable bankruptcies or forced exile to more welcoming lands, our patents are being captured by foreign powers. These nations, more pragmatic, have understood the urgency of appropriating tomorrow’s technologies while we abandon them at the highest level due to a lack of strategic vision.
 
-<img src="media/image1.jpg" width="174" alt="Haffner Energy - The failure of absurd ecological policies">
+<img src="media/EN/image1.jpg" width="174" alt="Haffner Energy - The failure of absurd ecological policies">
 
 The energy model we currently follow is, in many respects, a financial and ecological dead end. Based on excessive dependence on centralized networks and blind trust in non-ecological technologies such as electrolysis produced with fossil or nuclear energies — so that this hydrogen ends up competing with artificial intelligences, cryptocurrencies or industry — this system creates inflation, exhausts our financial resources and saturates our electrical infrastructure. Grid electrolysis acts as a bottleneck that congests a national electrical infrastructure already saturated by the massive electrification of uses. By favoring solutions that consume precious energy instead of generating it intelligently, we enter a vicious circle in the name of a fake ecology.
 
