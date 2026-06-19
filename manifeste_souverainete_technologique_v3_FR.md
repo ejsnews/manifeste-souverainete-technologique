@@ -192,9 +192,7 @@ de générer de l\'énergie : elle recrée une cohérence entre l\'économie,
 la terre et la santé publique. Chaque unité installée sur le territoire
 devient un maillon de la reconstruction de notre autonomie nationale.
 
-![Image](media/image6.jpeg){width="5.615711942257218in"
-height="3.066666666666667in"}
-<img src="media/image6.jpg" width="700" alt="Haffner Energy – transforme toute forme de biomasse en un gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Ce gaz de synthèse peut être aisément converti en une large gamme de carburants verts : hydrogène ultra-pur, SAF (carburant d'aviation durable) vert, méthane, méthanol, ammoniac et engrais. Cette solution ne se contente pas de séquestrer le carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des énergies fossiles. Elle offre la possibilité d'atteindre l'autosuffisance tout en sauvant la planète.">
+<img src="media/image6.jpg" width="700" alt="Haffner Energy — Si les modules hautement rentables de Haffner Energy permettent de transformer toute forme de biomasse volumineuse, insalubre ou toxique en gaz de synthèse (composé d'hydrogène et de monoxyde de carbone) et en biochar — lesquels peuvent ensuite être aisément convertis en une vaste gamme de carburants verts (hydrogène ultra-pur, SAF/carburant d'aviation durable, méthane, méthanol, ammoniac et engrais) —, il existe également un moyen simple et efficace d'accroître considérablement les revenus tout en séquestrant davantage de carbone pour des siècles : la culture de bambou sauvage sur des terres marginales. Cette pratique génère des revenus substantiels et fournit une énergie locale et souveraine à des prix inférieurs à ceux des combustibles fossiles. Ce faisant, l'agriculteur offre à son pays la possibilité d'atteindre l'autosuffisance énergétique tout en préservant la planète.">
 
 
 
