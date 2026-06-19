@@ -241,7 +241,7 @@ transformons nos infrastructures critiques en de véritables forteresses
     extérieurs ; c\'est, sur le champ de bataille, la garantie de
     l\'autonomie et de la supériorité opérationnelle.
 
-<img src="media/image8.jpg" width="700" alt="Haffner Energy peut transformer toute forme de biomasse — y compris les déchets cellulosiques tels que les masques et vêtements du personnel ou des patients, ou encore les déchets alimentaires hospitaliers — en gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Le tri peut être effectué dans une zone protégée par un robot Optimus. Ce gaz de synthèse peut être facilement converti en une large gamme de carburants verts, comme de l'hydrogène ultra-pur destiné aux véhicules des services d'urgence médicale (SAMU). La chaleur fatale peut être valorisée pour le chauffage des bâtiments ou pour produire de l'électricité pour l'hôpital. Cette solution ne se contente pas de séquestrer du carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des combustibles fossiles. Elle offre à l'hôpital l'opportunité d'atteindre l'autosuffisance énergétique tout en préservant la planète.">
+<img src="media/image8.jpg" width="700" alt="Haffner Energy — Les modules H4 ou H6 (dénommés S-iC et C-iC) sont facilement transportables et peuvent être installés sans fondations lourdes. Ils sont faciles à entretenir, déplaçables et peuvent être combinés pour accroître la capacité globale. Compte tenu de leur conception, une évolution probable de ces modules serait la miniaturisation et une mobilité accrue afin de faciliter la location, ainsi que la production locale d'énergie à partir de tout type de biomasse. Une application naturelle serait l'usage militaire tactique sur des terrains difficiles, où le ravitaillement des véhicules sous le feu ennemi s'avère impossible.">
 
 -   **Dépollution et Santé publique : Une économie du vivant :** Il est
     temps de rompre avec les méthodes archaïques de l\'incinération
@@ -260,12 +260,10 @@ transformons nos infrastructures critiques en de véritables forteresses
     nous-mêmes et nous allégeons durablement la charge financière pesant
     sur le budget national.
 
-    ![HKAFwIKX0AE3GrB
-    (1024×560)](media/image9.jpeg){width="5.561952099737533in"
-    height="3.0416666666666665in"}
+    <img src="media/image9.jpg" width="700" alt="Haffner Energy — ">
 
-    ![Image](media/image10.jpeg){width="5.364583333333333in"
-    height="2.9142891513560807in"}
+    <img src="media/image10.jpg" width="700" alt="Haffner Energy — ">
+
 
 -   **Prévention des risques : Des charges d'assurances en chute libre
     :** Aujourd'hui, beaucoup de terrains ne sont pas entretenus du fait
@@ -331,8 +329,8 @@ macroéconomiques directs :
     la charge financière structurelle qui pèse sur les budgets de la
     Sécurité Sociale.
 
-    ![Image](media/image11.jpeg){width="4.375in"
-    height="2.443882327209099in"}
+    <img src="media/image11.jpg" width="700" alt="Haffner Energy — ">
+
 
 -   **Flexibilité et agilité des modèles de déploiement :** Pour
     garantir une adoption massive et rapide, le système modulaire peu
@@ -473,12 +471,11 @@ financière ou environnementale, que nous transformons en actif
 stratégique sans aucune pression sur la souveraineté alimentaire ou
 forestière de la Nation.
 
-![HJ0Knm7XcAAFwS2
-(1024×559)](media/image12.jpeg){width="4.972222222222222in"
-height="2.7142891513560805in"}
+    <img src="media/image12.jpg" width="700" alt="Haffner Energy — ">
 
-![Image](media/image13.jpeg){width="5.020569772528434in"
-height="2.7416666666666667in"}
+
+    <img src="media/image13.jpg" width="700" alt="Haffner Energy — ">
+
 
 La technologie de la thermolyse sèche décentralisée ne propose pas une
 simple alternative, elle pose les bases d\'une résilience
