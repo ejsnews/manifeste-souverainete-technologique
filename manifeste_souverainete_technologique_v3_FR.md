@@ -392,7 +392,6 @@ macroéconomiques directs :
                          et crédits de séquestration carbone CORC).
   -----------------------------------------------------------------------
 
-  <img src="media/image11.jpg" width="700" alt="Haffner Energy — ">
 
 **IV. Appel à l\'action : Choc de souveraineté nationale**
 
@@ -454,6 +453,8 @@ ailleurs:
     et zones agricoles prioritaires. En devenant le premier client de
     ses propres innovations, la France créera l\'effet d\'entraînement
     nécessaire pour conquérir les marchés mondiaux.
+    
+  <img src="media/image11.jpg" width="700" alt="Haffner Energy — ">
 
 **Conclusion : Le choix de l\'Histoire**
 
