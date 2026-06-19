@@ -194,6 +194,9 @@ devient un maillon de la reconstruction de notre autonomie nationale.
 
 ![Image](media/image6.jpeg){width="5.615711942257218in"
 height="3.066666666666667in"}
+<img src="media/image6.jpg" width="700" alt="Haffner Energy – transforme toute forme de biomasse en un gaz de synthèse composé d'hydrogène et de monoxyde de carbone. Ce gaz de synthèse peut être aisément converti en une large gamme de carburants verts : hydrogène ultra-pur, SAF (carburant d'aviation durable) vert, méthane, méthanol, ammoniac et engrais. Cette solution ne se contente pas de séquestrer le carbone pour des siècles ; elle produit une énergie locale et souveraine à des prix inférieurs à ceux des énergies fossiles. Elle offre la possibilité d'atteindre l'autosuffisance tout en sauvant la planète.">
+
+
 
 **3. Sécurité et Résilience Globale : L\'hôpital et le territoire au
 cœur de l\'autonomie**
