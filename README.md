@@ -2,7 +2,7 @@
 ### Vers un écosystème national d'autonomie énergétique, sanitaire et agricole
 **Note stratégique indépendante — Juin 2026**
 
-📥 **[Télécharger le manifeste de souveraineté technologique (au format PDF)](manifeste_souverainete_technologique_v3.pdf)**
+📥 **[Télécharger le manifeste de souveraineté technologique](manifeste_souverainete_technologique_v3.md)**
 
 📥 **[Consulter la présentation stratégique (Kit de Plaidoyer au format PDF)](Kit_de_Plaidoyer_Souveraineté_Technologique.pdf)**
 
