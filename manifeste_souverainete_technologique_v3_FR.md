@@ -4,7 +4,7 @@ ET LA RÉSILIENCE TECHNOLOGIQUE**
 *Vers un écosystème national d\'autonomie énergétique, sanitaire et
 agricole*
 
-Note Stratégique Indépendante --- EJS --- Juin 2026
+Note Stratégique Indépendante - EJS - Juin 2026
 
 **I. Constat : L\'érosion silencieuse de notre souveraineté**
 
@@ -24,7 +24,7 @@ pragmatiques, ont compris l\'urgence de s\'approprier les technologies
 de demain tandis que nous les abandonnons en haut lieu par manque de
 vision stratégique.
 
-![](media/image1.png){width="1.8137904636920386in"
+![](media/image1.jpg){width="1.8137904636920386in"
 height="3.0216557305336833in"}
 
 Le modèle énergétique que nous suivons actuellement est, à bien des
@@ -41,7 +41,7 @@ massive des usages. En privilégiant des solutions qui consomment une
 énergie précieuse au lieu de la générer intelligemment, nous entrons
 dans un cercle vicieux au nom d'une écologie factice.
 
-![Image](media/image2.jpeg){width="5.877529527559055in"
+![Image](media/image2.jpg){width="5.877529527559055in"
 height="3.283333333333333in"}
 
 Cette stratégie fragilise non seulement notre économie, mais elle
@@ -118,7 +118,7 @@ produirons des carburants de synthèse et de l\'hydrogène à un coût
 inférieur aux énergies fossiles, tout en guérissant activement la
 biosphère.
 
-![](media/image4.png){width="5.0181135170603675in" height="3.05in"}
+![](media/image4.jpg){width="5.0181135170603675in" height="3.05in"}
 
 La technologie de thermolyse constitue le pilier d\'un nouveau modèle de
 société, un paradigme où chaque territoire --- du quartier urbain à la
