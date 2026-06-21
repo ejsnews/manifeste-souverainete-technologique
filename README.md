@@ -1,4 +1,4 @@
-# Manifeste pour la souveraineté et la résilience technologique
+# Plaidoyer pour la souveraineté et la résilience technologique
 ### Vers un écosystème national d'autonomie énergétique, sanitaire et agricole
 **Note stratégique indépendante — Juin 2026**
 
