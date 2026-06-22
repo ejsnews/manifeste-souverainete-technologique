@@ -61,6 +61,6 @@ La solution française existe, elle est mature, elle est brevetée, elle est ren
 
 ---
 
-*Note rédigée par un actionnaire indépendant de Haffner Energy et de 2CRSi, ingénieur de formation (Maths-Sup/Spé, DEA), sans mandat politique ni intérêt commercial direct dans ce déploiement.*
+*Note rédigée par un actionnaire indépendant de Haffner Energy, ingénieur de formation (Maths-Sup/Spé, DEA de physique), sans mandat politique ni intérêt commercial direct dans ce déploiement.*
 
 *Manifeste complet : [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
