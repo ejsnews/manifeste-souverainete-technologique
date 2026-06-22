@@ -127,3 +127,13 @@ footer, .site-footer {
   // Force l'apparition discrète en bas si le thème les y place
   span, a { color: #8b949e !important; font-size: 13px !important; }
 }
+
+@media (max-width: 768px) {
+  .container-lg, .wrapper, .main-content, header, section {
+    padding: 15px !important;
+  }
+  
+  table {
+    font-size: 13px !important;
+  }
+}
