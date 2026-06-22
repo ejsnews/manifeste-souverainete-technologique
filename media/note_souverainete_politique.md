@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Souveraineté énergétique & résilience industrielle"
+---
+
 # SOUVERAINETÉ ÉNERGÉTIQUE & RÉSILIENCE INDUSTRIELLE
 *Note stratégique indépendante — Juin 2026*
 
