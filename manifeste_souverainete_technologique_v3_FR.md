@@ -13,7 +13,7 @@ d\'une gestion court-termiste, nous sacrifions nos fleurons industriels sur l\'a
 
 Pendant que nos PME de haute valeur, porteuses de ruptures majeures, sont soumises à une prédation financière acharnée, à des faillites évitables ou à l\'exil forcé vers des terres plus accueillantes, nos brevets sont captés par des puissances étrangères. Ces nations, plus pragmatiques, ont compris l\'urgence de s\'approprier les technologies de demain tandis que nous les abandonnons en haut lieu par manque de vision stratégique.
 
-<center><img src="media/FR/image1.jpg" width="174" alt="Haffner Energy - L'echec des politiques ecologiques absurdes"></center>
+<center><img src="media/FR/image1.jpg" width="200" alt="Haffner Energy - L'echec des politiques ecologiques absurdes"></center>
 
 Le modèle énergétique que nous suivons actuellement est, à bien des égards, une impasse financière et écologique. Fondé sur une dépendance excessive aux réseaux centralisés et sur une confiance aveugle dans des technologies non écologiques comme l\'électrolyse produite avec des énergies fossiles ou nucléaires, si bien que cet hydrogène se retrouve en compétition avec les intelligences artificielles, les cryptomonnaies ou l'industrie, ce système crée de l'inflation, épuise nos ressources
 financières et sature nos infrastructures électriques. L\'électrolyse en réseau agit comme un goulot d\'étranglement qui congestionne une infrastructure électrique nationale déjà saturée par l\'électrification massive des usages. En privilégiant des solutions qui consomment une énergie précieuse au lieu de la générer intelligemment, nous entrons dans un cercle vicieux au nom d'une écologie factice.
