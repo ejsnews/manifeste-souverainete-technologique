@@ -230,6 +230,7 @@ passer à l\'action.
 
 Ce manifeste a été décliné en notes techniques ciblées par public :
 
+- 🏥 [Datacenters et Intelligence Artificielle : Vers un seul scénario vertueux](analyses/Datacenters_et_Intelligence_Artificielle_-_le_seul_scenario_vertueux.md)
 - 🏥 [Hôpital autonome et circulaire : la thermolyse au service de la résilience sanitaire](analyses/HOPITAL_AUTONOME_DECARBONATION_ET_ENERGIE_VERTE_SOLUTION_THERMOLYSE_HAFFNER_ENERGY.md)
 - 🪖 [Autonomie énergétique tactique : défense et souveraineté militaire](analyses/AUTONOMIE_ENERGETIQUE_TACTIQUE_DEFENSE_SOUVERAINETE_MILITAIRE.md)
 - 🌾 [L'indépendance en hydrogène à portée de chaque territoire (collectivités, élus ruraux)](analyses/L_INDEPENDANCE_EN_HYDROGENE_A_PORTEE_DE_CHAQUE_TERRITOIRE_COLLECTIVITES_ELUS_RURAUX.md)
