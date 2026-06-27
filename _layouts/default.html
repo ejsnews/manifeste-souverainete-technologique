@@ -9,6 +9,11 @@
   </head>
   <body>
     <main class="main-content">
+      {% if page.lang == 'en' %}
+        {% include menu_en.html %}
+      {% else %}
+        {% include menu_fr.html %}
+      {% endif %}
       {{ content }}
     </main>
   </body>
