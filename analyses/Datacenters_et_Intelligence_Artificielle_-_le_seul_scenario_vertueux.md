@@ -24,6 +24,13 @@ Un datacenter alimenté par des modules Haffner Energy inverse exactement cet ef
 
 ---
 
+## Le fantasme de l'espace contre la réalité du terrain
+
+Plutôt que de décarboner leurs infrastructures terrestres, certains acteurs technologiques envisagent de délocaliser leurs datacenters là où les règles n'existent pas — espace orbital, Lune, zones internationales. Cette vision occulte des contraintes physiques rédhibitoires : une latence de 1,3 seconde Terre-Lune rend tout usage IA temps réel impossible, les coûts de lancement et de maintenance sont prohibitifs, et les rayonnements cosmiques dégradent les composants électroniques en l'absence de magnétosphère protectrice.
+La vérité est plus simple : un module Haffner de 2 MW installé en moins d'un mois sur dalle béton, carbone-négatif et rentable sans subvention, coûte une fraction infinitésimale d'un lancement orbital. Le refus de la solution terrestre décarbonée n'est pas technique — c'est politique. C'est le refus de contraindre un modèle économique qui externalise ses coûts environnementaux sur la planète entière.
+
+---
+
 ## CORE100 : la réponse industrielle à la demande des datacenters
 
 Haffner Energy a conçu son programme CORE100 pour répondre précisément à cette demande : 100 unités C-iC modulaires de 2 MW, combinables en configurations multi-modulaires selon les besoins (10 MW, 20 MW, 40 MW et au-delà).
