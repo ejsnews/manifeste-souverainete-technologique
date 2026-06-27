@@ -1,3 +1,8 @@
+---
+layout: default
+lang: en
+title: "..."
+---
 # AUTONOMOUS AND CIRCULAR HOSPITAL: HAFFNER ENERGY THERMOLYSIS AT THE SERVICE OF HEALTH RESILIENCE [(French version - FR)](HOPITAL_AUTONOME_DECARBONATION_ET_ENERGIE_VERTE_SOLUTION_THERMOLYSE_HAFFNER_ENERGY.md)
 
 📥 [Consult the French Manifesto for Technological Sovereignty and Resilience (FR)](../README.md)
