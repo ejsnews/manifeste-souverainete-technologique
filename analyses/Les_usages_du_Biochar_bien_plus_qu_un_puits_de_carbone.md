@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr
 title: "Le Biochar : bien plus qu'un puits de carbone"
 ---
 
