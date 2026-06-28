@@ -67,7 +67,9 @@ title: "The human and planetary Cost of the current model — What Haffner can c
 | Cardiovascular diseases linked to pollution | 2.1 million | 50-70% |
 | Lung cancers linked to pollution | 400,000 | 40-60% |
 | **Total Avoidable Deaths/Year** | **~6-8 million** | **with global deployment** |
+
 ---
+
 ### Table 5 — Deaths from Heatwaves and Global Warming
 
 | Event | Deaths | Trend |
@@ -144,6 +146,4 @@ Every tonne of residual biomass processed produces clean energy, sequesters carb
 **Data centers powered by Haffner no longer heat the planet — they cool it while they calculate.**
 
 It is the only model in the world where economic growth and planetary regeneration converge in the same direction.
-
----
 
