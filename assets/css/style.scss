@@ -82,6 +82,24 @@ table {
   }
 }
 
+pre, code {
+  background-color: #1c2128 !important;
+  color: #e6edf3 !important;
+  border: 1px solid #30363d !important;
+  border-radius: 4px !important;
+  padding: 2px 6px !important;
+}
+
+pre {
+  padding: 16px !important;
+  overflow-x: auto !important;
+}
+
+pre code {
+  border: none !important;
+  padding: 0 !important;
+}
+
 .ranking-table { width:100%; border-collapse:collapse; font-size:15px; margin:20px 0; }
 .ranking-table th { background:#21262d; color:#f2cc60; padding:8px 6px; border:1px solid #30363d; text-align:center; }
 .ranking-table td { padding:6px 6px; border:1px solid #30363d; text-align:center; }
