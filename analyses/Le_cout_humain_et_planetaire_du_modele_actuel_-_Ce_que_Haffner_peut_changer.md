@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Le Coût Humain et Planétaire du Modèle Actuel — Ce que Haffner peut changer"
+title: "Le coût humain et planétaire du modèle actuel — Ce que Haffner peut changer"
 ---
 
-# Le Coût Humain et Planétaire du Modèle Actuel — Ce que Haffner peut changer
+# Le coût humain et planétaire du modèle actuel — Ce que Haffner peut changer
 
 *Note stratégique — Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
