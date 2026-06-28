@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "Agriculture et Souveraineté Alimentaire : Haffner comme levier de survie et d'indépendance"
+lang: fr
+title: "Agriculture et souveraineté alimentaire : Haffner comme levier de survie et d'indépendance"
 ---
 
-# Agriculture et Souveraineté Alimentaire : Haffner comme levier de survie et d'indépendance
+# Agriculture et souveraineté alimentaire : Haffner comme levier de survie et d'indépendance
 
 *Note technique et stratégique — Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
