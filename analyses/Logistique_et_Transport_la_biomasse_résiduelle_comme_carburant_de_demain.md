@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr
 title: "Logistique et Transport : la biomasse résiduelle comme carburant de demain"
 ---
 
