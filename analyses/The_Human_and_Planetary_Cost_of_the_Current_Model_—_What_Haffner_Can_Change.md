@@ -1,9 +1,9 @@
 ---
 layout: default
 lang: en
-title: "The Human and Planetary Cost of the Current Model — What Haffner Can Change"
+title: "The human and planetary Cost of the current model — What Haffner can change"
 ---
-# The Human and Planetary Cost of the Current Model — What Haffner Can Change
+# The human and planetary cost of the current model — What Haffner can change
 *Strategic Note — Éric Jacob, Engineer (Maths-Sup, DEA)*
 ---
 ## I. Wars and Their Causes: Historical Data
