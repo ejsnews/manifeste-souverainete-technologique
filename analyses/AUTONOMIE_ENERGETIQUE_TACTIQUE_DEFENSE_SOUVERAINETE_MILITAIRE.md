@@ -1,3 +1,8 @@
+---
+layout: default
+lang: fr
+title: "AUTONOMIE ÉNERGÉTIQUE TACTIQUE : LA THERMOLYSE HAFFNER ENERGY AU SERVICE DES FORCES ARMÉES"
+---
 # AUTONOMIE ÉNERGÉTIQUE TACTIQUE : LA THERMOLYSE HAFFNER ENERGY AU SERVICE DES FORCES ARMÉES [(English version - EN)](TACTICAL_ENERGY_AUTONOMY_DEFENSE_MILITARY_SOVEREIGNTY.md)
 
 📥 [Consulter le Manifeste pour la souveraineté et la résilience technologique](../README.md)
