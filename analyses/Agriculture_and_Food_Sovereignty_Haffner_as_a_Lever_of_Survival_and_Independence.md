@@ -110,4 +110,3 @@ Agriculture is not the problem of the energy transition — it is the solution. 
 
 What was missing was the technology to close this loop. **Haffner Energy provides it.**
 ---
-*Full Manifesto: [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
