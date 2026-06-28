@@ -1,10 +1,10 @@
 ---
 layout: default
 lang: fr
-title: "Datacenters et Intelligence Artificielle : le seul scénario vertueux"
+title: "Datacenters et intelligence artificielle : le seul scénario vertueux"
 ---
 
-# Datacenters et Intelligence Artificielle : le seul scénario vertueux
+# Datacenters et intelligence artificielle : le seul scénario vertueux
 
 *Note technique et stratégique — Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
