@@ -179,4 +179,3 @@ pas incompatibles. Ils convergent, si l'on choisit la bonne technologie.**
 
 ---
 
-*Manifeste complet : [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
