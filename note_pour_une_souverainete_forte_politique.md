@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr
 title: "Souveraineté énergétique & résilience industrielle"
 ---
 
