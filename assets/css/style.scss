@@ -82,6 +82,16 @@ table {
   }
 }
 
+.highlighter-rouge, .highlight {
+  background-color: #1c2128 !important;
+}
+
+.highlight pre, .highlight code {
+  background-color: #1c2128 !important;
+  color: #e6edf3 !important;
+  border: 1px solid #30363d !important;
+}
+
 pre, code {
   background-color: #1c2128 !important;
   color: #e6edf3 !important;
