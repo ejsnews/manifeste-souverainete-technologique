@@ -1,3 +1,8 @@
+---
+layout: default
+lang: fr
+title: "MANIFESTE POUR LA SOUVERAINETÉ ET LA RÉSILIENCE TECHNOLOGIQUE"
+---
 # MANIFESTE POUR LA SOUVERAINETÉ ET LA RÉSILIENCE TECHNOLOGIQUE [(English version - EN)](MANIFESTO_FOR_TECHNOLOGICAL_SOVEREIGNTY_AND_RESILIENCE.md)
 
 *Vers un écosystème national d\'autonomie énergétique, sanitaire et agricole*
