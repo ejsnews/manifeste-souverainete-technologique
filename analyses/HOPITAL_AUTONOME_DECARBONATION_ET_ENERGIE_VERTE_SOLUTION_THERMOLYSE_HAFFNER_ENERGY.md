@@ -1,3 +1,8 @@
+---
+layout: default
+lang: fr
+title: "HÔPITAL AUTONOME ET CIRCULAIRE : LA THERMOLYSE HAFFNER ENERGY AU SERVICE DE LA RÉSILIENCE SANITAIRE"
+---
 # HÔPITAL AUTONOME ET CIRCULAIRE : LA THERMOLYSE HAFFNER ENERGY AU SERVICE DE LA RÉSILIENCE SANITAIRE [(English version - EN)](AUTOMATED_HOSPITAL_DECARBONIZATION_AND_GREEN_ENERGY_THERMOLYSIS_SOLUTION_HAFFNER_ENERGY.md)
 
 📥 [Consulter le Manifeste pour la souveraineté et la résilience technologique](../README.md)
@@ -8,40 +13,28 @@ Note stratégique et économique — EJS
 
 ## 1. L'hôpital français : une vulnérabilité énergétique structurelle
 
-Le secteur hospitalier français affiche un déficit cumulé de 
-3 milliards d'euros en 2024. Dans ce contexte de tension 
-budgétaire extrême, la facture énergétique constitue l'un des 
-postes de dépenses les plus lourds et les moins maîtrisables 
-des établissements de santé — entièrement soumise aux 
-fluctuations des marchés mondiaux du gaz et de l'électricité.
+Le secteur hospitalier français affiche un déficit cumulé de 3 milliards d'euros en 2024. Dans ce contexte de tension 
+budgétaire extrême, la facture énergétique constitue l'un des postes de dépenses les plus lourds et les moins maîtrisables 
+des établissements de santé — entièrement soumise aux fluctuations des marchés mondiaux du gaz et de l'électricité.
 
-Simultanément, la Fédération Hospitalière de France (FHF) 
-a publié "50 propositions pour la transition écologique 
-des hôpitaux" et les obligations de décarbonation (décret 
-BACS, CSRD pour les établissements concernés) s'intensifient. 
-Les hôpitaux sont donc contraints d'investir dans la 
-décarbonation tout en absorbant un déficit structurel croissant.
+Simultanément, la Fédération Hospitalière de France (FHF) a publié "50 propositions pour la transition écologique 
+des hôpitaux" et les obligations de décarbonation (décret BACS, CSRD pour les établissements concernés) s'intensifient. 
+Les hôpitaux sont donc contraints d'investir dans la décarbonation tout en absorbant un déficit structurel croissant.
 
-Il existe une voie pour résoudre les deux problèmes 
-simultanément.
+Il existe une voie pour résoudre les deux problèmes simultanément.
 
 ---
 
 ## 2. Le module Haffner Energy : l'hôpital produit sa propre énergie
 
-Le module de thermolyse C-iC H6 d'Haffner Energy transforme 
-les déchets organiques et la biomasse résiduelle en hydrogène 
-vert, chaleur et biochar, par un procédé thermochimique 
-contrôlé — sans combustion, sans émission de particules fines, 
+Le module de thermolyse C-iC H6 d'Haffner Energy transforme les déchets organiques et la biomasse résiduelle en hydrogène 
+vert, chaleur et biochar, par un procédé thermochimique contrôlé — sans combustion, sans émission de particules fines, 
 et sans besoin électrique significatif du réseau.
 
-Un hôpital génère en continu deux types de matières 
-premières pour ce module :
+Un hôpital génère en continu deux types de matières premières pour ce module :
 
-- **Déchets organiques non-dangereux** : restes de cantines, 
-  déchets verts des espaces extérieurs, cartons, bois
-- **Biodéchets urbains de proximité** collectés dans le 
-  bassin de vie environnant, dans le cadre d'un partenariat 
+- **Déchets organiques non-dangereux** : restes de cantines,   déchets verts des espaces extérieurs, cartons, bois
+- **Biodéchets urbains de proximité** collectés dans le bassin de vie environnant, dans le cadre d'un partenariat 
   avec la collectivité locale
 
 Ces matières, aujourd'hui considérées comme des charges 
