@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr
 title: "Le coût humain et planétaire du modèle actuel — Ce que Haffner peut changer"
 ---
 
