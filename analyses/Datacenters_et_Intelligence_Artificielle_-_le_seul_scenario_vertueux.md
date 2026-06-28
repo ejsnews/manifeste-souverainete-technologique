@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr
 title: "Datacenters et Intelligence Artificielle : le seul scénario vertueux"
 ---
 
