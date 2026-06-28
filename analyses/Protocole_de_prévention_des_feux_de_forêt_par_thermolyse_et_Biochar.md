@@ -57,19 +57,23 @@ zones forestières accessibles par piste.
 
 ### Configuration opérationnelle mobile
 
+Le module nécessite une montée en température progressive de plusieurs heures avant d'atteindre son régime de croisière. Il n'est donc pas déplacé quotidiennement — il reste installé sur un secteur plusieurs semaines, alimenté en journée par l'équipe, et fonctionne en continu la nuit sur le stock constitué.
+
+**Cycle opérationnel :**
+
 ```
-Camion porteur (module 2MW)
+Camion porteur achemine le module 2MW sur piste forestière
     ↓
-Installation sur site (dalle temporaire ou sol stabilisé)
+Installation sur site (dalle temporaire, sol stabilisé ou éventuellement maintenu dans le camion si évolution)
     ↓
-Alimentation en biomasse locale (déchets débroussaillage)
+Alimentation en biomasse locale (déchets débroussaillage) par l'équipe de jour (7h/jour)
     ↓
-Production simultanée :
-    ├── Syngas → électricité + chaleur (pour le chantier)
+Production continue nuit et jour grâce au stock constitué en journée :
+    ├── Syngas → électricité et chaleur pour le chantier
     ├── Hydrogène → carburant engins forestiers
     └── Biochar → redistribution préventive sur zone
     ↓
-Déplacement vers le secteur suivant
+Déplacement vers le secteur suivant après épuisement de la zone
 ```
 
 ---
@@ -181,8 +185,7 @@ vents dominants :
 ```
 Vent dominant →→→→→→→→→→→→→→
 
-[Forêt][  Bande A  ][Forêt][  Bande B  ][Forêt]
-                    [  Bande C  ][Forêt][  Bande D  ]
+[Forêt][ Bande A ][Forêt][ Bande B ][Forêt][ Bande C ][Forêt][ Bande D ]
 ```
 
 Un feu qui franchit la bande A se retrouve face à la bande C décalée —
@@ -215,15 +218,12 @@ Le protocole est conçu pour être **économiquement autonome** sans subvention 
 
 | Source de revenu | Base de calcul | Ordre de grandeur |
 |:----------------|:--------------|:-----------------|
-| Crédits carbone biochar | 1 tCO₂eq/t biomasse × 110-140 €/t | 110-140 €/t biomasse |
-| Vente d'électricité | 0,8 MWh/t biomasse × prix marché | 80-120 €/t biomasse |
 | Vente d'hydrogène | 60 kg/t biomasse × 6 €/kg | 360 €/t biomasse |
-| Paiement service débroussaillage | Contrats collectivités/ONF | 200-500 €/ha |
-| Économie sinistres évités | Assurances/fonds FPRNM | Indirect |
+| Paiement service débroussaillage | Contrats collectivités/ONF | Complément variable |
 
-**Un chantier traitant 500 t/an de biomasse forestière génère
-entre 270 000 et 310 000 € de revenus bruts**, permettant de financer
-l'équipe, le module et le déploiement du biochar — sans aide publique.
+Un module fonctionnant 200 jours/an traite 24 tonnes/jour de biomasse (alimentation équipe de jour, consommation continue nuit 
+et jour). Soit 4 800 t/an, produisant 288 000 kg d'hydrogène, générant **1,73 M€/an à 6 €/kg** — suffisant pour financer l'équipe, 
+le camion, la maintenance et le déploiement du biochar sans aide publique.
 
 ---
 
