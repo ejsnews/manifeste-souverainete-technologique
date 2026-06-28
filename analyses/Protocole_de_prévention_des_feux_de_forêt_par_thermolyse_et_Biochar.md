@@ -222,7 +222,7 @@ Le protocole est conçu pour être **économiquement autonome** sans subvention 
 | Paiement service débroussaillage | Contrats collectivités/ONF | Complément variable |
 
 Un module fonctionnant 200 jours/an traite 24 tonnes/jour de biomasse (alimentation équipe de jour, consommation continue nuit 
-et jour). Soit 4 800 t/an, produisant 288 000 kg d'hydrogène, générant **1,73 M€/an à 6 €/kg** — suffisant pour financer l'équipe, 
+et jour). Soit 4 800 t/an, produisant 288 000 kg d'hydrogène, générant **1,73 M€/an à 6 €/kg d'hydrogène réinjectable en partie dans l'économie** — suffisant pour financer l'équipe, 
 le camion, la maintenance et le déploiement du biochar sans aide publique.
 
 ---
