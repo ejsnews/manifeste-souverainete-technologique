@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Protocole de Prévention des Feux de Forêt par Thermolyse et Biochar"
+title: "Protocole de prévention des feux de forêts par thermolyse et Biochar"
 ---
 
-# Protocole de Prévention des Feux de Forêt par Thermolyse et Biochar
+# Protocole de prévention des feux de forêt par thermolyse et Biochar
 
 *Note technique et opérationnelle — Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
