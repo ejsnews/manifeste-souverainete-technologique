@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr
 title: "Protocole de prévention des feux de forêts par thermolyse et Biochar"
 ---
 
