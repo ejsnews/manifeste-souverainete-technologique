@@ -1,10 +1,10 @@
 ---
 layout: default
 lang: fr
-title: "Climatisation Décarbonée : le droit au froid sans catastrophe écologique"
+title: "Climatisation décarbonée : le droit au froid sans catastrophe écologique"
 ---
 
-# Climatisation Décarbonée : le droit au froid sans catastrophe écologique
+# Climatisation décarbonée : le droit au froid sans catastrophe écologique
 
 *Note technique et stratégique — Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
