@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr
 title: "Climatisation Décarbonée : le droit au froid sans catastrophe écologique"
 ---
 
