@@ -1,3 +1,8 @@
+---
+layout: default
+lang: en
+title: "CLIMATE RANKING OF ENERGY SOURCES"
+---
 # CLIMATE RANKING OF ENERGY SOURCES [(French version - FR)](CLASSEMENT_CLIMATIQUE_SOURCES_ENERGIE_CHALEUR_ANTHROPIQUE.md)
 
 ## Scoring out of 24 points — Anthropic Heat Included
