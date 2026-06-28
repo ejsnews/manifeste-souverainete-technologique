@@ -177,5 +177,3 @@ Ses coopératives distribuent l'énergie. Ses exploitants produisent les engrais
 Il manquait la technologie pour fermer cette boucle. **Haffner Energy la fournit.**
 
 ---
-
-*Manifeste complet : [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
