@@ -85,4 +85,3 @@ Il n'existe pas d'autre combinaison qui satisfasse simultanément la demande én
 
 ---
 
-*Manifeste complet : [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
