@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr
 title: "Guerres, Ressources et Décentralisation : Comment Haffner brise le cycle"
 ---
 
@@ -142,9 +143,8 @@ organiques est un monde où :
 - Les guerres de ressources perdent leur principal mobile économique
 - Les agriculteurs créent de la valeur locale plutôt que de dépendre d'importations
 
-**Ce n'est pas une utopie. C'est la conséquence logique du déploiement
-d'une technologie qui transforme les déchets locaux en richesse locale.**
+Autre avantage : l'énergie cessera de circuler à travers le monde, ce qui entraînera également une réduction de la pollution et de la chaleur entropique.
+
+**Ce n'est pas une utopie. C'est la conséquence logique du déploiement d'une technologie qui transforme les déchets locaux en richesse locale.**
 
 ---
-
-*Manifeste complet : [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
