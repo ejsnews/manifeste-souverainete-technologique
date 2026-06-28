@@ -1,10 +1,10 @@
 ---
 layout: default
 lang: fr
-title: "Logistique et Transport : la biomasse résiduelle comme carburant de demain"
+title: "Logistique et transport : la biomasse résiduelle comme carburant de demain"
 ---
 
-# Logistique et Transport : la biomasse résiduelle comme carburant de demain
+# Logistique et transport : la biomasse résiduelle comme carburant de demain
 
 *Note technique et stratégique — Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
@@ -94,4 +94,3 @@ Un hub logistique équipé de modules Haffner devient naturellement une **statio
 
 ---
 
-*Manifeste complet : [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
