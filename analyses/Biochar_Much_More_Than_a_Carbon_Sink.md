@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+author: eric_jacob
 title: "Biochar: Much More Than a Carbon Sink"
 ---
 # Biochar: Much More Than a Carbon Sink
