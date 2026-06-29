@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+author: eric_jacob
 title: "CLIMATE RANKING OF ENERGY SOURCES"
 ---
 # CLIMATE RANKING OF ENERGY SOURCES [(French version - FR)](CLASSEMENT_CLIMATIQUE_SOURCES_ENERGIE_CHALEUR_ANTHROPIQUE.md)
