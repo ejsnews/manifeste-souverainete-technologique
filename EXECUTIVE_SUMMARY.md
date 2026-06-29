@@ -1,5 +1,4 @@
 ---
-layout: default
 lang: fr
 title: "Résumé exécutif : Souveraineté énergétique & résilience industrielle"
 ---
