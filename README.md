@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: fr
+author: eric_jacob
 title: "Plaidoyer pour la souveraineté et la résilience technologique"
 ---
 # Plaidoyer pour la souveraineté et la résilience technologique
