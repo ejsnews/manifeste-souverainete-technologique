@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+author: eric_jacob
 title: "Logistics and Transport: Residual Biomass as the Fuel of Tomorrow"
 ---
 # Logistics and Transport: Residual Biomass as the Fuel of Tomorrow
