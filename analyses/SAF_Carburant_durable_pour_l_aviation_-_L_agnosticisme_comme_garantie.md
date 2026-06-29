@@ -5,7 +5,7 @@ author: eric_jacob
 title: "SAF : Carburant durable pour l'aviation — L'agnosticisme comme garantie"
 ---
 
-# SAF : Carburant durable pour l'aviation — L'agnosticisme comme garantie
+# SAF : Carburant durable pour l'aviation - L'agnosticisme comme garantie [(English version - EN)](SAF_Sustainable_Aviation_Fuel_-_Agnosticism_as_a_Guarantee.md)
 
 *Note technique et stratégique — Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
