@@ -5,7 +5,8 @@ author: eric_jacob
 title: "Forest Fire Prevention Protocol Using Thermolysis and Biochar"
 ---
 
-# Forest Fire Prevention Protocol Using Thermolysis and Biochar
+# Forest Fire Prevention Protocol Using Thermolysis and Biochar [(French version - FR)](Protocole_de_prévention_des_feux_de_forêt_par_thermolyse_et_Biochar.md)
+
 
 *Technical and operational note — Éric Jacob, Engineer (Maths-Sup, DEA)*
 
