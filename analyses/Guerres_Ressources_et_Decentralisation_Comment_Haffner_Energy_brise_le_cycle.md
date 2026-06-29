@@ -4,7 +4,7 @@ lang: fr
 title: "Guerres, Ressources et Décentralisation : Comment Haffner brise le cycle"
 ---
 
-# Guerres, Ressources et Décentralisation : Comment Haffner brise le cycle
+# Guerres, Ressources et Décentralisation : Comment Haffner brise le cycle [(English version - EN)](Wars_Resources_and_Decentralization_How_Haffner_Breaks_the_Cycle.md)
 
 *Note stratégique — Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
