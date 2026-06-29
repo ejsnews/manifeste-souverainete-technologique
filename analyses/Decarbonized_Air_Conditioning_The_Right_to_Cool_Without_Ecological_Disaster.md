@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+author: eric_jacob
 title: "Decarbonized Air Conditioning: The Right to Cool Without Ecological Disaster"
 ---
 # Decarbonized Air Conditioning: The Right to Cool Without Ecological Disaster
