@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+author: eric_jacob
 title: "Data Centers and Artificial Intelligence: The Only Virtuous Scenario"
 ---
 # Data Centers and Artificial Intelligence: The Only Virtuous Scenario
