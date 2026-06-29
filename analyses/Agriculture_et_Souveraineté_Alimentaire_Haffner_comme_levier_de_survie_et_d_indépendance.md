@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: fr
+author: eric_jacob
 title: "Agriculture et souveraineté alimentaire : Haffner comme levier de survie et d'indépendance"
 ---
 
