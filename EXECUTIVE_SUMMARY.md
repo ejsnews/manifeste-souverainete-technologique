@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: fr
-author: eric_jacob
+title: "Résumé exécutif : Souveraineté énergétique & résilience industrielle"
 ---
 # Résumé exécutif : Souveraineté énergétique & résilience industrielle
 ### Note d'opportunité — À l'attention des décideurs publics et des investisseurs territoriaux
