@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: fr
+author: eric_jacob
 title: "Le Biochar : bien plus qu'un puits de carbone"
 ---
 
