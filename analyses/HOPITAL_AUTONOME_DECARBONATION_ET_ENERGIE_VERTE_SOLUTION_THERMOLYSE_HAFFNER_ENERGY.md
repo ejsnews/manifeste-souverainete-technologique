@@ -12,7 +12,7 @@ Note stratégique et économique — EJS
 
 ---
 
-## 1. L'hôpital français : une vulnérabilité énergétique structurelle
+## 1. L'hôpital français : une vulnérabilité énergétique structurelle 
 
 Le secteur hospitalier français affiche un déficit cumulé de 3 milliards d'euros en 2024. Dans ce contexte de tension 
 budgétaire extrême, la facture énergétique constitue l'un des postes de dépenses les plus lourds et les moins maîtrisables 
