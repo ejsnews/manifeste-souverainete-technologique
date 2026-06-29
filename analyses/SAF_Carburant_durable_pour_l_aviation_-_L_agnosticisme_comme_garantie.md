@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: fr
+author: eric_jacob
 title: "SAF : Carburant durable pour l'aviation — L'agnosticisme comme garantie"
 ---
 
