@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: fr
+author: eric_jacob
 title: "Souveraineté énergétique & résilience industrielle"
 ---
 
