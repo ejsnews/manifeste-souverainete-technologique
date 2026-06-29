@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: fr
+author: eric_jacob
 title: "Climatisation décarbonée : le droit au froid sans catastrophe écologique"
 ---
 
