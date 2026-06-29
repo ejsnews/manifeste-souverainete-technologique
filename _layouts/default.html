@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="{{ page.lang | default: 'fr' }}">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% if page.lang == 'en' %}
+    {% if page.lang == 'fr' %}
         <title>{{ page.title }} — Haffner Energy & Souveraineté</title>
         <meta name="description" content="Vers un écosystème national d'autonomie énergétique, sanitaire et agricole. Note Stratégique Indépendante.">
     {% else %}
@@ -22,7 +22,11 @@
       {% endif %}
       <hr>
       {% assign author = site.data.authors[page.author] %}
-      <a href="{{ author.linkedin }}">{{ author.name }}</a>
+      <!-- On vérifie que l'auteur existe bien avant de l'afficher -->
+      {% if author %}
+        <a href="{{ author.linkedin }}">{{ author.name }}</a>
+        <p>{{ author.bio }}</p> <!-- J'ai ajouté la bio -->
+      {% endif %}
     </main>
   </body>
 </html>
