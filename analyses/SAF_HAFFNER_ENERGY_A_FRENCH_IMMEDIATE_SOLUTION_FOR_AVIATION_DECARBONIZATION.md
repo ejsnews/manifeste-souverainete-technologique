@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+author: eric_jacob
 title: "SAF HAFFNER ENERGY: AN IMMEDIATE SOLUTION FOR THE DECARBONIZATION OF AVIATION"
 ---
 
