@@ -5,7 +5,7 @@ author: eric_jacob
 title: "Le Biochar : bien plus qu'un puits de carbone"
 ---
 
-# Le Biochar : bien plus qu'un puits de carbone
+# Le Biochar : bien plus qu'un puits de carbone [(English version - EN)](Biochar_Much_More_Than_a_Carbon_Sink.md)
 
 *Note technique et stratégique — Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
