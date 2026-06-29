@@ -5,7 +5,7 @@ author: eric_jacob
 title: "Datacenters et intelligence artificielle : le seul scénario vertueux"
 ---
 
-# Datacenters et intelligence artificielle : le seul scénario vertueux
+# Datacenters et intelligence artificielle : le seul scénario vertueux [(English version - EN)](Data_Centers_and_Artificial_Intelligence_The_Only_Virtuous_Scenario.md)
 
 *Note technique et stratégique — Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
