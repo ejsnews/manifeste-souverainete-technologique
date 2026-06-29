@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: fr
+author: eric_jacob
 title: "Protocole de prévention des feux de forêts par thermolyse et Biochar"
 ---
 
