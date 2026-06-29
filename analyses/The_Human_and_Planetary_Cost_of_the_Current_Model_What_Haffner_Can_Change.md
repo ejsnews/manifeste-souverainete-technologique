@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+author: eric_jacob
 title: "The human and planetary Cost of the current model — What Haffner can change"
 ---
 
