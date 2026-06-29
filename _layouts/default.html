@@ -21,6 +21,8 @@
         {% include menu_fr.html %}
       {% endif %}
       <hr>
+      {% assign author = site.data.authors[page.author] %}
+      <a href="{{ author.linkedin }}">{{ author.name }}</a>
     </main>
   </body>
 </html>
