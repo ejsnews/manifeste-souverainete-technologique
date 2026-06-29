@@ -4,15 +4,21 @@ lang: en
 author: eric_jacob
 title: "Biochar: Much More Than a Carbon Sink"
 ---
-# Biochar: Much More Than a Carbon Sink
+
+# Biochar: Much More Than a Carbon Sink [(French version - FR)](Les_usages_du_Biochar_bien_plus_qu_un_puits_de_carbone.md)
+
 *Technical and Strategic Note — Éric Jacob, Engineer (Maths-Sup, DEA)*
+
 ---
+
 ## What is Biochar?
 
 Biochar is the solid residue from biomass thermolysis. It is pure, stable, porous, non-toxic carbon. It does not decompose in soils — it remains there for centuries. This is why it constitutes a **permanent carbon sink**, unlike compost which releases its CO₂ back into the atmosphere within a few years.
 
 Haffner Energy co-produces high-purity biochar with every thermolysis cycle. This co-product is currently mainly valued through carbon credit markets (110-140 €/tonne of CO₂ sequestered, CORC index). But its potential uses go far beyond that.
+
 ---
+
 ## 1. Forest Fire Prevention: Biochar as a Natural Firebreak
 ### The Current Problem
 
@@ -52,7 +58,9 @@ The porous structure of biochar (specific surface area of 200 to 400 m²/g) make
 **Road and highway verges**: Soils along roads accumulate heavy metals (brakes, tires, fuels). Biochar as a filtering layer protects adjacent aquifers.
 
 **Wetlands and watersheds**: Spreading upstream to intercept agricultural pollutants before they reach waterways.
+
 ---
+
 ## 3. Revitalization of Degraded Soils: Biochar as a Soil Amendment
 ### Revitalized Biochar: The Inoculation Principle
 
@@ -67,8 +75,11 @@ This revitalization process is simple: the biochar is mixed with compost, plant 
 ### Post-Fire Forest Soils
 
 After a megafire, soils are sterile, impermeable (hydrophobic crust), and prone to erosion. Spreading revitalized biochar accelerates microbial recolonization, improves water infiltration, and reduces erosion — significantly shortening the forest regeneration timeline.
+
 ---
+
 ## 4. A Model of Payment for Environmental Services
+
 ### Available Financial Flows
 | Service Provided | Payment Mechanism | Estimated Value |
 |:-----------------|:------------------|:----------------|
@@ -77,12 +88,15 @@ After a megafire, soils are sterile, impermeable (hydrophobic crust), and prone 
 | Soil depollution | PES markets + ADEME | Variable |
 | Agricultural soil improvement | CAP, agro-environmental aid | Variable |
 | Reduction of fire damage | Insurance + disaster funds | Indirect |
+
 ### A Key Player: Haffner as a Territorial Service Operator
 
 A Haffner module deployed in a forest or agricultural area does more than produce energy. It becomes a **territorial environmental service operator**: it collects residual biomass, produces energy and biochar, and redistributes this biochar in the form of paid services (fire prevention, depollution, soil amendment) remunerated through multiple mechanisms simultaneously.
 
 It is a multi-revenue, decentralized model, non-subsidized at its energy core, and a creator of non-offshorable local jobs.
+
 ---
+
 ## Conclusion: Biochar, a Lever for a Territorial Circular Economy
 
 Biochar is not a by-product to be buried. It is a strategic, multifunctional material that:
@@ -93,4 +107,5 @@ Biochar is not a by-product to be buried. It is a strategic, multifunctional mat
 - **Generates revenue** through carbon markets and PES
 
 Every Haffner module deployed simultaneously produces decarbonized energy **and** a tool for territorial regeneration. This is the very definition of a complete circular economy.
+
 ---
