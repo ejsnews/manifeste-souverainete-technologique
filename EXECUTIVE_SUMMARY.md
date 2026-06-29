@@ -1,5 +1,7 @@
 ---
+layout: default
 lang: fr
+author: eric_jacob
 title: "Résumé exécutif : Souveraineté énergétique et résilience industrielle"
 ---
 
