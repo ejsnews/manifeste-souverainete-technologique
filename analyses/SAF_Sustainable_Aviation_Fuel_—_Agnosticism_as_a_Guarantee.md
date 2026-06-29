@@ -2,10 +2,10 @@
 layout: default
 lang: en
 author: eric_jacob
-title: "SAF: Sustainable Aviation Fuel — Agnosticism as a Guarantee"
+title: "SAF: Sustainable Aviation Fuel - Agnosticism as a Guarantee"
 ---
 
-# SAF: Sustainable Aviation Fuel — Agnosticism as a Guarantee [(French version - FR)](SAF_Carburant_durable_pour_l_aviation_-_L_agnosticisme_comme_garantie.md)
+# SAF: Sustainable Aviation Fuel - Agnosticism as a Guarantee [(French version - FR)](SAF_Carburant_durable_pour_l_aviation_-_L_agnosticisme_comme_garantie.md)
 
 *Technical and Strategic Note — Éric Jacob, Engineer (Maths-Sup, DEA)*
 
