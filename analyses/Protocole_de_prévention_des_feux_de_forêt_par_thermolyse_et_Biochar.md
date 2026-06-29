@@ -5,7 +5,7 @@ author: eric_jacob
 title: "Protocole de prévention des feux de forêts par thermolyse et Biochar"
 ---
 
-# Protocole de prévention des feux de forêt par thermolyse et Biochar
+# Protocole de prévention des feux de forêt par thermolyse et Biochar [(English version - EN)](Forest_Fire_ Prevention_Protocol_Using_Thermolysis_and_Biochar.md)
 
 *Note technique et opérationnelle — Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
