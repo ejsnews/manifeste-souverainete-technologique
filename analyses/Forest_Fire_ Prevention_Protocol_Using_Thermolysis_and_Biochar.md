@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+author: eric_jacob
 title: "Forest Fire Prevention Protocol Using Thermolysis and Biochar"
 ---
 
