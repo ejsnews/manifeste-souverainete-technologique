@@ -5,7 +5,7 @@ author: eric_jacob
 title: "Logistique et transport : la biomasse résiduelle comme carburant de demain"
 ---
 
-# Logistique et transport : la biomasse résiduelle comme carburant de demain
+# Logistique et transport : la biomasse résiduelle comme carburant de demain [(English version - EN)](Logistics_and_Transport_Residual_Biomass_as_the_Fuel_of_Tomorrow.md)
 
 *Note technique et stratégique — Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
