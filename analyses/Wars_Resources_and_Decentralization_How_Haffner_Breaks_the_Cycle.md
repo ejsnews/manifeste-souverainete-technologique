@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+author: eric_jacob
 title: "Wars, Resources and Decentralization: How Haffner Breaks the Cycle"
 ---
 # Wars, Resources and Decentralization: How Haffner Breaks the Cycle
