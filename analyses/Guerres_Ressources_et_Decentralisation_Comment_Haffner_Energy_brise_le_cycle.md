@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: fr
+author: eric_jacob
 title: "Guerres, Ressources et Décentralisation : Comment Haffner brise le cycle"
 ---
 
