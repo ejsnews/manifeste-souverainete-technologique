@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: fr
+author: eric_jacob
 title: "Logistique et transport : la biomasse résiduelle comme carburant de demain"
 ---
 
