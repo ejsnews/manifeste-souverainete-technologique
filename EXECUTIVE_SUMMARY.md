@@ -1,7 +1,8 @@
 ---
 lang: fr
-title: "Résumé exécutif : Souveraineté énergétique & résilience industrielle"
+title: "Résumé exécutif : Souveraineté énergétique et résilience industrielle"
 ---
+
 # Résumé exécutif : Souveraineté énergétique & résilience industrielle
 ### Note d'opportunité - À l'attention des décideurs publics et des investisseurs territoriaux
 
