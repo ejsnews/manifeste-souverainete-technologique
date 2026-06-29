@@ -4,9 +4,13 @@ lang: en
 author: eric_jacob
 title: "Logistics and Transport: Residual Biomass as the Fuel of Tomorrow"
 ---
-# Logistics and Transport: Residual Biomass as the Fuel of Tomorrow
+
+# Logistics and Transport: Residual Biomass as the Fuel of Tomorrow [(French version - FR)](Logistique_et_Transport_la_biomasse_résiduelle_comme_carburant_de_demain.md)
+
 *Technical and Strategic Note — Éric Jacob, Engineer (Maths-Sup, DEA)*
+
 ---
+
 ## A Hidden Resource in Plain Sight
 
 Logistics centers generate massive daily volumes of residual biomass:
@@ -16,7 +20,9 @@ Logistics centers generate massive daily volumes of residual biomass:
 - Dunnage wood and various packaging materials
 
 These materials are currently considered costs — removal costs, treatment costs, landfill costs. With a Haffner Energy module installed on site, they become a **local energy raw material**, transformed into syngas, hydrogen, electrical and thermal energy — without transportation, without intermediaries, and without dependence on the grid.
+
 ---
+
 ## On-Site Produced Hydrogen for the Fleet
 
 Major logistics operators (Amazon, Geodis, FM Logistic, ID Logistics) operate massive fleets of:
@@ -25,13 +31,17 @@ Major logistics operators (Amazon, Geodis, FM Logistic, ID Logistics) operate ma
 - Last-mile delivery vehicles
 
 Today, the hydrogen for these fleets is produced elsewhere, compressed, transported by tanker, and delivered on site — a costly, dependent, and emitting supply chain. A Haffner module on the warehouse site **eliminates this chain entirely**: hydrogen is produced locally from the site’s own waste, at less than €2/kg without subsidies.
+
 ---
+
 ## The Decisive Advantage of the 2 MW Module: Standard Road Transport
 
 A 2 MW Haffner C-iC module can be transported on ordinary roads, **without exceptional convoy**. It fits everywhere — warehouse access, peripheral industrial zones, rural areas. It installs in less than a month on an existing concrete slab, without foundations or building permits.
 
 For a logistics operator managing 50 warehouses in France, this means progressive, autonomous deployment, site by site, without dependence on a centralized construction project.
+
 ---
+
 ## The N+1 Model Applied to Logistics
 
 As with data centers, resilience is ensured by distributed architecture:
@@ -43,7 +53,9 @@ As with data centers, resilience is ensured by distributed architecture:
 | Large (100,000 m²) | 8 MW | 4 modules | 1 module | 5 modules |
 
 If one module goes into maintenance (based on 8,000h/year operation), hydrogen and energy production continues without interruption thanks to the reserve module.
+
 ---
+
 ## The Triple Benefit for the Logistics Operator
 
 **1. Cost Reduction**
@@ -60,13 +72,17 @@ If one module goes into maintenance (based on 8,000h/year operation), hydrogen a
 - Zero dependence on the centralized electricity grid
 - Zero dependence on the hydrogen supply chain
 - Guaranteed continuity even in case of grid outage or supply crisis
+
 ---
+
 ## The Transition to Hydrogen Transport
 
 European regulations (Euro 7, 2030 CO₂ targets) are pushing logistics operators toward decarbonized heavy transport. Hydrogen is the only viable solution for long distances and heavy loads — batteries do not offer the required range or fast charging capacity.
 
 A logistics hub equipped with Haffner modules naturally becomes a **hydrogen production and distribution station** for its own fleet and for partner carriers in the area. This multi-energy hub (electricity, heat, hydrogen, biochar) transforms a cost center into an energy profit center.
+
 ---
+
 ## Priority Targets in France
 - **Geodis** (SNCF subsidiary) — Net Zero 2050 commitments, massive fleet
 - **ID Logistics** (French listed company) — international growth, central RSE focus
