@@ -5,7 +5,7 @@ author:	eric_jacob
 title: "Modélisation Économique - Installation H6 + S-iC et dérivés du Syngas"
 ---
 
-# Modélisation Économique - Installation H6 + S-iC et dérivés du Syngas [(English version - EN)](Economic_Modeling_-_H6_and_S-iC_nstallation_and_Syngas_Derivatives.md)
+# Modélisation Économique - Installation H6 + S-iC et dérivés du Syngas [(English version - EN)](Economic_Modeling_-_H6_and_S-iC_installation_and_Syngas_Derivatives.md)
 
 *Modélisation indépendante basée sur les données publiques de Haffner Energy - Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
