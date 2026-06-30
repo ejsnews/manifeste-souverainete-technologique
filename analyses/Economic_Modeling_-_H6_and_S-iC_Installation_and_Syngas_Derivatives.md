@@ -9,8 +9,7 @@ title: "Economic Modeling - H6 + S-iC Installation and Syngas Derivatives"
 
 *Independent modeling based on Haffner Energy's public data - Éric Jacob, Engineer (Maths-Sup, DEA)*
 
-> **Methodological Warning**: This document is an independent modeling
-> based on publicly available data (press releases, patents,
+> **Methodological Warning**: This document is an independent modeling > based on publicly available data (press releases, patents,
 > shareholder webinars). The figures are estimates to be confirmed by
 > Haffner Energy. Assumptions are made explicit for each calculation.
 > This document also compiles publicly available technical data
