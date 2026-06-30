@@ -21,6 +21,7 @@ title: "Modélisation Économique - Installation H6 + S-iC et dérivés du Synga
 
 ## I. Chimie fondamentale - Les équations du syngas
 
+
 ### Le syngas produit par Haffner est un mélange de H₂ et CO. Il est la molécule plateforme qui permet de synthétiser tous les dérivés :
 
 **Hydrogène vert** (séparation directe) :
@@ -37,6 +38,7 @@ $$\text{CO} + 2\text{H}_2 \xrightarrow{250°C,\ 50\ bar} \text{CH}_3\text{OH}$$
 
 **Méthane de synthèse / biométhane** (procédé Sabatier - confirmé chez Haffner) :
 $$\text{CO} + 3\text{H}_2 \xrightarrow{\text{Ni},\ 300-400°C} \text{CH}_4 + \text{H}_2\text{O}$$
+
 
 ### En complément des dérivés déjà identifiés (H₂, NH₃, SAF, méthanol, méthane), Haffner Energy est ouvert à d'autres molécules d'intérêt issues du syngas :
 
@@ -56,9 +58,11 @@ $$\text{Toluène} + 3\text{H}_2 \xrightarrow{\text{catalyseur Pt/Pd}} \text{Mét
 
 ## II. Pistes à explorer pour le stockage de l'hydrogène
 
+
 ### Le problème de référence : 350-700 bars
 
 Le stockage gazeux comprimé reste la norme industrielle actuelle, mais impose des réservoirs lourds, coûteux (fibre de carbone), et une densité énergétique volumique limitée (~1,3 kWh/L à 700 bars, contre ~9,7 kWh/L pour l'essence). Il s'agit d'un problème connu qui peut également être résolu par un refroidissement jusqu'au zéro absolu ; toutefois, cela ne constitue pas un obstacle rédhibitoire, car l'hydrogène stocke trois fois plus d'énergie par kilogramme que l'essence et offre des avantages considérables en matière de souveraineté. Par ailleurs, Haffner permet la production de masse et la décarbonation. L’avantage de l’hydrogène sur le petrole serait définitif si d’autres méthodes de stockage venaient à émerger ; c’est pourquoi il convient de soutenir la recherche au sein des PME plutôt que de fragiliser la filière hydrogène, qui surmonte progressivement tous les défis techniques.
+
 
 ### Voie 1 - Stockage via ammoniac (déjà dans l'écosystème Haffner)
 
@@ -91,6 +95,7 @@ perte) + compression finale + rendement pile à combustible (50-60%).
 **Coût additionnel estimé :** 0,50 à 1,00 €/kg H₂ pour la transformation
 aller-retour, avant même le CAPEX des installations de craquage.
 
+
 ### Voie 2 - LOHC liquides (Liquid Organic Hydrogen Carriers)
 
 $$\text{Toluène} + 3\text{H}_2 \rightleftharpoons \text{Méthylcyclohexane}$$
@@ -103,6 +108,7 @@ sans perte (contrairement à l'H₂ liquide qui "boil-off" en continu).
 plusieurs analyses comparatives, et nécessite un recyclage du toluène
 (infrastructure de retour du véhicule porteur déshydrogéné).
 
+
 ### Voie 3 - Hydrures métalliques solides
 
 $$\text{Mg} + \text{H}_2 \rightleftharpoons \text{MgH}_2$$
@@ -110,6 +116,7 @@ $$\text{Mg} + \text{H}_2 \rightleftharpoons \text{MgH}_2$$
 Stockage à pression quasi-nulle, densité volumique élevée, mais nécessite
 un apport thermique (~300°C) pour le relargage - pertinent pour stockage
 fixe (datacenter, site industriel) plutôt que mobilité.
+
 
 ### Voie 4 - Hypothèse exploratoire : maillage structurel sans transformation chimique
 
@@ -181,6 +188,7 @@ de conversion - mais elle est encore au stade de la recherche fondamentale.
 
 ## V. Architecture H6 + S-iC - Hypothèses de modélisation
 
+
 ### Configuration étudiée
 
 L'image économique publiée par Haffner Energy montre une installation couplée
@@ -196,6 +204,7 @@ H6 + H4 (S-iC). Voici l'architecture telle que modélisée :
 brute. Si un H6 produit ~200-350 kg de biochar/tonne de biomasse, et que le S-iC
 traite 482 kg H₂/h, on estime qu'il faut **4 à 5 modules H6** pour alimenter
 un S-iC en continu. *À confirmer par Haffner Energy.*
+
 
 ### Disponibilité annuelle
 
@@ -223,12 +232,14 @@ C'est le scénario de base de l'image économique publiée par Haffner :
 
 ## VII. Scénario B - Production d'ammoniac vert (engrais)
 
+
 ### Données scientifiques
 
 - Procédé Haber-Bosch : 3 mol H₂ + 1 mol N₂ → 2 mol NH₃
 - Rapport massique : **1 kg H₂ → 5,65 kg NH₃**
 - Énergie requise : 14-15 kWh/kg NH₃ (fournie par le syngas lui-même)
 - Efficacité de conversion H₂ → NH₃ : 76%
+
 
 ### Calcul sur installation H6 + S-iC
 
@@ -252,12 +263,14 @@ $$\text{NH}_3\ \text{produit} = 4\ 035\ 732 \times 0{,}76 \times 5{,}65 = 17\ 32
 
 ## VIII. Scénario C - Production de biodiesel/SAF (Fischer-Tropsch)
 
+
 ### Données scientifiques
 
 - Rendement biomasse → FT liquides : **15-28% en masse** selon la littérature
 - 1 tonne de biomasse à 30% humidité → **159 litres de biodiesel** (ScienceDirect)
 - Pouvoir calorifique FT-diesel : 43-45 MJ/kg (supérieur au diesel fossile)
 - Rendement global FT : 40-51% de l'énergie initiale de la biomasse
+
 
 ### Calcul sur installation H6 (seul, sans S-iC)
 
@@ -337,6 +350,7 @@ bas → demande encore plus large → nouveaux investissements en R&D pour
 pétrole n'a jamais eu besoin de créer, puisqu'il était déjà disponible en
 masse et concentré géographiquement.
 
+
 ### La fiabilité par redondance : l'argument décisif pour les datacenters
 
 Le choix de modules unitaires de 2 MW plutôt qu'une centrale monolithique de
@@ -390,6 +404,7 @@ industriels.
 > garantit pas leur développement industriel futur.
 
 ---
+
 
 ## Conclusion
 
