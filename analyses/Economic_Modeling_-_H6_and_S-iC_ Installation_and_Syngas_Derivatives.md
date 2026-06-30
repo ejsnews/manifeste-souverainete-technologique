@@ -32,6 +32,7 @@ $$\text{Syngas} \xrightarrow{\text{separation}} \text{H}_2 + \text{CO}$$
 $$3\text{H}_2 + \text{N}_2 \xrightarrow{400-500°C,\ 150-250\ bar} 2\text{NH}_3$$
 
 **Biodiesel/SAF** (Fischer-Tropsch synthesis):
+
 $$n\text{CO} + (2n+1)\text{H}_2 \xrightarrow{\text{cobalt/Fe}} \text{C}_n\text{H}_{2n+2} + n\text{H}_2\text{O}$$
 
 **Methanol**:
