@@ -21,8 +21,7 @@ title: "Modélisation Économique - Installation H6 + S-iC et dérivés du Synga
 
 ## I. Chimie fondamentale - Les équations du syngas
 
-Le syngas produit par Haffner est un mélange de H₂ et CO. Il est la molécule
-plateforme qui permet de synthétiser tous les dérivés :
+### Le syngas produit par Haffner est un mélange de H₂ et CO. Il est la molécule plateforme qui permet de synthétiser tous les dérivés :
 
 **Hydrogène vert** (séparation directe) :
 $$\text{Syngas} \xrightarrow{\text{séparation}} \text{H}_2 + \text{CO}$$
