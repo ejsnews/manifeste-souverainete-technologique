@@ -322,7 +322,7 @@ Basé sur la BMW iX5 Hydrogen (750 km / 7 kg H₂) avec H₂ Haffner à 1,50 €
 | **Coût réel/100 km** | **~11,05 €** | **~1,40 €** |
 | **Facteur d'économie** | référence | **×7,9 moins cher** |
 
-$$\text{Économie annuelle (20 000 km)} = (11{,}05 - 1{,}40) \times 200 = 1\ 930\ €\text{/an/véhicule}$$
+$$\text{Économie annuelle (20 000 km)} = (11{,}05 - 1{,}40) \times 200 = 1\,930\ \text{€/an/véhicule}$$
 
 ---
 
