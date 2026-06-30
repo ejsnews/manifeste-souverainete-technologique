@@ -74,12 +74,15 @@ Gaseous compression storage, although the current industrial standard, requires 
 ### Pathway 1 - Storage via Ammonia (already in the Haffner ecosystem)
 
 **Synthesis (Haber-Bosch):**
+
 $$3\text{H}_2 + \text{N}_2 \xrightarrow{400-500°C,\ 150-250\ bar} 2\text{NH}_3 \quad (\eta = 70-75\%)$$
 
 **Cracking (H₂ release):**
+
 $$2\text{NH}_3 \xrightarrow{\text{catalyst},\ 400-600°C} 3\text{H}_2 + \text{N}_2$$
 
 **Storage Advantage:** Liquid ammonia is stored at only **8-10 bars**
+
 at ambient temperature (like LPG), versus 700 bars for pure H₂ - a considerable pressure gain, with a volumetric energy density 40% higher than liquid hydrogen.
 
 **The Round-Trip Efficiency Debate:**
@@ -111,6 +114,7 @@ to several comparative analyses, and requires toluene recycling
 (return infrastructure for the dehydrogenated carrier vehicle).
 
 ### Pathway 3 - Solid Metal Hydrides
+
 $$\text{Mg} + \text{H}_2 \rightleftharpoons \text{MgH}_2$$
 Storage at near-zero pressure, high volumetric density, but requires
 thermal input (~300°C) for release - relevant for stationary storage
@@ -183,6 +187,7 @@ The economic image published by Haffner Energy shows a coupled H6 + H4 (S-iC) in
 | **Total installation** | | **542 kg H₂/h** |
 
 **Assumption on H6/S-iC ratio**: the S-iC receives biochar, not raw biomass.
+
 If one H6 produces ~200-350 kg of biochar/tonne of biomass, and the S-iC
 processes 482 kg H₂/h, it is estimated that **4 to 5 H6 modules** are needed to continuously feed
 one S-iC. *To be confirmed by Haffner Energy.*
@@ -190,6 +195,7 @@ one S-iC. *To be confirmed by Haffner Energy.*
 ### Annual Availability
 
 $$\text{Operating hours} = 8760 \times 85\% = 7446\ \text{h/year}$$
+
 $$\text{Annual H}_2\ production = 542\ \text{kg/h} \times 7446\ \text{h} = 4\ 035\ 732\ \text{kg H}_2\text{/year}$$
 
 ---
@@ -218,10 +224,11 @@ This is the base scenario of the economic image published by Haffner:
 - Mass ratio: **1 kg H₂ → 5.65 kg NH₃**
 - Energy required: 14-15 kWh/kg NH₃ (provided by the syngas itself)
 - H₂ → NH₃ conversion efficiency: 76%
-- 
+
 ### Calculation on H6 + S-iC Installation
 
 $$\text{Available H}_2 = 4\ 035\ 732\ \text{kg/year}$$
+
 $$\text{NH}_3\ produced = 4\ 035\ 732 \times 0{,}76 \times 5{,}65 = 17\ 321\ 073\ \text{kg NH}_3\text{/year}$$
 
 | Parameter | Value |
@@ -246,11 +253,11 @@ $$\text{NH}_3\ produced = 4\ 035\ 732 \times 0{,}76 \times 5{,}65 = 17\ 321\ 073
 - 1 tonne of biomass at 30% moisture → **159 liters of biodiesel** (ScienceDirect)
 - FT-diesel calorific value: 43-45 MJ/kg (higher than fossil diesel)
 - Overall FT yield: 40-51% of initial biomass energy
-- 
+
 ### Calculation on H6 Installation (alone, without S-iC)
 
-In Fischer-Tropsch mode, syngas is directed toward FT synthesis rather
-than H₂ separation. We model on the H6 alone (60 kg H₂/h):
+In Fischer-Tropsch mode, syngas is directed toward FT synthesis rather than H₂ separation. We model on the H6 alone (60 kg H₂/h):
+
 $$\text{Biomass processed H6} \approx 1\ \text{tonne/h} \times 7446\ \text{h} = 7446\ \text{t/year}$$
 $$\text{Biodiesel produced} = 7446 \times 159\ \text{L} = 1\ 183\ 914\ \text{L/year}$$
 
@@ -272,6 +279,7 @@ $$\text{Biodiesel produced} = 7446 \times 159\ \text{L} = 1\ 183\ 914\ \text{L/y
 | B | Green Ammonia | €6.9 – €10.4 M | Agriculture, fertilizers |
 | C (H6 alone) | Biodiesel/SAF | €1.4 – €2.1 M | Aviation, heavy transport |
 | A+B Mixed | H₂ + NH₃ | Variable according to ratio | Multi-use territory |
+
 > **Observation**: Scenario A (pure hydrogen) is the most profitable in the short
 > term. Scenario B (ammonia) is the most sovereign (local fertilizers).
 > Scenario C (SAF) is the most relevant for aviation. A Haffner module
@@ -282,6 +290,7 @@ $$\text{Biodiesel produced} = 7446 \times 159\ \text{L} = 1\ 183\ 914\ \text{L/y
 ## X. Mobility Demonstration - H₂ vs Gasoline
 
 Based on the BMW iX5 Hydrogen (750 km / 7 kg H₂) with Haffner H₂ at €1.50/kg:
+
 | Parameter | Gasoline Vehicle | BMW iX5 (Haffner H₂) |
 |:----------|:----------------:|:--------------------:|
 | Fuel Energy Density | 12.2 kWh/kg | **33.3 kWh/kg** |
@@ -299,20 +308,16 @@ $$\text{Annual Savings (20 000 km)} = (11{,}05 - 1{,}40) \times 200 = 1\ 930\ �
 
 It is not technology alone that creates economic value - it is the combination of four factors that reinforce each other:
 
-**Low price** → accessible to a mass market (local authorities, SMEs, cooperatives),
-not reserved for large industrial groups only.
-**Transportability** (2 MW module on truck, without exceptional convoy) →
-deployment in a few weeks, without centralized construction or heavy civil engineering.
-**Usage versatility** (H₂, NH₃, SAF, methane, methanol, and other molecules
-to come) → a single industrial investment serves several markets simultaneously,
-reducing commercial risk for the buyer.
-**Low CAPEX and rapid amortization** (< 3 months on the hydrogen scenario) →
-accessible to actors who could never have financed a classic centralized plant.
-**The result is a self-sustaining loop:** more modules deployed →
-more industrial feedback → even lower manufacturing costs → even wider demand → new R&D investments to
-expand the range of produced molecules. It is a virtuous circle that oil
-never needed to create, since it was already available in
-mass and geographically concentrated.
+**Low price** → accessible to a mass market (local authorities, SMEs, cooperatives), not reserved for large industrial groups only.
+
+**Transportability** (2 MW module on truck, without exceptional convoy) → deployment in a few weeks, without centralized construction or heavy civil engineering.
+
+**Usage versatility** (H₂, NH₃, SAF, methane, methanol, and other molecules to come) → a single industrial investment serves several markets simultaneously, reducing commercial risk for the buyer.
+
+**Low CAPEX and rapid amortization** (< 3 months on the hydrogen scenario) → accessible to actors who could never have financed a classic centralized plant.
+
+**The result is a self-sustaining loop:** more modules deployed → more industrial feedback → even lower manufacturing costs → even wider demand → new R&D investments to expand the range of produced molecules. It is a virtuous circle that oil
+never needed to create, since it was already available in mass and geographically concentrated.
 
 ### Reliability through Redundancy: The Decisive Argument for Datacenters
 
