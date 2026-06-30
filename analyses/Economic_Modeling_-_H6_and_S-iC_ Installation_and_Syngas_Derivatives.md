@@ -26,9 +26,11 @@ title: "Economic Modeling - H6 + S-iC Installation and Syngas Derivatives"
 ### The syngas produced by Haffner is a mixture of H₂ and CO. It is the platform molecule that allows the synthesis of all derivatives:
 
 **Green Hydrogen** (direct separation):
+
 $$\text{Syngas} \xrightarrow{\text{separation}} \text{H}_2 + \text{CO}$$
 
 **Ammonia** (Haber-Bosch process):
+
 $$3\text{H}_2 + \text{N}_2 \xrightarrow{400-500°C,\ 150-250\ bar} 2\text{NH}_3$$
 
 **Biodiesel/SAF** (Fischer-Tropsch synthesis):
@@ -36,23 +38,29 @@ $$3\text{H}_2 + \text{N}_2 \xrightarrow{400-500°C,\ 150-250\ bar} 2\text{NH}_3$
 $$n\text{CO} + (2n+1)\text{H}_2 \xrightarrow{\text{cobalt/Fe}} \text{C}_n\text{H}_{2n+2} + n\text{H}_2\text{O}$$
 
 **Methanol**:
+
 $$\text{CO} + 2\text{H}_2 \xrightarrow{250°C,\ 50\ bar} \text{CH}_3\text{OH}$$
 
 **Synthetic Methane / Biomethane** (Sabatier process - confirmed at Haffner):
+
 $$\text{CO} + 3\text{H}_2 \xrightarrow{\text{Ni},\ 300-400°C} \text{CH}_4 + \text{H}_2\text{O}$$
 
 ### In addition to the identified derivatives (H₂, NH₃, SAF, methanol, methane), Haffner Energy is open to other molecules of interest derived from syngas:
 
 **Dimethyl Ether (DME)** - clean diesel fuel, derived from methanol:
+
 $$2\text{CH}_3\text{OH} \xrightarrow{\text{Al}_2\text{O}_3,\ 250°C} \text{CH}_3\text{OCH}_3 + \text{H}_2\text{O}$$
 
 **Urea** (stable solid fertilizer, direct derivative of ammonia):
+
 $$2\text{NH}_3 + \text{CO}_2 \xrightarrow{180°C,\ 150\ bar} \text{CO(NH}_2)_2 + \text{H}_2\text{O}$$
 
 **Nitric Acid** (alternative nitrogen pathway, NPK fertilizers, civilian applications):
+
 $$4\text{NH}_3 + 5\text{O}_2 \xrightarrow{\text{Pt/Rh},\ 800°C} 4\text{NO} + 6\text{H}_2\text{O}$$
 
 **LOHC - Methylcyclohexane** (liquid storage at atmospheric pressure):
+
 $$\text{Toluene} + 3\text{H}_2 \xrightarrow{\text{Pt/Pd catalyst}} \text{Methylcyclohexane}$$
 
 ---
