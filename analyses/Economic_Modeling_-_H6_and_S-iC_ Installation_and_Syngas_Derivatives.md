@@ -303,7 +303,7 @@ Based on the BMW iX5 Hydrogen (750 km / 7 kg H₂) with Haffner H₂ at €1.50/
 
 $$\text{Annual Savings (20 000 km)} = (11{,}05 - 1{,}40) \times 200 = 1\ 930\ €\text{/year/vehicle}$$
 
-$$\text{Annual Savings (20 000 km)} = (11{,}05 - 1{,}40) \times 200 = 1\ 930\ €\text{/year/vehicle}$$
+$$\text{Annual Savings (20 000 km)} = (11{,}05 - 1{,}40) \times 200 = 1\,930\ \text{€/year/vehicle}$$
 
 
 ---
