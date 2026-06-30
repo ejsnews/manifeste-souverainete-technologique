@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+author:	eric_jacob
 title: "Economic Modeling - H6 + S-iC Installation and Syngas Derivatives"
 ---
 
