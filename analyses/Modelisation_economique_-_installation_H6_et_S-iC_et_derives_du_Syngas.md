@@ -58,9 +58,7 @@ $$\text{Toluène} + 3\text{H}_2 \xrightarrow{\text{catalyseur Pt/Pd}} \text{Mét
 
 ### Le problème de référence : 350-700 bars
 
-Le stockage gazeux comprimé reste la norme industrielle actuelle, mais impose
-des réservoirs lourds, coûteux (fibre de carbone), et une densité énergétique
-volumique limitée (~1,3 kWh/L à 700 bars, contre ~9,7 kWh/L pour l'essence).
+Le stockage gazeux comprimé reste la norme industrielle actuelle, mais impose des réservoirs lourds, coûteux (fibre de carbone), et une densité énergétique volumique limitée (~1,3 kWh/L à 700 bars, contre ~9,7 kWh/L pour l'essence). Il s'agit d'un problème connu qui peut également être résolu par un refroidissement jusqu'au zéro absolu ; toutefois, cela ne constitue pas un obstacle rédhibitoire, car l'hydrogène stocke trois fois plus d'énergie par kilogramme que l'essence et offre des avantages considérables en matière de souveraineté. Par ailleurs, Haffner permet la production de masse et la décarbonation. L’avantage de l’hydrogène sur le petrole serait définitif si d’autres méthodes de stockage venaient à émerger ; c’est pourquoi il convient de soutenir la recherche au sein des PME plutôt que de fragiliser la filière hydrogène, qui surmonte progressivement tous les défis techniques.
 
 ### Voie 1 - Stockage via ammoniac (déjà dans l'écosystème Haffner)
 
