@@ -315,22 +315,83 @@ $$\text{Économie annuelle (20 000 km)} = (11{,}05 - 1{,}40) \times 200 = 1\ 930
 
 ---
 
-## XI. Impact macroéconomique France - Modélisation à grande échelle
+## XI. La boucle de renforcement — pourquoi la demande s'auto-amplifie
 
-Si 10 000 installations H6+S-iC étaient déployées en France (scénario à 10 ans) :
+Ce n'est pas la technologie seule qui crée la valeur économique — c'est la
+combinaison de quatre facteurs qui se renforcent mutuellement :
 
-| Indicateur | Valeur estimée |
-|:-----------|:--------------:|
-| H₂ produit | 40 millions t/an |
-| CA généré | 260 milliards €/an |
-| Réduction imports fossiles | -40 à -60 Mds€/an |
-| Emplois directs créés | 200 000 – 400 000 |
-| CO₂ séquestré (biochar) | 50-80 millions tCO₂/an |
+**Prix bas** → accessible à un marché de masse (collectivités, PME, coopératives),
+pas réservé aux seuls grands groupes industriels.
 
-> **Note** : Ces chiffres sont une extrapolation linéaire à titre illustratif.
-> Le déploiement réel dépend des ressources en biomasse disponibles, estimées
-> à plusieurs centaines de millions de tonnes en France (résidus agricoles,
-> forestiers et urbains).
+**Transportabilité** (module 2 MW sur camion, sans convoi exceptionnel) →
+déploiement en quelques semaines, sans chantier centralisé ni génie civil lourd.
+
+**Polyvalence d'usage** (H₂, NH₃, SAF, méthane, méthanol, et d'autres molécules
+à venir) → un seul investissement industriel sert plusieurs marchés simultanément,
+réduisant le risque commercial pour l'acheteur.
+
+**CAPEX faible et amortissement rapide** (< 3 mois sur le scénario hydrogène) →
+accessible à des acteurs qui n'auraient jamais pu financer une centrale
+centralisée classique.
+
+**Le résultat est une boucle auto-entretenue :** plus de modules déployés →
+plus de retours d'expérience industriels → coûts de fabrication encore plus
+bas → demande encore plus large → nouveaux investissements en R&D pour
+élargir la gamme de molécules produites. C'est un cercle vertueux que le
+pétrole n'a jamais eu besoin de créer, puisqu'il était déjà disponible en
+masse et concentré géographiquement.
+
+### La fiabilité par redondance : l'argument décisif pour les datacenters
+
+Le choix de modules unitaires de 2 MW plutôt qu'une centrale monolithique de
+20 MW n'est pas qu'un avantage logistique — c'est un argument de fiabilité
+structurelle. Une installation de 10 à 20 modules de 2 MW, organisée selon
+le principe N+1, ne connaît jamais d'arrêt total : la panne ou la maintenance
+d'un seul module ne réduit la puissance disponible que marginalement, alors
+qu'une centrale monolithique en arrêt l'est totalement.
+
+Haffner semble s'orienter durablement vers ce modèle modulaire — confirmé par
+l'adaptation du programme CORE100 aux demandes de configurations multi-
+modulaires. C'est précisément ce qu'exigent les datacenters IA : une centrale
+qui ne s'arrête jamais, transportable, réparable module par module sans
+interrompre la production globale.
+
+---
+
+## XII. Impact macroéconomique France - Scénario élargi aux molécules futures
+
+Le scénario hydrogène seul (10 000 installations H6+S-iC) sous-estime
+l'impact réel si l'on intègre la polyvalence croissante de la technologie.
+Haffner Energy élargit continuellement sa gamme de produits pour répondre
+aux besoins de ses clients — méthane de synthèse et méthanol sont déjà
+mentionnés dans ses communications officielles, et d'autres molécules
+(DME, urée, acide nitrique) sont chimiquement accessibles à partir du
+même syngas sans changement de cœur technologique.
+
+| Scénario | H₂ seul | H₂ + NH₃ + CH₄ + SAF mixte (estimé) |
+|:---------|:-------:|:-------------------------------------:|
+| CA généré (10 000 installations) | 260 Mds€/an | 320-380 Mds€/an |
+| Réduction imports fossiles | -40 à -60 Mds€/an | -70 à -100 Mds€/an |
+| Réduction imports engrais azotés | Non comptée | -8 à -12 Mds€/an |
+| Emplois directs créés | 200 000 – 400 000 | 300 000 – 500 000 |
+| CO₂ séquestré (biochar) | 50-80 millions tCO₂/an | 50-80 millions tCO₂/an (inchangé) |
+
+**Pourquoi cette fourchette élargie est plausible :** chaque installation
+peut basculer dynamiquement entre plusieurs produits selon la demande locale
+et les prix de marché — un territoire agricole privilégiera l'ammoniac et
+l'urée, un hub logistique privilégiera l'hydrogène pour ses flottes, une
+zone côtière proche d'un port privilégiera le SAF ou le méthanol maritime.
+Cette flexibilité multiplie les débouchés sans multiplier les investissements
+industriels.
+
+> **Note méthodologique** : Ces chiffres restent des extrapolations linéaires
+> à titre illustratif. Le déploiement réel dépend des ressources en biomasse
+> disponibles (plusieurs centaines de millions de tonnes en France), du rythme
+> d'industrialisation de Haffner Energy, et de l'évolution réglementaire
+> (fast-track ICPE notamment). Plusieurs molécules listées ici (DME, acide
+> nitrique) ne sont pas encore confirmées au catalogue commercial de Haffner
+> Energy — elles sont chimiquement accessibles à partir du syngas, ce qui ne
+> garantit pas leur développement industriel futur.
 
 ---
 
@@ -347,4 +408,3 @@ inférieur à 3 mois pour une installation H6+S-iC.
 
 ---
 
-*Manifeste complet : [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
