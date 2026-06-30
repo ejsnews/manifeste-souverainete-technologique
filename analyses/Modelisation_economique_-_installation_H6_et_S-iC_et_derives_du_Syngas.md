@@ -39,8 +39,7 @@ $$\text{CO} + 2\text{H}_2 \xrightarrow{250°C,\ 50\ bar} \text{CH}_3\text{OH}$$
 **Méthane de synthèse / biométhane** (procédé Sabatier — confirmé chez Haffner) :
 $$\text{CO} + 3\text{H}_2 \xrightarrow{\text{Ni},\ 300-400°C} \text{CH}_4 + \text{H}_2\text{O}$$
 
-En complément des dérivés déjà identifiés (H₂, NH₃, SAF, méthanol, méthane), Haffner
-Energy est ouvert à d'autres molécules d'intérêt issues du syngas :
+### En complément des dérivés déjà identifiés (H₂, NH₃, SAF, méthanol, méthane), Haffner Energy est ouvert à d'autres molécules d'intérêt issues du syngas :
 
 **Diméthyl éther (DME)** — carburant diesel propre, dérivé du méthanol :
 $$2\text{CH}_3\text{OH} \xrightarrow{\text{Al}_2\text{O}_3,\ 250°C} \text{CH}_3\text{OCH}_3 + \text{H}_2\text{O}$$
