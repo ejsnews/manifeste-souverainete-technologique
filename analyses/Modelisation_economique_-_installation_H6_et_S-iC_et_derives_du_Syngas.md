@@ -13,7 +13,7 @@ title: "Modélisation Économique - Installation H6 + S-iC et dérivés du Synga
 > Haffner Energy. Les hypothèses sont explicitées pour chaque calcul.
 > Ce document compile par ailleurs des données techniques
 > publiques sur le stockage de l'hydrogène. Les chiffres d'efficacité varient
-> sensiblement selon les sources — parfois du simple au triple — reflétant un
+> sensiblement selon les sources - parfois du simple au triple - reflétant un
 > débat technique réel et non tranché. Les fourchettes sont présentées
 > honnêtement plutôt que lissées.
 
@@ -35,12 +35,12 @@ $$n\text{CO} + (2n+1)\text{H}_2 \xrightarrow{\text{cobalt/Fe}} \text{C}_n\text{H
 **Méthanol** :
 $$\text{CO} + 2\text{H}_2 \xrightarrow{250°C,\ 50\ bar} \text{CH}_3\text{OH}$$
 
-**Méthane de synthèse / biométhane** (procédé Sabatier — confirmé chez Haffner) :
+**Méthane de synthèse / biométhane** (procédé Sabatier - confirmé chez Haffner) :
 $$\text{CO} + 3\text{H}_2 \xrightarrow{\text{Ni},\ 300-400°C} \text{CH}_4 + \text{H}_2\text{O}$$
 
 ### En complément des dérivés déjà identifiés (H₂, NH₃, SAF, méthanol, méthane), Haffner Energy est ouvert à d'autres molécules d'intérêt issues du syngas :
 
-**Diméthyl éther (DME)** — carburant diesel propre, dérivé du méthanol :
+**Diméthyl éther (DME)** - carburant diesel propre, dérivé du méthanol :
 $$2\text{CH}_3\text{OH} \xrightarrow{\text{Al}_2\text{O}_3,\ 250°C} \text{CH}_3\text{OCH}_3 + \text{H}_2\text{O}$$
 
 **Urée** (engrais solide stable, dérivé direct de l'ammoniac) :
@@ -49,7 +49,7 @@ $$2\text{NH}_3 + \text{CO}_2 \xrightarrow{180°C,\ 150\ bar} \text{CO(NH}_2)_2 +
 **Acide nitrique** (voie azotée alternative, engrais NPK, applications civiles) :
 $$4\text{NH}_3 + 5\text{O}_2 \xrightarrow{\text{Pt/Rh},\ 800°C} 4\text{NO} + 6\text{H}_2\text{O}$$
 
-**LOHC — Méthylcyclohexane** (stockage liquide à pression atmosphérique) :
+**LOHC - Méthylcyclohexane** (stockage liquide à pression atmosphérique) :
 $$\text{Toluène} + 3\text{H}_2 \xrightarrow{\text{catalyseur Pt/Pd}} \text{Méthylcyclohexane}$$
 
 ---
@@ -62,7 +62,7 @@ Le stockage gazeux comprimé reste la norme industrielle actuelle, mais impose
 des réservoirs lourds, coûteux (fibre de carbone), et une densité énergétique
 volumique limitée (~1,3 kWh/L à 700 bars, contre ~9,7 kWh/L pour l'essence).
 
-### Voie 1 — Stockage via ammoniac (déjà dans l'écosystème Haffner)
+### Voie 1 - Stockage via ammoniac (déjà dans l'écosystème Haffner)
 
 **Synthèse (Haber-Bosch) :**
 $$3\text{H}_2 + \text{N}_2 \xrightarrow{400-500°C,\ 150-250\ bar} 2\text{NH}_3 \quad (\eta = 70-75\%)$$
@@ -71,7 +71,7 @@ $$3\text{H}_2 + \text{N}_2 \xrightarrow{400-500°C,\ 150-250\ bar} 2\text{NH}_3 
 $$2\text{NH}_3 \xrightarrow{\text{catalyseur},\ 400-600°C} 3\text{H}_2 + \text{N}_2$$
 
 **Avantage stockage :** l'ammoniac liquide se stocke à seulement **8-10 bars**
-à température ambiante (comme du GPL), contre 700 bars pour l'H₂ pur — un gain
+à température ambiante (comme du GPL), contre 700 bars pour l'H₂ pur - un gain
 de pression considérable, avec une densité énergétique volumique supérieure
 de 40% à l'hydrogène liquide.
 
@@ -93,7 +93,7 @@ perte) + compression finale + rendement pile à combustible (50-60%).
 **Coût additionnel estimé :** 0,50 à 1,00 €/kg H₂ pour la transformation
 aller-retour, avant même le CAPEX des installations de craquage.
 
-### Voie 2 — LOHC liquides (Liquid Organic Hydrogen Carriers)
+### Voie 2 - LOHC liquides (Liquid Organic Hydrogen Carriers)
 
 $$\text{Toluène} + 3\text{H}_2 \rightleftharpoons \text{Méthylcyclohexane}$$
 
@@ -105,18 +105,18 @@ sans perte (contrairement à l'H₂ liquide qui "boil-off" en continu).
 plusieurs analyses comparatives, et nécessite un recyclage du toluène
 (infrastructure de retour du véhicule porteur déshydrogéné).
 
-### Voie 3 — Hydrures métalliques solides
+### Voie 3 - Hydrures métalliques solides
 
 $$\text{Mg} + \text{H}_2 \rightleftharpoons \text{MgH}_2$$
 
 Stockage à pression quasi-nulle, densité volumique élevée, mais nécessite
-un apport thermique (~300°C) pour le relargage — pertinent pour stockage
+un apport thermique (~300°C) pour le relargage - pertinent pour stockage
 fixe (datacenter, site industriel) plutôt que mobilité.
 
-### Voie 4 — Hypothèse exploratoire : maillage structurel sans transformation chimique
+### Voie 4 - Hypothèse exploratoire : maillage structurel sans transformation chimique
 
-L'idée évoquée — un matériau qui "range" l'hydrogène dans un volume réduit
-sous haute pression sans le transformer chimiquement — correspond en réalité
+L'idée évoquée - un matériau qui "range" l'hydrogène dans un volume réduit
+sous haute pression sans le transformer chimiquement - correspond en réalité
 au principe des **MOF (Metal-Organic Frameworks)** : structures cristallines
 nanoporeuses qui adsorbent physiquement l'H₂ dans leurs pores (physisorption),
 sans réaction chimique, donc sans perte énergétique de conversion.
@@ -128,7 +128,7 @@ qu'un réservoir vide.
 
 **Limite actuelle :** les MOF les plus performants atteignent des capacités
 de stockage encore insuffisantes à température ambiante pour rivaliser
-avec les 700 bars en usage automobile — la recherche est active mais pas
+avec les 700 bars en usage automobile - la recherche est active mais pas
 encore mature industriellement. C'est une piste de recherche, pas une
 solution disponible aujourd'hui.
 
@@ -138,13 +138,13 @@ Haffner souhaite explorer une voie de stockage sans transformation chimique.*
 
 ---
 
-## III. Applications par mode de transport — quel vecteur pour quel usage ?
+## III. Applications par mode de transport - quel vecteur pour quel usage ?
 
 | Usage | Vecteur recommandé | Justification |
 |:------|:-------------------|:---------------|
 | Véhicule léger (voiture) | H₂ comprimé 700 bars | Infrastructure existante, rapidité plein |
 | Poids lourd longue distance | H₂ comprimé ou ammoniac | Selon disponibilité stations sur trajet |
-| Navire (cargo, ferry) | **Ammoniac direct** (moteur dédié) | Pas de craquage nécessaire — combustion directe NH₃ possible |
+| Navire (cargo, ferry) | **Ammoniac direct** (moteur dédié) | Pas de craquage nécessaire - combustion directe NH₃ possible |
 | Avion (SAF) | **SAF liquide** (Fischer-Tropsch) | Densité énergétique massique élevée, infrastructure aéroport existante |
 | Stockage stationnaire (datacenter, usine) | Hydrures métalliques ou ammoniac | Pas de contrainte de poids embarqué |
 | Réseau électrique (back-up) | Pile à combustible H₂ directe | Meilleur rendement sans étape de conversion |
@@ -169,7 +169,7 @@ pour le transport maritime décarboné à l'horizon 2027-2030.
 
 ---
 
-Il n'existe pas de vecteur hydrogène universellement supérieur — chaque
+Il n'existe pas de vecteur hydrogène universellement supérieur - chaque
 molécule dérivée du syngas Haffner (H₂ pur, ammoniac, méthane, méthanol,
 SAF) a un usage où elle est optimale. La polyvalence de la technologie
 Haffner permet précisément de choisir le bon vecteur selon le marché final,
@@ -177,7 +177,7 @@ plutôt que d'imposer une seule solution à tous les usages.
 
 La piste des matériaux poreux (MOF) pour un stockage sans transformation
 chimique reste la plus prometteuse à long terme pour éliminer les pertes
-de conversion — mais elle est encore au stade de la recherche fondamentale.
+de conversion - mais elle est encore au stade de la recherche fondamentale.
 
 ---
 
@@ -313,9 +313,9 @@ $$\text{Économie annuelle (20 000 km)} = (11{,}05 - 1{,}40) \times 200 = 1\ 930
 
 ---
 
-## XI. La boucle de renforcement — pourquoi la demande s'auto-amplifie
+## XI. La boucle de renforcement - pourquoi la demande s'auto-amplifie
 
-Ce n'est pas la technologie seule qui crée la valeur économique — c'est la
+Ce n'est pas la technologie seule qui crée la valeur économique - c'est la
 combinaison de quatre facteurs qui se renforcent mutuellement :
 
 **Prix bas** → accessible à un marché de masse (collectivités, PME, coopératives),
@@ -342,13 +342,13 @@ masse et concentré géographiquement.
 ### La fiabilité par redondance : l'argument décisif pour les datacenters
 
 Le choix de modules unitaires de 2 MW plutôt qu'une centrale monolithique de
-20 MW n'est pas qu'un avantage logistique — c'est un argument de fiabilité
+20 MW n'est pas qu'un avantage logistique - c'est un argument de fiabilité
 structurelle. Une installation de 10 à 20 modules de 2 MW, organisée selon
 le principe N+1, ne connaît jamais d'arrêt total : la panne ou la maintenance
 d'un seul module ne réduit la puissance disponible que marginalement, alors
 qu'une centrale monolithique en arrêt l'est totalement.
 
-Haffner semble s'orienter durablement vers ce modèle modulaire — confirmé par
+Haffner semble s'orienter durablement vers ce modèle modulaire - confirmé par
 l'adaptation du programme CORE100 aux demandes de configurations multi-
 modulaires. C'est précisément ce qu'exigent les datacenters IA : une centrale
 qui ne s'arrête jamais, transportable, réparable module par module sans
@@ -361,7 +361,7 @@ interrompre la production globale.
 Le scénario hydrogène seul (10 000 installations H6+S-iC) sous-estime
 l'impact réel si l'on intègre la polyvalence croissante de la technologie.
 Haffner Energy élargit continuellement sa gamme de produits pour répondre
-aux besoins de ses clients — méthane de synthèse et méthanol sont déjà
+aux besoins de ses clients - méthane de synthèse et méthanol sont déjà
 mentionnés dans ses communications officielles, et d'autres molécules
 (DME, urée, acide nitrique) sont chimiquement accessibles à partir du
 même syngas sans changement de cœur technologique.
@@ -376,7 +376,7 @@ même syngas sans changement de cœur technologique.
 
 **Pourquoi cette fourchette élargie est plausible :** chaque installation
 peut basculer dynamiquement entre plusieurs produits selon la demande locale
-et les prix de marché — un territoire agricole privilégiera l'ammoniac et
+et les prix de marché - un territoire agricole privilégiera l'ammoniac et
 l'urée, un hub logistique privilégiera l'hydrogène pour ses flottes, une
 zone côtière proche d'un port privilégiera le SAF ou le méthanol maritime.
 Cette flexibilité multiplie les débouchés sans multiplier les investissements
@@ -388,7 +388,7 @@ industriels.
 > d'industrialisation de Haffner Energy, et de l'évolution réglementaire
 > (fast-track ICPE notamment). Plusieurs molécules listées ici (DME, acide
 > nitrique) ne sont pas encore confirmées au catalogue commercial de Haffner
-> Energy — elles sont chimiquement accessibles à partir du syngas, ce qui ne
+> Energy - elles sont chimiquement accessibles à partir du syngas, ce qui ne
 > garantit pas leur développement industriel futur.
 
 ---
