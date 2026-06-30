@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Modélisation Économique — Installation H6 + S-iC et dérivés du Syngas"
+title: "Modélisation Économique - Installation H6 + S-iC et dérivés du Syngas"
 ---
 
-# Modélisation Économique — Installation H6 + S-iC et dérivés du Syngas
+# Modélisation Économique - Installation H6 + S-iC et dérivés du Syngas
 
-*Modélisation indépendante basée sur les données publiques de Haffner Energy — Éric Jacob, ingénieur (Maths-Sup, DEA)*
+*Modélisation indépendante basée sur les données publiques de Haffner Energy - Éric Jacob, ingénieur (Maths-Sup, DEA)*
 
 > **Avertissement méthodologique** : Ce document est une modélisation indépendante
 > basée sur les données publiques disponibles (communiqués de presse, brevets,
@@ -14,7 +14,7 @@ title: "Modélisation Économique — Installation H6 + S-iC et dérivés du Syn
 
 ---
 
-## I. Chimie fondamentale — Les équations du syngas
+## I. Chimie fondamentale - Les équations du syngas
 
 Le syngas produit par Haffner est un mélange de H₂ et CO. Il est la molécule
 plateforme qui permet de synthétiser tous les dérivés :
@@ -33,7 +33,7 @@ $$\text{CO} + 2\text{H}_2 \xrightarrow{250°C,\ 50\ bar} \text{CH}_3\text{OH}$$
 
 ---
 
-## II. Architecture H6 + S-iC — Hypothèses de modélisation
+## II. Architecture H6 + S-iC - Hypothèses de modélisation
 
 ### Configuration étudiée
 
@@ -59,7 +59,7 @@ $$\text{Production annuelle H}_2 = 542\ \text{kg/h} \times 7446\ \text{h} = 4\ 0
 
 ---
 
-## III. Scénario A — Production d'hydrogène vert (référence)
+## III. Scénario A - Production d'hydrogène vert (référence)
 
 C'est le scénario de base de l'image économique publiée par Haffner :
 
@@ -75,7 +75,7 @@ C'est le scénario de base de l'image économique publiée par Haffner :
 
 ---
 
-## IV. Scénario B — Production d'ammoniac vert (engrais)
+## IV. Scénario B - Production d'ammoniac vert (engrais)
 
 ### Données scientifiques
 
@@ -104,7 +104,7 @@ $$\text{NH}_3\ \text{produit} = 4\ 035\ 732 \times 0{,}76 \times 5{,}65 = 17\ 32
 
 ---
 
-## V. Scénario C — Production de biodiesel/SAF (Fischer-Tropsch)
+## V. Scénario C - Production de biodiesel/SAF (Fischer-Tropsch)
 
 ### Données scientifiques
 
@@ -132,7 +132,7 @@ $$\text{Biodiesel produit} = 7446 \times 159\ \text{L} = 1\ 183\ 914\ \text{L/an
 
 ---
 
-## VI. Comparaison des scénarios — Tableau de synthèse
+## VI. Comparaison des scénarios - Tableau de synthèse
 
 | Scénario | Produit | CA annuel estimé | Marché prioritaire |
 |:---------|:--------|:----------------:|:-------------------|
@@ -148,7 +148,7 @@ $$\text{Biodiesel produit} = 7446 \times 159\ \text{L} = 1\ 183\ 914\ \text{L/an
 
 ---
 
-## VII. Démonstration mobilité — H₂ vs Essence
+## VII. Démonstration mobilité - H₂ vs Essence
 
 Basé sur la BMW iX5 Hydrogen (750 km / 7 kg H₂) avec H₂ Haffner à 1,50 €/kg :
 
@@ -165,7 +165,7 @@ $$\text{Économie annuelle (20 000 km)} = (11{,}05 - 1{,}40) \times 200 = 1\ 930
 
 ---
 
-## VIII. Impact macroéconomique France — Modélisation à grande échelle
+## VIII. Impact macroéconomique France - Modélisation à grande échelle
 
 Si 10 000 installations H6+S-iC étaient déployées en France (scénario à 10 ans) :
 
@@ -188,11 +188,11 @@ Si 10 000 installations H6+S-iC étaient déployées en France (scénario à 10 
 
 Le modèle économique Haffner est remarquable par sa polyvalence : une même
 plateforme technologique peut produire, selon les besoins locaux, de l'hydrogène,
-de l'ammoniac, du biodiesel ou du SAF — sans modifier le cœur de la technologie.
+de l'ammoniac, du biodiesel ou du SAF - sans modifier le cœur de la technologie.
 
 Cette flexibilité est unique au monde. Elle permet à chaque territoire de choisir
 le produit qui correspond à ses besoins prioritaires : mobilité, agriculture,
-aviation ou énergie — avec un retour sur investissement dans tous les cas
+aviation ou énergie - avec un retour sur investissement dans tous les cas
 inférieur à 3 mois pour une installation H6+S-iC.
 
 ---
