@@ -27,8 +27,8 @@ One technology stands out from all the others by its ability to simultaneously s
 
 | Energy Source                  | Sovereignty     | Non-Carbonized | Decarbonizes | Air Pol. | Soil Pol.     | CO₂   | Price (€/kWh) | CAPEX (€/kW) |
 |--------------------------------|-----------------|----------------|--------------|----------|---------------|-------|---------------|--------------|
-| **Haffner H6/C-iC + biochar**  | **🟢 None**   | **✅**         | **✅**       | **🟢 None** | **🟢 Regenerates** | **🟢** | **< 0.060** | **1,000** |
-| **Haffner H4/S-iC + biochar (upcoming)** | **🟢 None** | **✅**     | **✅**       | **🟢 None** | **🟢 Regenerates** | **🟢** | **< 0.030** | **In progress** |
+| **Haffner H6/C-iC + biochar**  | **🟢 100%**   | **✅**         | **✅**       | **🟢 None** | **🟢 Regenerates** | **🟢** | **< 0.060** | **1,000** |
+| **Haffner H4/S-iC + biochar (upcoming)** | **🟢 100%** | **✅**     | **✅**       | **🟢 None** | **🟢 Regenerates** | **🟢** | **< 0.030** | **In progress** |
 | Coal                           | 🔴 High        | ❌             | ❌           | 🔴 High | 🔴 High      | 🔴    | 0.11         | 3,000       |
 | Oil                            | 🔴 High        | ❌             | ❌           | 🔴 High | 🔴 High      | 🔴    | 0.20         | 1,200       |
 | Natural Gas (CCGT)             | 🔴 High        | ❌             | ❌           | 🟠 Medium| 🟠 Low      | 🔴    | 0.12         | 850         |
@@ -43,14 +43,14 @@ One technology stands out from all the others by its ability to simultaneously s
 | Offshore Wind                  | 🟡 Low        | ✅             | ❌           | 🟢 None | 🟢 None     | 🟢    | 0.090        | 3,200       |
 | Solar PV                       | 🟡 Low        | ✅             | ❌           | 🟢 None | 🟢 None     | 🟢    | 0.050        | 800         |
 | Solar Thermal (CSP)            | 🟡 Low        | ✅             | ❌           | 🟢 None | 🟢 None     | 🟢    | 0.080        | 4,500       |
-| Hydropower                     | 🟢 None       | ✅             | ❌           | 🟢 None | 🟠 Reservoirs| 🟢   | 0.030        | 2,500       |
-| Geothermal                     | 🟢 None       | ✅             | ❌           | 🟢 None | 🟠 Low      | 🟢    | 0.060        | 3,000       |
-| Tidal / Wave                   | 🟢 None       | ✅             | ❌           | 🟢 None | 🟢 None     | 🟢    | 0.120        | 4,000       |
+| Hydropower                     | 🟢 100%       | ✅             | ❌           | 🟢 None | 🟠 Reservoirs| 🟢   | 0.030        | 2,500       |
+| Geothermal                     | 🟢 100%       | ✅             | ❌           | 🟢 None | 🟠 Low      | 🟢    | 0.060        | 3,000       |
+| Tidal / Wave                   | 🟢 100%       | ✅             | ❌           | 🟢 None | 🟢 None     | 🟢    | 0.120        | 4,000       |
 | White Hydrogen (natural)       | 🟠 Moderate   | ✅             | ❌           | 🟢 None | 🟠 Risk     | 🟢    | 0.045        | Variable    |
 | Green Hydrogen (electrolysis)  | 🟡 Low        | ✅             | ❌           | 🟢 None | 🟢 None     | 🟢    | 0.18         | 1,800       |
-| Conventional Biomass           | 🟢 None       | ⚠️             | ❌           | 🟠 Medium| 🟢 None    | ⚠️    | 0.10         | 2,200       |
-| Biogas / Methanization         | 🟢 None       | ⚠️             | ❌           | 🟠 Low  | 🟢 None     | ⚠️    | 0.09         | 2,500       |
-| 1G Biofuels (rapeseed/maize)   | 🟢 None       | ⚠️             | ❌           | 🟠 Low  | 🟠 Inputs   | ⚠️    | 0.14         | 1,500       |
+| Conventional Biomass           | 🟢 100%       | ⚠️             | ❌           | 🟠 Medium| 🟢 None    | ⚠️    | 0.10         | 2,200       |
+| Biogas / Methanization         | 🟢 100%       | ⚠️             | ❌           | 🟠 Low  | 🟢 None     | ⚠️    | 0.09         | 2,500       |
+| 1G Biofuels (rapeseed/maize)   | 🟢 100%       | ⚠️             | ❌           | 🟠 Low  | 🟠 Inputs   | ⚠️    | 0.14         | 1,500       |
 | e-SAF (electrolysis + FT)      | 🟡 Low        | ✅             | ❌           | 🟢 None | 🟢 None     | 🟢    | 0.30         | 3,500       |
 
 ---
