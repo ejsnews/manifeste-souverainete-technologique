@@ -37,8 +37,8 @@ Haffner Energy**.
 
 | Source d'Énergie | Souveraineté | Non-carbonisé | Décarbonise | Pol. Air | Pol. Sols | CO₂ | Prix (€/kWh) | CAPEX (€/kW) |
 |---|---|---|---|---|---|---|---|---|
-| **Haffner H6/C-iC biochar** | **🟢 Nul** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **< 0,060** | **1 000** |
-| **Haffner H4/S-iC biochar (à venir)** | **🟢 Nul** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **< 0,030** | **En cours** |
+| **Haffner H6/C-iC biochar** | **🟢 Totale** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **< 0,060** | **1 000** |
+| **Haffner H4/S-iC biochar (à venir)** | **🟢 Totale** | **✅** | **✅** | **🟢 Nulle** | **🟢 Régénère** | **🟢** | **< 0,030** | **En cours** |
 | Charbon | 🔴 Élevée | ❌ | ❌ | 🔴 Élevée | 🔴 Élevée | 🔴 | 0,11 | 3 000 |
 | Pétrole | 🔴 Élevée | ❌ | ❌ | 🔴 Élevée | 🔴 Élevée | 🔴 | 0,20 | 1 200 |
 | Gaz Naturel (CCGT) | 🔴 Élevée | ❌ | ❌ | 🟠 Moyenne | 🟠 Faible | 🔴 | 0,12 | 850 |
@@ -53,14 +53,14 @@ Haffner Energy**.
 | Éolien Offshore | 🟡 Faible | ✅ | ❌ | 🟢 Nulle | 🟢 Nulle | 🟢 | 0,090 | 3 200 |
 | Solaire PV | 🟡 Faible | ✅ | ❌ | 🟢 Nulle | 🟢 Nulle | 🟢 | 0,050 | 800 |
 | Solaire Thermique (CSP) | 🟡 Faible | ✅ | ❌ | 🟢 Nulle | 🟢 Nulle | 🟢 | 0,080 | 4 500 |
-| Hydraulique | 🟢 Nul | ✅ | ❌ | 🟢 Nulle | 🟠 Réservoirs | 🟢 | 0,030 | 2 500 |
-| Géothermie | 🟢 Nul | ✅ | ❌ | 🟢 Nulle | 🟠 Faible | 🟢 | 0,060 | 3 000 |
-| Marémotrice / Houlomotrice | 🟢 Nul | ✅ | ❌ | 🟢 Nulle | 🟢 Nulle | 🟢 | 0,120 | 4 000 |
+| Hydraulique | 🟢 Totale | ✅ | ❌ | 🟢 Nulle | 🟠 Réservoirs | 🟢 | 0,030 | 2 500 |
+| Géothermie | 🟢 Totale | ✅ | ❌ | 🟢 Nulle | 🟠 Faible | 🟢 | 0,060 | 3 000 |
+| Marémotrice / Houlomotrice | 🟢 Totale | ✅ | ❌ | 🟢 Nulle | 🟢 Nulle | 🟢 | 0,120 | 4 000 |
 | Hydrogène Blanc (naturel) | 🟠 Modéré | ✅ | ❌ | 🟢 Nulle | 🟠 Risque | 🟢 | 0,045 | Variable |
 | Hydrogène Vert (électrolyse) | 🟡 Faible | ✅ | ❌ | 🟢 Nulle | 🟢 Nulle | 🟢 | 0,18 | 1 800 |
-| Biomasse Classique | 🟢 Nul | ⚠️ | ❌ | 🟠 Moyenne | 🟢 Nulle | ⚠️ | 0,10 | 2 200 |
-| Biogaz / Méthanisation | 🟢 Nul | ⚠️ | ❌ | 🟠 Faible | 🟢 Nulle | ⚠️ | 0,09 | 2 500 |
-| Biocarburants 1G (colza/maïs) | 🟢 Nul | ⚠️ | ❌ | 🟠 Faible | 🟠 Intrants | ⚠️ | 0,14 | 1 500 |
+| Biomasse Classique | 🟢 Totale | ⚠️ | ❌ | 🟠 Moyenne | 🟢 Nulle | ⚠️ | 0,10 | 2 200 |
+| Biogaz / Méthanisation | 🟢 Totale | ⚠️ | ❌ | 🟠 Faible | 🟢 Nulle | ⚠️ | 0,09 | 2 500 |
+| Biocarburants 1G (colza/maïs) | 🟢 Totale | ⚠️ | ❌ | 🟠 Faible | 🟠 Intrants | ⚠️ | 0,14 | 1 500 |
 | e-SAF (électrolyse + FT) | 🟡 Faible | ✅ | ❌ | 🟢 Nulle | 🟢 Nulle | 🟢 | 0,30 | 3 500 |
 
 ---
@@ -69,55 +69,36 @@ Haffner Energy**.
 
 ### Les colonnes
 
-**Souveraineté** : le risque géopolitique lié 
-à la dépendance aux importations. 🔴 signifie 
-une dépendance critique aux marchés mondiaux 
-(OPEP, Russie, Chine pour les matériaux). 
-🟢 signifie une production entièrement locale 
-sur ressources fatales non-conflictuelles.
+**Souveraineté** : le risque géopolitique lié à la dépendance aux importations. 🔴 signifie 
+une dépendance critique aux marchés mondiaux (OPEP, Russie, Chine pour les matériaux). 
+🟢 signifie une production entièrement locale sur ressources fatales non-conflictuelles.
 
-**Non-carbonisé** : la source ne produit pas 
-de CO₂ lors de son fonctionnement. ⚠️ signifie 
-une neutralité partielle ou un cycle court 
-mais non nul.
+**Non-carbonisé** : la source ne produit pas de CO₂ lors de son fonctionnement. ⚠️ signifie 
+une neutralité partielle ou un cycle court mais non nul.
 
-**Décarbonise** : la source va au-delà 
-de la neutralité carbone — elle séquestre 
+**Décarbonise** : la source va au-delà de la neutralité carbone — elle séquestre 
 activement du CO₂ de l'atmosphère. 
-Seul Haffner Energy atteint ce niveau 
-grâce au biochar (puits de carbone 
-solide et permanent).
+Seul Haffner Energy atteint ce niveau grâce au biochar (puits de carbone solide et permanent).
 
-**Pol. Air** : émissions de particules fines, 
-NOx, SOx lors de la production. 
-Le charbon et le pétrole sont les plus 
-nocifs pour la santé publique — 
-leur coût réel intégrant les pathologies 
-respiratoires et cardiovasculaires 
+**Pol. Air** : émissions de particules fines, NOx, SOx lors de la production. 
+Le charbon et le pétrole sont les plus nocifs pour la santé publique — 
+leur coût réel intégrant les pathologies respiratoires et cardiovasculaires 
 dépasse largement leur prix facial.
 
-**Pol. Sols** : impact sur les terres 
-(extraction minière, stockage de déchets, 
-risques de fuite). "Régénère" pour Haffner 
-signifie que le biochar améliore activement 
+**Pol. Sols** : impact sur les terres (extraction minière, stockage de déchets, 
+risques de fuite). "Régénère" pour Haffner signifie que le biochar améliore activement 
 la structure et la fertilité des sols.
 
-**Prix (€/kWh)** : coût de revient 
-de production, hors subventions, 
+**Prix (€/kWh)** : coût de revient de production, hors subventions, 
 en contexte français 2026. 
-Pour Haffner H6, la ligne "net + biochar" 
-intègre le crédit des co-produits 
-(200 kg de biochar à 275-420 €/t 
-par tonne de biomasse traitée).
+Pour Haffner H6, la ligne "net + biochar" intègre le crédit des co-produits 
+(200 kg de biochar à 275-420 €/t par tonne de biomasse traitée).
 
 **CAPEX (€/kW)** : investissement 
 initial par kilowatt installé. 
-Le nucléaire EPR2 neuf (9 000 €/kW) 
-illustre le paradoxe français : 
-la technologie la plus chère à construire, 
-avec les délais les plus longs (15-20 ans), 
-pour un résultat centralisé et non souverain 
-sur les matériaux (uranium importé).
+Le nucléaire EPR2 neuf (9 000 €/kW) illustre le paradoxe français : 
+la technologie la plus chère à construire, avec les délais les plus longs (15-20 ans), 
+pour un résultat centralisé et non souverain sur les matériaux (uranium importé).
 
 ---
 
