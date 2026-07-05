@@ -128,7 +128,7 @@ A Haffner module deployed in a forest or agricultural area does more than produc
 
 It is a multi-revenue, decentralized model, non-subsidized at its energy core, and a creator of non-offshorable local jobs.
 
-It is a decentralized, multi-revenue model that is unsubsidized at its energy core and creates local, non-relocatable jobs. The solution’s negative carbon footprint—validated at -12 kg of net CO₂ per kg of hydrogen produced based on 2023 data—has been significantly optimized through the latest module upgrades, now reaching a potential of -50 kg of CO₂ per kg of H₂ produced.
+It is a decentralized, multi-revenue model that is unsubsidized at its energy core and creates local, non-relocatable jobs. The solution’s negative carbon footprint—validated at -12 kg of net CO₂ per kg of hydrogen produced based on 2023 data—has been significantly optimized through the latest module upgrades, now reaching a potential of -20 kg of CO₂ per kg of H₂ produced.
 
 ---
 
