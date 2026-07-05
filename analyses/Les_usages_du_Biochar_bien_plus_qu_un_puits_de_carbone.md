@@ -61,7 +61,7 @@ Aujourd'hui, débroussailler coûte de l'argent. Avec un module Haffner, débrou
 - Le biochar redispersé en forêt réduit le risque incendie — évitant des coûts de
   lutte et de reconstruction bien supérieurs
 
-<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/biochar_prevention_incendies_FR.jpg" width="500" alt="Le biochar décarbonise et fait coupe-feux" caption="Prévention des incendies"></center>
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/biochar_prevention_incendies_FR.jpg" width="700" alt="Le biochar décarbonise et fait coupe-feux" caption="Prévention des incendies"></center>
 
 Les collectivités, les ONF (Office National des Forêts) et les propriétaires forestiers
 pourraient être **rémunérés pour ce service** via les marchés carbone et les fonds
