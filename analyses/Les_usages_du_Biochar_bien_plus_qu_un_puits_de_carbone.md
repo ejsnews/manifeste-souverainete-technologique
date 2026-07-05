@@ -177,7 +177,7 @@ amendement) rémunérés par plusieurs mécanismes simultanément.
 C'est un modèle à revenus multiples, décentralisé, non subventionné dans son
 cœur énergétique, et créateur d'emplois locaux non délocalisables.
 
-C'est un modèle à revenus multiples, décentralisé, non subventionné dans son cœur énergétique, et créateur d'emplois locaux non délocalisables. L'empreinte carbone négative de la solution, validée à -12 kg de CO₂ net par kg d'hydrogène produit sur les données de 2023, s'est grandement optimisée avec les dernières évolutions des modules, atteignant désormais un potentiel de -50 kg de CO₂ par kg d'H₂ produit.
+C'est un modèle à revenus multiples, décentralisé, non subventionné dans son cœur énergétique, et créateur d'emplois locaux non délocalisables. L'empreinte carbone négative de la solution, validée à -12 kg de CO₂ net par kg d'hydrogène produit sur les données de 2023, s'est grandement optimisée avec les dernières évolutions des modules, atteignant désormais un potentiel de -20 kg de CO₂ par kg d'H₂ produit.
 
 ---
 
