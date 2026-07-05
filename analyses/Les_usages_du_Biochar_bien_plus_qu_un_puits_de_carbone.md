@@ -23,7 +23,7 @@ coproduit est aujourd'hui principalement valorisé via les marchés de crédits 
 (110-140 €/tonne de CO₂ séquestré, indice CORC). Mais ses usages potentiels vont
 bien au-delà.
 
-<center><img src="/analyses/images/Zoom_micro_biochar.jpg" width="500" alt="Structure microscopique poreuse du biochar, ressemblant à une éponge à base de carbone" caption="Zoom microscopique sur la structure poreuse du biochar (échelle indicative)"></center>
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/Zoom_micro_biochar.jpg" width="500" alt="Structure microscopique poreuse du biochar, ressemblant à une éponge à base de carbone" caption="Zoom microscopique sur la structure poreuse du biochar (échelle indicative)"></center>
 
 ---
 
