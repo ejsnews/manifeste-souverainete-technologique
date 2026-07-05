@@ -115,6 +115,7 @@ un amendement exceptionnel :
 - pH stabilisé dans les sols acides
 - Relargage lent des nutriments sur plusieurs années
 
+
 Ce processus de revitalisation est simple : le biochar est mélangé à du compost,
 du purin végétal ou des extraits microbiens pendant 2 à 4 semaines avant épandage.
 Il peut être réalisé localement par les agriculteurs eux-mêmes.
@@ -134,12 +135,14 @@ significativement le délai de régénération forestière.
 
 La porosité microscopique du biochar est la clé de ses capacités physiques multifonctionnelles. Cette structure agit comme une véritable éponge rigide, capable de retenir non seulement le carbone, mais également l'eau et les nutriments. Un seul gramme de biochar de haute pureté peut offrir une surface interne spécifique de plusieurs centaines de mètres carrés.
 
-<center><img src="/analyses/images/biochar_FR.jpg" width="700" alt="Schéma des avantages physiques et écologiques du biochar : rétention d'eau, apport en minéraux et barrière contre le feu" caption="Mécanisme d'absorption et bénéfices écosystémiques du biochar"></center>
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/biochar_FR.jpg" width="700" alt="Schéma des avantages physiques et écologiques du biochar : rétention d'eau, apport en minéraux et barrière contre le feu" caption="Mécanisme d'absorption et bénéfices écosystémiques du biochar"></center>
 
 L'intégration de ce matériau dans les sols apporte des avantages physiques et écologiques interconnectés :
+
 - **Rétention en période de sécheresse :** L'eau est capturée par capillarité à l'intérieur des micro-pores et reste disponible pour les racines, réduisant de près de 50 % les besoins en irrigation et revitalisant les sols arides ou désertiques.
 - **Réservoir de minéraux et nutriments :** Il retient les complexes minéraux (NPK) et empêche leur lessivage, stabilisant la fertilité à long terme.
 - **Frein aux incendies de forêt :** En maintenant une humidité résiduelle supérieure dans le sol et en étant lui-même privé de matières volatiles, le biochar ralentit la progression du front de flammes au sol.
+
 
 *Note technique Haffner :* Un développement stratégique majeur de la technologie Haffner consiste à concevoir des modules capables de capter, en plus du biochar, l'eau coproduite lors de la thermolyse de la biomasse. Cette eau, issue de la déshydratation des tissus végétaux à haute température, est d'une pureté extrême. Sa récupération directe ouvre des perspectives inédites d'autonomie hydrique sur les sites de production et d'approvisionnement pour les zones en stress hydrique.
 
@@ -158,6 +161,7 @@ L'intégration de ce matériau dans les sols apporte des avantages physiques et 
 | Réduction sinistres incendie | Assurances + fonds catastrophes | Indirect |
 
 ### Un acteur clé : Haffner comme opérateur de service territorial
+
 
 Un module Haffner déployé en zone forestière ou agricole ne se contente pas de
 produire de l'énergie. Il devient un **opérateur de service environnemental
@@ -182,6 +186,7 @@ multifonction qui :
 - **Nettoie les sols** pollués par les métaux lourds et les pesticides
 - **Revitalise les terres** dégradées par l'agriculture intensive
 - **Génère des revenus** via les marchés carbone et les PSE
+
 
 Chaque module Haffner déployé produit simultanément de l'énergie décarbonée
 **et** un outil de régénération territoriale. C'est la définition même d'une économie
