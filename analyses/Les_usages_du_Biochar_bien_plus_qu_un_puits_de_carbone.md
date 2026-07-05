@@ -24,6 +24,7 @@ coproduit est aujourd'hui principalement valorisé via les marchés de crédits 
 bien au-delà.
 
 <img alt="Structure microscopique poreuse du biochar, ressemblant à une éponge à base de carbone" caption="Zoom microscopique sur la structure poreuse du biochar (échelle indicative)" src="analyses/images/Zoom_micro_biochar.jpg"/>
+
 ---
 
 ## 1. Prévention des incendies de forêt : le biochar comme coupe-feu naturel
