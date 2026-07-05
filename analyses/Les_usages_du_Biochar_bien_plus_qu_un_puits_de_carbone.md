@@ -55,10 +55,12 @@ progression des incendies.
 Aujourd'hui, débroussailler coûte de l'argent. Avec un module Haffner, débroussailler
 **rapporte** :
 
+
 - La biomasse transformée produit de l'énergie locale (électricité, chaleur, hydrogène)
 - Le biochar coproduit génère des crédits carbone valorisables
 - Le biochar redispersé en forêt réduit le risque incendie — évitant des coûts de
   lutte et de reconstruction bien supérieurs
+
 
 Les collectivités, les ONF (Office National des Forêts) et les propriétaires forestiers
 pourraient être **rémunérés pour ce service** via les marchés carbone et les fonds
@@ -81,6 +83,7 @@ adsorbant naturel exceptionnel. Il capte et retient :
   dans les sols agricoles intensifs
 - **Hydrocarbures** : fixation des résidus pétroliers sur sols contaminés
 - **Nitrates** : réduction des fuites vers les nappes phréatiques en zone agricole
+
 
 ### Applications concrètes
 
@@ -108,6 +111,7 @@ les polluants agricoles avant qu'ils n'atteignent les cours d'eau.
 Le biochar seul est inerte biologiquement. Mais **revitalisé** — c'est-à-dire chargé
 en micro-organismes, nutriments et matière organique avant épandage — il devient
 un amendement exceptionnel :
+
 
 - Structure poreuse = habitat idéal pour les champignons mycorhiziens et bactéries
   bénéfiques
@@ -138,6 +142,7 @@ La porosité microscopique du biochar est la clé de ses capacités physiques mu
 <center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/biochar_FR.jpg" width="700" alt="Schéma des avantages physiques et écologiques du biochar : rétention d'eau, apport en minéraux et barrière contre le feu" caption="Mécanisme d'absorption et bénéfices écosystémiques du biochar"></center>
 
 L'intégration de ce matériau dans les sols apporte des avantages physiques et écologiques interconnectés :
+
 
 - **Rétention en période de sécheresse :** L'eau est capturée par capillarité à l'intérieur des micro-pores et reste disponible pour les racines, réduisant de près de 50 % les besoins en irrigation et revitalisant les sols arides ou désertiques.
 - **Réservoir de minéraux et nutriments :** Il retient les complexes minéraux (NPK) et empêche leur lessivage, stabilisant la fertilité à long terme.
@@ -180,6 +185,7 @@ C'est un modèle à revenus multiples, décentralisé, non subventionné dans so
 
 Le biochar n'est pas un sous-produit à enfouir. C'est un matériau stratégique
 multifonction qui :
+
 
 - **Séquestre le carbone** pour des siècles
 - **Protège les forêts** contre les incendies
