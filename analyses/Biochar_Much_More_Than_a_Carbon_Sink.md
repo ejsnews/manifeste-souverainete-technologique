@@ -17,6 +17,9 @@ Biochar is the solid residue from biomass thermolysis. It is pure, stable, porou
 
 Haffner Energy co-produces high-purity biochar with every thermolysis cycle. This co-product is currently mainly valued through carbon credit markets (110-140 €/tonne of CO₂ sequestered, CORC index). But its potential uses go far beyond that.
 
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/Zoom_micro_biochar.jpg" width="500" alt="Porous microscopic structure of biochar, resembling a carbon-based sponge" caption="Microscopic close-up of the porous structure of biochar (indicative scale)"></center>
+
+
 ---
 
 ## 1. Forest Fire Prevention: Biochar as a Natural Firebreak
@@ -34,23 +37,30 @@ Its porous carbonized structure, stripped of volatile compounds by thermolysis, 
 
 ### An Economic Model for Preventive Clearing
 
+
 Today, clearing costs money. With a Haffner module, clearing **generates revenue**:
 - The transformed biomass produces local energy (electricity, heat, hydrogen)
 - The co-produced biochar generates tradable carbon credits
 - The redistributed biochar in the forest reduces fire risk — avoiding much higher firefighting and reconstruction costs
 
+
 Local authorities, the ONF (National Forest Office), and forest owners could be **remunerated for this service** through carbon markets and natural risk prevention funds (FPRNM). A payment for environmental services (PES) system tailored to this model is technically and legally feasible in France.
+
 ---
+
 ## 2. Soil Depollution: Biochar as a Natural Filter
 ### Filtering Properties of Biochar
 
 The porous structure of biochar (specific surface area of 200 to 400 m²/g) makes it an exceptional natural adsorbent. It captures and retains:
+
 - **Heavy metals**: lead, cadmium, arsenic, mercury — particularly useful on polluted industrial soils and brownfields
 - **Pesticides and herbicides**: adsorption of residual organochlorine molecules in intensive agricultural soils
 - **Hydrocarbons**: fixation of petroleum residues on contaminated soils
 - **Nitrates**: reduction of leaching into aquifers in agricultural areas
 
+
 ### Concrete Applications
+
 **Industrial brownfields and ICPE sites**: Spreading biochar on contaminated soils as a first step in depollution, reducing the bioavailability of pollutants before phytoremediation or excavation.
 
 **Over-treated agricultural zones**: Biochar improves soil structure, retains water and nutrients, reduces the need for chemical inputs — while fixing pesticide residues.
@@ -62,9 +72,11 @@ The porous structure of biochar (specific surface area of 200 to 400 m²/g) make
 ---
 
 ## 3. Revitalization of Degraded Soils: Biochar as a Soil Amendment
+
 ### Revitalized Biochar: The Inoculation Principle
 
 Biochar alone is biologically inert. But when **revitalized** — that is, loaded with microorganisms, nutrients, and organic matter before spreading — it becomes an exceptional amendment:
+
 - Porous structure = ideal habitat for mycorrhizal fungi and beneficial bacteria
 - Improved water retention of 20 to 40% depending on the soil
 - Stabilized pH in acidic soils
@@ -78,9 +90,30 @@ After a megafire, soils are sterile, impermeable (hydrophobic crust), and prone 
 
 ---
 
-## 4. A Model of Payment for Environmental Services
+## 4. Physical properties and water management
+
+### A carbon and water sponge
+
+The microscopic porosity of biochar is the key to its multifunctional physical capabilities. This structure acts like a rigid sponge, capable of retaining not only carbon but also water and nutrients. A single gram of high-purity biochar can offer a specific internal surface area of ​​several hundred square meters.
+
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/biochar_EN.jpg" width="700" alt="Diagram of the physical and ecological benefits of biochar: water retention, mineral supply, and fire barrier" caption="Absorption mechanism and ecosystem benefits of biochar"></center>
+
+Integrating this material into the soil yields interconnected physical and ecological benefits:
+
+
+- **Drought retention:** Water is captured via capillary action within the micro-pores and remains available to roots, reducing irrigation needs by nearly 50% and revitalizing arid or desert soils.
+- **Mineral and nutrient reservoir:** It retains mineral complexes (NPK) and prevents leaching, stabilizing long-term fertility.
+- **Wildfire deterrent:** By maintaining higher residual soil moisture and being devoid of volatile matter itself, biochar slows the advance of the fire front along the ground.
+
+
+*Haffner technical note:* A major strategic development in Haffner's technology involves designing modules capable of capturing—in addition to biochar—the water co-produced during biomass thermolysis. This water, resulting from the high-temperature dehydration of plant tissues, is of extreme purity. Its direct recovery opens up unprecedented prospects for water autonomy at production and supply sites for water-stressed areas.
+
+---
+
+## 5. A Model of Payment for Environmental Services
 
 ### Available Financial Flows
+
 | Service Provided | Payment Mechanism | Estimated Value |
 |:-----------------|:------------------|:----------------|
 | Carbon sequestration | Carbon credits (CORC) | 110-140 €/t CO₂ |
@@ -94,6 +127,8 @@ After a megafire, soils are sterile, impermeable (hydrophobic crust), and prone 
 A Haffner module deployed in a forest or agricultural area does more than produce energy. It becomes a **territorial environmental service operator**: it collects residual biomass, produces energy and biochar, and redistributes this biochar in the form of paid services (fire prevention, depollution, soil amendment) remunerated through multiple mechanisms simultaneously.
 
 It is a multi-revenue, decentralized model, non-subsidized at its energy core, and a creator of non-offshorable local jobs.
+
+It is a decentralized, multi-revenue model that is unsubsidized at its energy core and creates local, non-relocatable jobs. The solution’s negative carbon footprint—validated at -12 kg of net CO₂ per kg of hydrogen produced based on 2023 data—has been significantly optimized through the latest module upgrades, now reaching a potential of -50 kg of CO₂ per kg of H₂ produced.
 
 ---
 
