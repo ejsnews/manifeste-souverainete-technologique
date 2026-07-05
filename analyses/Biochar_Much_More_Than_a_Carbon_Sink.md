@@ -43,6 +43,7 @@ Today, clearing costs money. With a Haffner module, clearing **generates revenue
 - The co-produced biochar generates tradable carbon credits
 - The redistributed biochar in the forest reduces fire risk — avoiding much higher firefighting and reconstruction costs
 
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/biochar_ wildfires_prevention_EN.jpg" width="700" alt="Biochar decarbonizes and acts as a firebreak" caption="Fire prevention"></center>
 
 Local authorities, the ONF (National Forest Office), and forest owners could be **remunerated for this service** through carbon markets and natural risk prevention funds (FPRNM). A payment for environmental services (PES) system tailored to this model is technically and legally feasible in France.
 
