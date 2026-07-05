@@ -134,7 +134,7 @@ significativement le délai de régénération forestière.
 
 La porosité microscopique du biochar est la clé de ses capacités physiques multifonctionnelles. Cette structure agit comme une véritable éponge rigide, capable de retenir non seulement le carbone, mais également l'eau et les nutriments. Un seul gramme de biochar de haute pureté peut offrir une surface interne spécifique de plusieurs centaines de mètres carrés.
 
-<center><img src="/analyses/images/biochar_FR.jpg" width="500" alt="Schéma des avantages physiques et écologiques du biochar : rétention d'eau, apport en minéraux et barrière contre le feu" caption="Mécanisme d'absorption et bénéfices écosystémiques du biochar"></center>
+<center><img src="/analyses/images/biochar_FR.jpg" width="700" alt="Schéma des avantages physiques et écologiques du biochar : rétention d'eau, apport en minéraux et barrière contre le feu" caption="Mécanisme d'absorption et bénéfices écosystémiques du biochar"></center>
 
 L'intégration de ce matériau dans les sols apporte des avantages physiques et écologiques interconnectés :
 - **Rétention en période de sécheresse :** L'eau est capturée par capillarité à l'intérieur des micro-pores et reste disponible pour les racines, réduisant de près de 50 % les besoins en irrigation et revitalisant les sols arides ou désertiques.
