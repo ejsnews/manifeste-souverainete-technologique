@@ -156,6 +156,16 @@ footer, .site-footer {
   span, a { color: #8b949e !important; font-size: 13px !important; }
 }
 
+  
+img {
+  max-width: 100% !important;
+  height: auto !important;
+  display: block !important;
+  margin: 16px 0 !important; 
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
+  }
+
 @media (max-width: 768px) {
   .container-lg, .wrapper, .main-content, header, section {
     padding: 15px !important;
@@ -165,9 +175,9 @@ img {
   max-width: 100% !important;
   height: auto !important;
   display: block !important;
-  margin: 16px 0 !important; 
-  padding-top: 15px !important;
-  padding-bottom: 15px !important;
+  margin: 10px 0 !important; 
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
   }
   table {
     font-size: 13px !important;
