@@ -21,7 +21,7 @@ Toute solution climatique qui impose une réduction de confort matériel à cour
 | Puits terrestre (forêts, sols) | ~11 Gt CO₂/an absorbés | Très instable (sécheresses, feux) |
 | Reste dans l'atmosphère (« airborne fraction ») | ~45% du total émis | Cause de la hausse de concentration |
 
-### 1.2 L'affaiblissement mesuré des puits (donnée récente, pas une projection)
+### 1.2 L'affaiblissement mesuré des puits de carbone (il s'agit d'une donnée récente, pas d'une projection)
 
 En 2023, la hausse de concentration de CO₂ a battu un record (+3,37 ppm sur l'année, la plus forte hausse jamais mesurée depuis 1958), alors que les émissions fossiles n'avaient quasiment pas augmenté (+0,6%). L'explication scientifique publiée (Global Carbon Project, Nature Climate Change 2025) : le puits terrestre s'est effondré, principalement à cause de :
 - la sécheresse en Amazonie (perte nette de carbone, la forêt est passée de puits à source sur cette période) ;
@@ -39,7 +39,7 @@ Pour compenser la totalité des émissions fossiles mondiales (37 Gt/an), il fau
 
 ---
 
-## II. Le principe directeur : chercher des leviers où écologie = profit, pas écologie = coût
+## II. Le principe directeur : chercher des leviers où l'écologie est un profit, pas un coût
 
 Chaque levier retenu ci-dessous répond à un critère strict : il doit soit générer un revenu net positif, soit créer un actif monétisable (crédit carbone, matière première, produit vendable), soit réduire un coût existant. Aucun levier de ce document ne repose sur une taxe punitive, un rationnement ou une réduction de consommation imposée.
 
