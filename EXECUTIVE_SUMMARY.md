@@ -18,7 +18,7 @@ L'infrastructure énergétique et industrielle fait face à deux verrous majeurs
 
 ### La solution : La thermolyse de biomasse décentralisée en cascade
 L'alternative repose sur une rupture technologique française, mature, nécessitant peu de capitaux d'amorçage par rapport aux modèles centralisés, immédiatement industrialisable et offrant un retour sur investissement extrêmement rapide. Conçue sous forme de modules mobiles déplaçables à tout moment, son installation s'effectue en 2 à 3 semaines sur simple bitume, sans fondations ni permis de construire, brisant définitivement l'inertie des chantiers d'infrastructure traditionnels.
-Cette technologie permet de substituer les hydrocarbures fossiles par des vecteurs verts capturant massivement le $CO_2$ : la transformation thermique décentralisée de résidus organiques et de biomasses locales, combinée à une architecture de couplage thermique en cascade. Grâce à la polyvalence de son gaz de synthèse (Syngas), elle permet de synthétiser l'ensemble des dérivés du pétrole.
+Cette technologie permet de substituer les hydrocarbures fossiles par des vecteurs verts capturant massivement le CO₂ : la transformation thermique décentralisée de résidus organiques et de biomasses locales, combinée à une architecture de couplage thermique en cascade. Grâce à la polyvalence de son gaz de synthèse (Syngas), elle permet de synthétiser l'ensemble des dérivés du pétrole.
 
 #### Principes fondamentaux & performance globale
 * **Flexibilité multi-intrants :** Valorisation des gisements locaux de biomasse résiduelle et de déchets organiques, avec une tolérance thermique accrue à l'humidité et à la variabilité des matières.
