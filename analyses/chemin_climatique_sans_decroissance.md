@@ -47,18 +47,20 @@ Pour compenser la totalité des émissions fossiles mondiales (37 Gt/an), il fau
 En utilisant le sous-produit de l'énergie (le biochar) pour reverdir des millions d'hectares de terres dégradées, la capacité de capture globale de la filière n'est plus seulement linéaire (liée à la machine), elle devient exponentielle (liée à la croissance de la nouvelle végétation qu'elle a permis de créer). C'est ce rôle d'amorceur de pompe biologique qui fait de la thermolyse de la biomasse une technologie clé pour une décarbonation planétaire systémique.
 
 [Biomasse existante / Déchets forestiers]
-                │
-                ▼
-      [Thermolyse Haffner] ──► Énergie propre (Syngas / H2)
-                │
-                ▼
-         [Biochar Actif]
-                │
-                ▼
-  [Amendement des Zones Arides]
-                │
-                ▼
- [Nouvelle Végétation / Reforestation] ──► Capture massive additionnelle de CO2
+
+│
+▼
+
+[Thermolyse Haffner] ──► Énergie propre (Syngas / H2)
+│
+▼
+[Biochar Actif]
+│
+▼
+[Amendement des Zones Arides]
+│
+▼
+[Nouvelle Végétation / Reforestation] ──► Capture massive additionnelle de CO2
 
 ---
 
