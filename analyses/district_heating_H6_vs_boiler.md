@@ -26,7 +26,7 @@ The units are marketed for thermal capacities ranging from 500 kW to 5 MW, posit
 
 ## III. HYNOCA H6: hydrogen for urban mobility
 
-**What is confirmed:** for a 5 MW unit, the full production cost (LCOH) of HYNOCA H6 green hydrogen reaches €2.34/kg, compared to €3.57/kg for the previous generation and around €7.81/kg for an electrolyzer powered at €79/MWh. This gain rests on two factors: an energy cost of biomass roughly four times lower than that of electricity, and a faster thermolysis kinetics combined with simplified mechanics.
+**What is confirmed:** for a 5 MW unit, the full production cost (LCOH) of HYNOCA H6 green hydrogen reaches ~ €2.00/kg, compared to €3.57/kg for the previous generation and around €7.81/kg for an electrolyzer powered at €79/MWh. This gain rests on two factors: an energy cost of biomass roughly four times lower than that of electricity, and a faster thermolysis kinetics combined with simplified mechanics.
 
 **Urban transport application:** at this cost level, locally produced hydrogen becomes a credible option for captive fleets with heavy daily use — urban buses, municipal service vehicles, emergency vehicles (ambulance services) — that return each evening to a depot where a production/refueling station can be installed. This is a different use case from "long-distance" hydrogen: here, production and consumption happen on the same site, which eliminates the transport and high-pressure storage costs associated with imported hydrogen.
 
@@ -56,7 +56,7 @@ This is a structural difference from fossil gas, one to acknowledge rather than 
 | Parameter | Conventional biomass boiler | SYNOCA H6 | HYNOCA H6 |
 |---|---|---|---|
 | CAPEX / thermal kW | ~€1,800 (previous H6 gen. reference) | ~€500 | — |
-| Hydrogen cost (LCOH, 5 MW unit) | — | — | €2.34/kg (vs €7.81/kg electrolysis) |
+| Hydrogen cost (LCOH, 5 MW unit) | — | — | ~ €2.00/kg (vs €7.81/kg electrolysis) |
 | Emissions | Fine particles, NOx, immediate CO₂ | Near zero (oxygen-free process) | Near zero |
 | Byproduct | Ash (low value) | Biochar (soil amendment, firebreak) | Biochar |
 | Unit capacity | Variable | 500 kW to 5 MW | Up to 5 MW |
@@ -64,7 +64,7 @@ This is a structural difference from fossil gas, one to acknowledge rather than 
 
 ## VII. Limitations to keep in mind
 
-- The cost figures (€2.34/kg, €500/kW CAPEX) are industrial targets communicated by the company itself — relevant and verifiable through an official press release, but still to be validated through large-scale field deployment over several years.
+- The cost figures (~ €2.00/kg, €500/kW CAPEX) are industrial targets communicated by the company itself — relevant and verifiable through an official press release, but still to be validated through large-scale field deployment over several years.
 - The benefits of biochar for fire prevention or groundwater recharge are real physical properties of the material in general, but their effect at territorial scale depends on the application rate and local context.
 
 ---
