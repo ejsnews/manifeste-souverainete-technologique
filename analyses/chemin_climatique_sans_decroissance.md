@@ -39,12 +39,12 @@ Côté océan : la hausse des températures de surface réduit la solubilité du
 
 **Conclusion du diagnostic : les deux plus grands puits naturels de la planète montrent déjà des signes de faiblesse synchronisée, pas dans 50 ans, mais sur l'année 2023 déjà observée.** Le système perd de sa capacité à absorber au moment même où les besoins énergétiques mondiaux (IA, datacenters, électrification) accélèrent la demande.
 
-### 1.3 Pourquoi la capture technologique seule ne peut pas suivre (rappel du calcul Haffner)
+### 1.3 Pourquoi une capture technologique seule ne peut pas suffire
 
 Un module H6 Haffner Energy (2 MW) séquestre environ 5 250 à 6 300 tonnes CO₂/an via biochar.
 Pour compenser la totalité des émissions fossiles mondiales (37 Gt/an), il faudrait 5,9 à 7 millions de modules, soit 12 à 14 TW de puissance installée — davantage que la puissance électrique installée sur toute la planète aujourd'hui (~9 TW, toutes sources confondues). Une seule technologie de capture, aussi bonne soit-elle, ne peut donc pas seule résoudre le problème à l'échelle mondiale. Il faut un portefeuille de leviers combinés.
 
-En utilisant le sous-produit de l'énergie (le biochar) pour reverdir des millions d'hectares de terres dégradées, la capacité de capture globale de la filière n'est plus seulement linéaire (liée à la machine), elle devient exponentielle (liée à la croissance de la nouvelle végétation qu'elle a permis de créer). C'est ce rôle d'amorceur de pompe biologique qui fait de la thermolyse de la biomasse une technologie clé pour une décarbonation planétaire systémique.
+C'est donc en utilisant le sous-produit de l'énergie (le biochar) pour reverdir des millions d'hectares de terres dégradées, que la capacité de capture globale de la filière devient exponentielle (du fait de la croissance de la nouvelle végétation qu'elle a permis de créer). C'est ce rôle d'amorceur de pompe biologique qui fait de la thermolyse de la biomasse une technologie clé pour une décarbonation planétaire systémique.
 
 ```
 [Biomasse existante / Déchets forestiers]
