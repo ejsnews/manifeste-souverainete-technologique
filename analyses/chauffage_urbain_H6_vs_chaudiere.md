@@ -26,7 +26,7 @@ Les unités sont commercialisées pour des puissances de 500 kW à 5 MW thermiqu
 
 ## III. HYNOCA H6 : l'hydrogène pour la mobilité urbaine
 
-**Ce qui est confirmé :** pour une unité de 5 MW, le coût complet de production (LCOH) de l'hydrogène vert HYNOCA H6 atteint 2,34 €/kg, contre 3,57 €/kg pour la génération précédente et environ 7,81 €/kg pour un électrolyseur alimenté à 79 €/MWh. Ce gain tient à deux facteurs : un coût énergétique de la biomasse environ quatre fois inférieur à celui de l'électricité, et une accélération de la cinétique de thermolyse combinée à une mécanique simplifiée.
+**Ce qui est confirmé :** pour une unité de 5 MW, le coût complet de production (LCOH) de l'hydrogène vert HYNOCA H6 atteint ~ 2.00 €/kg, contre 3,57 €/kg pour la génération précédente et environ 7,81 €/kg pour un électrolyseur alimenté à 79 €/MWh. Ce gain tient à deux facteurs : un coût énergétique de la biomasse environ quatre fois inférieur à celui de l'électricité, et une accélération de la cinétique de thermolyse combinée à une mécanique simplifiée.
 
 **Application transport urbain :** à ce niveau de coût, l'hydrogène produit localement devient une option crédible pour les flottes captives à forte utilisation quotidienne — bus urbains, véhicules techniques municipaux, véhicules d'urgence (SAMU) — qui reviennent chaque soir à un dépôt où une station de production/ravitaillement peut être installée. C'est un usage différent de l'hydrogène "longue distance" : ici, la production et la consommation sont sur le même site, ce qui élimine les coûts de transport et de stockage haute pression associés à l'hydrogène importé.
 
@@ -56,7 +56,7 @@ C'est une différence structurelle avec le gaz fossile, à assumer plutôt qu'à
 | Paramètre | Chaudière biomasse classique | SYNOCA H6 | HYNOCA H6 |
 |---|---|---|---|
 | CAPEX / kW thermique | ~1 800 € (référence H6 gen. précédente) | ~500 € | — |
-| Coût H2 (LCOH, unité 5 MW) | — | — | 2,34 €/kg (vs 7,81 €/kg électrolyse) |
+| Coût H2 (LCOH, unité 5 MW) | — | — | ~ 2.00 €/kg (vs 7,81 €/kg électrolyse) |
 | Émissions | Particules fines, NOx, CO₂ immédiat | Quasi nulles (procédé sans oxygène) | Quasi nulles |
 | Sous-produit | Cendres (peu valorisables) | Biochar (amendement, coupe-feu) | Biochar |
 | Puissance unitaire | Variable | 500 kW à 5 MW | Jusqu'à 5 MW |
@@ -64,7 +64,7 @@ C'est une différence structurelle avec le gaz fossile, à assumer plutôt qu'à
 
 ## VII. Limites à garder à l'esprit
 
-- Les chiffres de coût (2,34 €/kg, CAPEX à 500 €/kW) sont des cibles industrielles communiquées par l'entreprise elle-même — pertinentes et vérifiables via un communiqué officiel, qu'il reste encore à valider par un déploiement de terrain à grande échelle sur plusieurs années.
+- Les chiffres de coût (~ 2.00 €/kg, CAPEX à 500 €/kW) sont des cibles industrielles communiquées par l'entreprise elle-même — pertinentes et vérifiables via un communiqué officiel, qu'il reste encore à valider par un déploiement de terrain à grande échelle sur plusieurs années.
 - Les bénéfices du biochar sur la prévention incendie ou la recharge de nappes phréatiques sont des propriétés physiques réelles du matériau en général, mais leur effet à l'échelle d'un territoire dépend de la dose épandue et du contexte.
 
 ---
