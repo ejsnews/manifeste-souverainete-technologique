@@ -64,9 +64,8 @@ C'est une différence structurelle avec le gaz fossile, à assumer plutôt qu'à
 
 ## VII. Limites à garder à l'esprit
 
-- Les chiffres de coût (2,34 €/kg, CAPEX à 500 €/kW) sont des cibles industrielles communiquées par l'entreprise elle-même — pertinentes et vérifiables via un communiqué officiel, mais pas encore validées par un déploiement de terrain à grande échelle sur plusieurs années.
-- Le calendrier de livraison a déjà glissé d'un an entre les deux communications (2026 → 2027), ce qui est normal pour une technologie en phase de commercialisation mais à mentionner par honnêteté si tu communiques sur des délais.
-- Les bénéfices du biochar sur la prévention incendie ou la recharge de nappes phréatiques sont des propriétés physiques réelles du matériau en général, mais leur effet à l'échelle d'un territoire dépend de la dose épandue et du contexte — à présenter comme un potentiel argumenté plutôt qu'un résultat mesuré et garanti.
+- Les chiffres de coût (2,34 €/kg, CAPEX à 500 €/kW) sont des cibles industrielles communiquées par l'entreprise elle-même — pertinentes et vérifiables via un communiqué officiel, qu'il reste encore à valider par un déploiement de terrain à grande échelle sur plusieurs années.
+- Les bénéfices du biochar sur la prévention incendie ou la recharge de nappes phréatiques sont des propriétés physiques réelles du matériau en général, mais leur effet à l'échelle d'un territoire dépend de la dose épandue et du contexte.
 
 ---
 
