@@ -47,7 +47,7 @@ Contrairement à une chaudière à gaz alimentée par un réseau souterrain invi
 1. **La périphérie industrielle ou logistique**, où l'accès routier est fluide et l'espace de stockage disponible.
 2. **La proximité immédiate d'une source de biomasse** (zone agricole, scierie, centre de traitement de déchets verts), avec la chaleur ensuite acheminée vers la ville via le réseau de chauffage urbain existant.
 
-<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/circular_city_model_with_district_heating.jpg" width="700" alt="Modèle de ville circulaire avec chauffage urbain à partir d'une biomasse non calcinée" caption="Modèle de ville circulaire avec chauffage urbain à partir d'une biomasse non calcinée"></center>
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/modele_de_ville_circulaire_avec_chauffage_urbain.jpg" width="700" alt="Modèle de ville circulaire avec chauffage urbain à partir d'une biomasse non calcinée" caption="Modèle de ville circulaire avec chauffage urbain à partir d'une biomasse non calcinée"></center>
 
 C'est une différence structurelle avec le gaz fossile, à assumer plutôt qu'à minimiser dans toute présentation du projet à des élus ou riverains.
 
