@@ -39,10 +39,28 @@ On the ocean side: rising surface temperatures reduce CO₂ solubility, causing 
 
 **Diagnostic conclusion: the two largest natural sinks on the planet are already showing signs of synchronized weakening — not in 50 years, but within the already-observed year 2023.** The system is losing absorption capacity at the very moment global energy demand (AI, data centers, electrification) is accelerating.
 
-### 1.3 Why technological capture alone cannot keep pace (recap of the Haffner calculation)
+### 1.3 Why Carbon Capture Technology Alone Is Not Enough
 
 A Haffner Energy H6 module (2 MW) sequesters roughly 5,250 to 6,300 tonnes of CO₂/yr via biochar.
 To offset all global fossil emissions (37 Gt/yr), 5.9 to 7 million modules would be needed — i.e., 12 to 14 TW of installed capacity, more than the total electrical capacity installed on the entire planet today (~9 TW, all sources combined). No single capture technology, however good, can therefore solve the problem alone at global scale. A portfolio of combined levers is required.
+
+It is by using the energy by-product (biochar) to revegetate millions of hectares of degraded land that the overall carbon capture capacity of the sector becomes exponential (due to the growth of the new vegetation it has enabled). This role as a biological pump initiator makes biomass thermolysis a key technology for systemic global decarbonization.
+
+```
+[Existing Biomass / Forest Waste]
+                   │
+                   ▼
+         [Haffner Thermolysis] ──► Clean Energy (Syngas / H2)
+                   │
+                   ▼
+            [Active Biochar]
+                   │
+                   ▼
+     [Arid Zone Amendment]
+                   │
+                   ▼
+ [New Vegetation / Reforestation] ──► Massive Additional CO2 Capture
+```
 
 ---
 
