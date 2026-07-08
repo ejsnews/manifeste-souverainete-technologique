@@ -47,7 +47,7 @@ Unlike a gas boiler fed by an invisible underground network, an H6 unit needs a 
 1. **Industrial or logistics outskirts**, where road access is smooth and storage space is available.
 2. **Immediate proximity to a biomass source** (agricultural zone, sawmill, green waste treatment center), with the heat then carried to the city via the existing district heating network.
 
-<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/modele_de_ville_circulaire_avec_chauffage_urbain.jpg" width="700" alt="Circular city model with district heating from non-incinerated biomass" caption="Circular city model with district heating from non-incinerated biomass"></center>
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/modele_de_ville_circulaire_avec_chauffage_urbain_EN.jpg" width="700" alt="Circular city model with district heating from non-incinerated biomass" caption="Circular city model with district heating from non-incinerated biomass"></center>
 
 This is a structural difference from fossil gas, one to acknowledge rather than downplay in any presentation of the project to elected officials or residents.
 
