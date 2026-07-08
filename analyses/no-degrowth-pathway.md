@@ -1,4 +1,11 @@
-# A Path Without Degrowth: Quantified Diagnosis and a Portfolio of Economically Viable Solutions
+---
+layout: default
+lang: en
+author: eric_jacob
+title: "A Path Without Degrowth: Quantified Diagnosis and a Portfolio of Economically Viable Solutions"
+---
+
+# A Path Without Degrowth: Quantified Diagnosis and a Portfolio of Economically Viable Solutions [(French version - FR)](chemin_climatique_sans_decroissance.md)
 
 *Personal working note - Éric Jacob - July 2026*
 
