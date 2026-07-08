@@ -22,8 +22,6 @@ Le CAPEX par kilowatt thermique produit de la technologie SYNOCA H6 chute de 1 8
 
 Les unités sont commercialisées pour des puissances de 500 kW à 5 MW thermiques, positionnées sur les projets territoriaux et industriels de taille régionale plutôt que sur les très grosses installations centralisées.
 
-**Point de vigilance sur le calendrier :** le communiqué de novembre 2025 annonçait des premières livraisons dès 2026. Une actualisation plus récente de Philippe Haffner (26/06/2026) confirme l'objectif de premières livraisons pour 2027 — à mentionner si tu cites un calendrier, pour rester exact sur la date la plus à jour.
-
 **Pourquoi c'est pertinent pour un réseau de chaleur urbain :** un réseau de chaleur existant (canalisations souterraines déjà en place dans de nombreuses villes) n'a pas besoin d'être reconstruit — seule la source de chaleur en tête de réseau change. Une unité H6 peut être installée en périphérie ou à proximité d'un gisement de biomasse locale (déchets verts municipaux, bois B, résidus agricoles) et injecter sa chaleur dans le réseau existant sur plusieurs kilomètres, sans modification lourde de l'infrastructure de distribution.
 
 ## III. HYNOCA H6 : l'hydrogène pour la mobilité urbaine
