@@ -66,7 +66,10 @@ C'est donc en utilisant le sous-produit de l'énergie (le biochar) pour reverdir
 
 1 100 humains émettent donc environ 1 100 x 4,5 = 4 950 tonnes de CO₂/an. 
 
-Comme un module H6 séquestre entre 5 250 et 6 300 tonnes de CO₂/an, il éponge bien (et même un peu plus) la totalité des émissions fossiles de son groupe de 1 100 humains. Sur le plan de l'ingénierie et de l'aménagement du territoire, décentraliser la production avec une unité industrielle de 2MW pour un quartier ou un village de 1 100 habitants est une échelle technique tout à fait standard et cohérente. 
+Comme un module H6 séquestre entre 5 250 et 6 300 tonnes de CO₂/an, il éponge bien (et même un peu plus) la totalité des émissions fossiles de son groupe de 1 100 humains. 
+
+Sur le plan de l'ingénierie et de l'aménagement du territoire, décentraliser la production avec une unité industrielle de 2MW pour un quartier ou un village de 1 100 habitants est une échelle technique tout à fait standard et cohérente. 
+
 Un module de 2 MW qui fonctionne en continu (en ruban) sur toute l'année (8 760 heures) produit une quantité d'énergie totale de 2MW x 8 760 heures = 17 520 MWh/an (soit 17,52 GWh/an). 
 
 Confronté aux consommations électriques totales moyennes (par habitant et par an), le module s'avère largement excédentaire ; 
