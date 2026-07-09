@@ -62,6 +62,22 @@ It is by using the energy by-product (biochar) to revegetate millions of hectare
  [New Vegetation / Reforestation] ──► Massive Additional CO2 Capture
 ```
 
+**The carbon offset balance of H6 modules:**
+
+1,100 people therefore emit approximately 1,100 × 4.5 = 4,950 tonnes of CO₂ per year.
+
+Since an H6 module sequesters between 5,250 and 6,300 tonnes of CO₂ per year, it effectively absorbs (and even slightly exceeds) the total fossil-fuel emissions of its group of 1,100 people. 
+
+From an engineering and urban planning perspective, decentralizing production via a 2 MW industrial unit for a neighborhood or village of 1,100 inhabitants represents a perfectly standard and logical technical scale. 
+
+A 2 MW module operating continuously (baseload) throughout the year (8,760 hours) generates a total energy output of 2 MW × 8,760 hours = 17,520 MWh/year (or 17.52 GWh/year).
+
+When compared to average total electricity consumption (per capita, per year), the module proves to generate a significant surplus:
+
+- In France/Europe: Average total electricity consumption is approximately 6 to 7 MWh per capita per year.
+- In the United States: Consumption is much higher, around 12 to 13 MWh per capita per year.
+- Globally: Average consumption is approximately 3.3 MWh per capita per year.
+ 
 ---
 
 ## II. The Guiding Principle: Seek Levers Where Ecology Is a Profit, Not a Cost
