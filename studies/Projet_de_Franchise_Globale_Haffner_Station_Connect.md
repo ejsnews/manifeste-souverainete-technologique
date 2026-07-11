@@ -12,12 +12,12 @@ L'objectif est de déployer un réseau standardisé de stations-franchises le lo
 
 ### Structure de partenariat évolutive
 Pour se déployer rapidement à l'international sans porter l'intégralité des investissements fonciers, Haffner Energy privilégie des accords de **Master Franchise** ou de **Joint-Venture** avec des partenaires régionaux majeurs :
-* **Le Partenaire Régional (Majoritaire) :** Porte le foncier, le développement commercial local, les relations réglementaires et le sourcing biomasse.
+* **Le partenaire régional (majoritaire) :** Porte le foncier, le développement commercial local, les relations réglementaires et le sourcing biomasse.
 * **Haffner Energy :** Conserve le contrôle technologique, fournit les modules industriels et assure la maintenance exclusive des installations.
 
 ### Clients ancres prioritaires
 * **Municipalités & Collectivités** : Flottes de bus municipaux ou bennes à ordures, gisements de biomasse locale (déchets verts, élagage), foncier public mobilisable via des contrats de type Délégation de Service Public (DSP) ou Partenariat Public-Privé (PPP).
-* **Coopératives agricoles & Acteurs du Bois** : Sourcing biomasse déjà structuré et opportunité d'anticiper l'hydrogénation future du matériel lourd (tracteurs, engins de chantier).
+* **Coopératives agricoles & Acteurs du bois** : Sourcing biomasse déjà structuré et opportunité d'anticiper l'hydrogénation future du matériel lourd (tracteurs, engins de chantier).
 
 ---
 
@@ -26,13 +26,13 @@ Pour se déployer rapidement à l'international sans porter l'intégralité des 
 
 #### 1. Le rôle du franchisé (L'entrepreneur ou la filiale locale)
 * **Foncier :** Acquisition ou bail à long terme d'un terrain/parking cible (emprise estimée à 2000-5000 m²).
-* **Investissement Matériel :** Achat des modules de production, de compression et de stockage auprès de Haffner Energy. Le franchisé est propriétaire de son actif industriel au bilan.
-* **Sourcing Matière :** Contrats d'approvisionnement en circuit court avec les producteurs locaux (paille, résidus de bois, déchets agricoles) pour lisser la saisonnalité.
+* **Investissement matériel :** Achat des modules de production, de compression et de stockage auprès de Haffner Energy. Le franchisé est propriétaire de son actif industriel au bilan.
+* **Sourcing matière :** Contrats d'approvisionnement en circuit court avec les producteurs locaux (paille, résidus de bois, déchets agricoles) pour lisser la saisonnalité.
 * **Distribution & Vente :** Gestion de la station de recharge et revente du biochar aux acteurs agricoles ou espaces verts locaux.
 * **Redevance :** Reversement d'un pourcentage du chiffre d'affaires ou des bénéfices à Haffner Energy en échange de la licence de marque et du savoir-faire.
 
 #### 2. Le rôle du franchiseur (Haffner Energy)
-* **Vente de l'Équipement :** Fourniture des modules de production (configurations adaptables selon les besoins du hub, intégrant la brique H6 pour la production de base ou l'association H4+H6 pour les très grands flux industriels).
+* **Vente de l'équipement :** Fourniture des modules de production (configurations adaptables selon les besoins du hub, intégrant la brique H6 pour la production de base ou l'association H4+H6 pour les très grands flux industriels).
 * **Assistance & Maintenance :** Supervision technique continue à distance, maintenance préventive/curative et garantie de performance de l'unité, financée par la redevance perçue.
 * **Certification & Marques :** Droit d'exploitation de la marque *Haffner Station Connect* et valorisation centralisée des crédits carbone.
 
