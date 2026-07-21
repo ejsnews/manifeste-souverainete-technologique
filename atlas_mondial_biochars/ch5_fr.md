@@ -5,8 +5,8 @@ author: Eric Jacob
 title: "Atlas mondial de la valorisation économique du Biochar — Chapitre 1"
 description: "Le biochar : un matériau stratégique du XXIe siècle"
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-Texte : © Eric Jacob — Licence CC BY 4.0.
-Illustrations : réalisées avec l'assistance d'une IA générative, puis sélectionnées et intégrées par l'auteur. Sauf mention contraire, elles sont diffusées dans le cadre du projet sous la même licence.
+texte : © Eric Jacob — Licence CC BY 4.0.
+illustrations : réalisées avec l'assistance d'une IA générative, puis sélectionnées et intégrées par l'auteur. Sauf mention contraire, elles sont diffusées dans le cadre du projet sous la même licence.
 ---
 
 # Chapitre 5 — Perspectives industrielles : vers une nouvelle économie du carbone
