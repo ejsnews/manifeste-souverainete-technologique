@@ -1,3 +1,13 @@
+---
+layout: default
+lang: fr
+author: Eric Jacob
+title: "Atlas mondial de la valorisation économique du Biochar — Chapitre 1"
+description: "Le biochar : un matériau stratégique du XXIe siècle"
+licence: Creative Commons CC BY 4.0
+permalink: /atlas_mondial_biochars/chapitre-3/
+---
+
 # Chapitre 3 — Pourquoi certains biochars valent dix fois plus que d'autres ?
 
 > **Tous les biochars ne se ressemblent pas. Deux biochars visuellement identiques peuvent présenter des propriétés physiques, chimiques et économiques radicalement différentes.**
