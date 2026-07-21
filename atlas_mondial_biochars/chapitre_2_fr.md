@@ -1,3 +1,13 @@
+---
+layout: default
+lang: fr
+author: Eric Jacob
+title: "Atlas mondial de la valorisation économique du Biochar — Chapitre 1"
+description: "Le biochar : un matériau stratégique du XXIe siècle"
+licence: Creative Commons CC BY 4.0
+permalink: /atlas_mondial_biochars/chapitre-2/
+---
+
 # Chapitre 2 — La valeur économique mondiale du biochar
 
 > **Le biochar est l'un des rares matériaux capables de créer simultanément une valeur industrielle, environnementale et climatique.**
