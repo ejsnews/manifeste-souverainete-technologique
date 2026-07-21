@@ -1,3 +1,13 @@
+---
+layout: default
+lang: fr
+author: Eric Jacob
+title: "Atlas mondial de la valorisation économique du Biochar — Chapitre 1"
+description: "Le biochar : un matériau stratégique du XXIe siècle"
+licence: Creative Commons CC BY 4.0
+permalink: /atlas_mondial_biochars/chapitre-4/
+---
+
 # Chapitre 4 — Les limites du biochar : un matériau d'avenir... sous conditions
 
 > **Le biochar n'est pas un produit universel. Ses performances dépendent directement de la qualité de la biomasse, de la maîtrise du procédé de thermolyse et de son usage final. Une production ou une utilisation inadaptée peut réduire fortement ses bénéfices, voire entraîner des effets indésirables.**
