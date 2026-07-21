@@ -1,3 +1,12 @@
+---
+layout: default
+lang: fr
+author: Eric Jacob
+title: "Atlas mondial de la valorisation économique du Biochar — Chapitre 1"
+description: "Le biochar : un matériau stratégique du XXIe siècle"
+permalink: /atlas_mondial_biochars/chapitre-1/
+---
+
 # Chapitre 1 — Le biochar : un matériau stratégique du XXIᵉ siècle
 
 > **Le biochar se situe à la convergence de la transition énergétique, de l'économie circulaire et de la décarbonation industrielle. Longtemps considéré comme un simple coproduit de la thermolyse, il devient progressivement un matériau technique à forte valeur ajoutée.**
