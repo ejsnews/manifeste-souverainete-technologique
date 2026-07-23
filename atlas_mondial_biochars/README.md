@@ -1,6 +1,4 @@
 ---
-layout: default
-lang: fr
 author: Eric Jacob
 ---
 
