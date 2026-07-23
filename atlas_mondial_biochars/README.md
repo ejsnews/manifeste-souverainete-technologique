@@ -1,5 +1,4 @@
 ---
-author: Eric Jacob
 ---
 
 # Atlas mondial de la valorisation économique du Biochar
