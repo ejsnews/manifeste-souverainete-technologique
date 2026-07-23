@@ -1,11 +1,3 @@
----
-layout: default
-lang: fr
-author: Eric Jacob
-title: "Atlas mondial de la valorisation économique du Biochar"
-description: "Marchés, applications, carbone, industrie et perspectives"
-licence: Creative Commons CC BY 4.0
----
 
 # Atlas mondial de la valorisation économique du Biochar
 
@@ -120,6 +112,7 @@ Chaque version est publiée sur GitHub afin de permettre :
 # Dépôt GitHub
 
 https://github.com/ejsnews/manifeste-souverainete-technologique/tree/main/atlas_mondial_biochars
+
 
 ---
 
