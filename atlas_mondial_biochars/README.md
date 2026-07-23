@@ -1,6 +1,3 @@
----
----
-
 # Atlas mondial de la valorisation économique du Biochar
 
 ### Marchés • Applications • Carbone • Industrie • Perspectives
