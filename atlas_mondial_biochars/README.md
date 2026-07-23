@@ -83,6 +83,9 @@ Sa valeur dépend :
 
 L'objectif de cet atlas est de présenter ces éléments de manière objective, sans promotion d'une entreprise ou d'une technologie particulière.
 
+
+![Le Biochar est un matériau stratégique](README.png)
+
 ---
 
 # Licence
