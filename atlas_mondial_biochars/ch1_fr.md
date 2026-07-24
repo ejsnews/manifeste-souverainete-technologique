@@ -36,6 +36,8 @@ Cette propriété exceptionnelle explique l'intérêt croissant porté au biocha
 
 # Le principe
 
+![Cycle de la thermolyse et valorisation du biochar](ch1_fr_cycle.svg)
+
 ```mermaid
 flowchart LR
 
