@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<style>
+text{font-family:Arial,sans-serif}.title{font-size:34px;font-weight:bold}.h{font-size:22px;font-weight:bold;fill:#fff}.s{font-size:15px;fill:#fff}.small{font-size:14px;fill:#555}
+</style>
+<rect width="100%" height="100%" fill="#f7fafc"/>
+<text x="800" y="60" text-anchor="middle" class="title">Chapitre 1 — Les trois piliers du Biochar</text>
+<line x1="800" y1="300" x2="470" y2="520" stroke="#888" stroke-width="4"/>
+<line x1="800" y1="300" x2="1130" y2="520" stroke="#888" stroke-width="4"/>
+<line x1="800" y1="300" x2="800" y2="670" stroke="#888" stroke-width="4"/>
+<circle cx="800" cy="300" r="110" fill="#202124"/>
+<text x="800" y="295" text-anchor="middle" class="h">BIOCHAR</text>
+<text x="800" y="325" text-anchor="middle" fill="#fff">Carbone biogénique stable</text>
+<polygon points="470,430 560,480 560,580 470,630 380,580 380,480" fill="#2E7D32"/>
+<text x="470" y="490" text-anchor="middle" class="h">ENVIRONNEMENT</text>
+<text x="470" y="520" text-anchor="middle" class="s">CO₂ • Sols</text>
+<text x="470" y="545" text-anchor="middle" class="s">Biodiversité</text>
+<polygon points="1130,430 1220,480 1220,580 1130,630 1040,580 1040,480" fill="#1565C0"/>
+<text x="1130" y="490" text-anchor="middle" class="h">INDUSTRIE</text>
+<text x="1130" y="520" text-anchor="middle" class="s">Béton • Filtration</text>
+<text x="1130" y="545" text-anchor="middle" class="s">Composites</text>
+<polygon points="800,580 890,630 890,730 800,780 710,730 710,630" fill="#E67E22"/>
+<text x="800" y="640" text-anchor="middle" class="h">ÉCONOMIE</text>
+<text x="800" y="670" text-anchor="middle" class="s">Vente • Crédits carbone</text>
+<text x="800" y="695" text-anchor="middle" class="s">Économie circulaire</text>
+<rect x="30" y="835" width="1540" height="40" fill="#f0f0f0" stroke="#bbb"/>
+<text x="45" y="860" class="small">Atlas mondial du Biochar — ch1_fr_3_piliers.svg — v1.0</text>
+</svg>
