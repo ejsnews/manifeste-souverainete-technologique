@@ -25,8 +25,9 @@
       {% assign author = site.data.authors[page.author] %}
       <!-- On vérifie que l'auteur existe bien avant de l'afficher -->
       <p><a href="https://github.com/ejsnews/manifeste-souverainete-technologique/" style="display: block !important;">Github Manifeste/Manifesto</a></p>
+      <p><a href="https://github.com/ejsnews/" style="display: block !important;">Github {{ author.name }} Home</a></p>
       {% if author %}
-        <a href="{{ author.linkedin }}">{{ author.name }}</a>
+        <a href="{{ author.linkedin }}">Linkedin: {{ author.name }}</a>
         <p>{{ author.bio }}</p>
       {% endif %}
     </main>
