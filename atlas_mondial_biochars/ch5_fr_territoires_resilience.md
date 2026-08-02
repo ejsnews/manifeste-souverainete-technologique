@@ -98,33 +98,6 @@ La logistique existe déjà : routes, quais, pesage, stockage, manutention, four
 
 ---
 
-<a id="sommaire-sectoriel"></a>
-
-## Reconnaissez votre activité
-
-Cliquez directement sur votre secteur.
-
-| Votre activité | Flux ou ressources à examiner | Valeurs recherchées | Détail |
-|---|---|---|---|
-| Marché de gros / distribution | résidus végétaux, bois/palettes compatibles, biomasses régionales | froid, énergie, H₂/mobilité, biochar | [Distribution](#logistique) |
-| Agroalimentaire | coproduits, résidus végétaux, bois, biomasses agricoles | vapeur, chaleur, froid, énergie, biochar | [Agroalimentaire](#agroalimentaire) |
-| Agriculture / coopérative | résidus mobilisables, tailles, sous-produits | énergie, molécules, biochar, sols | [Agriculture](#agriculture) |
-| Hôpital | restauration, espaces verts, bois compatible + bassin de vie | énergie, chaleur, froid, mobilité, résilience | [Hôpital](#hopitaux) |
-| Industrie | résidus propres au site + ressources régionales | chaleur, gaz, H₂, molécules, biocarbone | [Industrie](#industries) |
-| Datacenter / IA | biomasse territoriale externe | énergie pilotable, chaleur territoriale | [Datacenter](#datacenters) |
-| Métropole / collectivité | déchets verts et flux biogéniques compatibles | chaleur, énergie, mobilité, services | [Métropole](#metropoles) |
-| Port | bois/biomasses régionales et flux compatibles | H₂, méthanol, chaleur, carburants | [Port](#ports) |
-| Aéroport | ressources régionales compatibles | SAF, chaleur, mobilité au sol | [Aviation](#aviation) |
-| Entrepôt / plateforme logistique | bois/palettes, flux biogéniques, ressources régionales | énergie, froid, mobilité | [Logistique](#logistique) |
-| Réseau de chaleur / immobilier | biomasse territoriale | chaleur, substitution gaz | [Chaleur](#chaleur) |
-| Forêt / SDIS | biomasse réellement mobilisable issue de l’entretien | prévention, énergie, biochar | [Forêts](#forets) |
-| Défense / site isolé | déchets compatibles + biomasse locale durable | autonomie, carburants, énergie | [Défense](#defense) |
-| Chimie / carburants | biomasses adaptées | syngaz, H₂, méthanol, carburants | [Molécules](#molecules) |
-| Direction RSE / carbone | tous flux précédents | réduction CO₂, ACV, MRV, crédits éventuels | [RSE](#rse-esg) |
-| Financeur / investisseur | contrats matière + énergie + produits | ROI, revenus multiples, bancabilité | [Finance](#finance) |
-
----
-
 ![Territoires et résilience : des résidus locaux aux services énergétiques, au biochar et à la décarbonation](ch5_fr_territoires_resilience.png)
 
 **Figure 1 — Territoires & résilience : une même logique, des modèles différents selon le secteur.**  
@@ -195,6 +168,33 @@ Voisin industriel, réseau de chaleur, agriculteurs, transporteurs, collectivit�
 Mesures, ACV, métrologie, contrats, traçabilité et MRV.
 
 [↑ Choisir un secteur](#sommaire-sectoriel)
+
+---
+
+<a id="sommaire-sectoriel"></a>
+
+## Reconnaissez votre activité
+
+Cliquez directement sur votre secteur.
+
+| Votre activité | Flux ou ressources à examiner | Valeurs recherchées | Détail |
+|---|---|---|---|
+| Marché de gros / distribution | résidus végétaux, bois/palettes compatibles, biomasses régionales | froid, énergie, H₂/mobilité, biochar | [Distribution](#logistique) |
+| Agroalimentaire | coproduits, résidus végétaux, bois, biomasses agricoles | vapeur, chaleur, froid, énergie, biochar | [Agroalimentaire](#agroalimentaire) |
+| Agriculture / coopérative | résidus mobilisables, tailles, sous-produits | énergie, molécules, biochar, sols | [Agriculture](#agriculture) |
+| Hôpital | restauration, espaces verts, bois compatible + bassin de vie | énergie, chaleur, froid, mobilité, résilience | [Hôpital](#hopitaux) |
+| Industrie | résidus propres au site + ressources régionales | chaleur, gaz, H₂, molécules, biocarbone | [Industrie](#industries) |
+| Datacenter / IA | biomasse territoriale externe | énergie pilotable, chaleur territoriale | [Datacenter](#datacenters) |
+| Métropole / collectivité | déchets verts et flux biogéniques compatibles | chaleur, énergie, mobilité, services | [Métropole](#metropoles) |
+| Port | bois/biomasses régionales et flux compatibles | H₂, méthanol, chaleur, carburants | [Port](#ports) |
+| Aéroport | ressources régionales compatibles | SAF, chaleur, mobilité au sol | [Aviation](#aviation) |
+| Entrepôt / plateforme logistique | bois/palettes, flux biogéniques, ressources régionales | énergie, froid, mobilité | [Logistique](#logistique) |
+| Réseau de chaleur / immobilier | biomasse territoriale | chaleur, substitution gaz | [Chaleur](#chaleur) |
+| Forêt / SDIS | biomasse réellement mobilisable issue de l’entretien | prévention, énergie, biochar | [Forêts](#forets) |
+| Défense / site isolé | déchets compatibles + biomasse locale durable | autonomie, carburants, énergie | [Défense](#defense) |
+| Chimie / carburants | biomasses adaptées | syngaz, H₂, méthanol, carburants | [Molécules](#molecules) |
+| Direction RSE / carbone | tous flux précédents | réduction CO₂, ACV, MRV, crédits éventuels | [RSE](#rse-esg) |
+| Financeur / investisseur | contrats matière + énergie + produits | ROI, revenus multiples, bancabilité | [Finance](#finance) |
 
 ---
 
