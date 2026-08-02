@@ -23,6 +23,23 @@ Comparer deux prix sans comparer la qualité et la fonction du produit conduit d
 
 ---
 
+## Vue d’ensemble
+
+<figure>
+  <img src="ch2_fr_prix.png"
+       alt="Prix, subventions et modèles économiques du biochar, avec biochar, jeune plante, eau et paysage agricole régénéré"
+       style="width:100%;height:auto;">
+  <figcaption>
+    <strong>Figure 1 — Prix, soutiens et création de valeur autour du biochar.</strong>
+    © Eric Jacob 2026 — Atlas mondial du biochar — CC BY 4.0.
+    <a href="ch2_fr_prix.png">Agrandir l’infographie</a>
+  </figcaption>
+</figure>
+
+L’image donne volontairement une place importante au paysage : la valeur économique du biochar n’a de sens que si elle accompagne une valeur agronomique, hydrique, écologique ou industrielle réellement démontrée.
+
+---
+
 ## De quoi paie-t-on réellement le prix ?
 
 Le prix final peut agréger plusieurs valeurs :
