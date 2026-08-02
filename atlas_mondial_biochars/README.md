@@ -1,187 +1,129 @@
+---
+layout: default
+lang: fr
+author: Eric Jacob
+title: "ATLAS MONDIAL DE LA VALORISATION ÉCONOMIQUE DU BIOCHAR"
+license: Creative Commons CC BY 4.0
+---
+
 # ATLAS MONDIAL DE LA VALORISATION ÉCONOMIQUE DU BIOCHAR
 
 ## Marchés • Applications • Carbone • Industrie • Perspectives
 
-**Version 1.0 – Juillet 2026**
+**Volume 1 — Version 1.1 — Août 2026**  
+**Auteur : Eric Jacob**  
+**Licence : Creative Commons CC BY 4.0**
 
-**Auteur : Eric Jacob**
-
-Publication GitHub Pages
-
-Licence : Creative Commons CC BY 4.0
+> Un atlas volontairement compact : comprendre rapidement le biochar, ses marchés, ses propriétés, ses usages et les infrastructures qui pourraient structurer sa filière.
 
 ---
 
-# Présentation
+## Lire l’Atlas
 
-Le biochar est progressivement reconnu comme un matériau stratégique à l'intersection de plusieurs enjeux majeurs :
-
-- agriculture durable ;
-- décarbonation de l'industrie ;
-- restauration des sols ;
-- stockage durable du carbone ;
-- économie circulaire ;
-- biomatériaux ;
-- filtration ;
-- gestion de l'eau ;
-- production d'énergie renouvelable.
-
-Cet atlas rassemble les connaissances scientifiques, techniques, économiques et prospectives permettant de mieux comprendre la filière mondiale du biochar.
-
-Il s'adresse :
-
-- aux industriels ;
-- aux agriculteurs ;
-- aux chercheurs ;
-- aux collectivités ;
-- aux investisseurs ;
-- aux décideurs publics.
+| Chapitre | Sujet | Accès |
+|---|---|---|
+| **1** | Comprendre le biochar | [Ouvrir](ch1_fr.html) |
+| **2** | Marchés et prix | [Prix](ch2_fr_prix.html) |
+| **3** | Classification et biomasses | [Classification](ch3_fr_classification.html) |
+| **4** | Applications, ACV et certifications | [Certifications](ch4_fr_certifications.html) |
+| **5** | Outils, infrastructures et prospective | [Datacenters IA + biochar](ch5_fr_datacenters.html) |
 
 ---
-
-# Objectifs
-
-L'atlas poursuit plusieurs objectifs :
-
-- présenter les connaissances actuelles sur le biochar ;
-- comparer les marchés internationaux ;
-- décrire les applications existantes et émergentes ;
-- proposer des outils d'analyse économique ;
-- explorer les perspectives de développement de la filière.
-
-Il constitue également une base documentaire ouverte destinée à évoluer au fil des versions.
-
----
-
-# Structure de l'ouvrage
 
 ## Chapitre 1 — Comprendre le biochar
 
-- [Le biochar](ch1_fr.html)
+**[Le biochar : un matériau stratégique du XXIᵉ siècle →](ch1_fr.html)**
 
-### Figures
-
-- Cycle du biochar
-- Les trois piliers
-- Cycle du carbone
-- Biomasse durable
+Production, carbone, environnement, industrie et économie.
 
 ---
 
-## Chapitre 2 — Les marchés mondiaux
+## Chapitre 2 — Marchés mondiaux
 
-- [Prix](ch2_fr_prix.html)
+- [Prix et valorisation](ch2_fr_prix.html)
 
-### Figures
-
-- Carte mondiale
-- Répartition des marchés
-- Évolution des prix
+Le chapitre 2 rassemble les éléments économiques et géographiques nécessaires pour comparer les marchés.
 
 ---
 
-## Chapitre 3 — Classification des biochars
+## Chapitre 3 — Caractériser avant d’utiliser
 
-- [Classification](ch3_fr_classification.html)
-- [Biomasses](ch3_fr_biomasses.html)
-- [Paramètres](ch3_fr_parametres.html)
+- [Classification des biochars](ch3_fr_classification.html)
+- [Paramètres de caractérisation](ch3_fr_parametres.html)
+- [Biomasses et intrants](ch3_fr_biomasses.html)
 
-### Figures
-
-- Classification
-- Biomasses
-- Paramètres
-- Températures
+Un biochar n’est pas un produit uniforme : son intrant et son procédé déterminent ses propriétés et donc ses usages possibles.
 
 ---
 
-## Chapitre 4 — Applications
+## Chapitre 4 — Applications et garanties
 
 - [Certifications](ch4_fr_certifications.html)
 - [Analyse du cycle de vie](ch4_fr_analyse_cycle_vie.html)
 - [Matériaux](ch4_fr_materiaux.html)
 - [Filtration](ch4_fr_filtration.html)
 
-### Figures
-
-- Cycle de vie
-- Construction
-- Filtration
-- Certifications
-
 ---
 
-## Chapitre 5 — Perspectives
+## Chapitre 5 — Construire la filière de demain
+
+### Technologies et usages
 
 - [Biochar idéal](ch5_fr_biochar_ideal.html)
-- [Datacenters](ch5_fr_datacenters.html)
-- [Passeport numérique](ch5_fr_passeport_biochar.html)
+- **[Datacenters IA + biochar](ch5_fr_datacenters.html)**
+- [Passeport numérique du biochar](ch5_fr_passeport_biochar.html)
 - [Indice de qualité](ch5_fr_indice_qualite.html)
-- [Bourse mondiale du biochar](ch5_fr_bourse_biochar.html)
+- [Guide de l’acheteur](ch5_fr_guide_acheteur.html)
+
+### Mesure, données et carbone
+
+- [Métrologie du carbone](ch5_fr_metrologie_carbone.html)
+- [Jumeau numérique](ch5_fr_jumeau_numerique.html)
+- [Observatoire mondial](ch5_fr_observatoire_mondial.html)
+- [Gestion des risques](ch5_fr_gestion_risques.html)
+
+### Marchés et gouvernance
+
+- [Bourse du biochar](ch5_fr_bourse_biochar.html)
 - [Indice mondial des prix](ch5_fr_indice_prix_mondial.html)
 - [Consortium mondial](ch5_fr_consortium_mondial.html)
-- [Reconquête des déserts](ch5_fr_reconquete_deserts.html)
-- [Observatoire mondial](ch5_fr_observatoire_mondial.html)
-- [Guide de l'acheteur](ch5_fr_guide_acheteur.html)
-- [Métrologie du carbone](ch5_fr_metrologie_carbone.html)
-- [Territoires Biochar](ch5_fr_territoires_resilience_biochar_carbone.html)
-- [Jumeau numérique](ch5_fr_jumeau_numerique.html)
-- [Gestion des risques](ch5_fr_gestion_risques.html)
-- [Feuille de route 2050](ch5_fr_feuille_route_2050.html)
 - [Recherche mondiale](ch5_fr_recherche_mondiale.html)
 
-### Figures
+### Territoires et prospective
 
-- Passeport numérique
-- Indice qualité
-- Datacenter
-- Bourse
-- Consortium
-- Déserts
-- Jumeau numérique
-- Métrologie
-- Territoires
-- Feuille de route
-- Réseau mondial
+- [Reconquête des déserts](ch5_fr_reconquete_deserts.html)
+- [Territoires, résilience, biochar et carbone](ch5_fr_territoires_resilience_biochar_carbone.html)
+- [Feuille de route 2050](ch5_fr_feuille_route_2050.html)
 
 ---
 
-# Philosophie
+## Comment lire les figures
 
-Le biochar ne constitue pas une solution unique aux défis climatiques.
+Les grandes infographies sont affichées directement dans les articles. Sous chaque figure, un lien permet de l’agrandir. Lorsqu’une version SVG apporte une valeur supplémentaire — carte, diagramme, flux ou figure scientifique — elle est proposée séparément.
 
-En revanche, il peut contribuer, avec d'autres technologies, à une économie plus circulaire, à la restauration des sols, à la valorisation durable de la biomasse et à la réduction de certaines émissions.
+Les figures de l’Atlas portent l’attribution :
 
-L'objectif de cet atlas est de proposer une vision structurée, ouverte et documentée de cette filière en pleine évolution.
-
----
-
-# Évolutions
-
-Cet atlas est un projet vivant.
-
-Les nouvelles versions pourront intégrer :
-
-- de nouveaux marchés ;
-- de nouvelles applications ;
-- des retours d'expérience ;
-- des résultats scientifiques récents ;
-- des figures supplémentaires.
+**© Eric Jacob 2026 — Atlas mondial du biochar — CC BY 4.0**
 
 ---
 
-# Citation
+## Méthode
 
-Eric Jacob.
+L’Atlas distingue autant que possible :
 
-**Atlas mondial de la valorisation économique du biochar.**
+- les données établies ;
+- les ordres de grandeur ;
+- les hypothèses industrielles ;
+- les architectures prospectives.
 
-Version 1.0.
-
-GitHub Pages.
-
-2026.
+Le biochar n’est pas présenté comme une solution universelle. Sa valeur dépend de l’origine de la biomasse, du procédé, de la qualité obtenue, de l’usage final et du bilan de cycle de vie.
 
 ---
 
-© Eric Jacob – Creative Commons CC BY 4.0
+## Citation
+
+**Eric Jacob**, *Atlas mondial de la valorisation économique du biochar*, Volume 1, version 1.1, 2026.
+
+---
+
+*Projet évolutif publié sur GitHub Pages. Les articles peuvent être lus indépendamment tout en restant reliés à l’Atlas.*
