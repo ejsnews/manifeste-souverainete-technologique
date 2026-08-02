@@ -96,6 +96,8 @@ Le hub peut alors devenir simultanément :
 
 La logistique existe déjà : routes, quais, pesage, stockage, manutention, fournisseurs et transporteurs. L’enjeu consiste à ajouter une boucle matière-énergie là où les flux se rencontrent déjà.
 
+[↑ Choisir un secteur](#sommaire-sectoriel)
+
 ---
 
 ![Territoires et résilience : des résidus locaux aux services énergétiques, au biochar et à la décarbonation](ch5_fr_territoires_resilience.png)
@@ -166,8 +168,6 @@ Voisin industriel, réseau de chaleur, agriculteurs, transporteurs, collectivit�
 ### 8 — Comment le prouver ?
 
 Mesures, ACV, métrologie, contrats, traçabilité et MRV.
-
-[↑ Choisir un secteur](#sommaire-sectoriel)
 
 ---
 
