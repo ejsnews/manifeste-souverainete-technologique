@@ -8,6 +8,8 @@
 
 > Un atlas volontairement compact : comprendre rapidement le biochar, ses marchés, ses propriétés, ses usages et les infrastructures qui pourraient structurer sa filière.
 
+![Atlas mondial de la valorisation économique du biochar](README.png)
+
 ---
 
 ## Lire l’Atlas
@@ -15,7 +17,7 @@
 | Chapitre | Sujet | Accès |
 |---|---|---|
 | **1** | Comprendre le biochar | [Ouvrir](ch1_fr.md) |
-| **2** | Marchés et prix | [Prix](ch2_fr_prix.md) |
+| **2** | Valeur, marchés et prix | [Valeur et marchés](ch2_fr.md) |
 | **3** | Classification et biomasses | [Classification](ch3_fr_classification.md) |
 | **4** | Applications, ACV et certifications | [Certifications](ch4_fr_certifications.md) |
 | **5** | Outils, infrastructures et prospective | [Datacenters IA + biochar](ch5_fr_datacenters.md) |
@@ -30,19 +32,21 @@ Production, carbone, environnement, industrie et économie.
 
 ---
 
-## Chapitre 2 — Marchés mondiaux
+## Chapitre 2 — Valeur et marchés mondiaux
 
-- [Prix et valorisation](ch2_fr_prix.md)
+- **2.1 — [Valeur économique mondiale du biochar](ch2_fr.md)**
+- **2.2 — [Prix et valorisation économique](ch2_fr_prix.md)**
+- **2.3 — [Carte mondiale](ch2_fr_carte.svg)**
 
-Le chapitre 2 rassemble les éléments économiques et géographiques nécessaires pour comparer les marchés.
+Le chapitre 2 part de la création de valeur, poursuit par les prix et modèles économiques, puis ouvre la lecture géographique des marchés.
 
 ---
 
 ## Chapitre 3 — Caractériser avant d’utiliser
 
-- [Classification des biochars](ch3_fr_classification.md)
-- [Paramètres de caractérisation](ch3_fr_parametres.md)
-- [Biomasses et intrants](ch3_fr_biomasses.md)
+- **3.1 — [Classification des biochars](ch3_fr_classification.md)**
+- **3.2 — [Paramètres de caractérisation](ch3_fr_parametres.md)**
+- **3.3 — [Biomasses et intrants](ch3_fr_biomasses.md)**
 
 Un biochar n’est pas un produit uniforme : son intrant et son procédé déterminent ses propriétés et donc ses usages possibles.
 
@@ -105,10 +109,11 @@ L’Atlas distingue autant que possible :
 
 - les données établies ;
 - les ordres de grandeur ;
+- les observations et retours de terrain ;
 - les hypothèses industrielles ;
 - les architectures prospectives.
 
-Le biochar n’est pas présenté comme une solution universelle. Sa valeur dépend de l’origine de la biomasse, du procédé, de la qualité obtenue, de l’usage final et du bilan de cycle de vie.
+Les retours de terrain sont considérés comme des signaux importants à documenter et à confronter aux mesures. Le biochar n’est pas présenté comme une solution universelle : sa valeur dépend de l’origine de la biomasse, du procédé, de la qualité obtenue, de l’usage final, du territoire et du bilan de cycle de vie.
 
 ---
 
