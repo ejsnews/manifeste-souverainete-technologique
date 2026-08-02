@@ -2,234 +2,106 @@
 layout: default
 lang: fr
 author: Eric Jacob
-title: "Chapitre 3 - Les paramètres techniques d'un biochar"
+title: "Chapitre 3 — Paramètres de caractérisation du biochar"
+license: Creative Commons CC BY 4.0
 ---
 
-# Chapitre 3 — Les paramètres techniques d'un biochar
+# Chapitre 3 — Paramètres de caractérisation du biochar
 
-> Version 1.0 — Juillet 2026
+> **Atlas mondial de la valorisation économique du biochar — Volume 1**  
+> Version 1.1 — Août 2026 · Auteur : Eric Jacob
 
-## Pourquoi mesurer un biochar ?
-
-Deux biochars visuellement identiques peuvent avoir des performances très différentes.
-
-Leur comportement dépend principalement :
-
-- de la biomasse utilisée ;
-- du procédé de thermolyse ;
-- de la température maximale ;
-- du temps de séjour ;
-- du refroidissement ;
-- des traitements éventuels après production.
-
-Une caractérisation normalisée est donc indispensable avant toute utilisation industrielle.
+**[← Classification](ch3_fr_classification.md) · [↑ Atlas](README.md) · [Biomasses →](ch3_fr_biomasses.md)**
 
 ---
 
-# Les paramètres essentiels
+## Mesurer avant de valoriser
 
-| Paramètre | Symbole | Importance | Applications concernées |
-|-----------|----------|-----------|-------------------------|
-| Carbone organique | Corg | ★★★★★ | Toutes |
-| Carbone fixe | FC | ★★★★★ | Séquestration, construction |
-| Rapport H/Corg | H/C | ★★★★★ | Durabilité |
-| Rapport O/Corg | O/C | ★★★★★ | Durabilité |
-| Surface BET | BET | ★★★★★ | Filtration |
-| Densité apparente | ρ | ★★★☆☆ | Construction |
-| pH | pH | ★★★★☆ | Agriculture |
-| Conductivité | EC | ★★★☆☆ | Agriculture |
-| Matières volatiles | VM | ★★★☆☆ | Industrie |
-| Cendres | Ash | ★★★★★ | Toutes |
-| Humidité | H₂O | ★★☆☆☆ | Logistique |
+La valeur d’un biochar repose sur des propriétés mesurables. Une fiche technique utile doit distinguer les paramètres nécessaires à la sécurité, ceux qui décrivent la matière et ceux qui prédisent son aptitude à un usage.
+
+| Famille | Exemples |
+|---|---|
+| Composition | C, H, N, O, cendres, minéraux |
+| Physique | granulométrie, densité, porosité |
+| Surface | surface spécifique, distribution des pores |
+| Chimie | pH, conductivité, groupes de surface |
+| Sécurité | métaux, HAP et autres contaminants pertinents |
+| Carbone | teneur, stabilité, permanence |
+| Traçabilité | intrant, procédé, lot, destination |
 
 ---
 
-# Rapport H/Corg
+## Paramètres agronomiques
 
-Le rapport atomique H/Corg est l'un des meilleurs indicateurs du degré de carbonisation.
+Pour un usage au sol, le pH ne doit jamais être interprété isolément. Il faut tenir compte du sol, de la culture, de la dose et des interactions avec les nutriments.
 
-Plus il est faible :
-
-- plus le biochar est aromatique ;
-- plus il est stable ;
-- plus sa durée de vie dans les sols est élevée.
-
-Valeurs indicatives :
-
-| H/Corg | Interprétation |
-|---------|---------------|
-| >0,70 | Carbonisation insuffisante |
-| 0,40 à 0,70 | Biochar standard |
-| <0,40 | Carbonisation élevée |
-| <0,20 | Très forte aromatisation |
-
-Les lignes directrices de l'European Biochar Certificate utilisent notamment un seuil H/Corg inférieur à 0,7 pour caractériser un biochar suffisamment carbonisé ; certaines classes plus exigeantes imposent un seuil inférieur à 0,4. :contentReference[oaicite:0]{index=0}
+La capacité de rétention d’eau, la porosité et les propriétés d’échange peuvent être utiles, mais leur effet réel doit être vérifié dans le contexte d’application.
 
 ---
 
-# Rapport O/Corg
+## Paramètres pour filtration
 
-Le rapport O/Corg reflète le degré d'oxydation.
+La surface spécifique est importante mais ne suffit pas. La taille et l’accessibilité des pores ainsi que la chimie de surface déterminent quelles molécules peuvent être adsorbées.
 
-Un faible rapport indique généralement :
-
-- une meilleure stabilité chimique ;
-- une biodégradation plus lente ;
-- une séquestration plus durable.
-
-Valeurs indicatives :
-
-| O/Corg | Stabilité |
-|----------|-----------|
-| >0,40 | moyenne |
-| 0,20–0,40 | bonne |
-| <0,20 | très élevée |
+Un matériau très poreux n’est donc pas automatiquement un excellent filtre pour n’importe quel polluant.
 
 ---
 
-# Surface spécifique BET
+## Paramètres pour matériaux
 
-La surface spécifique représente la surface interne développée par les pores.
+Les applications dans le béton, les composites ou d’autres matrices peuvent exiger :
 
-Elle s'exprime en :
+- granulométrie contrôlée ;
+- humidité maîtrisée ;
+- densité apparente ;
+- comportement mécanique ;
+- compatibilité avec le liant ;
+- conductivité ou isolation selon la fonction.
 
-```
-m²/g
+---
+
+## Paramètres carbone
+
+Une revendication de retrait durable exige davantage qu’une teneur élevée en carbone.
+
+Elle doit intégrer :
+
+1. quantité de carbone dans le produit ;
+2. fraction considérée comme durable ;
+3. émissions du procédé ;
+4. préparation et transport ;
+5. scénario de référence ;
+6. destination finale ;
+7. risque de réémission.
+
+Ces éléments sont approfondis dans **[Métrologie du carbone](ch5_fr_metrologie_carbone.md)**.
+
+---
+
+## Le passeport du lot
+
+La caractérisation devient beaucoup plus utile lorsqu’elle est reliée à un identifiant de lot.
+
+```text
+Lot
+├── biomasse
+├── date et site
+├── paramètres du procédé
+├── analyses
+├── certification
+├── destination
+└── données carbone
 ```
 
-Ordres de grandeur :
-
-| BET | Domaine |
-|------|----------|
-| <100 | Agriculture |
-| 100–300 | Polyvalent |
-| 300–600 | Filtration |
-| >600 | Applications avancées |
-
-Une surface BET élevée améliore :
-
-- l'adsorption ;
-- la filtration ;
-- la rétention d'eau ;
-- le support bactérien.
+Voir : **[Passeport numérique du biochar](ch5_fr_passeport_biochar.md)**.
 
 ---
 
-# Carbone fixe
+## Continuer
 
-Le carbone fixe représente la fraction la plus stable.
-
-Ordres de grandeur :
-
-| Carbone fixe |
-|--------------|
-| <60 % |
-| 60–75 % |
-| 75–85 % |
-| >85 % |
-
-Plus cette valeur augmente :
-
-- plus le potentiel de stockage du carbone augmente ;
-- plus la stabilité est élevée.
+**[← Classification](ch3_fr_classification.md) · [↑ Atlas](README.md) · [Biomasses et intrants →](ch3_fr_biomasses.md)**
 
 ---
 
-# Cendres
-
-Les cendres proviennent principalement :
-
-- des minéraux ;
-- de la silice ;
-- des métaux naturellement présents dans la biomasse.
-
-Une teneur élevée peut être :
-
-- avantageuse pour certains amendements agricoles ;
-- pénalisante pour les matériaux de construction ou certaines applications industrielles.
-
----
-
-# pH
-
-Le pH influence directement l'utilisation agricole.
-
-Valeurs courantes :
-
-| pH | Utilisation |
-|----|-------------|
-| 5–6 | Sols acides |
-| 6–8 | Polyvalent |
-| 8–10 | Sols acides uniquement |
-| >10 | Utilisation avec précaution |
-
----
-
-# Métaux lourds
-
-Avant toute commercialisation, il convient de vérifier notamment :
-
-- Cadmium
-- Mercure
-- Plomb
-- Arsenic
-- Chrome
-- Nickel
-
-Les limites admissibles dépendent des réglementations et des certifications visées. :contentReference[oaicite:1]{index=1}
-
----
-
-# Hydrocarbures aromatiques polycycliques (HAP)
-
-Les HAP peuvent apparaître :
-
-- lors d'une thermolyse mal maîtrisée ;
-- d'un refroidissement inadapté ;
-- d'une contamination.
-
-Ils doivent être contrôlés pour les usages agricoles, alimentaires ou dans les matériaux.
-
----
-
-# Exemple de fiche d'analyse
-
-| Paramètre | Exemple |
-|-----------|---------|
-| Biomasse | Bambou |
-| Température | 600 °C |
-| Temps de séjour | 25 min |
-| Rendement | 29 % |
-| Corg | 88 % |
-| Carbone fixe | 84 % |
-| H/Corg | 0,29 |
-| O/Corg | 0,09 |
-| BET | 510 m²/g |
-| pH | 8,5 |
-| Cendres | 3,8 % |
-
-Ces valeurs sont fournies à titre d'exemple et doivent être confirmées par des analyses de laboratoire.
-
----
-
-# Conclusion
-
-La valeur d'un biochar ne dépend pas uniquement de son origine.
-
-Elle dépend principalement de ses propriétés physico-chimiques mesurées.
-
-À terme, une fiche technique normalisée accompagnant chaque lot de biochar faciliterait :
-
-- les échanges commerciaux ;
-- les certifications ;
-- la comparaison des performances ;
-- le développement d'applications industrielles à forte valeur ajoutée.
-
----
-
-## Figures associées
-
-- ch3_fr_parametres.svg
-- ch3_fr_bet.svg
-- ch3_fr_hc_oc.svg
-- ch3_fr_fiche_type.svg
+*Atlas mondial de la valorisation économique du biochar — Eric Jacob — Version 1.1 — 2026*  
+*Licence : Creative Commons CC BY 4.0*

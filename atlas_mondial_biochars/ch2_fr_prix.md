@@ -2,173 +2,123 @@
 layout: default
 lang: fr
 author: Eric Jacob
-title: "Chapitre 2 - Prix mondiaux du Biochar"
+title: "Chapitre 2 — Prix et valorisation économique du biochar"
+license: Creative Commons CC BY 4.0
 ---
 
-# Chapitre 2 — Prix mondiaux du Biochar
+# Chapitre 2 — Prix et valorisation économique du biochar
 
-> Version 1.0 — Juillet 2026
+> **Atlas mondial de la valorisation économique du biochar — Volume 1**  
+> Version 1.1 — Août 2026 · Auteur : Eric Jacob
 
-Le biochar possède une caractéristique rare : il peut générer plusieurs sources de revenus simultanément.
-
-Contrairement à une matière première classique, sa valeur économique est la somme de plusieurs marchés :
-
-- vente de la matière physique ;
-- crédits de retrait carbone (CORC / CDR) ;
-- économie circulaire ;
-- réduction des émissions industrielles ;
-- amélioration de la valeur des matériaux incorporant du biochar.
+**[← Chapitre 1](ch1_fr.md) · [↑ Sommaire de l’Atlas](README.md) · [Classification →](ch3_fr_classification.md)**
 
 ---
 
-# Les quatre piliers de la valeur
+## En une minute
 
-| Source de revenus | Description |
-|------------------|-------------|
-| Vente du biochar | Agriculture, bâtiment, filtration, industrie |
-| Crédits carbone | CORC / CDR selon certification |
-| Coproduits énergétiques | Syngaz, Hydrogène, SNG, SAF selon le procédé |
-| Économie circulaire | Valorisation de déchets de biomasse |
+Il n’existe pas un prix mondial unique du biochar. Le prix dépend de la biomasse, du procédé, des analyses, de la certification, du conditionnement, du transport, de l’usage final et de la possibilité éventuelle de valoriser le retrait de carbone.
+
+Comparer deux prix sans comparer la qualité et la fonction du produit conduit donc souvent à une conclusion erronée.
 
 ---
 
-# Prix observés de la matière
+## De quoi paie-t-on réellement le prix ?
 
-Les prix dépendent fortement :
+Le prix final peut agréger plusieurs valeurs :
 
-- de la qualité ;
-- de la biomasse utilisée ;
-- de la température de production ;
-- du taux de carbone fixe ;
-- de la surface spécifique ;
-- des certifications.
+| Composante | Valeur créée |
+|---|---|
+| Matière | biochar brut ou formulé |
+| Qualité | analyses, stabilité, contaminants, granulométrie |
+| Fonction | agronomie, adsorption, matériau, filtration |
+| Logistique | séchage, broyage, conditionnement, transport |
+| Certification | conformité à un référentiel |
+| Carbone | retrait certifié lorsque les critères sont remplis |
 
-## Europe
-
-| Usage | Prix observé |
-|--------|-------------:|
-| Agriculture | 300 à 700 €/t |
-| Horticulture | 500 à 1 000 €/t |
-| Construction | 800 à 1 800 €/t |
-| Filtration | 1 000 à plus de 2 000 €/t |
+Le marché doit donc évoluer d’une logique de **prix par tonne** vers une logique de **prix par fonction et qualité vérifiée**.
 
 ---
 
-## Amérique du Nord
+## Les principaux facteurs de prix
 
-| Usage | Prix observé |
-|--------|-------------:|
-| Agriculture | 250 à 600 €/t |
-| Construction | 700 à 1 500 €/t |
-| Filtration | 900 à 2 000 €/t |
+### Intrant
 
----
+Une biomasse propre, homogène et disponible localement n’a pas la même économie qu’un intrant dispersé, humide ou nécessitant un prétraitement important.
 
-## Asie
+### Procédé
 
-| Usage | Prix observé |
-|--------|-------------:|
-| Agriculture | 80 à 350 €/t |
-| Construction | 400 à 900 €/t |
-| Applications techniques | jusqu'à 1 500 €/t |
+Température, temps de résidence, rendement solide, récupération énergétique et capacité industrielle influencent directement le coût de production.
 
----
+### Post-traitement
 
-# Valeur des crédits carbone
+Broyage, tamisage, activation, mélange, granulation ou formulation peuvent transformer un biochar générique en produit à plus forte valeur ajoutée.
 
-Selon les marchés volontaires du carbone et les certifications disponibles.
+### Marché
 
-| Région | Valeur indicative |
-|---------|-----------------:|
-| Europe | 140 à 220 €/tCO₂ |
-| Amérique du Nord | 130 à 180 €/tCO₂ |
-| Asie | 80 à 130 €/tCO₂ |
-
-Ces valeurs évoluent régulièrement avec le développement des marchés du retrait permanent du carbone.
+Le prix acceptable dépend enfin de la valeur créée chez l’utilisateur. Un adsorbant spécialisé ne se compare pas à un amendement vendu en vrac.
 
 ---
 
-# Valeur totale potentielle
+## Ne pas confondre prix du biochar et prix du carbone
 
-Pour un biochar premium destiné au bâtiment :
+Le biochar est un **produit physique**. Le crédit carbone est, lorsqu’il existe, une **preuve certifiée d’un retrait ou stockage répondant à une méthodologie donnée**.
 
-| Poste | Valeur |
-|--------|--------:|
-| Vente matière | 1 000 à 1 800 €/t |
-| Crédits carbone | 300 à 600 €/t biochar* |
-| Valeur totale potentielle | jusqu'à 2 400 €/t |
+Les deux valeurs peuvent être associées, mais elles ne doivent pas être confondues.
 
-\* dépend notamment de la teneur en carbone stable et des conditions de certification.
+Une tonne de biochar n’équivaut pas automatiquement à une tonne de CO₂ retirée. Le calcul dépend notamment de sa teneur en carbone, de sa stabilité et des émissions du cycle de vie.
 
 ---
 
-# Facteurs augmentant la valeur
+## Lire une carte mondiale avec prudence
 
-✔ Biomasse riche en lignine
+Si une carte ou un tableau mondial indique des prix, il faut préciser :
 
-✔ Faible teneur en cendres
+- année de l’observation ;
+- monnaie et conversion ;
+- prix départ usine ou livré ;
+- vente en vrac ou au détail ;
+- qualité et certification ;
+- usage ;
+- quantité commandée ;
+- inclusion ou non d’une valeur carbone.
 
-✔ Température maîtrisée
-
-✔ Surface spécifique élevée
-
-✔ Faible rapport H/Corg
-
-✔ Certification carbone
-
-✔ Certification EBC lorsqu'elle est applicable
-
-✔ Débouché industriel identifié
+Sans ces informations, une moyenne mondiale donne une impression de précision supérieure à la réalité.
 
 ---
 
-# Marchés les plus rémunérateurs
+## Vers un indice mondial
 
-1. Filtration industrielle
+Un futur indice de prix crédible devrait séparer plusieurs catégories, par exemple :
 
-2. Bétons bas carbone
+```text
+BIOCHAR
+├── agricole
+├── matériau
+├── filtration / adsorption
+├── spécialisé / activé
+└── biochar + retrait carbone certifié
+```
 
-3. Ciments décarbonés
+Chaque catégorie devrait ensuite être corrigée pour la région, la qualité, le volume et les conditions logistiques.
 
-4. Composites polymères
-
-5. Agriculture spécialisée
-
-6. Horticulture
-
-7. Séquestration du carbone
-
----
-
-# Perspectives
-
-L'intérêt économique du biochar ne provient plus uniquement de son utilisation agricole.
-
-La combinaison :
-
-- d'une valorisation industrielle de la matière,
-- d'une certification carbone,
-- d'une production simultanée de gaz renouvelables (hydrogène, SNG ou SAF selon les procédés),
-
-transforme progressivement le biochar en un matériau stratégique de la bioéconomie.
-
-Cette évolution explique l'intérêt croissant porté au biochar par les secteurs de la construction, des matériaux, de l'industrie et de la transition énergétique.
+Cette approche est développée dans **[l’indice mondial des prix](ch5_fr_indice_prix_mondial.md)**.
 
 ---
 
 ## À retenir
 
-Le biochar n'est plus seulement un amendement agricole.
-
-Il devient progressivement :
-
-- un matériau industriel ;
-- un puits de carbone permanent ;
-- un actif économique ;
-- un levier de décarbonation.
+> **Le biochar n’est pas une commodité parfaitement homogène. Un prix n’a de sens que relié à une qualité, un usage, une localisation et une date.**
 
 ---
 
-**Figure associée :**
+## Continuer
 
-`ch2_fr_prix.svg`
+**[← Chapitre 1](ch1_fr.md) · [↑ Atlas](README.md) · [Classification des biochars →](ch3_fr_classification.md)**
+
+Articles liés : [Guide de l’acheteur](ch5_fr_guide_acheteur.md) · [Indice de qualité](ch5_fr_indice_qualite.md) · [Bourse du biochar](ch5_fr_bourse_biochar.md)
+
+---
+
+*Atlas mondial de la valorisation économique du biochar — Eric Jacob — Version 1.1 — 2026*  
+*Licence : Creative Commons CC BY 4.0*

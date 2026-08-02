@@ -2,223 +2,133 @@
 layout: default
 lang: fr
 author: Eric Jacob
-title: "Chapitre 3 - Classification technique des biochars"
+title: "Chapitre 3 — Classification des biochars"
+license: Creative Commons CC BY 4.0
 ---
 
-# Chapitre 3 — Vers une classification technique mondiale des biochars
+# Chapitre 3 — Classification des biochars
 
-> Version 1.0 — Juillet 2026
+> **Atlas mondial de la valorisation économique du biochar — Volume 1**  
+> Version 1.1 — Août 2026 · Auteur : Eric Jacob
 
-## Pourquoi classifier les biochars ?
-
-Aujourd'hui, le mot **biochar** désigne des matériaux très différents.
-
-Deux biochars peuvent être produits à partir de biomasses différentes, dans des réacteurs différents, à des températures différentes, et présenter des propriétés physico-chimiques totalement différentes.
-
-Pourtant, ils sont souvent commercialisés sous le même nom.
-
-Cette absence de classification complique :
-
-- la comparaison des performances ;
-- les échanges commerciaux ;
-- les applications industrielles ;
-- les certifications ;
-- la recherche scientifique.
-
-L'objectif de ce chapitre est de proposer une première classification ouverte des biochars basée sur leurs propriétés techniques plutôt que sur leur origine.
+**[← Prix](ch2_fr_prix.md) · [↑ Atlas](README.md) · [Paramètres →](ch3_fr_parametres.md)**
 
 ---
 
-# Les paramètres fondamentaux
+## Pourquoi classifier ?
 
-Un biochar devrait être décrit au minimum par les caractéristiques suivantes.
+Le mot *biochar* recouvre des matériaux très différents. Une classification utile doit relier quatre dimensions :
 
-| Paramètre | Importance |
-|-----------|------------|
-| Biomasse d'origine | ★★★★★ |
-| Température maximale | ★★★★★ |
-| Temps de séjour | ★★★★☆ |
-| Rendement massique | ★★★☆☆ |
-| Teneur en carbone organique | ★★★★★ |
-| Carbone fixe | ★★★★★ |
-| Rapport H/Corg | ★★★★★ |
-| Rapport O/Corg | ★★★★★ |
-| Surface spécifique BET | ★★★★★ |
-| Teneur en cendres | ★★★★☆ |
-| pH | ★★★☆☆ |
-| Conductivité électrique | ★★★☆☆ |
-| Matières volatiles | ★★★☆☆ |
-| Densité apparente | ★★☆☆☆ |
+**origine → procédé → propriétés → usage.**
 
-Le rapport **H/Corg** constitue un indicateur important du degré de carbonisation et de la stabilité du biochar. Les lignes directrices de l'European Biochar Certificate (EBC) utilisent notamment un seuil inférieur à 0,7 pour caractériser un biochar suffisamment carbonisé ; un rapport **O/Corg** inférieur à 0,4 est également recherché pour les biochars stables. :contentReference[oaicite:0]{index=0}
+Classer uniquement par biomasse ou uniquement par température ne suffit pas.
 
 ---
 
-# Proposition de familles
+## Niveau 1 — Origine de la biomasse
 
-## Classe A — Biochars agricoles
+Les grandes familles comprennent notamment :
 
-Objectif principal :
-
-- amélioration des sols ;
-- rétention d'eau ;
-- augmentation de la CEC ;
-- séquestration du carbone.
-
-Exemples :
-
+- biomasses ligneuses ;
 - résidus agricoles ;
-- paille ;
-- balle de riz ;
-- miscanthus.
+- coques et noyaux ;
+- pailles et tiges ;
+- bambou et biomasses à croissance rapide ;
+- coproduits agro-industriels.
+
+L’origine doit rester traçable jusqu’au lot lorsque la qualité, la sécurité ou le carbone sont revendiqués.
 
 ---
 
-## Classe B — Biochars industriels
+## Niveau 2 — Procédé
 
-Objectif :
+Deux biochars issus du même bois peuvent être différents si les conditions thermochimiques diffèrent.
 
-- matériaux ;
-- composites ;
-- filtration.
+Les paramètres structurants comprennent :
 
-Caractéristiques recherchées :
-
-- forte stabilité ;
-- faible taux de cendres ;
-- porosité élevée.
-
----
-
-## Classe C — Biochars de construction
-
-Applications :
-
-- béton ;
-- ciment ;
-- plâtre ;
-- asphalte.
-
-Priorités :
-
-- stabilité dimensionnelle ;
-- faible teneur en contaminants ;
-- homogénéité granulométrique.
+| Paramètre | Effet potentiel |
+|---|---|
+| Température | rendement, volatilité, structure carbonée |
+| Temps de résidence | degré de conversion |
+| Atmosphère | réactions et oxydation |
+| Chauffage | cinétique et homogénéité |
+| Préparation | humidité, granulométrie |
+| Refroidissement | sécurité et propriétés finales |
 
 ---
 
-## Classe D — Biochars de filtration
+## Niveau 3 — Propriétés mesurées
 
-Applications :
+Une classification exploitable industriellement doit reposer sur des mesures.
 
-- eau potable ;
-- eaux industrielles ;
-- gaz.
+On peut notamment caractériser :
 
-Critères :
+- carbone organique ;
+- humidité ;
+- cendres ;
+- matières volatiles ;
+- pH ;
+- conductivité ;
+- surface spécifique ;
+- distribution des pores ;
+- éléments nutritifs ;
+- métaux et contaminants organiques ;
+- stabilité du carbone.
 
-- surface BET élevée ;
-- microporosité développée ;
-- faible teneur en goudrons.
-
----
-
-## Classe E — Biochars de séquestration
-
-Objectif principal :
-
-maximiser le stockage durable du carbone.
-
-Critères :
-
-- carbone fixe élevé ;
-- faible H/Corg ;
-- faible O/Corg ;
-- excellente stabilité à long terme.
+Tous ces paramètres ne sont pas nécessaires pour tous les usages.
 
 ---
 
-# Proposition d'une nomenclature
+## Niveau 4 — Classe d’usage
 
-Une classification simple pourrait être utilisée dans les publications.
+Une classification fonctionnelle pourrait distinguer :
 
-| Code | Signification |
-|------|---------------|
-| BR | Biochar de Référence |
-| BA | Biochar Agricole |
-| BC | Biochar Construction |
-| BF | Biochar Filtration |
-| BI | Biochar Industriel |
-| BS | Biochar Séquestration |
+### Sols et agriculture
+Biochar dont les propriétés et contaminants sont compatibles avec le sol et la culture visés.
 
-Chaque biochar pourrait recevoir un numéro de génération.
+### Matériaux
+Biochar optimisé pour granulométrie, structure, masse volumique, interaction avec le liant ou conductivité selon l’application.
 
-Exemple :
+### Filtration
+Matériau caractérisé principalement par adsorption, porosité, surface, chimie de surface et innocuité.
 
-```
-BR-1
+### Carbone durable
+Produit dont la chaîne de traçabilité et la stabilité permettent d’évaluer un stockage de carbone selon une méthodologie reconnue.
+
+---
+
+## Une notation multidimensionnelle plutôt qu’une note unique
+
+Un seul score peut masquer des incompatibilités. Un biochar excellent en adsorption peut être médiocre pour une application agronomique.
+
+L’Atlas privilégie donc un profil :
+
+```text
+C — carbone et stabilité
+A — aptitude agronomique
+M — aptitude matériaux
+F — filtration / adsorption
+S — sécurité / contaminants
+T — traçabilité
 ```
 
-Premier biochar de référence.
-
-```
-BC-2
-```
-
-Deuxième biochar optimisé pour les matériaux de construction.
-
-```
-BF-3
-```
-
-Troisième biochar optimisé pour la filtration.
+L’**[indice de qualité](ch5_fr_indice_qualite.md)** pourra agréger certaines informations, mais devra toujours laisser accessibles les valeurs qui le composent.
 
 ---
 
-# Exemple de fiche technique
+## À retenir
 
-| Paramètre | Valeur |
-|-----------|--------|
-| Code | BR-1 |
-| Biomasse | Bambou |
-| Température | 600 °C |
-| Atmosphère | O₂ limité |
-| Rendement | 28 % |
-| H/Corg | 0,32 |
-| O/Corg | 0,08 |
-| Surface BET | 520 m²/g |
-| Carbone fixe | 86 % |
-| Cendres | 4 % |
-
-Cette fiche est donnée à titre d'exemple de structure ; les valeurs devront être mesurées et vérifiées expérimentalement.
+> **La bonne question n’est pas “ce biochar est-il bon ?”, mais “est-il adapté, sûr et documenté pour cet usage précis ?”**
 
 ---
 
-# Intérêt d'une classification mondiale
+## Continuer
 
-Une nomenclature commune permettrait :
+**[← Prix](ch2_fr_prix.md) · [↑ Atlas](README.md) · [Paramètres de caractérisation →](ch3_fr_parametres.md)**
 
-- de comparer les procédés de production ;
-- d'améliorer les échanges entre industriels ;
-- de faciliter les publications scientifiques ;
-- d'aider les acheteurs à sélectionner un biochar adapté à leur usage ;
-- de rapprocher progressivement les biochars de normes internationales.
+Puis : [Biomasses et intrants](ch3_fr_biomasses.md)
 
 ---
 
-# Conclusion
-
-Le terme « biochar » regroupe aujourd'hui une grande diversité de matériaux.
-
-À mesure que les applications industrielles se développent (construction, filtration, composites, stockage du carbone), une classification fondée sur les propriétés mesurées plutôt que sur le seul intrant apparaît souhaitable.
-
-Ce chapitre constitue une proposition ouverte destinée à évoluer avec les retours des chercheurs, des industriels et des organismes de certification.
-
----
-
-## Figures associées
-
-- BR-1.svg
-- BC-1.svg
-- BF-1.svg
-- classification_biochars.svg
+*Atlas mondial de la valorisation économique du biochar — Eric Jacob — Version 1.1 — 2026*  
+*Licence : Creative Commons CC BY 4.0*

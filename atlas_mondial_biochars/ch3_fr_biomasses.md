@@ -2,194 +2,97 @@
 layout: default
 lang: fr
 author: Eric Jacob
-title: "Chapitre 3 - Comparaison des principales biomasses"
+title: "Chapitre 3 — Biomasses et intrants pour le biochar"
+license: Creative Commons CC BY 4.0
 ---
 
-# Chapitre 3 — Comparaison des principales biomasses pour la production de biochar
+# Chapitre 3 — Biomasses et intrants pour le biochar
 
-> Version 1.0 — Juillet 2026
+> **Atlas mondial de la valorisation économique du biochar — Volume 1**  
+> Version 1.1 — Août 2026 · Auteur : Eric Jacob
 
-## Pourquoi la biomasse est-elle déterminante ?
-
-Le biochar n'est pas un produit unique.
-
-Sa qualité dépend directement de la biomasse utilisée, mais également du procédé de thermolyse (température, durée de séjour, vitesse de chauffe, atmosphère, refroidissement).
-
-À procédé identique, deux biomasses différentes produisent des biochars présentant des propriétés physiques, chimiques et économiques différentes.
+**[← Paramètres](ch3_fr_parametres.md) · [↑ Atlas](README.md) · [Certifications →](ch4_fr_certifications.md)**
 
 ---
 
-# Les grandes familles de biomasses
+## La biomasse détermine une partie du produit final
 
-| Famille | Exemples |
-|----------|----------|
-| Biomasses ligneuses | Chêne, hêtre, pin, eucalyptus |
-| Cultures énergétiques | Bambou, miscanthus, switchgrass |
-| Résidus agricoles | Paille, balle de riz, bagasse |
-| Coques et noyaux | Coco, noix, olive, palmiste |
-| Résidus forestiers | Branches, écorces, plaquettes |
-| Résidus agroalimentaires | Marc de raisin, noyaux, coques diverses |
+Le procédé peut transformer la matière, mais il ne fait pas disparaître son histoire. Composition minérale, contaminants, humidité, densité et structure de l’intrant influencent le biochar obtenu.
 
 ---
 
-# Comparaison qualitative
+## Familles d’intrants
 
-| Biomasse | Lignine | Cendres | Rendement biochar | Qualité industrielle |
-|-----------|:-------:|:--------:|:-----------------:|:--------------------:|
-| Bambou | ★★★★★ | ★★★★☆ | ★★★★☆ | ★★★★★ |
-| Bois dur | ★★★★★ | ★★★★★ | ★★★★☆ | ★★★★★ |
-| Bois tendre | ★★★★☆ | ★★★★★ | ★★★★☆ | ★★★★☆ |
-| Miscanthus | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ |
-| Paille | ★★☆☆☆ | ★★☆☆☆ | ★★☆☆☆ | ★★☆☆☆ |
-| Balle de riz | ★★☆☆☆ | ★☆☆☆☆ | ★★☆☆☆ | ★★☆☆☆ |
-| Coques de coco | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★★ |
-| Coques de noix | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★★ |
-| Bagasse | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ |
-
-Cette comparaison est qualitative. Les performances réelles dépendent de la variété, de l'humidité, du procédé et des conditions opératoires.
+| Famille | Atouts possibles | Vigilances |
+|---|---|---|
+| Bois / résidus forestiers | carbone élevé, structure | prélèvement excessif, transport |
+| Pailles / tiges | disponibilité agricole | cendres, minéraux, usages concurrents |
+| Coques / noyaux | densité, homogénéité | disponibilité géographique |
+| Bambou | croissance rapide selon contexte | implantation, eau, biodiversité |
+| Résidus agro-industriels | concentration sur site | variabilité, contaminants |
+| Biomasses spécifiques | valorisation locale | qualification indispensable |
 
 ---
 
-# Influence de la lignine
+## Le principe de cascade
 
-La lignine est le polymère naturel qui confère rigidité et résistance au bois.
+Une biomasse ne devrait pas être dirigée vers le biochar simplement parce qu’elle peut brûler ou être pyrolysée.
 
-Une biomasse riche en lignine tend à produire un biochar :
+Une logique de cascade examine d’abord :
 
-- plus aromatique ;
-- plus stable ;
-- présentant généralement un carbone fixe plus élevé.
+1. maintien nécessaire dans l’écosystème ;
+2. alimentation ou usages à plus forte valeur ;
+3. réemploi matière ;
+4. transformation thermochimique ;
+5. valorisation énergétique résiduelle.
 
-Les biomasses ligneuses (bois durs, bambou, coques) sont souvent privilégiées pour les applications industrielles à forte valeur ajoutée.
-
----
-
-# Influence des cendres
-
-Les cendres proviennent des minéraux naturellement présents dans la biomasse.
-
-Une teneur élevée peut :
-
-- augmenter le pH ;
-- apporter certains éléments nutritifs en agriculture ;
-- mais aussi limiter certaines applications (filtration, composites, matériaux techniques).
-
-Les résidus riches en silice, comme les balles de riz, nécessitent une attention particulière selon l'usage visé.
+Cette hiérarchie doit être adaptée au territoire.
 
 ---
 
-# Biomasses particulièrement prometteuses
+## Le bambou
 
-## Bambou
+Le bambou peut être une ressource intéressante dans certains climats grâce à sa productivité et à ses multiples usages. Il peut aussi participer à des systèmes agroforestiers et à des chaînes matière-énergie-biochar.
 
-Atouts :
-
-- croissance rapide ;
-- forte teneur en lignine ;
-- récolte renouvelable ;
-- disponibilité dans de nombreuses régions tropicales et subtropicales.
-
-Applications potentielles :
-
-- matériaux ;
-- filtration ;
-- carbone ;
-- béton bas carbone.
+Mais « croissance rapide » ne signifie pas « durable partout ». Espèce, eau, sol, biodiversité, récolte, transport et usages concurrents doivent être étudiés avant de conclure.
 
 ---
 
-## Bois dur
+## Résidus et fertilité des sols
 
-Référence historique.
+Retirer tous les résidus d’une parcelle pour produire du biochar peut dégrader le système que l’on prétend améliorer.
 
-Applications :
+Une fraction des résidus peut être nécessaire pour :
 
-- biochar premium ;
-- filtration ;
-- matériaux composites ;
-- stockage durable du carbone.
+- protéger le sol ;
+- restituer des nutriments ;
+- maintenir la matière organique ;
+- soutenir la biodiversité ;
+- limiter l’érosion.
 
----
-
-## Coques de noix et de coco
-
-Leur faible teneur en cendres et leur forte densité permettent d'obtenir des biochars très performants, souvent utilisés comme précurseurs de charbons activés.
+Le taux de prélèvement soutenable est donc une donnée locale.
 
 ---
 
-## Miscanthus
+## Intrant propre, biochar maîtrisable
 
-Culture pérenne intéressante pour :
+La qualité de l’intrant constitue la première barrière contre certains contaminants.
 
-- les sols pauvres ;
-- la production énergétique ;
-- certaines applications agricoles.
+La traçabilité doit documenter :
 
----
+```text
+origine → collecte → stockage → préparation → conversion → lot de biochar
+```
 
-# Biomasses à surveiller
-
-Certaines biomasses présentent un intérêt environnemental mais demandent davantage de précautions :
-
-- paille ;
-- fumiers ;
-- digestats ;
-- boues ;
-- résidus fortement minéralisés.
-
-Selon leur origine, elles peuvent conduire à des teneurs plus élevées en cendres ou en contaminants, ce qui impose des contrôles analytiques adaptés. :contentReference[oaicite:0]{index=0}
+Cette chaîne rejoint directement le **[passeport numérique](ch5_fr_passeport_biochar.md)** et les **[certifications](ch4_fr_certifications.md)**.
 
 ---
 
-# Critères de choix d'une biomasse
+## Continuer
 
-Avant d'investir dans une unité de production, il est recommandé d'évaluer :
-
-- disponibilité locale ;
-- coût logistique ;
-- humidité ;
-- granulométrie ;
-- saisonnalité ;
-- stabilité de l'approvisionnement ;
-- compatibilité avec le procédé de thermolyse ;
-- débouchés commerciaux du biochar produit.
+**[← Paramètres](ch3_fr_parametres.md) · [↑ Atlas](README.md) · [Chapitre 4 — Certifications →](ch4_fr_certifications.md)**
 
 ---
 
-# Tableau d'aide à la décision
-
-| Critère | Importance |
-|----------|-----------:|
-| Disponibilité | ★★★★★ |
-| Distance de transport | ★★★★★ |
-| Humidité | ★★★★☆ |
-| Lignine | ★★★★★ |
-| Cendres | ★★★★★ |
-| Prix | ★★★★☆ |
-| Débouchés locaux | ★★★★★ |
-| Certification possible | ★★★★☆ |
-
----
-
-# Conclusion
-
-Le choix de la biomasse est une décision stratégique.
-
-Il influence simultanément :
-
-- le rendement de production ;
-- la qualité du biochar ;
-- les coûts de fabrication ;
-- les applications accessibles ;
-- la valeur économique finale.
-
-À long terme, la compétitivité d'une filière reposera probablement davantage sur la qualité de la biomasse et la stabilité de son approvisionnement que sur le seul rendement du réacteur.
-
----
-
-## Figures associées
-
-- ch3_fr_biomasses.svg
-- ch3_fr_lignine.svg
-- ch3_fr_cendres.svg
-- ch3_fr_comparatif.svg
+*Atlas mondial de la valorisation économique du biochar — Eric Jacob — Version 1.1 — 2026*  
+*Licence : Creative Commons CC BY 4.0*
