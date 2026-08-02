@@ -316,15 +316,11 @@ Les gammes modulaires permettent d’envisager différentes échelles.
 
 Mais :
 
-\[
-17\ \mathrm{MW_{syngaz}} \neq 17\ \mathrm{MW_{électriques}}
-\]
+$17\ \mathrm{MW_{syngaz}} \neq 17\ \mathrm{MW_{électriques}}$
 
 et :
 
-\[
-1,7\ \mathrm{MW_{syngaz}} \neq 1,7\ \mathrm{MW_{électriques}}
-\]
+$1,7\ \mathrm{MW_{syngaz}} \neq 1,7\ \mathrm{MW_{électriques}}$
 
 La puissance utile dépend du mode de conversion et de son rendement.
 
@@ -375,9 +371,7 @@ Mais le coût doit être calculé sur une base comparable.
 
 Il dépend :
 
-\[
-C = f(B,L,I,F,O,\eta,V_b,V_c,V_h)
-\]
+$C = f(B,L,I,F,O,\eta,V_b,V_c,V_h)$
 
 avec notamment :
 
