@@ -22,17 +22,17 @@ license: Creative Commons CC BY 4.0
 
 | Chapitre | Sujet | Accès |
 |---|---|---|
-| **1** | Comprendre le biochar | [Ouvrir](ch1_fr.html) |
-| **2** | Marchés et prix | [Prix](ch2_fr_prix.html) |
-| **3** | Classification et biomasses | [Classification](ch3_fr_classification.html) |
-| **4** | Applications, ACV et certifications | [Certifications](ch4_fr_certifications.html) |
-| **5** | Outils, infrastructures et prospective | [Datacenters IA + biochar](ch5_fr_datacenters.html) |
+| **1** | Comprendre le biochar | [Ouvrir](ch1_fr.md) |
+| **2** | Marchés et prix | [Prix](ch2_fr_prix.md) |
+| **3** | Classification et biomasses | [Classification](ch3_fr_classification.md) |
+| **4** | Applications, ACV et certifications | [Certifications](ch4_fr_certifications.md) |
+| **5** | Outils, infrastructures et prospective | [Datacenters IA + biochar](ch5_fr_datacenters.md) |
 
 ---
 
 ## Chapitre 1 — Comprendre le biochar
 
-**[Le biochar : un matériau stratégique du XXIᵉ siècle →](ch1_fr.html)**
+**[Le biochar : un matériau stratégique du XXIᵉ siècle →](ch1_fr.md)**
 
 Production, carbone, environnement, industrie et économie.
 
@@ -40,7 +40,7 @@ Production, carbone, environnement, industrie et économie.
 
 ## Chapitre 2 — Marchés mondiaux
 
-- [Prix et valorisation](ch2_fr_prix.html)
+- [Prix et valorisation](ch2_fr_prix.md)
 
 Le chapitre 2 rassemble les éléments économiques et géographiques nécessaires pour comparer les marchés.
 
@@ -48,9 +48,9 @@ Le chapitre 2 rassemble les éléments économiques et géographiques nécessair
 
 ## Chapitre 3 — Caractériser avant d’utiliser
 
-- [Classification des biochars](ch3_fr_classification.html)
-- [Paramètres de caractérisation](ch3_fr_parametres.html)
-- [Biomasses et intrants](ch3_fr_biomasses.html)
+- [Classification des biochars](ch3_fr_classification.md)
+- [Paramètres de caractérisation](ch3_fr_parametres.md)
+- [Biomasses et intrants](ch3_fr_biomasses.md)
 
 Un biochar n’est pas un produit uniforme : son intrant et son procédé déterminent ses propriétés et donc ses usages possibles.
 
@@ -58,10 +58,10 @@ Un biochar n’est pas un produit uniforme : son intrant et son procédé déter
 
 ## Chapitre 4 — Applications et garanties
 
-- [Certifications](ch4_fr_certifications.html)
-- [Analyse du cycle de vie](ch4_fr_analyse_cycle_vie.html)
-- [Matériaux](ch4_fr_materiaux.html)
-- [Filtration](ch4_fr_filtration.html)
+- [Certifications](ch4_fr_certifications.md)
+- [Analyse du cycle de vie](ch4_fr_analyse_cycle_vie.md)
+- [Matériaux](ch4_fr_materiaux.md)
+- [Filtration](ch4_fr_filtration.md)
 
 ---
 
@@ -69,31 +69,31 @@ Un biochar n’est pas un produit uniforme : son intrant et son procédé déter
 
 ### Technologies et usages
 
-- [Biochar idéal](ch5_fr_biochar_ideal.html)
-- **[Datacenters IA + biochar](ch5_fr_datacenters.html)**
-- [Passeport numérique du biochar](ch5_fr_passeport_biochar.html)
-- [Indice de qualité](ch5_fr_indice_qualite.html)
-- [Guide de l’acheteur](ch5_fr_guide_acheteur.html)
+- [Biochar idéal](ch5_fr_biochar_ideal.md)
+- **[Datacenters IA + biochar](ch5_fr_datacenters.md)**
+- [Passeport numérique du biochar](ch5_fr_passeport_biochar.md)
+- [Indice de qualité](ch5_fr_indice_qualite.md)
+- [Guide de l’acheteur](ch5_fr_guide_acheteur.md)
 
 ### Mesure, données et carbone
 
-- [Métrologie du carbone](ch5_fr_metrologie_carbone.html)
-- [Jumeau numérique](ch5_fr_jumeau_numerique.html)
-- [Observatoire mondial](ch5_fr_observatoire_mondial.html)
-- [Gestion des risques](ch5_fr_gestion_risques.html)
+- [Métrologie du carbone](ch5_fr_metrologie_carbone.md)
+- [Jumeau numérique](ch5_fr_jumeau_numerique.md)
+- [Observatoire mondial](ch5_fr_observatoire_mondial.md)
+- [Gestion des risques](ch5_fr_gestion_risques.md)
 
 ### Marchés et gouvernance
 
-- [Bourse du biochar](ch5_fr_bourse_biochar.html)
-- [Indice mondial des prix](ch5_fr_indice_prix_mondial.html)
-- [Consortium mondial](ch5_fr_consortium_mondial.html)
-- [Recherche mondiale](ch5_fr_recherche_mondiale.html)
+- [Bourse du biochar](ch5_fr_bourse_biochar.md)
+- [Indice mondial des prix](ch5_fr_indice_prix_mondial.md)
+- [Consortium mondial](ch5_fr_consortium_mondial.md)
+- [Recherche mondiale](ch5_fr_recherche_mondiale.md)
 
 ### Territoires et prospective
 
-- [Reconquête des déserts](ch5_fr_reconquete_deserts.html)
-- [Territoires, résilience, biochar et carbone](ch5_fr_territoires_resilience_biochar_carbone.html)
-- [Feuille de route 2050](ch5_fr_feuille_route_2050.html)
+- [Reconquête des déserts](ch5_fr_reconquete_deserts.md)
+- [Territoires, résilience, biochar et carbone](ch5_fr_territoires_resilience_biochar_carbone.md)
+- [Feuille de route 2050](ch5_fr_feuille_route_2050.md)
 
 ---
 
