@@ -1,553 +1,467 @@
 ---
-author: Eric Jacob
-lang: fr
 layout: default
+lang: fr
+author: Eric Jacob
+title: "Chapitre 5 — Métrologie du carbone stocké dans le biochar"
 license: Creative Commons CC BY 4.0
-title: Chapitre 5 --- Métrologie du carbone stocké dans le biochar
 ---
 
-# Chapitre 5 --- Métrologie du carbone stocké dans le biochar
+# Chapitre 5 — Métrologie du carbone stocké dans le biochar
 
-> **Atlas mondial de la valorisation économique du biochar --- Volume
-> 1**\
-> Version 1.1 --- Août 2026 · Auteur : Eric Jacob
+> **Atlas mondial de la valorisation économique du biochar — Volume 1**  
+> Version 1.2 — Août 2026 · Auteur : Eric Jacob
 
-**[← Guide de l'acheteur](ch5_fr_guide_acheteur.md) · [↑ Sommaire de
-l'Atlas](README.md) · [Jumeau numérique →](ch5_fr_jumeau_numerique.md)**
+**[← Guide de l’acheteur](ch5_fr_guide_acheteur.md) · [↑ Sommaire de l’Atlas](README.md) · [Jumeau numérique →](ch5_fr_jumeau_numerique.md)**
 
-------------------------------------------------------------------------
+---
 
-## Mesurer aujourd'hui, prouver pour demain
+## Introduction
 
-Le développement du marché du biochar repose sur une question
-fondamentale :
+Le développement du marché du biochar repose sur une question fondamentale :
 
-> **Combien de carbone est réellement immobilisé, et pendant combien de
-> temps ?**
+> **Combien de carbone est réellement immobilisé, pendant combien de temps et avec quelle incertitude ?**
 
-Deux biochars possédant une masse identique peuvent présenter une
-stabilité, une composition chimique et une durée de stockage très
-différentes.
+Deux biochars de masse identique peuvent présenter une humidité, une teneur en cendres, une composition chimique, une stabilité et une durée de stockage très différentes. Mesurer uniquement la masse du biochar ne suffit donc pas.
 
-Mesurer uniquement la masse d'un biochar ne suffit donc pas. L'enjeu est
-de relier **lot, échantillonnage, analyses, quantité de carbone,
-stabilité, incertitude et traçabilité** afin de produire une information
-comparable et vérifiable.
+La métrologie doit distinguer **ce qui est mesuré**, **ce qui est calculé**, **ce qui est estimé par un modèle** et **ce qui est finalement vérifié ou certifié**.
 
-```{=html}
 <figure>
-```
-`<img src="ch5_fr_metrologie_carbone.png" alt="Infographie de métrologie du carbone du biochar : lot, échantillonnage, analyses, carbone mesuré, stabilité, incertitude, CCS-B et passeport numérique, reliés à la régénération des sols et de la planète" style="width:100%;height:auto;">`{=html}
-```{=html}
-<figcaption>
-```
-`<strong>`{=html}Figure 1 --- Métrologie du carbone : mesurer
-aujourd'hui, prouver pour demain.`</strong>`{=html} La chaîne proposée
-relie la mesure scientifique à la confiance, aux marchés et à la
-protection durable des sols, de l'eau, du climat et de la biodiversité.
-Le CCS-B est une proposition prospective d'Eric Jacob et non une norme
-existante. © Eric Jacob 2026 --- Atlas mondial du biochar --- CC BY 4.0.
-`<a href="ch5_fr_metrologie_carbone.png">`{=html}Agrandir
-l'infographie`</a>`{=html}
-```{=html}
-</figcaption>
-```
-```{=html}
+<img src="ch5_fr_metrologie_carbone.png"
+     alt="Infographie sur la métrologie du carbone stocké dans le biochar"
+     style="width:100%;height:auto;">
+<figcaption><strong>Figure 1 — Métrologie du carbone stocké dans le biochar.</strong> Mesurer, documenter et rendre comparable le carbone durablement stocké. © Eric Jacob 2026 — Atlas mondial du biochar — CC BY 4.0. <a href="ch5_fr_metrologie_carbone.png">Agrandir l’infographie</a></figcaption>
 </figure>
-```
 
-------------------------------------------------------------------------
+---
 
 ## Pourquoi mesurer ?
 
 Une métrologie rigoureuse permet :
 
--   d'améliorer la confiance ;
--   de sécuriser les crédits carbone ;
--   de comparer les procédés ;
--   de garantir la reproductibilité scientifique ;
--   de faciliter les échanges internationaux ;
--   de documenter ce qui est réellement stocké plutôt que de se limiter
-    à une déclaration de production.
+- d’améliorer la confiance ;
+- de comparer les biochars et les procédés ;
+- de garantir une meilleure reproductibilité scientifique ;
+- de faciliter les audits et les échanges internationaux ;
+- de documenter correctement les déclarations climatiques ;
+- de réduire les risques de double comptage.
 
-La qualité de la mesure devient ainsi une infrastructure invisible de la
-filière : **sans mesure fiable, pas de comparaison fiable ; sans
-comparaison fiable, la confiance, le financement et les marchés restent
-fragiles.**
-
-------------------------------------------------------------------------
-
-## Une chaîne métrologique complète
-
-La mesure du carbone ne commence pas dans l'analyseur du laboratoire.
-Elle commence avec l'identité du lot.
-
-``` text
-LOT DE BIOCHAR
-      ↓
-ÉCHANTILLONNAGE
-      ↓
-ANALYSES
-      ↓
-CARBONE MESURÉ
-      ↓
-STABILITÉ
-      ↓
-INCERTITUDE
-      ↓
-INDICATEUR DE STOCKAGE
-      ↓
-PASSEPORT NUMÉRIQUE
-```
-
-Chaque étape doit être documentée. Une excellente analyse effectuée sur
-un échantillon non représentatif peut produire une valeur précise mais
-non représentative du lot réel.
-
-------------------------------------------------------------------------
-
-## Le lot : point de départ de la preuve
-
-Avant toute mesure, il faut savoir ce qui est mesuré.
-
-Le dossier du lot devrait conserver au minimum :
-
--   l'origine de la biomasse ;
--   le procédé de conversion ;
--   la date de production ;
--   le site et, lorsque pertinent, l'unité de production ;
--   l'identifiant du lot ;
--   les conditions de stockage ;
--   les éventuels mélanges ou traitements postérieurs.
-
-Cette traçabilité amont permet de relier une valeur analytique à un
-objet physique identifiable.
-
-------------------------------------------------------------------------
-
-## L'échantillonnage
-
-Le biochar peut être hétérogène : granulométrie, humidité, teneur en
-cendres ou degré de carbonisation peuvent varier au sein d'un même lot.
-
-L'échantillonnage doit donc être :
-
--   représentatif ;
--   reproductible ;
--   documenté ;
--   adapté à la taille et à l'hétérogénéité du lot.
-
-Les référentiels et normes applicables doivent être utilisés lorsqu'ils
-existent et correspondent au contexte. Le protocole retenu doit être
-enregistré avec le résultat.
-
-------------------------------------------------------------------------
+---
 
 ## Les grandeurs principales
 
-Chaque lot peut notamment être caractérisé par :
+Chaque lot devrait préciser au minimum la base sur laquelle les résultats sont exprimés.
 
-  ------------------------------------------------------------------------
-  Paramètre                         Unité indicative Rôle
-  --------------------- ---------------------------- ---------------------
-  Masse humide                                    kg masse physique du lot
-                                                     avant correction
+| Paramètre | Unité / expression |
+|---|---|
+| Masse brute | kg ou t |
+| Humidité | % |
+| Masse sèche | kg ou t |
+| Cendres | % matière sèche |
+| Carbone total | % selon méthode |
+| Carbone organique | % selon méthode |
+| Carbone fixe | % selon méthode |
+| H/Corg | rapport atomique |
+| O/Corg | rapport atomique |
+| Carbone durable estimé | kg C ou t C |
+| Équivalent CO₂ | kg CO₂e ou t CO₂e |
 
-  Masse sèche                                     kg base de comparaison
-                                                     après correction de
-                                                     l'humidité
+**Une tonne de biochar n’est donc ni une tonne de carbone, ni une tonne de CO₂ retirée de l’atmosphère.**
 
-  Carbone total                                   \% quantité totale de
-                                                     carbone mesurée
+---
 
-  Carbone fixe                                    \% fraction carbonée
-                                                     issue de l'analyse
-                                                     immédiate
+## De la masse humide à la masse sèche
 
-  H/Corg                                         --- indicateur du degré
-                                                     de carbonisation
+Pour une masse brute $M_b$ et une fraction massique d’humidité $H$ :
 
-  O/Corg                                         --- indicateur
-                                                     complémentaire de
-                                                     structure et
-                                                     d'oxydation
+$M_s = M_b(1-H)$
 
-  Humidité                                        \% correction de masse
-                                                     et qualité du produit
+où $M_s$ est la masse sèche.
 
-  Cendres                                         \% fraction minérale du
-                                                     biochar
-  ------------------------------------------------------------------------
+Exemple : un lot de **1 000 kg** contenant 5 % d’humidité possède :
 
-Ces paramètres ne doivent pas être interprétés isolément. Ils forment un
-ensemble de preuves dont la pertinence dépend du biochar, de son procédé
-et de son usage.
+$M_s = 1000 \times (1-0,05) = 950\ \text{kg}$
 
-------------------------------------------------------------------------
+La base humide ou sèche doit toujours être indiquée afin d’éviter des comparaisons artificiellement faussées.
 
-## Carbone total et carbone fixe
+---
 
-Le **carbone total** mesure la quantité de carbone présente dans
-l'échantillon selon la méthode analytique retenue.
+## De la masse sèche au carbone
 
-Le **carbone fixe** correspond à une grandeur issue de l'analyse
-immédiate et caractérise la fraction solide carbonée restant après prise
-en compte des matières volatiles et des cendres selon le protocole
-utilisé.
+Si la fraction massique de carbone mesurée sur matière sèche vaut $f_C$ :
 
-Une teneur élevée en carbone fixe peut être cohérente avec un biochar
-fortement carbonisé, mais elle ne constitue pas, à elle seule, une
-preuve suffisante de permanence à très long terme.
+$M_C = M_s \times f_C$
 
-Il faut donc distinguer :
+Avec 950 kg de matière sèche et 89 % de carbone :
 
-``` text
-CARBONE PRÉSENT
-      ≠
-CARBONE DÉMONTRÉ COMME DURABLEMENT STOCKÉ
-```
+$M_C = 950 \times 0,89 = 845,5\ \text{kg C}$
 
-------------------------------------------------------------------------
+Cette quantité décrit le carbone correspondant au lot selon l’analyse utilisée. Elle ne constitue pas encore, à elle seule, un retrait atmosphérique durable certifié.
+
+---
+
+## Carbone et équivalent CO₂
+
+La conversion stœchiométrique entre carbone et dioxyde de carbone repose sur les masses molaires :
+
+$M_{CO_2} = M_C \times \frac{44}{12}$
+
+Ainsi :
+
+$1\ \text{kg C} \approx 3,667\ \text{kg CO}_2$
+
+Dans l’exemple précédent :
+
+$845,5 \times \frac{44}{12} \approx 3\,100\ \text{kg CO}_2$
+
+soit environ **3,10 t CO₂**.
+
+Cette valeur est l’équivalent stœchiométrique du carbone contenu dans le lot. Elle ne signifie pas automatiquement que 3,10 t CO₂ peuvent être émises sous forme de crédits ou certificats : il faut encore considérer stabilité, permanence, périmètre, émissions de la chaîne, incertitudes et règles du référentiel.
+
+---
+
+## Le carbone fixe
+
+Le **carbone fixe** est une grandeur de caractérisation issue de l’analyse immédiate. Il ne doit pas être assimilé directement à la fraction de carbone garantie comme stable pendant une durée donnée.
+
+Une valeur élevée peut accompagner un matériau fortement carbonisé, mais :
+
+> **le carbone fixe ne constitue pas, à lui seul, une preuve de permanence.**
+
+Cette distinction est importante pour éviter de transformer une propriété analytique en durée de stockage non démontrée.
+
+---
 
 ## Les rapports atomiques
 
-Les rapports **H/Corg** et **O/Corg** sont largement utilisés pour
-caractériser le degré de carbonisation et la structure chimique du
-biochar.
+Les rapports **H/Corg** et, selon les méthodes et objectifs, **O/Corg** renseignent sur le degré de carbonisation et la structure chimique du matériau.
 
-Une diminution de ces rapports est généralement associée à une structure
-plus aromatique et plus résistante à la dégradation.
+Une diminution de H/Corg est généralement associée à une aromaticité plus importante et à une résistance accrue à la dégradation.
 
-Ils constituent des indicateurs utiles, mais leur interprétation doit
-rester liée au référentiel analytique et aux autres caractéristiques du
-produit.
+Cependant, un indicateur chimique ne doit pas être transformé abusivement en durée exacte de permanence sans méthode ou modèle explicitement défini.
 
-------------------------------------------------------------------------
+---
 
-## La stabilité : passer de la quantité à la durée
+## La chaîne métrologique
 
-La question climatique n'est pas seulement :
+Une estimation robuste du carbone durable doit rester reconstructible :
 
-> Combien de carbone contient cette tonne de biochar ?
-
-Elle est aussi :
-
-> **Quelle fraction de ce carbone peut raisonnablement être considérée
-> comme durablement stockée ?**
-
-La stabilité peut être appréciée à partir de plusieurs informations :
-
--   caractéristiques chimiques ;
--   rapports atomiques ;
--   conditions de production ;
--   méthodes reconnues d'évaluation de la permanence ;
--   référentiels de certification ;
--   données expérimentales disponibles.
-
-Aucun indicateur unique ne doit être présenté comme une preuve
-universelle indépendante du contexte.
-
-------------------------------------------------------------------------
-
-## Une proposition : le Carbone Certifié Stocké dans le Biochar --- CCS-B
-
-L'auteur propose d'étudier une grandeur complémentaire :
-
-**CCS-B --- Carbone Certifié Stocké dans le Biochar**
-
-Cette grandeur prospective représenterait :
-
-> **la masse de carbone dont le stockage durable est démontré par les
-> analyses, le procédé de fabrication et les critères du référentiel
-> retenu.**
-
-Le CCS-B est une **proposition prospective d'Eric Jacob** destinée à
-rapprocher métrologie, permanence, certification et traçabilité.
-
-**Il ne constitue pas une norme existante.**
-
-Son intérêt conceptuel serait d'éviter qu'une tonne de biochar, une
-tonne de carbone physique et une tonne de carbone durablement stocké
-soient traitées comme des grandeurs équivalentes.
-
-------------------------------------------------------------------------
-
-## Exemple de calcul physique
-
-Considérons un lot de :
-
-``` text
-1 000 kg de biochar
+```text
+LOT DE BIOCHAR
+      ↓
+PLAN D'ÉCHANTILLONNAGE
+      ↓
+PRÉLÈVEMENTS
+      ↓
+PRÉPARATION
+      ↓
+ANALYSES
+      ↓
+MASSE SÈCHE + CARBONE + CENDRES + INDICATEURS DE STABILITÉ
+      ↓
+INCERTITUDES
+      ↓
+MODÈLE / RÉFÉRENTIEL
+      ↓
+CARBONE DURABLE ESTIMÉ
+      ↓
+CONVERSION EN CO₂e
+      ↓
+MRV / AUDIT / CERTIFICATION ÉVENTUELLE
 ```
 
-avec :
+La qualité du résultat final dépend de toute la chaîne, pas seulement de la précision de l’appareil de laboratoire.
 
-  Paramètre         Valeur
-  --------------- --------
-  Humidité             5 %
-  Masse sèche       950 kg
-  Carbone total       89 %
-  Carbone fixe        83 %
+---
 
-La masse totale de carbone sur base sèche est alors :
+## L’échantillonnage
 
-``` text
-950 × 0,89 = 845,5 kg de carbone
-```
+Une analyse extrêmement précise peut décrire imparfaitement un lot si l’échantillon n’est pas représentatif.
 
-soit environ :
+Il faut documenter notamment :
 
-``` text
-846 kg de carbone physique
-```
+- la taille du lot ;
+- le nombre de prélèvements ;
+- leur méthode et leur localisation ;
+- l’homogénéisation ;
+- la réduction de l’échantillon ;
+- les conditions de stockage ;
+- la date du prélèvement.
 
-Cette valeur n'est pas automatiquement une quantité de carbone certifiée
-comme durablement stockée.
+L’incertitude d’échantillonnage peut être différente de l’incertitude analytique et parfois la dominer.
 
-Après application d'une méthode reconnue d'évaluation de la stabilité et
-des règles du référentiel choisi, un indicateur tel que le CCS-B
-pourrait exprimer séparément la quantité considérée comme durablement
-stockée.
+---
 
-Le calcul précis dépendrait du référentiel retenu et ne fait pas
-aujourd'hui l'objet d'une norme internationale unique.
-
-------------------------------------------------------------------------
-
-## L'incertitude fait partie du résultat
+## Les incertitudes
 
 Toute mesure comporte une incertitude.
 
 Elle peut provenir :
 
--   de l'échantillonnage ;
--   de l'hétérogénéité du lot ;
--   de la préparation de l'échantillon ;
--   des instruments ;
--   des étalonnages ;
--   des méthodes analytiques ;
--   des conversions et calculs.
+- de la pesée ;
+- de la détermination de l’humidité ;
+- de l’hétérogénéité du lot ;
+- de l’échantillonnage ;
+- de la préparation ;
+- des méthodes analytiques ;
+- des instruments ;
+- du modèle de stabilité ;
+- des facteurs utilisés dans les calculs.
 
-Une valeur sans information sur sa méthode et son incertitude est moins
-utile pour comparer deux lots, deux laboratoires ou deux pays.
+Lorsque plusieurs grandeurs interviennent dans un résultat calculé, les incertitudes doivent être propagées selon une méthode adaptée.
 
-L'objectif n'est donc pas de supprimer toute incertitude, mais de **la
-quantifier, la documenter et la rendre visible**.
+Une valeur isolée est moins informative qu’une valeur accompagnée de sa méthode, de sa base de calcul, de sa date et de son incertitude.
 
-------------------------------------------------------------------------
+---
 
-## Laboratoires et comparabilité
+## Mesuré, calculé, estimé, vérifié, certifié
 
-La comparabilité mondiale suppose que les résultats puissent être reliés
-à :
+Le vocabulaire doit empêcher les glissements de sens :
 
--   un laboratoire identifiable ;
--   une méthode ;
--   un instrument ou une famille d'instruments ;
--   un protocole ;
--   une date ;
--   une version du référentiel ;
--   des procédures de contrôle qualité.
+```text
+MESURÉ
+→ obtenu par une opération métrologique
 
-Lorsque plusieurs méthodes sont admises, la méthode utilisée doit rester
-attachée à la donnée.
+CALCULÉ
+→ dérivé mathématiquement de mesures
 
-La métrologie mondiale ne signifie pas nécessairement qu'un seul
-protocole doit exister partout. Elle signifie que les différences de
-protocole doivent être suffisamment documentées pour que les résultats
-puissent être interprétés correctement.
+ESTIMÉ
+→ dépend d'un modèle ou d'hypothèses
 
-------------------------------------------------------------------------
+VÉRIFIÉ
+→ contrôlé selon une procédure définie
+
+CERTIFIÉ
+→ reconnu selon un référentiel déterminé
+```
+
+Cette distinction rejoint celle utilisée dans l’[Observatoire mondial](ch5_fr_observatoire_mondial.md).
+
+---
+
+## Du carbone physique au retrait net
+
+Le carbone contenu dans le biochar n’est qu’une partie du bilan climatique.
+
+Selon le référentiel et le périmètre retenus, le retrait net peut devoir intégrer :
+
+```text
+CARBONE DURABLE DANS LE BIOCHAR
+− COLLECTE ET PRÉTRAITEMENT
+− TRANSPORT DE LA BIOMASSE
+− ÉMISSIONS DU PROCÉDÉ
+− CONDITIONNEMENT
+− TRANSPORT DU BIOCHAR
+− MISE EN ŒUVRE
+± EFFETS ADMISSIBLES DU SYSTÈME
+= RETRAIT NET SELON LE RÉFÉRENTIEL
+```
+
+Les frontières du système doivent donc être explicites.
+
+Cette métrologie est directement liée à l’[Analyse du cycle de vie](ch4_fr_analyse_cycle_vie.md).
+
+---
+
+## Émissions évitées : ne pas les supposer
+
+La thermolyse peut produire de la chaleur, du gaz ou d’autres coproduits susceptibles de remplacer d’autres sources d’énergie ou de matière.
+
+Une émission dite « évitée » ne doit cependant être comptabilisée que si le scénario de référence et la substitution sont démontrables selon la méthode retenue.
+
+Un même bénéfice ne doit pas être attribué plusieurs fois à plusieurs produits ou acteurs.
+
+---
+
+## Le risque de double comptage
+
+Une même quantité de carbone ne doit pas devenir simultanément :
+
+- un retrait vendu par le producteur ;
+- un retrait revendiqué une seconde fois par l’acheteur ;
+- un crédit attribué à un intermédiaire ;
+- une réduction réutilisée dans une comptabilité incompatible.
+
+Le [Passeport numérique du biochar](ch5_fr_passeport_biochar.md) peut contribuer à conserver l’identité du lot, son historique et les statuts associés.
+
+---
+
+## MRV : mesure, déclaration et vérification
+
+Une architecture de **MRV — Measurement, Reporting and Verification** peut relier la matière physique aux déclarations climatiques :
+
+1. identifier le lot ;
+2. mesurer sa masse ;
+3. déterminer son humidité ;
+4. caractériser sa composition ;
+5. déterminer ou estimer sa stabilité selon le référentiel ;
+6. documenter le procédé et le périmètre ;
+7. calculer le bilan ;
+8. enregistrer les données ;
+9. faire vérifier le résultat lorsque nécessaire ;
+10. suivre les droits associés afin d’éviter les doubles revendications.
+
+Le MRV ne remplace pas la mesure : **il organise la preuve**.
+
+---
 
 ## Métrologie numérique
 
-Chaque analyse peut être reliée au **[Passeport numérique du
-biochar](ch5_fr_passeport_biochar.md)**.
+Chaque résultat analytique pourrait être enregistré dans le passeport numérique avec :
 
-Le passeport peut conserver :
+- identifiant du lot ;
+- date ;
+- laboratoire ;
+- méthode ;
+- version du protocole ;
+- unité ;
+- base humide ou sèche ;
+- résultat ;
+- incertitude ;
+- statut de vérification.
 
--   la date ;
--   le laboratoire ;
--   la méthode ;
--   l'appareil ou la chaîne analytique ;
--   la version du protocole ;
--   le résultat ;
--   l'incertitude ;
--   l'identité du lot ;
--   les documents de preuve.
+La traçabilité scientifique et commerciale s’en trouverait renforcée.
 
-La donnée devient ainsi **traçable, partageable et auditable** sans
-perdre son contexte scientifique.
+---
 
-------------------------------------------------------------------------
+## Proposition de l’Atlas : CCS-B
 
-## Du laboratoire au jumeau numérique
+L’Atlas propose comme piste de réflexion une grandeur complémentaire :
 
-Les données métrologiques constituent une entrée essentielle du
-**[Jumeau numérique de la filière](ch5_fr_jumeau_numerique.md)**.
+> **CCS-B — Carbone Certifié Stocké dans le Biochar**
 
-``` text
-MESURES DE LABORATOIRE
-        +
-DONNÉES DU PROCÉDÉ
-        +
-PASSEPORT DU LOT
-        ↓
-JUMEAU NUMÉRIQUE
-        ↓
-COMPARAISON
-SIMULATION
-DÉTECTION DES DÉRIVES
-AMÉLIORATION CONTINUE
-```
+Elle représenterait une quantité de carbone dont le stockage durable serait documenté à partir de mesures, d’un critère ou modèle de stabilité explicite, d’un périmètre défini, d’une traçabilité et, lorsque nécessaire, d’une vérification indépendante.
 
-Le modèle numérique ne doit jamais transformer une estimation en mesure.
-La provenance et le statut de chaque donnée doivent rester visibles.
+**CCS-B n’est pas une norme internationale existante.**
 
-------------------------------------------------------------------------
+Sa fonction conceptuelle est de rappeler la chaîne :
 
-## Vers l'Observatoire mondial
-
-À une échelle supérieure, les données agrégées peuvent alimenter
-l'**[Observatoire mondial du biochar](ch5_fr_observatoire_mondial.md)**.
-
-L'Observatoire peut alors distinguer :
-
-``` text
-CARBONE PHYSIQUE MESURÉ
-CARBONE STABLE ESTIMÉ
+```text
+MASSE DE BIOCHAR
+≠
+MASSE DE CARBONE
+≠
+CARBONE STABLE
+≠
+RETRAIT NET
+≠
 RETRAIT CERTIFIÉ
-CRÉDIT ÉMIS
-CRÉDIT VENDU
-CRÉDIT RETIRÉ
 ```
 
-Cette séparation contribue à limiter les confusions et les doubles
-comptages.
+---
 
-------------------------------------------------------------------------
+## Exemple conceptuel complet
+
+| Paramètre | Valeur |
+|---|---:|
+| Masse brute | 1 000 kg |
+| Humidité | 5 % |
+| Masse sèche | 950 kg |
+| Carbone sur matière sèche | 89 % |
+| Carbone calculé | 845,5 kg C |
+| Équivalent stœchiométrique | ≈ 3,10 t CO₂ |
+
+Supposons ensuite, **uniquement à titre pédagogique**, qu’un référentiel attribue un facteur de carbone durable $f_s$.
+
+$M_{C,durable} = M_C \times f_s$
+
+puis :
+
+$M_{CO_2,durable} = M_{C,durable} \times \frac{44}{12}$
+
+Il faudrait encore appliquer les règles du référentiel relatives au périmètre, aux émissions de la chaîne, aux incertitudes, à la permanence et à la vérification avant de parler de retrait net certifié.
+
+Cet exemple illustre une chaîne de calcul ; il ne définit pas un nouveau standard.
+
+---
 
 ## Comparabilité mondiale
 
 Une métrologie harmonisée permettrait :
 
--   de comparer les producteurs ;
--   de comparer les technologies ;
--   de comparer les biomasses ;
--   d'améliorer les études scientifiques ;
--   de construire des historiques ;
--   d'identifier les dérives ;
--   de rendre les marchés plus transparents.
+- de comparer les producteurs ;
+- de comparer les technologies ;
+- de comparer les biomasses ;
+- d’améliorer les études scientifiques ;
+- de faciliter les audits ;
+- de rendre les marchés plus transparents.
 
-La comparabilité n'exige pas de prétendre que tous les biochars sont
-identiques. Au contraire, elle permet de rendre leurs différences
-mesurables.
+Harmoniser ne signifie toutefois pas masquer les différences : chaque résultat doit rester relié à sa méthode d’origine.
 
-------------------------------------------------------------------------
+---
 
-## Les bénéfices économiques
+## Essais interlaboratoires
 
-Une chaîne de mesure robuste peut :
+La comparabilité mondiale suppose aussi de vérifier que plusieurs laboratoires obtiennent des résultats compatibles sur des matériaux comparables.
 
--   renforcer la crédibilité des crédits carbone ;
--   faciliter les audits ;
--   réduire les litiges ;
--   améliorer l'évaluation des investissements ;
--   faciliter les contrats de long terme ;
--   soutenir une meilleure segmentation des prix selon la qualité
-    réelle.
+Des essais interlaboratoires peuvent quantifier :
 
-La métrologie n'est donc pas seulement un coût de laboratoire. Elle
-participe à la création de valeur en réduisant l'incertitude entre
-vendeur, acheteur, financeur, certificateur et utilisateur.
+- répétabilité ;
+- reproductibilité ;
+- biais ;
+- dispersion ;
+- effets de préparation ;
+- différences instrumentales.
 
-------------------------------------------------------------------------
+Cette démarche rejoint le programme de [Recherche mondiale](ch5_fr_recherche_mondiale.md).
 
-## De la mesure à la planète vivante
+---
 
-La métrologie peut sembler abstraite face à un sol, une forêt ou une
-rivière. Pourtant, elle répond à une exigence très concrète : **prouver
-que les bénéfices annoncés correspondent à des réalités mesurées.**
+## Automatisation : utile mais auditable
 
-Une filière crédible doit pouvoir relier progressivement :
+À terme, balances, capteurs industriels, laboratoires, passeports numériques et systèmes d’aide à la décision peuvent automatiser une partie de la chaîne.
 
-``` text
-MESURE FIABLE
-     ↓
-CONFIANCE
-     ↓
-INVESTISSEMENT
-     ↓
-BIOCHAR DE QUALITÉ
-     ↓
-USAGES ADAPTÉS
-     ↓
-CARBONE DURABLE
-SOLS PLUS RÉSILIENTS
-EAU MIEUX GÉRÉE
-BIODIVERSITÉ PROTÉGÉE
+L’automatisation ne doit pas produire une boîte noire.
+
+Il faut pouvoir reconstruire :
+
+```text
+DONNÉE SOURCE
+→ MÉTHODE
+→ VERSION
+→ CALCUL
+→ INCERTITUDE
+→ RÉSULTAT
 ```
 
-Le but final n'est pas de produire davantage de chiffres. Il est de
-mieux décider afin que la technologie serve des paysages vivants, des
-sols fertiles et une planète habitable.
+---
 
-------------------------------------------------------------------------
+## Les bénéfices
 
-## Perspectives
+Une métrologie rigoureuse protège simultanément :
 
-À long terme, une partie de la métrologie pourrait devenir largement
-automatisée :
+- **le climat**, en évitant de comptabiliser un carbone qui n’est pas réellement durable ;
+- **l’acheteur**, en donnant une quantité documentée ;
+- **le producteur sérieux**, en distinguant les produits correctement caractérisés ;
+- **le marché**, en réduisant les doubles comptes et les comparaisons trompeuses ;
+- **la recherche**, en améliorant reproductibilité et comparabilité.
 
--   prélèvements mieux instrumentés ;
--   capteurs de procédé ;
--   analyses rapides ;
--   contrôles croisés ;
--   transmission automatique vers les passeports ;
--   détection statistique des anomalies.
+---
 
-Mais l'automatisation ne supprime pas le besoin de validation
-scientifique indépendante.
+## Conclusion
 
-Plus le système devient numérique, plus il est important de conserver la
-chaîne de preuve reliant le nombre affiché au lot physique et à la
-méthode utilisée.
+Le développement du biochar ne dépendra pas uniquement des progrès des procédés de thermolyse.
 
-------------------------------------------------------------------------
+Il dépendra également de la capacité des acteurs à **mesurer, documenter, comparer et vérifier** la quantité de carbone durablement stockée.
 
-## À retenir
+> **On ne certifie pas une couleur noire ni une tonne de matière : on documente une chaîne de mesure, de stabilité, de calcul et de preuve.**
 
-> **Mesurer le carbone ne consiste pas seulement à compter ce qui est
-> présent aujourd'hui : il faut documenter ce qui peut être considéré
-> comme durablement stocké demain.**
+Le concept de **CCS-B** est proposé comme piste de réflexion et non comme norme existante. Il cherche à rapprocher les exigences de la recherche, de l’industrie et des marchés du carbone tout en conservant une distinction nette entre mesure physique, estimation de permanence et certification.
 
-La métrologie constitue le lien entre laboratoire, industrie, marchés du
-carbone et confiance publique.
+---
 
-Le concept de **CCS-B** est proposé comme une piste de réflexion pour
-rendre cette distinction plus lisible. Il ne remplace pas les méthodes
-et certifications existantes.
+## Figure et documents associés
 
-Une filière biochar ambitieuse doit associer **rigueur de la preuve et
-ambition écologique** : mesurer avec précision pour pouvoir restaurer,
-protéger et transmettre une planète vivante.
+- [Infographie — Métrologie carbone](ch5_fr_metrologie_carbone.png)
+- [Passeport numérique](ch5_fr_passeport_biochar.md)
+- [Analyse du cycle de vie](ch4_fr_analyse_cycle_vie.md)
+- [Observatoire mondial](ch5_fr_observatoire_mondial.md)
+- [Recherche mondiale](ch5_fr_recherche_mondiale.md)
 
-------------------------------------------------------------------------
+---
 
-## Continuer la lecture
+**[← Guide de l’acheteur](ch5_fr_guide_acheteur.md) · [↑ Sommaire de l’Atlas](README.md) · [Jumeau numérique →](ch5_fr_jumeau_numerique.md)**
 
-**[← Guide de l'acheteur](ch5_fr_guide_acheteur.md) · [↑ Sommaire de
-l'Atlas](README.md) · [Jumeau numérique →](ch5_fr_jumeau_numerique.md)**
+---
 
-À consulter également : [Passeport
-numérique](ch5_fr_passeport_biochar.md) · [Indice de
-qualité](ch5_fr_indice_qualite.md) · [Observatoire
-mondial](ch5_fr_observatoire_mondial.md) · [Analyse du cycle de
-vie](ch4_fr_analyse_cycle_vie.md) ·
-[Certifications](ch4_fr_certifications.md)
-
-------------------------------------------------------------------------
-
-*Atlas mondial de la valorisation économique du biochar --- Eric Jacob
---- Version 1.1 --- 2026*\
+*Atlas mondial de la valorisation économique du biochar — Eric Jacob — Version 1.2 — 2026*  
 *Licence : Creative Commons CC BY 4.0*
