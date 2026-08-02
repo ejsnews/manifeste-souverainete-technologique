@@ -2,12 +2,16 @@
 layout: default
 lang: fr
 author: Eric Jacob
+license: Creative Commons CC BY 4.0
 title: "Chapitre 5 - Vers le biochar idéal"
 ---
 
 # Chapitre 5 — Vers le biochar idéal
 
-> Version 1.0 — Juillet 2026
+> **Atlas mondial de la valorisation économique du biochar — Volume 1**
+> Version 1.2 — Août 2026 · Auteur : Eric Jacob
+
+**[← Chapitre 4 — Filtration](ch4_fr_filtration.md) · [↑ Sommaire de l’Atlas](README.md) · [Datacenters IA + biochar →](ch5_fr_datacenters.md)**
 
 ---
 
@@ -22,6 +26,11 @@ En revanche, il est possible d'imaginer un **biochar de référence**, optimisé
 Ce chapitre propose un cahier des charges technique destiné à orienter la recherche et le développement.
 
 L'objectif n'est pas de décrire un produit existant, mais de définir une cible technologique.
+
+
+![Vers le biochar idéal : propriétés, usages et biochar de référence](ch5_fr_biochar_ideal.png)
+
+**Figure 1 — Vers le biochar idéal : propriétés, usages et biochar de référence.** © Eric Jacob 2026 — Atlas mondial du biochar — CC BY 4.0.
 
 ---
 
@@ -102,7 +111,7 @@ Objectifs :
 - réduction de l'empreinte carbone des matériaux ;
 - amélioration de certaines propriétés fonctionnelles.
 
-Des travaux récents montrent que l'incorporation maîtrisée de biochar peut améliorer certaines propriétés des matériaux cimentaires tout en contribuant au stockage du carbone, sous réserve d'une formulation adaptée. :contentReference[oaicite:0]{index=0}
+Des travaux récents montrent que l'incorporation maîtrisée de biochar peut améliorer certaines propriétés des matériaux cimentaires tout en contribuant au stockage du carbone, sous réserve d'une formulation adaptée.
 
 ---
 
@@ -215,3 +224,14 @@ L'objectif de cet atlas est de contribuer à cette démarche en proposant un lan
 - ch5_fr_evolution_familles.svg
 - ch5_fr_objectifs.svg
 - ch5_fr_cahier_des_charges.svg
+
+---
+
+## Continuer la lecture
+
+**[← Chapitre 4 — Filtration](ch4_fr_filtration.md) · [↑ Sommaire de l’Atlas](README.md) · [Datacenters IA + biochar →](ch5_fr_datacenters.md)**
+
+---
+
+*Atlas mondial de la valorisation économique du biochar — Eric Jacob — Version 1.2 — Août 2026*  
+*Licence : Creative Commons CC BY 4.0*

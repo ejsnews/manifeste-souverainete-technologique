@@ -2,12 +2,16 @@
 layout: default
 lang: fr
 author: Eric Jacob
+license: Creative Commons CC BY 4.0
 title: "Chapitre 5 - L'Indice Universel de Qualité du Biochar (IUQB)"
 ---
 
 # Chapitre 5 — L'Indice Universel de Qualité du Biochar (IUQB)
 
-> Version 1.0 — Juillet 2026
+> **Atlas mondial de la valorisation économique du biochar — Volume 1**
+> Version 1.2 — Août 2026 · Auteur : Eric Jacob
+
+**[← Passeport numérique](ch5_fr_passeport_biochar.md) · [↑ Sommaire de l’Atlas](README.md) · [Bourse du biochar →](ch5_fr_bourse_biochar.md)**
 
 ---
 
@@ -28,6 +32,11 @@ Mais aucun indice synthétique ne permet de répondre immédiatement à une ques
 Ce chapitre propose un concept prospectif : **l'Indice Universel de Qualité du Biochar (IUQB)**.
 
 Il ne constitue pas une norme officielle, mais une méthode de notation ouverte destinée à faciliter la comparaison entre biochars.
+
+
+![Indice universel de qualité du biochar : critères, notation et comparaison](ch5_fr_indice_qualite.png)
+
+**Figure 1 — Indice universel de qualité du biochar : critères, notation et comparaison.** © Eric Jacob 2026 — Atlas mondial du biochar — CC BY 4.0.
 
 ---
 
@@ -112,7 +121,7 @@ Un biochar bénéficierait d'une meilleure notation s'il dispose :
 - d'analyses indépendantes ;
 - d'un historique documentaire.
 
-Les futurs passeports numériques de produits (Digital Product Passports) pourraient fournir une partie de ces informations de manière standardisée. :contentReference[oaicite:0]{index=0}
+Les futurs passeports numériques de produits (Digital Product Passports) pourraient fournir une partie de ces informations de manière standardisée.
 
 ---
 
@@ -219,7 +228,7 @@ L'indice ne remplace donc ni les essais en laboratoire ni les essais applicatifs
 - des certificats de conformité ;
 - des données de production.
 
-Cette automatisation serait cohérente avec l'évolution des **Digital Product Passports**, qui visent à structurer et partager des données techniques tout au long du cycle de vie des produits. :contentReference[oaicite:1]{index=1}
+Cette automatisation serait cohérente avec l'évolution des **Digital Product Passports**, qui visent à structurer et partager des données techniques tout au long du cycle de vie des produits.
 
 ---
 
@@ -240,3 +249,14 @@ Son objectif est de fournir un langage simple, reproductible et compréhensible 
 - ch5_fr_calcul_indice.svg
 - ch5_fr_classes.svg
 - ch5_fr_comparaison.svg
+
+---
+
+## Continuer la lecture
+
+**[← Passeport numérique](ch5_fr_passeport_biochar.md) · [↑ Sommaire de l’Atlas](README.md) · [Bourse du biochar →](ch5_fr_bourse_biochar.md)**
+
+---
+
+*Atlas mondial de la valorisation économique du biochar — Eric Jacob — Version 1.2 — Août 2026*  
+*Licence : Creative Commons CC BY 4.0*

@@ -2,14 +2,19 @@
 layout: default
 lang: fr
 author: Eric Jacob
-title: "Atlas mondial de la valorisation économique du Biochar — Chapitre 1"
-description: "Le biochar : un matériau stratégique du XXIe siècle"
+title: "Chapitre 5 — Perspectives industrielles : vers une nouvelle économie du carbone"
+description: "Perspectives industrielles, économie circulaire, énergie, biochar et carbone"
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 texte : © Eric Jacob — Licence CC BY 4.0.
 illustrations : réalisées avec l'assistance d'une IA générative, puis sélectionnées et intégrées par l'auteur. Sauf mention contraire, elles sont diffusées dans le cadre du projet sous la même licence.
 ---
 
 # Chapitre 5 — Perspectives industrielles : vers une nouvelle économie du carbone
+
+> **Atlas mondial de la valorisation économique du biochar — Volume 1**  
+> Version 1.2 — Août 2026 · Auteur : Eric Jacob
+
+**[← Chapitre 4 — Filtration](ch4_fr_filtration.md) · [↑ Sommaire de l’Atlas](README.md) · [Biochar idéal →](ch5_fr_biochar_ideal.md)**
 
 > **Le biochar pourrait devenir l'un des matériaux stratégiques de la transition industrielle en associant stockage durable du carbone, économie circulaire et production d'énergie renouvelable.**
 
@@ -161,4 +166,15 @@ Dans ce contexte, le biochar pourrait devenir l'un des piliers d'une économie c
 ---
 
 > **« Le carbone n'est pas uniquement un déchet à éliminer. Lorsqu'il est stabilisé, certifié et valorisé intelligemment, il devient une ressource stratégique au service de la transition industrielle. »**
-> 
+>
+
+---
+
+## Continuer la lecture
+
+**[← Chapitre 4 — Filtration](ch4_fr_filtration.md) · [↑ Sommaire de l’Atlas](README.md) · [Biochar idéal →](ch5_fr_biochar_ideal.md)**
+
+---
+
+*Atlas mondial de la valorisation économique du biochar — Eric Jacob — Version 1.2 — Août 2026*  
+*Licence : Creative Commons CC BY 4.0*
