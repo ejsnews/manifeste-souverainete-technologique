@@ -2,252 +2,410 @@
 layout: default
 lang: fr
 author: Eric Jacob
-title: "Chapitre 5 - Proposition de Consortium Mondial du Biochar"
+title: "Chapitre 5.7 — Consortium mondial du biochar"
+license: Creative Commons CC BY 4.0
 ---
 
-# Chapitre 5 — Proposition de Consortium Mondial du Biochar (Global Biochar Consortium)
+# Chapitre 5.7 — Consortium mondial du biochar
 
-> Version 1.0 — Juillet 2026
+> **Atlas mondial de la valorisation économique du biochar — Volume 1**  
+> Version 1.2 — Août 2026 · Auteur : Eric Jacob
 
----
-
-# Introduction
-
-Le biochar connaît une expansion rapide dans les domaines de l'agriculture, des matériaux, de la filtration, de la production d'énergie et des solutions de retrait du carbone.
-
-Cette croissance s'accompagne cependant d'une fragmentation :
-
-- méthodes d'analyse différentes ;
-- certifications multiples ;
-- référentiels hétérogènes ;
-- absence de langage commun ;
-- marchés encore peu transparents.
-
-Ce chapitre propose la création d'un **Consortium Mondial du Biochar (Global Biochar Consortium – GBC)**.
-
-Cette proposition est prospective et ne correspond à aucune organisation existante.
+**[← Indice mondial des prix](ch5_fr_indice_prix_mondial.md) · [↑ Sommaire de l’Atlas](README.md) · [Observatoire mondial →](ch5_fr_observatoire_mondial.md)**
 
 ---
 
-# Pourquoi un consortium ?
+## Une gouvernance commune pour une ressource mondiale
 
-L'objectif n'est pas de remplacer les organismes existants.
+Le biochar concerne simultanément l'agriculture, l'eau, les matériaux, l'énergie, la gestion des biomasses, le carbone, la restauration des sols et l'aménagement des territoires. Une filière aussi transversale ne devrait être gouvernée exclusivement ni par un producteur, ni par une place de marché, ni par un organisme de certification, ni par un État.
 
-Au contraire, le consortium aurait vocation à créer un espace de coopération entre :
+L'Atlas propose donc le concept d'un **Consortium mondial du biochar (CMB)** : une structure ouverte, indépendante et multi-acteurs capable d'administrer des standards communs sans s'approprier le marché.
 
-- producteurs ;
-- chercheurs ;
-- industriels ;
-- laboratoires ;
-- organismes certificateurs ;
-- investisseurs ;
-- pouvoirs publics.
+> **Le Consortium ne vend pas la vérité : il organise les conditions permettant de la vérifier.**
 
----
-
-# Les missions
-
-Le consortium pourrait coordonner :
-
-- les nomenclatures techniques ;
-- les classifications ;
-- les méthodes de comparaison ;
-- les bases de données ouvertes ;
-- les recommandations scientifiques.
-
-Il n'aurait pas de pouvoir réglementaire.
+<figure>
+<img src="ch5_fr_consortium_mondial.png" alt="Consortium mondial du biochar : gouvernance multi-acteurs, standards ouverts, financement, transparence et feuille de route" style="width:100%;height:auto;">
+<figcaption><strong>Figure 1 — Consortium mondial du biochar : gouverner ensemble un standard ouvert, crédible et équitable.</strong> Cette organisation est une proposition institutionnelle de l'Atlas et ne représente pas une organisation internationale actuellement constituée. © Eric Jacob 2026 — Atlas mondial du biochar — CC BY 4.0. <a href="ch5_fr_consortium_mondial.png">Agrandir l’infographie</a></figcaption>
+</figure>
 
 ---
 
-# Les groupes de travail
+## Pourquoi un consortium ?
 
-Le consortium pourrait être organisé en plusieurs commissions.
+Les chapitres précédents ont construit plusieurs briques :
 
-| Commission | Domaine |
-|------------|----------|
-| GT1 | Biomasses |
-| GT2 | Thermolyse |
-| GT3 | Caractérisation |
-| GT4 | Construction |
-| GT5 | Agriculture |
-| GT6 | Filtration |
-| GT7 | Industrie |
-| GT8 | Marchés |
-| GT9 | Crédits carbone |
-| GT10 | Données numériques |
+```text
+PASSEPORT NUMÉRIQUE
+       ↓
+INDICE DE QUALITÉ
+       ↓
+BOURSE DU BIOCHAR
+       ↓
+INDICE MONDIAL DES PRIX
+```
 
----
+Ces outils deviennent dangereux s'ils sont contrôlés par un seul acteur. Celui qui définit la qualité pourrait favoriser ses propres produits ; celui qui gère la Bourse certains participants ; celui qui calcule l'indice des prix pourrait sélectionner les transactions qui l'arrangent.
 
-# Une architecture ouverte
+Le Consortium constitue donc une **couche de gouvernance séparée des intérêts commerciaux particuliers**.
 
-Le consortium pourrait publier :
+## Ce que le Consortium n'est pas
 
-- des guides ;
-- des recommandations ;
-- des jeux de données ;
-- des modèles de calcul ;
-- des référentiels techniques.
+Il ne devrait être ni producteur, ni négociant dominant, ni registre carbone exclusif, ni certificateur unique, ni lobby industriel, ni propriétaire fermé des données. Son rôle est celui d'une **infrastructure de standardisation et de confiance**.
 
-L'ensemble des publications pourrait être placé sous une licence ouverte afin de favoriser la diffusion des connaissances.
+## Principes fondateurs
 
----
+**Intégrité.** Une donnée publiée comme vérifiée doit pouvoir être reliée à une preuve.
 
-# Les quatre piliers
+**Neutralité.** Les règles ne favorisent ni technologie, ni entreprise, ni pays sans justification scientifique.
 
-Le consortium pourrait s'appuyer sur quatre outils complémentaires.
+**Ouverture.** Formats, définitions et méthodes fondamentales sont publics.
 
-## 1. PNUB
+**Interopérabilité.** Un producteur ne doit pas être prisonnier d'une plateforme.
 
-Passeport Numérique Universel du Biochar.
+**Subsidiarité.** Le niveau mondial définit ce qui doit être commun ; les territoires conservent ce qui doit rester local.
 
-Identification de chaque lot.
+**Proportionnalité.** Une petite unité ne doit pas supporter la même bureaucratie qu'une installation industrielle majeure.
+
+**Durabilité.** La qualité technique ne doit jamais masquer une biomasse ou une chaîne d'approvisionnement destructrice.
 
 ---
 
-## 2. IUQB
+## Qui participe ?
 
-Indice Universel de Qualité.
+Le Consortium peut réunir sept collèges :
 
-Comparaison technique.
+- **Producteurs et opérateurs** : procédés, biomasses, contraintes industrielles et mise à l'échelle.
+- **Utilisateurs** : agriculture, forêt, eau, matériaux, collectivités, industrie et énergie.
+- **Science et laboratoires** : méthodes, mesures, recherche et reproductibilité.
+- **Certification et audit** : conformité, échantillonnage et vérification indépendante.
+- **Institutions publiques** : réglementation, santé, territoires et environnement.
+- **Finance et assurance** : informations nécessaires au financement et à la gestion des risques.
+- **Société civile** : associations, ONG et communautés locales.
 
----
+Une règle fondamentale pourrait être : **aucune catégorie d'acteurs ne possède seule la majorité des droits de vote**.
 
-## 3. IMPB
-
-Indice Mondial du Prix.
-
-Suivi économique.
-
----
-
-## 4. Atlas mondial
-
-Base documentaire collaborative.
+Les décisions structurantes peuvent exiger simultanément une majorité des votes et une majorité des collèges.
 
 ---
 
-# Les partenaires potentiels
+## Architecture de gouvernance
 
-Le consortium pourrait dialoguer avec :
+```text
+ASSEMBLÉE GÉNÉRALE
+        ↓
+CONSEIL DE GOUVERNANCE
+        ↓
+┌──────────┬───────────┬───────────┬────────────┐
+│ Standards│ Science   │ Marchés   │ Éthique    │
+│ & données│ & mesures │ & indices │ & impacts  │
+└──────────┴───────────┴───────────┴────────────┘
+        ↓
+SECRÉTARIAT TECHNIQUE
+```
 
-- universités ;
-- centres techniques ;
-- instituts forestiers ;
-- organismes agricoles ;
-- agences climatiques ;
-- entreprises du secteur.
+L'Assemblée définit les orientations, le Conseil arbitre, les comités travaillent et le secrétariat exécute sans devenir propriétaire des règles.
 
-Il ne s'agirait pas d'une structure concurrente aux initiatives existantes, mais d'un espace de coordination.
+### Standards et données
 
----
+Passeport numérique, schémas de données, identifiants, API, vocabulaires, interopérabilité, versionnement et migrations.
 
-# Une gouvernance
+### Science et métrologie
 
-Une gouvernance équilibrée pourrait comprendre :
+Échantillonnage, méthodes analytiques, incertitudes, comparaisons interlaboratoires, stabilité du carbone, ACV et protocoles de terrain.
 
-- un conseil scientifique ;
-- un comité industriel ;
-- un comité utilisateurs ;
-- un comité éthique ;
-- un secrétariat permanent.
+### Marchés et indices
 
-Les décisions seraient prises de manière transparente et documentée.
+IQB, règles de marché, méthodologie de l'IMPB, prévention des manipulations et publication des niveaux de confiance.
 
----
+### Éthique, territoires et impacts
 
-# Les données ouvertes
+Compétition pour la biomasse, biodiversité, eau, cultures dédiées, sécurité, impacts sociaux, conflits d'usage et greenwashing.
 
-Le consortium pourrait publier :
-
-- statistiques mondiales ;
-- cartes interactives ;
-- prix moyens ;
-- analyses comparatives ;
-- publications scientifiques.
-
-Les données pourraient être disponibles :
-
-- CSV ;
-- JSON ;
-- API REST ;
-- SPARQL ;
-- RDF.
+**Maximiser les tonnes de biochar n'est pas l'objectif final.**
 
 ---
 
-# Recherche collaborative
+## Catalogue de standards ouverts
 
-Les chercheurs pourraient :
+Le Consortium pourrait maintenir :
 
-- proposer des améliorations ;
-- publier leurs résultats ;
-- partager leurs protocoles ;
-- comparer leurs biochars.
+```text
+CMB-SP1   Passeport numérique
+CMB-SP2   Indice de qualité
+CMB-SP3   Échantillonnage
+CMB-SP4   Données analytiques
+CMB-SP5   ACV et carbone
+CMB-SP6   Bourse et transactions
+CMB-SP7   Indice mondial des prix
+CMB-SP8   Données territoriales
+CMB-SP9   API et interopérabilité
+CMB-SP10  Gouvernance et audit
+```
 
-Chaque contribution serait versionnée.
+Ces identifiants sont des propositions conceptuelles de l'Atlas.
 
----
-
-# Une plateforme Git
-
-Le développement des référentiels pourrait être réalisé sur une plateforme de type Git.
-
-Chaque évolution ferait l'objet :
-
-- d'une proposition ;
-- d'une revue ;
-- d'une validation ;
-- d'un historique complet.
-
-Cette approche reprend les principes de gouvernance ouverts utilisés dans de nombreux projets scientifiques et logiciels.
+Un **standard n'est pas une certification** : le Consortium peut définir comment mesurer et représenter une information tandis qu'un organisme indépendant vérifie qu'un acteur respecte le référentiel. Cette séparation évite qu'une même structure écrive la règle, vende la certification et juge les contestations.
 
 ---
 
-# Les bénéfices
+## Reconnaître l'existant
 
-Une telle organisation pourrait :
+Le système ne doit pas imposer un monopole. Plusieurs certifications peuvent être reconnues lorsqu'elles démontrent leur compatibilité.
 
-- améliorer la reproductibilité scientifique ;
-- accélérer l'innovation ;
-- faciliter les échanges internationaux ;
-- renforcer la confiance des investisseurs ;
-- structurer progressivement le marché mondial.
+Le Consortium doit rechercher des passerelles avec les normes ISO, CEN, ASTM, les référentiels biochar, les méthodologies carbone et les systèmes de passeports numériques.
+
+L'objectif est de **relier ce qui existe**, non de tout remplacer.
 
 ---
 
-# Les limites
+## Architecture fédérée et souveraineté territoriale
 
-Le consortium ne pourrait réussir que si :
+Il n'est pas nécessaire de construire une base centrale contenant toutes les données mondiales :
 
-- les acteurs acceptent de partager certaines données ;
-- les méthodes analytiques convergent progressivement ;
-- la gouvernance reste indépendante ;
-- les intérêts économiques ne prennent pas le pas sur la qualité scientifique.
+```text
+EUROPE ─────┐
+AFRIQUE ────┤
+AMÉRIQUES ──┼→ STANDARD COMMUN
+ASIE ───────┤
+OCÉANIE ────┘
+```
 
----
+Chaque région peut exploiter ses propres infrastructures tandis que les systèmes communiquent grâce aux standards.
 
-# Perspectives
-
-À long terme, le Consortium Mondial du Biochar pourrait devenir un lieu de coopération internationale.
-
-Il favoriserait la convergence entre la recherche, l'industrie et les marchés, tout en laissant chaque certification et chaque réglementation nationale conserver son rôle.
-
----
-
-# Conclusion
-
-Le développement du biochar ne dépendra pas uniquement des progrès techniques.
-
-Il dépendra également de la capacité des acteurs à construire un langage commun, des outils partagés et une gouvernance ouverte.
-
-Le **Consortium Mondial du Biochar** est proposé comme une structure prospective destinée à accompagner cette évolution, sans se substituer aux organisations existantes.
+Les réalités diffèrent selon climat, sols, biomasses, agriculture, réglementation et infrastructures. Le Consortium peut définir **la forme de la donnée** sans imposer une recette agronomique mondiale.
 
 ---
 
-## Figures associées
+## Une place réelle pour les pays émergents
 
-- ch5_fr_consortium.svg
-- ch5_fr_gouvernance.svg
-- ch5_fr_groupes_travail.svg
-- ch5_fr_ecosysteme.svg
-- ch5_fr_flux_donnees.svg
+Un standard mondial conçu uniquement par les marchés riches reproduirait leurs priorités.
+
+Il faut prévoir représentation géographique, traductions, participation à distance, assistance technique, standards proportionnés, outils ouverts et formation.
+
+Une petite coopérative doit pouvoir participer sans disposer d'un département réglementaire de vingt personnes.
+
+Dans certaines régions, la valeur principale du biochar sera moins le certificat carbone que la restauration des sols, l'eau, la valorisation de résidus, la chaleur, les matériaux locaux ou l'activité économique.
+
+---
+
+## Financement et indépendance
+
+Sources possibles :
+
+- cotisations ;
+- services techniques ;
+- subventions publiques ;
+- fondations ;
+- recherche ;
+- partenariats ;
+- dons ;
+- services avancés.
+
+Mais les **standards fondamentaux ne devraient pas être enfermés derrière un péage**.
+
+Pour éviter une dépendance, le Consortium peut plafonner la contribution d'un acteur ou d'un secteur et publier l'origine de ses principaux financements.
+
+---
+
+## Transparence et conflits d'intérêts
+
+Le Consortium devrait publier ses statuts, membres, financeurs, votes, méthodologies, versions, conflits d'intérêts, rapports et audits.
+
+> **La gouvernance de la transparence doit elle-même être transparente.**
+
+La compétence et l'intérêt économique peuvent coexister. Les conflits doivent donc être déclarés plutôt que cachés : employeur, participations, clients pertinents, financements de recherche et mandats.
+
+Des règles de récusation peuvent s'appliquer.
+
+---
+
+## Lanceurs d'alerte et audits
+
+Une filière mondiale a besoin d'un mécanisme confidentiel pour signaler falsification de données, double comptage, contamination dissimulée, certification abusive ou manipulation de prix.
+
+Le Consortium lui-même doit être audité sur ses finances, sa cybersécurité, ses méthodes, sa gouvernance et ses procédures.
+
+---
+
+## Modifier un standard sans casser l'écosystème
+
+```text
+PROPOSITION
+    ↓
+PUBLICATION
+    ↓
+COMMENTAIRES
+    ↓
+TESTS
+    ↓
+RÉVISION
+    ↓
+VOTE
+    ↓
+VERSION PUBLIÉE
+```
+
+Les anciennes versions restent archivées et une période de transition permet les migrations.
+
+Les standards numériques doivent prévoir compatibilité, champs dépréciés et documentation historique : modifier une définition en 2032 ne doit pas rendre illisibles les passeports de 2027.
+
+---
+
+## Logiciels de référence et API
+
+Le Consortium pourrait publier des logiciels ouverts :
+
+```text
+validateur de passeport
+convertisseur de formats
+bibliothèque IQB
+client API
+outil d'anonymisation
+outils statistiques
+```
+
+Une API commune permettrait aux producteurs, laboratoires, marchés, administrations, chercheurs, observatoires et IA d'échanger automatiquement les données autorisées.
+
+Les entreprises resteraient libres de construire des services commerciaux plus avancés.
+
+---
+
+## Cybersécurité et propriété des données
+
+Une infrastructure mondiale doit intégrer authentification forte, chiffrement, signatures, sauvegardes, réplication, journalisation et procédures d'incident.
+
+Le Consortium ne devrait pas devenir propriétaire de toutes les données. Il administre des standards et éventuellement certains registres de référence ; producteurs, laboratoires, utilisateurs et territoires conservent les droits définis sur leurs informations.
+
+Le système organise **l'accès autorisé**, pas l'expropriation informationnelle.
+
+---
+
+## Observatoire et recherche mondiale
+
+Les données agrégées peuvent alimenter l'**[Observatoire mondial du biochar](ch5_fr_observatoire_mondial.md)** :
+
+```text
+PRODUCTION
+PRIX
+QUALITÉ
+USAGES
+CAPACITÉS
+CARBONE
+TERRITOIRES
+RECHERCHE
+```
+
+Le Consortium peut faciliter jeux de données anonymisés, protocoles communs, réplication d'expériences, comparaisons interlaboratoires et méta-analyses.
+
+Voir également : **[Recherche mondiale](ch5_fr_recherche_mondiale.md)**.
+
+---
+
+## Transformer les retours de terrain en science
+
+Le terrain ne doit être ni réduit à l'anecdote ni transformé immédiatement en certitude scientifique.
+
+```text
+OBSERVATION TERRAIN
+       ↓
+CONTEXTE DOCUMENTÉ
+       ↓
+LOT IDENTIFIÉ
+       ↓
+SIGNAL
+       ↓
+ESSAI CONTRÔLÉ
+       ↓
+CONNAISSANCE
+```
+
+Un retour agricole remarquable devient ainsi une **hypothèse à tester**, plutôt qu'une promesse marketing.
+
+---
+
+## Éviter la capture institutionnelle
+
+Toute organisation finit par développer ses propres intérêts.
+
+Il faut donc prévoir rotation des mandats, limites de durée, votes documentés, révisions externes et possibilité de réutiliser ou de dériver les standards ouverts.
+
+Si une gouvernance devient mauvaise, **le standard doit pouvoir survivre à l'institution qui l'a créé**.
+
+Un producteur quittant une plateforme doit également pouvoir conserver ses passeports, identifiants, historique et preuves.
+
+---
+
+## Feuille de route
+
+```text
+PHASE 1 — Définitions communes + passeport minimal
+PHASE 2 — Méthodes analytiques + IQB expérimental
+PHASE 3 — Interopérabilité + pilotes régionaux
+PHASE 4 — Bourses + collecte de transactions
+PHASE 5 — Indices de prix + Observatoire
+PHASE 6 — Réseau mondial fédéré
+```
+
+Il vaut mieux quelques standards robustes qu'une architecture gigantesque impossible à appliquer.
+
+---
+
+## Mesurer l'impact
+
+Le succès du Consortium ne doit pas être mesuré au nombre de réunions mais aux résultats :
+
+- passeports interopérables ;
+- données vérifiées ;
+- baisse du coût de conformité ;
+- rapidité des procédures ;
+- régions couvertes ;
+- volume caractérisé ;
+- diminution des litiges ;
+- accès des petits producteurs ;
+- production de connaissances ;
+- meilleure orientation des biochars vers leurs usages.
+
+---
+
+## Servir le vivant
+
+Les standards, API, indices et audits sont des moyens :
+
+```text
+BIOMASSES MIEUX GÉRÉES
+        ↓
+CARBONE STABLE
+        ↓
+SOLS + EAU + MATÉRIAUX
+        ↓
+TERRITOIRES PLUS RÉSILIENTS
+        ↓
+MOINS DE PRESSION SUR LE CLIMAT
+```
+
+Si l'infrastructure devient bureaucratiquement parfaite mais écologiquement inutile, elle a échoué.
+
+---
+
+## À retenir
+
+> **Une économie mondiale du biochar a besoin d'un langage commun, mais pas d'un propriétaire mondial.**
+
+Le Consortium proposé par l'Atlas doit rendre compatibles les données, protéger l'intégrité des méthodes, organiser la gouvernance et laisser technologies, entreprises et territoires continuer à innover.
+
+Le standard est commun. Les solutions restent multiples.
+
+La finalité demeure : **transformer des ressources locales en bénéfices mesurables pour les sols, l'eau, le climat, les territoires et les sociétés.**
+
+---
+
+## Continuer la lecture
+
+**[← Indice mondial des prix](ch5_fr_indice_prix_mondial.md) · [↑ Sommaire de l’Atlas](README.md) · [Observatoire mondial →](ch5_fr_observatoire_mondial.md)**
+
+À consulter également : [Passeport numérique](ch5_fr_passeport_biochar.md) · [Indice de qualité](ch5_fr_indice_qualite.md) · [Bourse du biochar](ch5_fr_bourse_biochar.md) · [Métrologie carbone](ch5_fr_metrologie_carbone.md) · [Recherche mondiale](ch5_fr_recherche_mondiale.md)
+
+---
+
+*Atlas mondial de la valorisation économique du biochar — Eric Jacob — Version 1.2 — 2026*  
+*Licence : Creative Commons CC BY 4.0*
