@@ -74,13 +74,13 @@ Il devient :
 
 ## 3. Le cas Haffner Energy
 
-Haffner Energy constitue dans cet Atlas un **cas industriel français particulièrement intéressant** parce que sa technologie de thermolyse associe valorisation de biomasses, production de gaz renouvelable GNR et gestion du carbone biogénique, avec des configurations adaptées à des objectifs industriels différents.
+Haffner Energy constitue dans cet Atlas un **cas industriel français particulièrement intéressant** parce que sa technologie de thermolyse associe valorisation de biomasses, production de gaz renouvelable GNR, hydrogène, bioéthanol, biodiesel, bioéthanol et gestion du carbone biogénique ou biochar, avec des configurations adaptées à des objectifs industriels différents.
 
 Les communications disponibles distinguent notamment les familles **CORE / C-iC** et **SCALE / S-iC**, ainsi que les architectures H5, H6 et les évolutions de gamme en cours de présentation publique:
 
 - Le module de base C-iC/H6 de la gamme Core100 produit **1,7 MW de syngaz et environ 50 kg H₂/h**  ;
 - Certaines configurations C-iC/H6 tournent autour de **2 MW pour environ 60 kg H₂/h** ;
-- Le module S-iC produit **17 MW de syngaz et 500 kg H₂/h** pour des architectures H6-scale.
+- Le module S-iC produit **17 MW de syngaz et 500 kg H₂/h** pour des architectures H6-scale ;
 - Le H5, dont l'architecture est proche du H6, est conçu pour des projets de grande capacité et permet une co-production de biochar.
 
 Ces valeurs ne décrivent pas nécessairement le même module, le même dimensionnement ni le même périmètre énergétique. Elles doivent donc toujours être rattachées à **la configuration technique considérée, au type de biomasse, au produit recherché et au périmètre de puissance utilisé**.
@@ -89,11 +89,15 @@ Ces valeurs ne décrivent pas nécessairement le même module, le même dimensio
 
 ## 4. Une gamme industrielle en évolution
 
-Les différences entre certaines puissances et capacités évoquées dans les communications consacrées aux technologies Haffner Energy ne doivent pas être interprétées comme une contradiction technique.
+Les différences entre certaines puissances et capacités évoquées dans les communications consacrées aux technologies Haffner Energy proviennent d'un souhait de modularité maximal au travers d'une gamme de service maximalisé.
+
+Haffner Energy sera amené à revenir sur sa gamme pour la clarifier. H6 correspond à une architecture spécifique, mais peut correspondre à des tailles d'équipements différents. 
 
 Elles s’inscrivent notamment dans l’évolution et le dimensionnement de différentes configurations industrielles, dont les nouvelles architectures **H5** et **H6-Scale**.
 
 À la date de cette version de l’Atlas, leurs caractéristiques techniques détaillées n’ont pas encore toutes été rendues publiques. Haffner Energy doit présenter plus complètement ces nouvelles configurations.
+
+Si la modularité concerne surtout le C-iC, qui pourra être regroupé dans des installations multi-modulaires, sur les grosses installations, Haffner Energy garde au maximum cette philosophie modulaire, mais ne peut pas échapper à une phase de montage sur site plus conventionnelle, laquelle ne pose pas de difficulté particulière.
 
 L’Atlas choisit donc de **ne pas anticiper les caractéristiques qui ne sont pas encore publiées**. Cette partie sera actualisée lorsque les données techniques publiques permettront de présenter H5 et H6-Scale avec leurs périmètres respectifs.
 
