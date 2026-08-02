@@ -11,7 +11,7 @@ license: Creative Commons CC BY 4.0
 > **Atlas mondial de la valorisation économique du biochar — Volume 1**  
 > Version 1.1 — Août 2026 · Auteur : Eric Jacob
 
-**[↑ Sommaire de l’Atlas](./)** · **[Chapitre 2 : marchés et prix →](ch2_fr_prix.html)**
+**[↑ Sommaire de l’Atlas](./)** · **[Chapitre 2 : marchés et prix →](ch2_fr_prix.md)**
 
 ---
 
@@ -177,14 +177,14 @@ Le chapitre suivant aborde la question économique : **combien valent réellemen
 
 ## Continuer la lecture
 
-**[↑ Sommaire de l’Atlas](./)** · **[Chapitre 2 — Marchés et prix →](ch2_fr_prix.html)**
+**[↑ Sommaire de l’Atlas](./)** · **[Chapitre 2 — Marchés et prix →](ch2_fr_prix.md)**
 
 Articles complémentaires :
 
-- [Classification des biochars](ch3_fr_classification.html)
-- [Biomasses et intrants](ch3_fr_biomasses.html)
-- [Paramètres de caractérisation](ch3_fr_parametres.html)
-- [Analyse du cycle de vie](ch4_fr_analyse_cycle_vie.html)
+- [Classification des biochars](ch3_fr_classification.md)
+- [Biomasses et intrants](ch3_fr_biomasses.md)
+- [Paramètres de caractérisation](ch3_fr_parametres.md)
+- [Analyse du cycle de vie](ch4_fr_analyse_cycle_vie.md)
 
 ---
 

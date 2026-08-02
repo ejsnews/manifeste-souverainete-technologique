@@ -12,7 +12,7 @@ license: Creative Commons CC BY 4.0
 > Version 1.1 — Août 2026  
 > Auteur : Eric Jacob
 
-[← Sommaire de l’Atlas](./) · [Biochar idéal](ch5_fr_biochar_ideal.html) · [Passeport numérique →](ch5_fr_passeport_biochar.html)
+[← Sommaire de l’Atlas](./) · [Biochar idéal](ch5_fr_biochar_ideal.md) · [Passeport numérique →](ch5_fr_passeport_biochar.md)
 
 ---
 
@@ -349,17 +349,17 @@ C’est leur intégration, leur proximité et la vérification des flux qui peuv
 
 ## Pour aller plus loin dans l’Atlas
 
-- [Biochar idéal](ch5_fr_biochar_ideal.html)
-- [Passeport numérique du biochar](ch5_fr_passeport_biochar.html)
-- [Métrologie du carbone](ch5_fr_metrologie_carbone.html)
-- [Territoires et résilience](ch5_fr_territoires_resilience_biochar_carbone.html)
-- [Jumeau numérique](ch5_fr_jumeau_numerique.html)
-- [Gestion des risques](ch5_fr_gestion_risques.html)
-- [Feuille de route 2050](ch5_fr_feuille_route_2050.html)
+- [Biochar idéal](ch5_fr_biochar_ideal.md)
+- [Passeport numérique du biochar](ch5_fr_passeport_biochar.md)
+- [Métrologie du carbone](ch5_fr_metrologie_carbone.md)
+- [Territoires et résilience](ch5_fr_territoires_resilience_biochar_carbone.md)
+- [Jumeau numérique](ch5_fr_jumeau_numerique.md)
+- [Gestion des risques](ch5_fr_gestion_risques.md)
+- [Feuille de route 2050](ch5_fr_feuille_route_2050.md)
 
 ---
 
-[← Article précédent : Biochar idéal](ch5_fr_biochar_ideal.html) · **[↑ Sommaire de l’Atlas](./)** · [Article suivant : Passeport numérique →](ch5_fr_passeport_biochar.html)
+[← Article précédent : Biochar idéal](ch5_fr_biochar_ideal.md) · **[↑ Sommaire de l’Atlas](./)** · [Article suivant : Passeport numérique →](ch5_fr_passeport_biochar.md)
 
 ---
 
