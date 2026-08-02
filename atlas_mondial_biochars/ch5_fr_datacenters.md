@@ -43,6 +43,8 @@ La figure suivante condense le modèle proposé.
 
 *Figure 1 — Datacenter IA + Biochar : articulation entre ressources locales, conversion thermochimique, calcul informatique, récupération de chaleur, stockage du carbone et traçabilité. Cliquer sur l’image pour l’ouvrir en pleine résolution.*
 
+**[Agrandir l’infographie PNG](ch5_fr_datacenters.png) · [Voir la version vectorielle SVG](ch5_fr_datacenters.svg)**
+
 ---
 
 ## 1. Le datacenter comme infrastructure territoriale
