@@ -156,9 +156,7 @@ L'**[Indice de qualité du biochar](ch5_fr_indice_qualite.md)** peut fournir une
 
 On peut rechercher statistiquement :
 
-\[
-P = f(Q,U,R,V,L,C,\ldots)
-\]
+$P = f(Q,U,R,V,L,C,\ldots)$
 
 où :
 
@@ -178,9 +176,7 @@ Le but n'est pas d'imposer cette fonction au marché, mais de comprendre les var
 
 Pour un segment suffisamment homogène, un premier indice peut utiliser :
 
-\[
 $I_t = \frac{\sum_{i=1}^{n} P_i V_i W_i}{\sum_{i=1}^{n} V_i W_i}$
-\]
 
 avec :
 
@@ -498,9 +494,7 @@ La publication d'une référence ne doit pas empêcher deux acteurs de négocier
 
 Les contrats de plusieurs années peuvent utiliser une formule :
 
-\[
-P_t = P_0 \times \frac{IMPB_t}{IMPB_0}
-\]
+$P_t = P_0 \times \frac{IMPB_t}{IMPB_0}$
 
 ou une formule plus complète intégrant énergie, inflation, transport et qualité.
 
