@@ -2,231 +2,164 @@
 layout: default
 lang: fr
 author: Eric Jacob
-title: "Atlas mondial de la valorisation économique du Biochar — Chapitre 1"
-description: "Le biochar : un matériau stratégique du XXIe siècle"
-license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+title: "Chapitre 2.1 — La valeur économique mondiale du biochar"
+description: "Marchés, usages et création de valeur territoriale du biochar"
+license: Creative Commons CC BY 4.0
 ---
 
-# Chapitre 2 — La valeur économique mondiale du biochar
+# Chapitre 2.1 — La valeur économique mondiale du biochar
 
-> **Le biochar est l'un des rares matériaux capables de créer simultanément une valeur industrielle, environnementale et climatique.**
+> **Atlas mondial de la valorisation économique du biochar — Volume 1**  
+> Version 1.1 — Août 2026 · Auteur : Eric Jacob
 
----
-
-## Une économie en pleine mutation
-
-Pendant plusieurs décennies, le biochar a principalement été utilisé comme amendement agricole.
-
-Depuis quelques années, l'émergence des matériaux bas carbone, des marchés de séquestration du carbone et des nouvelles filières industrielles a profondément modifié son positionnement.
-
-Aujourd'hui, un même biochar peut générer plusieurs sources de revenus :
-
-- vente du matériau lui-même ;
-- incorporation dans des matériaux de construction ;
-- filtration de l'eau ou de l'air ;
-- composites industriels ;
-- crédits de retrait du carbone lorsque les conditions de certification sont remplies.
-
-La valeur économique d'un biochar ne dépend donc plus uniquement de son poids, mais également de sa qualité, de sa stabilité, de son origine et de son usage final.
+**[← Chapitre 1](ch1_fr.md) · [↑ Sommaire de l’Atlas](README.md) · [Prix et modèles économiques →](ch2_fr_prix.md)**
 
 ---
 
-# Les quatre marchés du biochar
+## D’un amendement agricole à une matière stratégique
 
-| Marché | Volume | Valeur | Potentiel |
-|---------|:------:|:------:|:---------:|
-| 🌱 Agriculture | ★★★★★ | ★★☆☆☆ | Très élevé |
-| 🏗 Construction bas carbone | ★★★☆☆ | ★★★★★ | Très élevé |
-| 💧 Filtration | ★★☆☆☆ | ★★★★★ | Élevé |
-| ♻ Carbone (certificats) | ★★★☆☆ | ★★★★★ | Très élevé |
+Le biochar a longtemps été regardé principalement sous l’angle agronomique. Son intérêt économique devient beaucoup plus large dès que l’on considère simultanément ses propriétés physiques, son carbone stable, sa porosité, ses usages industriels et la valeur créée dans les territoires.
 
----
+Il ne s’agit pas de remplacer les pratiques agricoles, les écosystèmes ou les ressources existantes. Dans les sols, l’approche pertinente consiste souvent à **adjoindre une quantité adaptée d’un biochar caractérisé** à un système vivant déjà complexe. Le résultat dépend du sol, du climat, du biochar, de sa préparation et de la dose.
 
-# Les principaux usages industriels
-
-## Agriculture
-
-Le biochar améliore selon les contextes :
-
-- la rétention en eau ;
-- la capacité d'échange cationique ;
-- la stabilité biologique ;
-- l'activité microbienne.
-
-Son efficacité dépend fortement du type de sol, du climat et de la préparation du biochar.
+<figure>
+  <img src="ch2_fr.png"
+       alt="Valeur économique mondiale du biochar : agriculture, matériaux, eau, carbone et création de valeur territoriale dans un paysage vivant"
+       style="width:100%;height:auto;">
+  <figcaption>
+    <strong>Figure 1 — Le biochar comme actif territorial à usages multiples.</strong>
+    © Eric Jacob 2026 — Atlas mondial du biochar — CC BY 4.0.
+    <a href="ch2_fr.png">Agrandir l’infographie</a>
+  </figcaption>
+</figure>
 
 ---
 
-## Construction
+## La valeur apparaît à plusieurs endroits à la fois
 
-L'incorporation du biochar dans les matériaux de construction fait actuellement l'objet d'un développement rapide.
+Un même système thermochimique peut créer plusieurs flux de valeur : traitement d’une biomasse locale réellement disponible, production d’énergie ou de chaleur, vente du biochar, amélioration d’un usage agricole ou industriel et, lorsque toutes les conditions méthodologiques sont remplies, valorisation d’un retrait durable de carbone.
 
-Applications :
-
-- béton bas carbone ;
-- ciment ;
-- mortiers ;
-- plâtres ;
-- briques ;
-- matériaux composites.
-
-Ces applications permettent non seulement de stocker durablement du carbone, mais aussi, selon les formulations, de modifier certaines propriétés des matériaux (masse volumique, comportement hygrique ou isolation).
+Cette pluralité explique pourquoi comparer le biochar à une simple matière vendue à la tonne est insuffisant. **Sa valeur dépend de ce qu’il remplace, améliore ou rend possible.**
 
 ---
 
-## Filtration
+## Agriculture : la valeur du sol vivant
 
-Grâce à sa porosité importante, certains biochars trouvent des applications dans :
+Les retours de terrain sont particulièrement intéressants lorsqu’ils décrivent des parcelles comparables avant et après incorporation de biochar : modification de la structure du sol, meilleure tenue de l’humidité, activité biologique accrue, évolution des besoins en intrants ou stabilité des cultures pendant des épisodes secs.
 
-- la filtration des eaux ;
-- le traitement des effluents industriels ;
-- la dépollution de certains sols ;
-- les systèmes de filtration d'air.
+Ces observations doivent être documentées sans être transformées trop vite en loi universelle. Elles constituent précisément des **signaux de terrain à mesurer**.
 
-Ces usages nécessitent généralement des biochars présentant des caractéristiques physico-chimiques spécifiques.
+Les lombrics illustrent bien cette approche. Leur abondance est un indicateur biologique intéressant, mais elle dépend de nombreux facteurs : humidité, matière organique disponible, température, texture du sol, pratiques culturales et absence de substances défavorables. Un sol amendé au biochar peut offrir des conditions plus favorables dans certains contextes ; l’Atlas distinguera donc les observations agricoles, les mécanismes plausibles et les résultats établis expérimentalement.
 
----
-
-## Industrie
-
-Le biochar est également étudié pour :
-
-- les composites polymères ;
-- certains matériaux conducteurs ;
-- les électrodes ;
-- les batteries ;
-- les supercondensateurs ;
-- la métallurgie.
-
-Ces marchés restent émergents mais présentent un fort potentiel de création de valeur.
+Le bénéfice économique potentiel ne vient alors pas seulement d’un rendement : il peut provenir d’une combinaison entre résilience hydrique, fertilité, réduction de certains intrants, stabilité de production et amélioration progressive du capital-sol.
 
 ---
 
-# Ordres de grandeur économiques
+## Eau : transformer la sécheresse en problème de gestion du sol
 
-Les prix observés varient fortement selon :
+La structure poreuse de certains biochars peut modifier la manière dont l’eau est retenue et circule dans le sol. Cette fonction devient économiquement importante dans les territoires soumis à des périodes sèches, à des pluies brutales ou à des sols dégradés.
 
-- la qualité du biochar ;
-- sa certification ;
-- sa granulométrie ;
-- son marché de destination ;
-- le pays.
+Le biochar n’est pas une nappe phréatique artificielle et ne crée pas d’eau. Il peut cependant contribuer, dans des conditions appropriées, à **conserver plus longtemps une partie de l’eau qui traverse le sol**, en interaction avec la matière organique, les racines et la structure du terrain.
 
-| Usage principal | Ordre de grandeur* |
-|-----------------|-------------------:|
-| Agriculture | 100 à 600 €/t |
-| Horticulture premium | 500 à 1 000 €/t |
-| Construction | 800 à 1 800 €/t |
-| Filtration | 1 000 à plus de 2 000 €/t |
-| Matériaux avancés | Variable, souvent > 2 000 €/t |
-
-> *Ces valeurs correspondent à des fourchettes observées sur différents marchés. Elles évoluent rapidement selon la qualité du produit, les volumes, les contrats et les régions.*
+Cette fonction hydrique est l’une des raisons pour lesquelles la valeur agronomique du biochar ne peut pas être réduite à sa seule composition chimique.
 
 ---
 
-# Les certificats de retrait du carbone
+## Construction et matériaux
 
-Le biochar présente une particularité unique.
+Le biochar peut entrer dans des formulations de bétons, mortiers, briques, plâtres, composites et autres matériaux. Selon la formulation, il peut participer à l’allègement, aux propriétés hygriques ou thermiques et à l’incorporation durable de carbone dans un produit à longue durée de vie.
 
-Une partie importante de son carbone peut rester stable pendant plusieurs siècles.
+Ces marchés demandent cependant une caractérisation différente de celle d’un biochar agricole : granulométrie, humidité, densité, compatibilité avec le liant et propriétés mécaniques deviennent déterminantes.
 
-Lorsque cette stabilité est démontrée et que la chaîne de traçabilité est certifiée, cette séquestration peut être valorisée au travers de mécanismes de certification carbone.
-
-Les principaux référentiels internationaux sont notamment :
-
-- European Biochar Certificate (EBC)
-- Puro.earth
-- Carbon Standards International
-- Carbonfuture
-
-Ces certifications imposent des exigences sur :
-
-- la biomasse utilisée ;
-- le procédé de production ;
-- la qualité du biochar ;
-- la traçabilité ;
-- le stockage durable du carbone.
-
-Tous les biochars ne sont donc pas éligibles à ces marchés. :contentReference[oaicite:0]{index=0}
+Voir : **[Biochar et matériaux](ch4_fr_materiaux.md)**.
 
 ---
 
-# Où se créent aujourd'hui les plus fortes valeurs ?
+## Filtration et dépollution
 
-## 🟢 Europe occidentale
+La porosité et la chimie de surface de certains biochars ouvrent des applications dans le traitement de l’eau, des effluents, de l’air ou de milieux contaminés.
 
-Leader mondial.
+Là encore, « biochar » n’est pas une spécification suffisante. L’adsorption dépend de la surface accessible, de la distribution des pores, de la chimie du matériau et du contaminant ciblé. Certaines applications peuvent nécessiter une activation ou un traitement complémentaire.
 
-Marchés :
-
-- construction
-- agriculture
-- crédits carbone
-- matériaux techniques
+Voir : **[Filtration et adsorption](ch4_fr_filtration.md)**.
 
 ---
 
-## 🟢 Amérique du Nord
+## Carbone : une valeur qui exige une preuve
 
-Croissance très rapide.
+Le carbone contenu dans un biochar peut constituer un stockage durable lorsque sa stabilité, l’origine de la biomasse, les émissions du procédé, la traçabilité et l’usage final satisfont les exigences de la méthodologie retenue.
 
-Développement :
+Le crédit carbone ne doit donc jamais être considéré comme automatique. Il représente une **couche économique supplémentaire** lorsque le retrait est quantifié, vérifié et certifié.
 
-- agriculture
-- construction
-- filtration
-- carbone
+Cette discipline est essentielle pour que la finance carbone soutienne la filière réelle plutôt qu’une simple promesse.
 
----
-
-## 🟡 Japon
-
-Volumes plus faibles.
-
-Très forte valeur ajoutée.
+Voir : **[Certifications](ch4_fr_certifications.md)** et **[Métrologie du carbone](ch5_fr_metrologie_carbone.md)**.
 
 ---
 
-## 🟡 Corée du Sud
+## La valeur territoriale : le marché oublié
 
-Marché industriel en développement.
+Une tonne de biomasse transportée loin coûte de l’énergie et exporte une ressource. Une biomasse transformée près de son lieu de production peut au contraire faire circuler plusieurs valeurs dans le même territoire : activité agricole, chaleur, énergie, biochar, emplois, services techniques et amélioration éventuelle des sols.
 
----
+Le modèle économique devient particulièrement intéressant lorsque les flux se complètent :
 
-## 🟠 Chine
+```text
+RESSOURCE LOCALE DURABLE
+          ↓
+CONVERSION THERMOCHIMIQUE
+     ↙       ↓        ↘
+ BIOCHAR   ÉNERGIE   CHALEUR
+     ↓       ↓        ↓
+ SOLS /   ACTIVITÉ   USAGES
+MATÉRIAUX  LOCALE    LOCAUX
+          ↓
+ VALEUR TERRITORIALE
+```
 
-Production importante.
-
-Valorisation industrielle en progression.
-
----
-
-## 🟠 Amérique du Sud
-
-Très fort potentiel lié à la biomasse.
-
-Valorisation encore hétérogène.
-
----
-
-## 🔴 Afrique
-
-Potentiel biomasse considérable.
-
-Les marchés industriels et les mécanismes de certification restent encore peu développés dans de nombreuses régions.
+Cette logique ne signifie pas l’autarcie. Elle signifie que l’on évite de transporter inutilement une biomasse volumineuse et que l’on conserve autant que possible la valeur créée près de sa source.
 
 ---
 
-# À retenir
+## Des biomasses adaptées à chaque territoire
 
-Le biochar ne constitue plus un simple coproduit de la thermolyse.
+Le bambou illustre pourquoi l’Atlas refuse les recettes universelles. Dans certaines régions du Cameroun ou d’autres zones où il pousse naturellement ou est déjà cultivé, il peut représenter une ressource remarquable. Cela ne signifie évidemment pas qu’il faille transformer les paysages agricoles français en plantations de bambou.
 
-Il devient progressivement une matière première industrielle dont la valeur dépend :
+Forêts gérées, haies, résidus agricoles, coques, noyaux, tailles, bambou ou plantes pérennes ont chacun leur géographie et leur fonction écologique. **La diversité des ressources doit rester une protection contre la monoculture, la dégradation des sols et les risques territoriaux, notamment les incendies.**
 
-- de la qualité de la biomasse ;
-- de la maîtrise du procédé ;
-- de la certification obtenue ;
-- de l'usage final ;
-- de la capacité à accéder aux marchés de la construction et du retrait du carbone.
+Voir : **[Biomasses durables](ch3_fr_biomasses.md)**.
 
-Cette évolution transforme profondément le modèle économique des installations de thermolyse modernes.
+---
+
+## Quatre marchés, une même exigence
+
+| Marché | Valeur recherchée | Condition essentielle |
+|---|---|---|
+| **Agriculture** | sol, eau, fertilité, résilience | adéquation biochar-sol et validation terrain |
+| **Matériaux** | fonctions techniques + carbone incorporé | formulation et performances mesurées |
+| **Filtration** | adsorption / dépollution | caractérisation ciblée |
+| **Carbone** | retrait durable quantifié | traçabilité, ACV et certification |
+
+Ces marchés ne s’excluent pas. Ils montrent au contraire pourquoi une classification précise et un passeport du biochar deviennent nécessaires.
+
+---
+
+## À retenir
+
+> **La valeur économique du biochar ne réside pas dans le charbon noir lui-même, mais dans les fonctions qu’un biochar correctement choisi peut rendre à un sol, un matériau, une eau, une industrie ou un territoire.**
+
+Les témoignages agricoles remarquables ne doivent être ni transformés en miracles universels, ni écartés parce qu’ils dérangent les modèles existants. Ils doivent devenir des objets de mesure, de comparaison et de recherche.
+
+C’est ainsi qu’une pratique de terrain peut devenir une connaissance transmissible.
+
+---
+
+## Continuer la lecture
+
+**[← Chapitre 1](ch1_fr.md) · [↑ Sommaire de l’Atlas](README.md) · [Chapitre 2.2 — Prix et modèles économiques →](ch2_fr_prix.md)**
+
+À consulter également : [Classification](ch3_fr_classification.md) · [Paramètres](ch3_fr_parametres.md) · [Biomasses](ch3_fr_biomasses.md)
+
+---
+
+*Atlas mondial de la valorisation économique du biochar — Eric Jacob — Version 1.1 — 2026*  
+*Licence : Creative Commons CC BY 4.0*
