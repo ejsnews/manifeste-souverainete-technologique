@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+<style>text{font-family:Arial}.title{font-size:30px;font-weight:bold}.h{font-size:19px;font-weight:bold}.t{font-size:15px}.s{font-size:12px}.b{fill:#fff;stroke:#777;stroke-width:2}</style>
+<rect width="1400" height="1000" fill="#f7fafc"/>
+<text x="700" y="45" text-anchor="middle" class="title">Chapitre 1 — Principaux usages du Biochar</text>
+<circle cx="700" cy="500" r="90" fill="#202124"/><text x="700" y="500" text-anchor="middle" fill="#fff">BIOCHAR</text>
+<rect x="50" y="90" width="320" height="170" class="b"/><text x="70" y="120" class="h">Agriculture</text><text x="70" y="150" class="t">• Sols • Eau • Fertilité</text><text x="70" y="175" class="t">Valeur : €€</text>
+<rect x="1030" y="90" width="320" height="170" class="b"/><text x="1050" y="120" class="h">Construction</text><text x="1050" y="150" class="t">• Béton • Ciment</text><text x="1050" y="175" class="t">Valeur : €€€€</text>
+<rect x="50" y="730" width="320" height="170" class="b"/><text x="70" y="760" class="h">Filtration</text><text x="70" y="790" class="t">• Eau • Air</text>
+<rect x="1030" y="730" width="320" height="170" class="b"/><text x="1050" y="760" class="h">Industrie</text><text x="1050" y="790" class="t">• Composites • Métallurgie</text>
+<rect x="500" y="90" width="400" height="120" class="b"/><text x="520" y="120" class="h">Énergie</text><text x="520" y="150" class="t">H₂ • SNG • SAF</text>
+<rect x="500" y="790" width="400" height="120" class="b"/><text x="520" y="820" class="h">Climat</text><text x="520" y="850" class="t">Séquestration CO₂ • CORC</text>
+<line x1="700" y1="410" x2="700" y2="210" stroke="#666"/><line x1="620" y1="440" x2="370" y2="260" stroke="#666"/><line x1="780" y1="440" x2="1030" y2="260" stroke="#666"/><line x1="620" y1="560" x2="370" y2="730" stroke="#666"/><line x1="780" y1="560" x2="1030" y2="730" stroke="#666"/><line x1="700" y1="590" x2="700" y2="790" stroke="#666"/>
+<text x="20" y="980" class="s">Atlas mondial du Biochar — ch1_fr_usages.svg v1.0</text>
+</svg>

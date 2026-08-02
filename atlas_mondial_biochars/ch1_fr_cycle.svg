@@ -1,62 +1,289 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-<defs>
-<linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0%" stop-color="#f8fbff"/>
-<stop offset="100%" stop-color="#eef5ef"/>
-</linearGradient>
-<marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-<path d="M0,0 L10,3 L0,6 Z" fill="#555"/>
-</marker>
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="210mm" height="297mm" viewBox="0 0 2100 2970" xmlns="http://www.w3.org/2000/svg">
+
 <style>
-text{font-family:Arial,sans-serif}
-.title{font-size:34px;font-weight:bold;fill:#222}
-.h{font-size:22px;font-weight:bold}
-.t{font-size:18px;fill:#333}
-.small{font-size:14px;fill:#555}
-.box{fill:white;stroke:#666;stroke-width:2}
+
+.title{
+font-family:Arial;
+font-size:58px;
+font-weight:bold;
+fill:#1f2937;
+}
+
+.subtitle{
+font-family:Arial;
+font-size:26px;
+fill:#4b5563;
+}
+
+.box{
+fill:white;
+stroke:#374151;
+stroke-width:4;
+rx:20;
+ry:20;
+}
+
+.green{
+fill:#e9f8eb;
+stroke:#2e7d32;
+stroke-width:4;
+}
+
+.blue{
+fill:#eef7ff;
+stroke:#1565c0;
+stroke-width:4;
+}
+
+.orange{
+fill:#fff6e8;
+stroke:#ef6c00;
+stroke-width:4;
+}
+
+.grey{
+fill:#f7f7f7;
+stroke:#616161;
+stroke-width:4;
+}
+
+.arrow{
+stroke:#455a64;
+stroke-width:8;
+fill:none;
+marker-end:url(#arrow);
+}
+
+.txt{
+font-family:Arial;
+font-size:28px;
+fill:#222;
+}
+
+.small{
+font-family:Arial;
+font-size:22px;
+fill:#444;
+}
+
+.caption{
+font-family:Arial;
+font-size:24px;
+fill:#555;
+}
+
 </style>
+
+<defs>
+
+<marker id="arrow" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto">
+
+<polygon points="0,0 16,8 0,16" fill="#455a64"></polygon>
+
+</marker>
+
 </defs>
-<rect width="1600" height="900" fill="url(#g1)"/>
-<text x="800" y="55" text-anchor="middle" class="title">Chapitre 1 — Cycle de la thermolyse et valorisation du biochar</text>
 
-<rect x="80" y="120" width="300" height="140" rx="12" class="box"/>
-<text x="230" y="155" text-anchor="middle" class="h">Biomasse durable</text>
-<text x="230" y="185" text-anchor="middle" class="t">• Bois</text>
-<text x="230" y="210" text-anchor="middle" class="t">• Bambou</text>
-<text x="230" y="235" text-anchor="middle" class="t">• Résidus ligneux</text>
+<text x="1050" y="90" text-anchor="middle" class="title">
 
-<rect x="650" y="100" width="300" height="180" rx="12" fill="#fff8ef" stroke="#c96f00" stroke-width="3"/>
-<text x="800" y="145" text-anchor="middle" class="h">Thermolyse</text>
-<text x="800" y="175" text-anchor="middle" class="t">Atmosphère pauvre en oxygène</text>
-<text x="800" y="205" text-anchor="middle" class="t">≈ 500–650 °C</text>
-<text x="800" y="235" text-anchor="middle" class="t">Valorisation multifilière</text>
+LE CYCLE VERTUEUX DU BIOCHAR
 
-<line x1="380" y1="190" x2="650" y2="190" stroke="#555" stroke-width="4" marker-end="url(#arrow)"/>
+</text>
 
-<rect x="1150" y="80" width="330" height="170" rx="12" fill="#eef7ff" stroke="#1976d2" stroke-width="3"/>
-<text x="1315" y="120" text-anchor="middle" class="h">Gaz renouvelables</text>
-<text x="1315" y="150" text-anchor="middle" class="t">Hydrogène</text>
-<text x="1315" y="175" text-anchor="middle" class="t">SNG • SAF • Syngaz</text>
+<text x="1050" y="135" text-anchor="middle" class="subtitle">
 
-<rect x="1150" y="330" width="330" height="350" rx="12" fill="#f5f5f5" stroke="#202124" stroke-width="3"/>
-<text x="1315" y="370" text-anchor="middle" class="h">Biochar</text>
-<text x="1315" y="410" text-anchor="middle" class="t">Construction bas carbone</text>
-<text x="1315" y="445" text-anchor="middle" class="t">Agriculture</text>
-<text x="1315" y="480" text-anchor="middle" class="t">Filtration</text>
-<text x="1315" y="515" text-anchor="middle" class="t">Matériaux techniques</text>
-<text x="1315" y="550" text-anchor="middle" class="t">Séquestration du CO₂</text>
+Production • Valorisation • Séquestration • Économie circulaire
 
-<line x1="950" y1="170" x2="1150" y2="165" stroke="#1976d2" stroke-width="4" marker-end="url(#arrow)"/>
-<line x1="950" y1="220" x2="1150" y2="420" stroke="#202124" stroke-width="4" marker-end="url(#arrow)"/>
+</text>
 
-<rect x="120" y="420" width="760" height="300" rx="12" class="box"/>
-<text x="500" y="460" text-anchor="middle" class="h">Principes clés</text>
-<text x="150" y="505" class="t">• La biomasse riche en lignine produit généralement un biochar plus stable.</text>
-<text x="150" y="540" class="t">• Le biochar peut être valorisé comme matériau et comme puits de carbone.</text>
-<text x="150" y="575" class="t">• La qualité dépend du procédé, des intrants et des certifications.</text>
-<text x="150" y="610" class="t">• Une approche multifilière améliore le modèle économique.</text>
+<rect x="760" y="190" width="580" height="130" class="blue"></rect>
 
-<line x1="0" y1="840" x2="1600" y2="840" stroke="#bbb"/>
-<text x="20" y="875" class="small">Atlas mondial de la valorisation économique du Biochar — ch1_fr_cycle.svg — Version 1.0</text>
+<text x="1050" y="250" text-anchor="middle" class="txt">
+
+ATMOSPHÈRE
+
+</text>
+
+<text x="1050" y="285" text-anchor="middle" class="small">
+
+CO₂ disponible pour la photosynthèse
+
+</text>
+
+<rect x="120" y="520" width="700" height="220" class="green"></rect>
+
+<text x="470" y="585" text-anchor="middle" class="txt">
+
+FORÊTS
+
+</text>
+
+<text x="470" y="635" text-anchor="middle" class="small">
+
+Branches
+
+Éclaircies
+
+Résidus forestiers
+
+</text>
+
+<rect x="1280" y="520" width="700" height="220" class="green"></rect>
+
+<text x="1630" y="585" text-anchor="middle" class="txt">
+
+AGRICULTURE
+
+</text>
+
+<text x="1630" y="635" text-anchor="middle" class="small">
+
+Paille
+
+Bambou
+
+Miscanthus
+
+Tailles
+
+Coques
+
+</text>
+
+<line x1="1050" y1="320" x2="470" y2="520" class="arrow"></line>
+
+<line x1="1050" y1="320" x2="1630" y2="520" class="arrow"></line>
+
+<rect x="640" y="930" width="820" height="170" class="grey"></rect>
+
+<text x="1050" y="1005" text-anchor="middle" class="txt">
+
+BIOMASSE DURABLE
+
+</text>
+
+<text x="1050" y="1050" text-anchor="middle" class="small">
+
+Collecte • Tri • Broyage • Séchage
+
+</text>
+
+<line x1="470" y1="740" x2="900" y2="930" class="arrow"></line>
+
+<line x1="1630" y1="740" x2="1200" y2="930" class="arrow"></line>
+
+<rect x="600" y="1250" width="900" height="240" class="orange"></rect>
+
+<text x="1050" y="1335" text-anchor="middle" class="txt">
+
+THERMOLYSE
+
+</text>
+
+<text x="1050" y="1385" text-anchor="middle" class="small">
+
+Transformation thermique pauvre en oxygène
+
+</text>
+
+<text x="1050" y="1435" text-anchor="middle" class="small">
+
+Procédé industriel
+
+</text>
+
+<line x1="1050" y1="1100" x2="1050" y2="1250" class="arrow"></line>
+
+<rect x="90" y="1700" width="560" height="240" class="green"></rect>
+
+<text x="370" y="1780" text-anchor="middle" class="txt">
+
+BIOCHAR
+
+</text>
+
+<text x="370" y="1830" text-anchor="middle" class="small">
+
+Carbone stable
+
+Très forte durée de vie
+
+</text>
+
+<rect x="770" y="1700" width="560" height="240" class="blue"></rect>
+
+<text x="1050" y="1780" text-anchor="middle" class="txt">
+
+GAZ
+
+</text>
+
+<text x="1050" y="1830" text-anchor="middle" class="small">
+
+Valorisation énergétique
+
+Synthèse
+
+</text>
+
+<rect x="1450" y="1700" width="560" height="240" class="orange"></rect>
+
+<text x="1730" y="1780" text-anchor="middle" class="txt">
+
+CHALEUR
+
+</text>
+
+<text x="1730" y="1830" text-anchor="middle" class="small">
+
+Cogénération
+
+Industrie
+
+Réseaux
+
+</text>
+
+<line x1="1050" y1="1490" x2="370" y2="1700" class="arrow"></line>
+
+<line x1="1050" y1="1490" x2="1050" y2="1700" class="arrow"></line>
+
+<line x1="1050" y1="1490" x2="1730" y2="1700" class="arrow"></line>
+
+<rect x="120" y="2240" width="520" height="170" class="green"></rect>
+<text x="380" y="2325" text-anchor="middle" class="txt">AGRICULTURE</text>
+
+<rect x="790" y="2240" width="520" height="170" class="green"></rect>
+<text x="1050" y="2325" text-anchor="middle" class="txt">MATÉRIAUX</text>
+
+<rect x="1460" y="2240" width="520" height="170" class="green"></rect>
+<text x="1720" y="2325" text-anchor="middle" class="txt">FILTRATION</text>
+
+<line x1="370" y1="1940" x2="380" y2="2240" class="arrow"></line>
+<line x1="370" y1="1940" x2="1050" y2="2240" class="arrow"></line>
+<line x1="370" y1="1940" x2="1720" y2="2240" class="arrow"></line>
+
+<rect x="520" y="2610" width="1060" height="170" class="blue"></rect>
+
+<text x="1050" y="2685" text-anchor="middle" class="txt">
+
+SÉQUESTRATION DURABLE DU CARBONE
+
+</text>
+
+<text x="1050" y="2735" text-anchor="middle" class="small">
+
+Stockage sur plusieurs décennies à plusieurs siècles selon les conditions d'utilisation
+
+</text>
+
+<line x1="1050" y1="2410" x2="1050" y2="2610" class="arrow"></line>
+
+<text x="120" y="2910" class="caption">
+
+Atlas mondial de la valorisation économique du biochar — Eric Jacob — Version 1.0
+
+</text>
+
 </svg>
