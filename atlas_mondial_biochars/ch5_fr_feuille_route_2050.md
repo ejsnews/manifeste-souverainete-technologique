@@ -74,15 +74,14 @@ Il devient :
 
 ## 3. Le cas Haffner Energy
 
-Haffner Energy constitue dans cet Atlas un **cas industriel français particulièrement intéressant** parce que sa technologie de thermolyse associe valorisation de biomasses, production de gaz renouvelable et gestion du carbone biogénique, avec des configurations adaptées à des objectifs industriels différents.
+Haffner Energy constitue dans cet Atlas un **cas industriel français particulièrement intéressant** parce que sa technologie de thermolyse associe valorisation de biomasses, production de gaz renouvelable GNR et gestion du carbone biogénique, avec des configurations adaptées à des objectifs industriels différents.
 
-Les communications disponibles distinguent notamment les familles **CORE / C-iC** et **SCALE / S-iC**, ainsi que les architectures H5, H6 et les évolutions de gamme en cours de présentation publique.
+Les communications disponibles distinguent notamment les familles **CORE / C-iC** et **SCALE / S-iC**, ainsi que les architectures H5, H6 et les évolutions de gamme en cours de présentation publique:
 
-On rencontre notamment, selon les configurations et les communications considérées, des ordres de grandeur autour de :
-
-- **1,7 MW de syngaz et environ 50 kg H₂/h** pour certaines présentations C-iC/H6 ;
-- des communications antérieures ou correspondant à d’autres configurations autour de **2 MW et environ 60 kg H₂/h** ;
-- jusqu’à environ **17 MW de syngaz et 500 kg H₂/h** évoqués pour des architectures SCALE.
+- Le module de base C-iC/H6 de la gamme Core100 produit **1,7 MW de syngaz et environ 50 kg H₂/h**  ;
+- Certaines configurations C-iC/H6 tournent autour de **2 MW pour environ 60 kg H₂/h** ;
+- Le module S-iC produit **17 MW de syngaz et 500 kg H₂/h** pour des architectures H6-scale.
+- Le H5, dont l'architecture est proche du H6, est conçu pour des projets de grande capacité et permet une co-production de biochar.
 
 Ces valeurs ne décrivent pas nécessairement le même module, le même dimensionnement ni le même périmètre énergétique. Elles doivent donc toujours être rattachées à **la configuration technique considérée, au type de biomasse, au produit recherché et au périmètre de puissance utilisé**.
 
