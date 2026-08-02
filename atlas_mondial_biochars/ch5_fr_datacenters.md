@@ -2,17 +2,17 @@
 layout: default
 lang: fr
 author: Eric Jacob
-title: "Chapitre 5 - Datacenters IA, biochar et infrastructures territoriales"
+title: "Chapitre 5.2 — Datacenters IA, biochar et infrastructures territoriales"
 license: Creative Commons CC BY 4.0
 ---
 
-# Chapitre 5 — Datacenters IA, biochar et infrastructures territoriales
+# Chapitre 5.2 — Datacenters IA, biochar et infrastructures territoriales
 
 > **Atlas mondial de la valorisation économique du biochar — Volume 1**  
-> Version 1.1 — Août 2026  
+> Version 1.2 — Août 2026  
 > Auteur : Eric Jacob
 
-[← Sommaire de l’Atlas](./) · [Biochar idéal](ch5_fr_biochar_ideal.md) · [Passeport numérique →](ch5_fr_passeport_biochar.md)
+**[← Biochar idéal](ch5_fr_biochar_ideal.md) · [↑ Sommaire de l’Atlas](README.md) · [Passeport numérique →](ch5_fr_passeport_biochar.md)**
 
 ---
 
@@ -39,7 +39,7 @@ Il s’agit d’une **architecture prospective**, et non de l’affirmation qu�
 
 La figure suivante condense le modèle proposé.
 
-[![Datacenter IA + Biochar — infrastructure territoriale circulaire et bas carbone](ch5_fr_datacenters.png)](ch5_fr_datacenters.png)
+<img src="ch5_fr_datacenters.png" alt="Datacenter IA associé à une infrastructure territoriale de biomasse, thermolyse, énergie, chaleur et biochar" style="width:100%;height:auto;">
 
 *Figure 1 — Datacenter IA + Biochar : articulation entre ressources locales, conversion thermochimique, calcul informatique, récupération de chaleur, stockage du carbone et traçabilité. Cliquer sur l’image pour l’ouvrir en pleine résolution.*
 
@@ -76,6 +76,12 @@ Une filière de thermolyse peut valoriser certaines biomasses résiduelles en pl
 
 Le modèle devient particulièrement intéressant lorsque plusieurs de ces flux trouvent simultanément un débouché local.
 
+### Exemple technologique : Haffner Energy
+
+Haffner Energy développe depuis plus de trente ans des solutions de thermolyse de biomasse. Sa documentation actuelle présente, selon les configurations, du syngas renouvelable, de l’hydrogène, du méthanol et du biocarbone, ainsi qu’une expertise biomasse/biochar allant de la faisabilité à l’optimisation du procédé.
+
+L’Atlas retient ici **le principe technologique et méthodologique**, pas une performance universelle : capacité, rendement, qualité du biochar et bilan carbone doivent être calculés pour la biomasse et la configuration réellement retenues.
+
 ---
 
 ## 3. Biomasse : une ressource, pas une ressource infinie
@@ -94,6 +100,22 @@ Une implantation sérieuse doit examiner :
 - les risques liés à des cultures dédiées mal adaptées.
 
 Les résidus forestiers, agricoles ou industriels peuvent être intéressants lorsqu’ils sont réellement disponibles et qu’une partie suffisante de la matière organique reste dans les écosystèmes.
+
+### Biomasse agnostique ne signifie pas biomasse non caractérisée
+
+Une technologie capable de traiter des biomasses très diverses n’implique pas que toute matière soit acceptée sans étude. Haffner Energy décrit une expertise préalable comprenant notamment faisabilité, bilans thermiques et massiques, essais et optimisation des paramètres de procédé ; son centre de Vitry-Marolles a été conçu pour tester les biomasses de clients et prospects.
+
+Humidité, cendres, sels, minéraux, métaux, chlore, comportement des goudrons et autres propriétés peuvent modifier rendement, corrosion, émissions et qualité du biochar. Une ressource peut donc être acceptée, acceptée sous conditions — mélange, préparation ou paramètres adaptés — ou refusée.
+
+Les biomasses marines illustrent cette logique. Des algues ou sargasses problématiques peuvent constituer une ressource potentielle, mais leur eau, leurs sels, leur fraction minérale et leurs contaminants éventuels imposent analyse, mélange éventuel et essais avant extrapolation industrielle.
+
+```text
+RESSOURCE → ANALYSES → ESSAIS → MÉLANGE ÉVENTUEL
+          → RÉGLAGE DU PROCÉDÉ → ANALYSE DES PRODUITS
+          → DÉCISION DE FAISABILITÉ
+```
+
+Cette discipline évite un paradoxe écologique : produire un bon biochar à partir d’une ressource obtenue par une culture non raisonnée. L’objectif doit rester prioritairement la valorisation de déchets, résidus, coproduits et biomasses issues d’un entretien durable des territoires.
 
 ---
 
