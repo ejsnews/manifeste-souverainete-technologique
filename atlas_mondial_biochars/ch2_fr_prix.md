@@ -11,7 +11,7 @@ license: Creative Commons CC BY 4.0
 > **Atlas mondial de la valorisation économique du biochar — Volume 1**  
 > Version 1.1 — Août 2026 · Auteur : Eric Jacob
 
-**[← Chapitre 1](ch1_fr.md) · [↑ Sommaire de l’Atlas](README.md) · [Classification →](ch3_fr_classification.md)**
+**[← Chapitre 2](ch2_fr.md) · [↑ Sommaire de l’Atlas](README.md) · [Classification →](ch3_fr_classification.md)**
 
 ---
 
