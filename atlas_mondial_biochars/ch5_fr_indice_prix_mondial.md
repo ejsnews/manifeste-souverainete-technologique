@@ -179,7 +179,7 @@ Le but n'est pas d'imposer cette fonction au marché, mais de comprendre les var
 Pour un segment suffisamment homogène, un premier indice peut utiliser :
 
 \[
-I_t = \frac{\sum_{i=1}^{n} P_i V_i W_i}{\sum_{i=1}^{n} V_i W_i}
+$I_t = \frac{\sum_{i=1}^{n} P_i V_i W_i}{\sum_{i=1}^{n} V_i W_i}$
 \]
 
 avec :
