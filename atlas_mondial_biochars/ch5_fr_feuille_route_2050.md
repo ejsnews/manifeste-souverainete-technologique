@@ -74,7 +74,7 @@ Il devient :
 
 ## 3. Le cas Haffner Energy
 
-Haffner Energy constitue dans cet Atlas un **cas industriel français particulièrement intéressant** parce que sa technologie de thermolyse associe valorisation de biomasses, production de gaz renouvelable GNR, hydrogène, bioéthanol, biodiesel, bioéthanol et gestion du carbone biogénique ou biochar, avec des configurations adaptées à des objectifs industriels différents.
+Haffner Energy constitue dans cet Atlas un **cas industriel français particulièrement intéressant** parce que sa technologie de thermolyse associe valorisation de biomasses, production de gaz renouvelable GNR, hydrogène, bioéthanol, biodiesel, biométhanol à des prix très bas sans subventions et gestion du carbone biogénique ou biochar, avec des configurations adaptées à des objectifs industriels différents. Écologiquement le choix du biochar plutôt que le choix d'un carbone biogénique étant le plus vertueux (en acceptant un rendement légèrement moindre).
 
 Les communications disponibles distinguent notamment les familles **CORE / C-iC** et **SCALE / S-iC**, ainsi que les architectures H5, H6 et les évolutions de gamme en cours de présentation publique:
 
@@ -89,11 +89,9 @@ Ces valeurs ne décrivent pas nécessairement le même module, le même dimensio
 
 ## 4. Une gamme industrielle en évolution
 
-Les différences entre certaines puissances et capacités évoquées dans les communications consacrées aux technologies Haffner Energy proviennent d'un souhait de modularité maximal au travers d'une gamme de service maximalisé.
+Les différences observées entre certaines puissances et capacités reflètent avant tout une volonté de proposer une gamme modulaire couvrant des besoins industriels très différents.
 
-Haffner Energy sera amené à revenir sur sa gamme pour la clarifier. H6 correspond à une architecture spécifique, mais peut correspondre à des tailles d'équipements différents. 
-
-Elles s’inscrivent notamment dans l’évolution et le dimensionnement de différentes configurations industrielles, dont les nouvelles architectures **H5** et **H6-Scale**.
+Haffner Energy a indiqué qu'une présentation plus détaillée de cette gamme sera prochainement rendue publique, notamment dans l’évolution et le dimensionnement de différentes configurations industrielles, dont les nouvelles architectures **H5** et **H6-Scale**.
 
 À la date de cette version de l’Atlas, leurs caractéristiques techniques détaillées n’ont pas encore toutes été rendues publiques. Haffner Energy doit présenter plus complètement ces nouvelles configurations.
 
@@ -308,7 +306,7 @@ L’architecture doit néanmoins conserver les redondances électriques nécessa
 
 ---
 
-## 15. De 1,7 MW à plusieurs dizaines de MW
+## 15. Puissance du syngaz et puissance électrique, de quelques MW à plusieurs dizaines de MW
 
 Les gammes modulaires permettent d’envisager différentes échelles.
 
