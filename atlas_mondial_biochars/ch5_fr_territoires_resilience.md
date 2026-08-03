@@ -459,9 +459,9 @@ BIOCHAR* → AGRICULTURE / MATÉRIAUX / CARBONE
 
 Attention :
 
-\[
+$$
 P_{\mathrm{gaz}} \neq P_{\mathrm{électrique\ net}}
-\]
+$$
 
 La conversion vers l’électricité implique rendement et auxiliaires. Réseau, stockage et moyens de secours restent nécessaires pour les charges critiques.
 
