@@ -94,9 +94,78 @@
 
 ## Accès rapide par décideur
 
-Le chapitre **[Territoires & résilience](ch5_fr_territoires_resilience.md)** sert de porte d’entrée sectorielle vers les principaux cas d’usage :
+Vous cherchez comment appliquer concrètement la thermolyse, le biochar ou la valorisation énergétique à votre activité ?
 
-collectivités et métropoles • directions RSE/ESG • industries • datacenters et campus IA • hôpitaux • logistique et distribution • ports • aéroports et SAF • agroalimentaire et chaîne du froid • agriculture et coopératives • réseaux de chaleur • défense et sites critiques • forêts et prévention incendie • molécules renouvelables • finance • carbone et MRV.
+Le chapitre **[Territoires & résilience](ch5_fr_territoires_resilience.md)** transforme les principaux secteurs en cas d’usage : ressources disponibles, besoins énergétiques, produits valorisables, décarbonation et création de valeur.
+
+### Territoires & services publics
+
+- **[Collectivités & métropoles](ch5_fr_territoires_resilience.md#metropoles)**  
+  Déchets verts, chaleur, énergie, mobilité et services territoriaux.
+
+- **[Hôpitaux & infrastructures de santé](ch5_fr_territoires_resilience.md#hopitaux)**  
+  Énergie, chaleur, froid, mobilité et résilience des sites critiques.
+
+- **[Réseaux de chaleur & immobilier](ch5_fr_territoires_resilience.md#chaleur)**  
+  Valoriser une biomasse territoriale au plus près des besoins thermiques.
+
+- **[Défense & sites isolés](ch5_fr_territoires_resilience.md#defense)**  
+  Autonomie énergétique, logistique et réduction des dépendances.
+
+### Industrie, numérique & logistique
+
+- **[Industries](ch5_fr_territoires_resilience.md#industries)**  
+  Chaleur, gaz, hydrogène, molécules renouvelables et biocarbone.
+
+- **[Marchés de gros, distribution & logistique](ch5_fr_territoires_resilience.md#logistique)**  
+  Transformer résidus, palettes et flux territoriaux en énergie et services.
+
+- **[Datacenters & campus IA](ch5_fr_territoires_resilience.md#datacenters)**  
+  Énergie pilotable, biomasse territoriale et valorisation de la chaleur.
+
+- **[Ports & zones industrialo-portuaires](ch5_fr_territoires_resilience.md#ports)**  
+  Matières, hydrogène, méthanol, chaleur, carburants et logistique lourde.
+
+### Agriculture, alimentation & territoires vivants
+
+- **[Agriculture & coopératives](ch5_fr_territoires_resilience.md#agriculture)**  
+  Résidus mobilisables, énergie locale, biochar et retour du carbone aux sols.
+
+- **[Agroalimentaire & chaîne du froid](ch5_fr_territoires_resilience.md#agroalimentaire)**  
+  Valoriser coproduits et biomasses pour produire chaleur, froid et énergie.
+
+- **[Forêts & prévention des incendies](ch5_fr_territoires_resilience.md#forets)**  
+  Donner une valeur à la biomasse issue d’un entretien forestier soutenable.
+
+- **[Reconquête des terres dégradées](ch5_fr_reconquete_deserts.md)**  
+  Biochar, eau, sols et restauration de territoires fragilisés.
+
+### Mobilité & molécules renouvelables
+
+- **[Aéroports & aviation](ch5_fr_territoires_resilience.md#aviation)**  
+  De la biomasse territoriale au syngaz puis aux filières SAF.
+
+- **[Hydrogène, méthanol, biométhane & carburants](ch5_fr_territoires_resilience.md#molecules)**  
+  Choisir la molécule qui remplace réellement une dépense fossile.
+
+### RSE, carbone & investissement
+
+- **[Directions RSE / ESG](ch5_fr_territoires_resilience.md#rse-esg)**  
+  Transformer un projet industriel en réduction carbone démontrable.
+
+- **[Biochar ou rendement énergétique ?](ch5_fr_territoires_resilience.md#carbone)**  
+  Comprendre l’arbitrage entre énergie produite et carbone solide conservé.
+
+- **[Carbone, MRV & métrologie](ch5_fr_metrologie_carbone.md)**  
+  Mesurer, documenter et rendre vérifiable la performance carbone.
+
+- **[Financeurs & investisseurs](ch5_fr_territoires_resilience.md#finance)**  
+  Évaluer économies, revenus multiples, CAPEX/OPEX et robustesse économique.
+
+---
+
+> **Vous ne trouvez pas exactement votre activité ?**  
+> Commencez par **[la méthode en 8 questions](ch5_fr_territoires_resilience.md#methode)** : identifiez vos résidus, les biomasses disponibles autour de votre site, vos dépenses énergétiques et les produits ou services que votre territoire pourrait utiliser.
 
 ---
 
