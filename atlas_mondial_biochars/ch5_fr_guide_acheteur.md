@@ -13,8 +13,6 @@ license: Creative Commons CC BY 4.0
 
 **[← Gestion des risques](ch5_fr_gestion_risques.md) · [↑ Sommaire de l’Atlas](README.md) · [Métrologie du carbone →](ch5_fr_metrologie_carbone.md)**
 
-**[← Gestion des risques](ch5_fr_gestion_risques.md) · [↑ Sommaire de l’Atlas](README.md) · [Métrologie du carbone →](ch5_fr_metrologie_carbone.md)**
-
 ---
 
 ## Choisir le bon biochar pour le bon usage
