@@ -1,441 +1,443 @@
-<nav style="margin-top:30px; padding:5px; border-top: 1px solid #30363d; font-size: 1em;">
-  <p style="color: #f2cc60; font-weight: bold; margin-bottom: 10px;">📚 Sommaire — Manifeste & Analyses</p>
-  <ul style="list-style: none; padding: 0; columns: 1; gap: 20px;">
+<!-- NAV HEADER TOP - MANIFESTE SOUVERAINETÉ TECHNOLOGIQUE -->
+<style>
+  :root {
+    --nav-bg: #0d1117;
+    --nav-border: #30363d;
+    --nav-text: #c9d1d9;
+    --nav-accent: #f2cc60;
+    --nav-hover-bg: #161b22;
+    --nav-subtext: #8b949e;
+  }
 
-    <li style="margin-bottom: 6px;">🏠 <a href="/manifeste-souverainete-technologique/">Accueil</a></li>
+  .site-header-nav {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    background-color: var(--nav-bg);
+    border-bottom: 1px solid var(--nav-border);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 0.95rem;
+  }
 
-    <li style="margin-bottom: 6px; margin-top: 12px; color: #f2cc60; font-weight: bold;">📖 Documents principaux</li>
-    <li style="margin-bottom: 6px;">📜 <a href="/manifeste-souverainete-technologique/manifeste_souverainete_technologique_v3_FR.html">Manifeste complet (FR)</a></li>
-    <li style="margin-bottom: 6px;">📋 <a href="/manifeste-souverainete-technologique/EXECUTIVE_SUMMARY.html">Résumé exécutif</a></li>
-    <li style="margin-bottom: 6px;">📄 <a href="/manifeste-souverainete-technologique/note_pour_une_souverainete_forte_politique.html">Note politique</a></li>
-    <li style="margin-bottom: 6px;">📰 <a href="/manifeste-souverainete-technologique/media/tribune_usine_nouvelle.html">Tribune - Usine Nouvelle</a></li>
-    <li style="margin-bottom: 6px;">🌱 <a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/index.html">ATLAS MONDIAL DE LA VALORISATION ÉCONOMIQUE DU BIOCHAR</a></li>
+  .nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+  }
+
+  .nav-brand {
+    font-weight: bold;
+    color: var(--nav-accent) !important;
+    text-decoration: none;
+    font-size: 1.05rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 15px;
+  }
+
+  .nav-item {
+    position: relative;
+  }
+
+  .nav-btn {
+    background: transparent;
+    border: none;
+    color: var(--nav-text);
+    font-size: 0.95rem;
+    font-weight: 600;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: background 0.2s, color 0.2s;
+  }
+
+  .nav-btn:hover, .nav-btn.active {
+    background-color: var(--nav-hover-bg);
+    color: var(--nav-accent);
+  }
+
+  /* Dropdown panel */
+  .dropdown-panel {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 320px;
+    background-color: var(--nav-bg);
+    border: 1px solid var(--nav-border);
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    padding: 12px;
+    margin-top: 6px;
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+
+  .dropdown-panel.wide {
+    width: 640px;
+    display: none;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+  }
+
+  .dropdown-panel.show {
+    display: block;
+  }
+
+  .dropdown-panel.wide.show {
+    display: grid;
+  }
+
+  .dropdown-group-title {
+    color: var(--nav-accent);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    margin: 10px 0 6px 6px;
+    border-bottom: 1px solid var(--nav-border);
+    padding-bottom: 4px;
+  }
+
+  .dropdown-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .dropdown-link {
+    display: block;
+    padding: 6px 8px;
+    color: var(--nav-text);
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.88rem;
+    transition: background 0.15s;
+  }
+
+  .dropdown-link:hover {
+    background-color: var(--nav-hover-bg);
+    color: var(--nav-accent);
+  }
+
+  .dropdown-link small {
+    display: block;
+    color: var(--nav-subtext);
+    font-size: 0.75rem;
+    margin-top: 2px;
+  }
+
+  .lang-switch {
+    font-size: 0.85rem;
+    border: 1px solid var(--nav-border);
+    padding: 4px 8px;
+    border-radius: 4px;
+    color: var(--nav-text);
+    text-decoration: none;
+  }
+
+  .lang-switch:hover {
+    color: var(--nav-accent);
+    border-color: var(--nav-accent);
+  }
+
+  /* Responsive Burger */
+  .mobile-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: var(--nav-text);
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+
+  @media (max-width: 900px) {
+    .mobile-toggle { display: block; }
+    .nav-menu {
+      display: none;
+      flex-direction: column;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background-color: var(--nav-bg);
+      border-bottom: 1px solid var(--nav-border);
+      padding: 15px;
+    }
+    .nav-menu.mobile-open { display: flex; }
+    .dropdown-panel, .dropdown-panel.wide {
+      position: static;
+      width: 100%;
+      box-shadow: none;
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<header class="site-header-nav">
+  <div class="nav-container">
+    <a href="/manifeste-souverainete-technologique/" class="nav-brand">
+      🏠 <span>Souveraineté Technologique</span>
+    </a>
+
+    <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">☰</button>
+
+    <nav class="nav-menu" id="navMenu">
+      
+      <!-- CATEGORIE 1 : LE MANIFESTE & LA VISION -->
+      <div class="nav-item">
+        <button class="nav-btn" onclick="toggleDropdown(event, 'drop-manifeste')">
+          📜 Le Manifeste ▾
+        </button>
+        <div class="dropdown-panel" id="drop-manifeste">
+          <div class="dropdown-group-title">Textes Fondateurs & Politiques</div>
+          <ul class="dropdown-list">
+            <li>
+              <a class="dropdown-link" href="/manifeste-souverainete-technologique/manifeste_souverainete_technologique_v3_FR.html">
+                📜 Manifeste complet (v3 FR)
+                <small>Vision industrielle, souveraineté et décarbonation</small>
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-link" href="/manifeste-souverainete-technologique/EXECUTIVE_SUMMARY.html">
+                📋 Résumé Exécutif
+                <small>L'essentiel du projet en quelques minutes</small>
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-link" href="/manifeste-souverainete-technologique/note_pour_une_souverainete_forte_politique.html">
+                📄 Note de Politique Publique
+                <small>Orientations stratégiques pour les décideurs</small>
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-link" href="/manifeste-souverainete-technologique/media/tribune_usine_nouvelle.html">
+                📰 Tribune - L'Usine Nouvelle
+                <small>Tribunes et interventions média</small>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- CATEGORIE 2 : ATLAS MONDIAL DU BIOCHAR -->
+      <div class="nav-item">
+        <button class="nav-btn" onclick="toggleDropdown(event, 'drop-biochar')">
+          🌱 Atlas du Biochar ▾
+        </button>
+        <div class="dropdown-panel wide" id="drop-biochar">
+          <div>
+            <div class="dropdown-group-title">1. Comprendre & Valoriser</div>
+            <ul class="dropdown-list">
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/index.html">🌱 Introduction à l'Atlas</a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch1_fr.html">Why Biochar? <small>Enjeux, thermolyse et potentiel mondial</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch2_fr.html">Modèle Économique <small>Marchés, crédits carbone & revenus</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch3_fr.html">Biomasses & Gisement <small>Typologies et préparation des intrants</small></a></li>
+            </ul>
+
+            <div class="dropdown-group-title">2. Qualité & Marchés</div>
+            <ul class="dropdown-list">
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_biochar_ideal.html">Vers le Biochar Idéal</a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_indice_qualite.html">Indice de Qualité</a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_guide_acheteur.html">Guide d'Achat & Sourcing</a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_bourse_biochar.html">Futur Marché & Bourse du Biochar</a></li>
+            </ul>
+          </div>
+
+          <div>
+            <div class="dropdown-group-title">3. Traçabilité & Mesure (MRV)</div>
+            <ul class="dropdown-list">
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_metrologie_carbone.html">Métrologie & ACV</a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_passeport_biochar.html">Passeport Numérique des lots</a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_jumeau_numerique.html">Jumeau Numérique de suivi</a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_gestion_risques.html">Gestion des risques projets</a></li>
+            </ul>
+
+            <div class="dropdown-group-title">4. Écosystème & Prospective</div>
+            <ul class="dropdown-list">
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_recherche_mondiale.html">Recherche & Universités</a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_consortium_biochar.html">Consortium Mondial</a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_feuille_route_2050.html">Feuille de Route 2050</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- CATEGORIE 3 : ANALYSES SECTORIELLES & CAS D'USAGE -->
+      <div class="nav-item">
+        <button class="nav-btn" onclick="toggleDropdown(event, 'drop-analyses')">
+          🔬 Analyses Sectorielles ▾
+        </button>
+        <div class="dropdown-panel wide" id="drop-analyses">
+          <div>
+            <div class="dropdown-group-title">📦 Logistique, Industrie & RSE</div>
+            <ul class="dropdown-list">
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Logistique_et_Transport_la_biomasse_r%C3%A9siduelle_comme_carburant_de_demain.html">
+                  🚛 Logistique & Transports
+                  <small>Valoriser cartons, palettes & déchets de flux</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Les_usages_du_Biochar_bien_plus_qu_un_puits_de_carbone.html">
+                  🌱 Biochar Industriels
+                  <small>Matériaux, BTP et applications avancées</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/chauffage_urbain_H6_vs_chaudiere.html">
+                  🏬 Ville Circulaire & Reseaux de Chaleur
+                  <small>Remplacer les chaudières fossiles/combustion</small>
+                </a>
+              </li>
+            </ul>
+
+            <div class="dropdown-group-title">⚡ Datacenters & Énergie Numérique</div>
+            <ul class="dropdown-list">
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Datacenters_et_Intelligence_Artificielle_-_le_seul_scenario_vertueux.html">
+                  ⚡ Datacenters & IA
+                  <small>Énergie pilotable décarbonée pour serveurs</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Climatisation_D%C3%A9carbon%C3%A9e_le_droit_au_froid_sans_catastrophe_%C3%A9cologique.html">
+                  ❄️ Climatisation Décarbonée
+                  <small>Production de froid propre haute efficacité</small>
+                </a>
+              </li>
+            </ul>
+
+            <div class="dropdown-group-title">🌾 Agriculture & Territoires</div>
+            <ul class="dropdown-list">
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Agriculture_et_Souverainet%C3%A9_Alimentaire_Haffner_comme_levier_de_survie_et_d_ind%C3%A9pendance.html">
+                  🌾 Agriculture & Souveraineté
+                  <small>Régénération des sols & autonomie énergétique</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/L_INDEPENDANCE_EN_HYDROGENE_A_PORTEE_DE_CHAQUE_TERRITOIRE_COLLECTIVITES_ELUS_RURAUX.html">
+                  💧 Hydrogène & Collectivités
+                  <small>Production locale pour communes & élus ruraux</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Protocole_de_prévention_des_feux_de_forêt_par_thermolyse_et_Biochar.html">
+                  🔥 Prévention des Feux de Forêt
+                  <small>Nettoyage des sous-bois et thermolyse</small>
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <div class="dropdown-group-title">✈️ Aviation & Carburants Durables (SAF)</div>
+            <ul class="dropdown-list">
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/SAF_Carburant_durable_pour_l_aviation_-_L_agnosticisme_comme_garantie.html">
+                  ✈️ SAF - Agnosticisme Biomasse
+                  <small>Flexibilité absolue des gisements d'intrants</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/LE_SAF_HAFFNER_ENERGY_UNE_SOLUTION_FRANCAISE_IMMEDIATE_POUR_LA_DECARBONATION_DE_L_AVIATION.html">
+                  🇫🇷 SAF - Solution Française Immédiate
+                  <small>Déploiement souverain pour le secteur aérien</small>
+                </a>
+              </li>
+            </ul>
+
+            <div class="dropdown-group-title">🛡️ Santé, Défense & Autonomie Strategique</div>
+            <ul class="dropdown-list">
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/HOPITAL_AUTONOME_DECARBONATION_ET_ENERGIE_VERTE_SOLUTION_THERMOLYSE_HAFFNER_ENERGY.html">
+                  🏥 Hôpital Autonome
+                  <small>Sécurité énergétique & secours pour de la santé</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/AUTONOMIE_ENERGETIQUE_TACTIQUE_DEFENSE_SOUVERAINETE_MILITAIRE.html">
+                  🛡️ Autonomie Tactique & Défense
+                  <small>Résilience énergétique des infrastructures critiques</small>
+                </a>
+              </li>
+            </ul>
+
+            <div class="dropdown-group-title">📊 Modélisation & Économie Industrielle</div>
+            <ul class="dropdown-list">
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Modelisation_economique_-_Installation_H6_et_S-iC_et_derives_du_Syngas.html">
+                  📈 Modélisation Économique H6 / Syngas
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/media/Haffner_Energy_d_apres_les_informations_disponibles_publiquement_etude_technique_H6_H4.html">
+                  ⚙️ Étude Technique Modules H6
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/COMPARAISON_SOURCES_ENERGIE_THERMOLYSE_HAFFNER_ENERGY.html">
+                  ⚖️ Comparatif des Sources d'Énergie
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </nav>
+
+    <div>
+      <a href="/manifeste-souverainete-technologique/MANIFESTO_FOR_TECHNOLOGICAL_SOVEREIGNTY_AND_RESILIENCE.html" class="lang-switch">
+        🇬🇧 English
+      </a>
+    </div>
+  </div>
+</header>
+
+<script>
+  function toggleDropdown(event, id) {
+    event.stopPropagation();
+    const target = document.getElementById(id);
+    const isShown = target.classList.contains('show');
     
-    <li style="margin-bottom: 6px; margin-top: 12px; color: #f2cc60; font-weight: bold;">🔬 Haffner Energy Etudes (EN)</li>
-    <li style="margin-bottom: 6px;">🏠 <a href="/manifeste-souverainete-technologique/analyses/Modelisation_economique_-_Installation_H6_et_S-iC_et_derives_du_Syngas.html">Modélisation Économique - Installation et dérivés du Syngas</a></li>
-    <li style="margin-bottom: 6px;">🏠 <a href="/manifeste-souverainete-technologique/media/Haffner_Energy_d_apres_les_informations_disponibles_publiquement_etude_technique_H6_H4.html">Étude technique Modules H6</a></li>
-    <li style="margin-bottom: 6px;">🏠 <a href="/manifeste-souverainete-technologique/analyses/chemin_climatique_sans_decroissance.html">Un chemin de sortie de crises sans décroissance</a></li>
-    
-    <li style="margin-bottom: 6px; margin-top: 12px; color: #f2cc60; font-weight: bold;">🔬 Analyses sectorielles (FR)</li>
-    <li style="margin-bottom: 6px;">⚡ <a href="/manifeste-souverainete-technologique/analyses/Datacenters_et_Intelligence_Artificielle_-_le_seul_scenario_vertueux.html">Datacenters & IA</a></li>
-    <li style="margin-bottom: 6px;">🚛 <a href="/manifeste-souverainete-technologique/analyses/Logistique_et_Transport_la_biomasse_r%C3%A9siduelle_comme_carburant_de_demain.html">Logistique & Transport</a></li>
-    <li style="margin-bottom: 6px;">🌱 <a href="/manifeste-souverainete-technologique/analyses/Les_usages_du_Biochar_bien_plus_qu_un_puits_de_carbone.html">Biochar - usages avancés</a></li>
-    <li style="margin-bottom: 6px;">🌾 <a href="/manifeste-souverainete-technologique/analyses/Agriculture_et_Souverainet%C3%A9_Alimentaire_Haffner_comme_levier_de_survie_et_d_ind%C3%A9pendance.html">Agriculture & Souveraineté</a></li>
-    <li style="margin-bottom: 6px;">🔥 <a href="/manifeste-souverainete-technologique/analyses/Protocole_de_prévention_des_feux_de_forêt_par_thermolyse_et_Biochar.html">Protocole de prévention des feux de forêt</a></li>
-    <li style="margin-bottom: 6px;">❄️ <a href="/manifeste-souverainete-technologique/analyses/Climatisation_D%C3%A9carbon%C3%A9e_le_droit_au_froid_sans_catastrophe_%C3%A9cologique.html">Climatisation décarbonée</a></li>
-    <li style="margin-bottom: 6px;">✈️ <a href="/manifeste-souverainete-technologique/analyses/SAF_Carburant_durable_pour_l_aviation_-_L_agnosticisme_comme_garantie.html">SAF - Agnosticisme biomasse</a></li>
-    <li style="margin-bottom: 6px;">🌍 <a href="/manifeste-souverainete-technologique/analyses/LE_SAF_HAFFNER_ENERGY_UNE_SOLUTION_FRANCAISE_IMMEDIATE_POUR_LA_DECARBONATION_DE_L_AVIATION.html">SAF - Solution française aviation</a></li>
-    <li style="margin-bottom: 6px;">🏥 <a href="/manifeste-souverainete-technologique/analyses/HOPITAL_AUTONOME_DECARBONATION_ET_ENERGIE_VERTE_SOLUTION_THERMOLYSE_HAFFNER_ENERGY.html">Hôpital autonome</a></li>
-    <li style="margin-bottom: 6px;">💧 <a href="/manifeste-souverainete-technologique/analyses/L_INDEPENDANCE_EN_HYDROGENE_A_PORTEE_DE_CHAQUE_TERRITOIRE_COLLECTIVITES_ELUS_RURAUX.html">Hydrogène & Territoires</a></li>
-    <li style="margin-bottom: 6px;">💧 <a href="/manifeste-souverainete-technologique/analyses/chauffage_urbain_H6_vs_chaudiere.html">Ville circulaire : remplacer la chaudière urbaine à combustion </a></li>
-    
-    <li style="margin-bottom: 6px;">🛡️ <a href="/manifeste-souverainete-technologique/analyses/AUTONOMIE_ENERGETIQUE_TACTIQUE_DEFENSE_SOUVERAINETE_MILITAIRE.html">Défense & Souveraineté militaire</a></li>
-    <li style="margin-bottom: 6px;">🔥 <a href="/manifeste-souverainete-technologique/analyses/REVOLUTION_ENERGETIQUE_ET_ABANDON_DE_SOUVERAINETE_NATIONALE.html">Révolution énergétique</a></li>
-    <li style="margin-bottom: 6px;">📊 <a href="/manifeste-souverainete-technologique/analyses/CLASSEMENT_CLIMATIQUE_SOURCES_ENERGIE_CHALEUR_ANTHROPIQUE.html">Classement sources d'énergie</a></li>
-    <li style="margin-bottom: 6px;">⚖️ <a href="/manifeste-souverainete-technologique/analyses/COMPARAISON_SOURCES_ENERGIE_THERMOLYSE_HAFFNER_ENERGY.html">Comparaison sources énergie</a></li>
-    <li style="margin-bottom: 6px;">⚖️ <a href="/manifeste-souverainete-technologique/analyses/Le_cout_humain_et_planetaire_du_modele_actuel_-_Ce_que_Haffner_peut_changer.html">Coût planétaire du modèle actuel</a></li>
-
-    <li style="margin-bottom: 6px;">⚖️ <a href="/manifeste-souverainete-technologique/analyses/Guerres_Ressources_et_Decentralisation_Comment_Haffner_Energy_brise_le_cycle.html">Une décentralisation qui brise le cycle des Guerres</a></li>
-    <li style="margin-bottom: 6px;">⚖️ <a href="/manifeste-souverainete-technologique/analyses/Le_cout_humain_et_planetaire_du_modele_actuel_-_Ce_que_Haffner_peut_changer.html">Réduire le coût humain et planétaire du pétrole</a></li>
-
-    <li style="margin-bottom: 6px; margin-top: 12px; color: #f2cc60; font-weight: bold;">🇬🇧 English version</li>
-    <li style="margin-bottom: 6px;">📜 <a href="/manifeste-souverainete-technologique/MANIFESTO_FOR_TECHNOLOGICAL_SOVEREIGNTY_AND_RESILIENCE.html">Full Manifesto (EN)</a></li>
-
-  </ul>
-</nav>
-
-<nav style="margin-top:30px; padding:5px; border-top:1px solid #30363d; font-size:1em;">
-
-<p style="color:#f2cc60; font-weight:bold; margin-bottom:10px;">
-Sommaire général
-</p>
-
-<ul style="list-style:none; padding:0; columns:1; gap:20px;">
-
-<li style="margin-bottom:6px;">
-<a href="/manifeste-souverainete-technologique/">Accueil</a>
-</li>
-
-<li style="margin-top:16px; margin-bottom:8px; color:#f2cc60; font-weight:bold;">
-Documents principaux
-</li>
-
-<li><a href="/manifeste-souverainete-technologique/manifeste_souverainete_technologique_v3_FR.html">
-Manifeste complet
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/EXECUTIVE_SUMMARY.html">
-Résumé exécutif
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/note_pour_une_souverainete_forte_politique.html">
-Note politique
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/media/tribune_usine_nouvelle.html">
-Tribune – Usine Nouvelle
-</a></li>
-
-
-<li style="margin-top:18px; margin-bottom:8px; color:#f2cc60; font-weight:bold;">
-Atlas mondial de la valorisation économique du biochar
-</li>
-
-<li style="margin-left:12px; color:#8b949e; font-size:0.90em; margin-bottom:12px;">
-Comprendre • Décarboner • Produire de l'énergie • Construire une économie circulaire
-</li>
-
-<details style="margin-left:6px; margin-bottom:15px;">
-
-<summary style="cursor:pointer; color:#c9d1d9; font-weight:bold;">
-Explorer les chapitres
-</summary>
-
-<ul style="list-style:none; padding-left:15px; margin-top:12px;">
-
-<li style="margin-top:8px; color:#f2cc60; font-weight:bold;">
-Comprendre le biochar
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch1_fr.html">
-Pourquoi le biochar est-il stratégique ?
-</a><br>
-<small style="color:#8b949e;">
-Origine, thermolyse, usages et potentiel mondial.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch2_fr.html">
-Comment le biochar crée-t-il de la valeur ?
-</a><br>
-<small style="color:#8b949e;">
-Marchés, économie, carbone et nouveaux revenus.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch3_fr.html">
-Quelles biomasses peuvent être valorisées ?
-</a><br>
-<small style="color:#8b949e;">
-Biomasses compatibles, préparation et ressources disponibles.
-</small>
-</li>
-
-<li style="margin-top:12px; color:#f2cc60; font-weight:bold;">
-Produire un biochar de qualité
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_biochar_ideal.html">
-Vers le biochar idéal
-</a><br>
-<small style="color:#8b949e;">
-Propriétés recherchées et critères techniques.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_indice_qualite.html">
-Comment reconnaître un biochar de qualité ?
-</a><br>
-<small style="color:#8b949e;">
-Indice mondial de qualité et comparaison.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_guide_acheteur.html">
-Comment choisir le biochar adapté ?
-</a><br>
-<small style="color:#8b949e;">
-Guide de sélection selon les usages.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_bourse_biochar.html">
-Le futur marché mondial du biochar
-</a><br>
-<small style="color:#8b949e;">
-Qualité, prix, contrats et échanges internationaux.
-</small>
-</li>
-
-<li style="margin-top:12px; color:#f2cc60; font-weight:bold;">
-Décarbonation, mesure et confiance
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_metrologie_carbone.html">
-Comment démontrer sa décarbonation ?
-</a><br>
-<small style="color:#8b949e;">
-Métrologie, MRV, ACV et certification.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_passeport_biochar.html">
-Traçabilité mondiale du biochar
-</a><br>
-<small style="color:#8b949e;">
-Passeport numérique des lots de biochar.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_jumeau_numerique.html">
-Suivre chaque tonne de biochar
-</a><br>
-<small style="color:#8b949e;">
-Jumeau numérique et suivi des productions.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_gestion_risques.html">
-Maîtriser les risques d'un projet
-</a><br>
-<small style="color:#8b949e;">
-Risques industriels, économiques et réglementaires.
-</small>
-</li>
-
-<li style="margin-top:12px; color:#f2cc60; font-weight:bold;">
-Applications industrielles
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_datacenters.html">
-Datacenters et intelligence artificielle
-</a><br>
-<small style="color:#8b949e;">
-Une énergie pilotable pour les infrastructures numériques.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_territoires_resilience.html">
-Transformer les déchets en énergie et revenus
-</a><br>
-<small style="color:#8b949e;">
-Industrie, hôpitaux, agriculture, logistique, collectivités.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_reconquete_deserts.html">
-Restaurer les terres dégradées
-</a><br>
-<small style="color:#8b949e;">
-Biochar, eau, résilience climatique et agriculture.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_feuille_route_2050.html">
-Vers une économie carbone en 2050
-</a><br>
-<small style="color:#8b949e;">
-Vision industrielle et prospective.
-</small>
-</li>
-
-</ul>
-
-</details>
-
-<li style="margin-top:16px; margin-bottom:8px; color:#f2cc60; font-weight:bold;">
-Études Haffner Energy
-</li>
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_recherche_mondiale.html">
-Recherche mondiale
-</a><br>
-<small style="color:#8b949e;">
-Instituts, universités et coopération internationale.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_consortium_biochar.html">
-Consortium mondial du biochar
-</a><br>
-<small style="color:#8b949e;">
-Structurer une filière internationale.
-</small>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_observatoire_mondial.html">
-Observatoire mondial
-</a><br>
-<small style="color:#8b949e;">
-Suivi des marchés, des productions et des usages.
-</small>
-</li>
-
-</ul>
-
-</details>
-
-
-<li style="margin-top:16px; margin-bottom:8px; color:#f2cc60; font-weight:bold;">
-Études Haffner Energy
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/analyses/Modelisation_economique_-_Installation_H6_et_S-iC_et_derives_du_Syngas.html">
-Modélisation économique - Installation et dérivés du syngas
-</a>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/media/Haffner_Energy_d_apres_les_informations_disponibles_publiquement_etude_technique_H6_H4.html">
-Étude technique des modules Haffner
-</a>
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/analyses/chemin_climatique_sans_decroissance.html">
-Un chemin de sortie des crises sans décroissance
-</a>
-</li>
-
-
-<li style="margin-top:18px; margin-bottom:8px; color:#f2cc60; font-weight:bold;">
-Analyses sectorielles
-</li>
-
-<details style="margin-left:6px; margin-bottom:10px;">
-
-<summary style="cursor:pointer; color:#c9d1d9; font-weight:bold;">
-Industrie • Énergie • Logistique
-</summary>
-
-<ul style="list-style:none; padding-left:15px; margin-top:10px;">
-
-<li><a href="/manifeste-souverainete-technologique/analyses/Datacenters_et_Intelligence_Artificielle_-_le_seul_scenario_vertueux.html">
-Datacenters et intelligence artificielle
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/analyses/Logistique_et_Transport_la_biomasse_r%C3%A9siduelle_comme_carburant_de_demain.html">
-Logistique et transport
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/analyses/chauffage_urbain_H6_vs_chaudiere.html">
-Ville circulaire : remplacer la chaudière urbaine
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/analyses/COMPARAISON_SOURCES_ENERGIE_THERMOLYSE_HAFFNER_ENERGY.html">
-Comparaison des sources d'énergie
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/analyses/CLASSEMENT_CLIMATIQUE_SOURCES_ENERGIE_CHALEUR_ANTHROPIQUE.html">
-Classement climatique des énergies
-</a></li>
-
-</ul>
-
-</details>
-
-
-<details style="margin-left:6px; margin-bottom:10px;">
-
-<summary style="cursor:pointer; color:#c9d1d9; font-weight:bold;">
-Agriculture • Biochar • Territoires
-</summary>
-
-<ul style="list-style:none; padding-left:15px; margin-top:10px;">
-
-<li><a href="/manifeste-souverainete-technologique/analyses/Agriculture_et_Souverainet%C3%A9_Alimentaire_Haffner_comme_levier_de_survie_et_d_ind%C3%A9pendance.html">
-Agriculture et souveraineté alimentaire
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/analyses/Les_usages_du_Biochar_bien_plus_qu_un_puits_de_carbone.html">
-Les usages avancés du biochar
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/analyses/Protocole_de_prévention_des_feux_de_forêt_par_thermolyse_et_Biochar.html">
-Prévention des feux de forêt
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/analyses/L_INDEPENDANCE_EN_HYDROGENE_A_PORTEE_DE_CHAQUE_TERRITOIRE_COLLECTIVITES_ELUS_RURAUX.html">
-Hydrogène et territoires
-</a></li>
-
-</ul>
-
-</details>
-
-
-<details style="margin-left:6px; margin-bottom:10px;">
-
-<summary style="cursor:pointer; color:#c9d1d9; font-weight:bold;">
-Santé • Aviation • Défense
-</summary>
-
-<ul style="list-style:none; padding-left:15px; margin-top:10px;">
-
-<li><a href="/manifeste-souverainete-technologique/analyses/HOPITAL_AUTONOME_DECARBONATION_ET_ENERGIE_VERTE_SOLUTION_THERMOLYSE_HAFFNER_ENERGY.html">
-Hôpital autonome
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/analyses/SAF_Carburant_durable_pour_l_aviation_-_L_agnosticisme_comme_garantie.html">
-SAF - Agnosticisme biomasse
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/analyses/LE_SAF_HAFFNER_ENERGY_UNE_SOLUTION_FRANCAISE_IMMEDIATE_POUR_LA_DECARBONATION_DE_L_AVIATION.html">
-SAF - Solution française
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/analyses/AUTONOMIE_ENERGETIQUE_TACTIQUE_DEFENSE_SOUVERAINETE_MILITAIRE.html">
-Défense et souveraineté
-</a></li>
-
-</ul>
-
-</details>
-
-
-<details style="margin-left:6px; margin-bottom:12px;">
-
-<summary style="cursor:pointer; color:#c9d1d9; font-weight:bold;">
-Vision stratégique
-</summary>
-
-<ul style="list-style:none; padding-left:15px; margin-top:10px;">
-
-<li><a href="/manifeste-souverainete-technologique/analyses/REVOLUTION_ENERGETIQUE_ET_ABANDON_DE_SOUVERAINETE_NATIONALE.html">
-Révolution énergétique
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/analyses/Guerres_Ressources_et_Decentralisation_Comment_Haffner_Energy_brise_le_cycle.html">
-Décentralisation et ressources
-</a></li>
-
-<li><a href="/manifeste-souverainete-technologique/analyses/Le_cout_humain_et_planetaire_du_modele_actuel_-_Ce_que_Haffner_peut_changer.html">
-Coût humain et planétaire du modèle actuel
-</a></li>
-
-</ul>
-
-</details>
-
-
-<li style="margin-top:18px; margin-bottom:8px; color:#f2cc60; font-weight:bold;">
-English version
-</li>
-
-<li>
-<a href="/manifeste-souverainete-technologique/MANIFESTO_FOR_TECHNOLOGICAL_SOVEREIGNTY_AND_RESILIENCE.html">
-Full Manifesto (EN)
-</a>
-</li>
-
-</ul>
-
-</nav>
+    // Ferme tous les autres menus
+    document.querySelectorAll('.dropdown-panel').forEach(panel => {
+      panel.classList.remove('show');
+    });
+
+    // Bascule l'état du menu ciblé
+    if (!isShown) {
+      target.classList.add('show');
+    }
+  }
+
+  // Fermer le menu si on clique n'importe où en dehors
+  document.addEventListener('click', function(event) {
+    if (!event.target.closest('.nav-item')) {
+      document.querySelectorAll('.dropdown-panel').forEach(panel => {
+        panel.classList.remove('show');
+      });
+    }
+  });
+
+  // Gestion du menu burger mobile
+  document.getElementById('mobileToggle').addEventListener('click', function() {
+    document.getElementById('navMenu').classList.toggle('mobile-open');
+  });
+</script>
