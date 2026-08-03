@@ -10,9 +10,8 @@
     --nav-hover: #2d333b;
   }
 
-  /* Force la barre tout en haut sans interférence */
   body {
-    padding-top: 50px !important; /* Dégage l'espace pour ne pas masquer le haut de vos pages */
+    padding-top: 48px !important;
   }
 
   .site-header-nav {
@@ -22,32 +21,38 @@
     right: 0 !important;
     width: 100% !important;
     height: 48px;
-    padding: 20px 50px !important;
     z-index: 999999;
     background-color: var(--nav-bg-top);
     border-bottom: 1px solid var(--nav-border);
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-    font-size: 0.88rem;
+    font-size: 0.85rem;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    box-sizing: border-box;
+  }
+
+  /* Reset global des liens dans le header */
+  .site-header-nav a {
+    text-decoration: none !important;
   }
 
   .nav-container {
-    max-width: 1200px;
+    max-width: 1280px;
     height: 100%;
     margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 15px;
+    padding: 0 16px;
+    position: relative;
   }
 
   .nav-brand {
     font-weight: 700;
     color: var(--nav-accent) !important;
-    text-decoration: none;
-    font-size: 0.92rem;
-    letter-spacing: 0.3px;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
     text-transform: uppercase;
+    white-space: nowrap;
   }
 
   .nav-menu {
@@ -55,7 +60,7 @@
     list-style: none;
     margin: 0;
     padding: 0;
-    gap: 8px;
+    gap: 4px;
     height: 100%;
   }
 
@@ -70,16 +75,17 @@
     background: transparent;
     border: none;
     color: var(--nav-text);
-    font-size: 0.88rem;
+    font-size: 0.85rem;
     font-weight: 600;
-    padding: 0 12px;
-    height: 34px;
+    padding: 0 10px;
+    height: 32px;
     cursor: pointer;
     border-radius: 4px;
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 5px;
     transition: background 0.15s, color 0.15s;
+    white-space: nowrap;
   }
 
   .nav-btn:hover, .nav-btn.active {
@@ -88,32 +94,42 @@
   }
 
   .nav-arrow {
-    font-size: 0.65rem;
+    font-size: 0.6rem;
     color: var(--nav-text-muted);
   }
 
-  /* Panneau Déroulant - Gris foncé distinct */
+  /* --- PANNEAUX DÉROULANTS COMPACTS --- */
   .dropdown-panel {
     display: none;
     position: absolute;
     top: 100%;
     left: 0;
-    width: 320px;
+    width: 290px;
     background-color: var(--nav-bg-dropdown);
     border: 1px solid var(--nav-border);
     border-radius: 0 0 6px 6px;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
-    padding: 12px;
-    margin-top: 1px;
-    max-height: 82vh;
+    padding: 8px;
+    margin-top: 0;
+    max-height: calc(85vh - 48px);
     overflow-y: auto;
+    box-sizing: border-box;
   }
 
+  /* Version Large (Méga Menu) */
   .dropdown-panel.wide {
-    width: 680px;
+    width: 620px;
+    max-width: 92vw; /* Évite de sortir de l'écran sur petits moniteurs */
     display: none;
     grid-template-columns: 1fr 1fr;
-    gap: 16px;
+    gap: 12px;
+    padding: 10px;
+  }
+
+  /* Repositionnement si le menu déborde à droite */
+  .dropdown-panel.align-right {
+    left: auto;
+    right: 0;
   }
 
   .dropdown-panel.show {
@@ -124,15 +140,27 @@
     display: grid;
   }
 
+  /* Scrollbar fine et discrète */
+  .dropdown-panel::-webkit-scrollbar {
+    width: 5px;
+  }
+  .dropdown-panel::-webkit-scrollbar-track {
+    background: var(--nav-bg-dropdown);
+  }
+  .dropdown-panel::-webkit-scrollbar-thumb {
+    background: var(--nav-border);
+    border-radius: 3px;
+  }
+
   .dropdown-group-title {
     color: var(--nav-accent);
-    font-size: 0.75rem;
+    font-size: 0.72rem;
     text-transform: uppercase;
-    letter-spacing: 0.6px;
+    letter-spacing: 0.5px;
     font-weight: 700;
-    margin: 8px 0 6px 0;
+    margin: 6px 0 4px 0;
     border-bottom: 1px solid var(--nav-border);
-    padding-bottom: 4px;
+    padding-bottom: 2px;
   }
 
   .dropdown-list {
@@ -142,52 +170,52 @@
   }
 
   .dropdown-list li {
-    margin-bottom: 2px;
+    margin-bottom: 1px;
   }
 
   .dropdown-link {
     display: block;
-    padding: 5px 8px;
-    color: var(--nav-text);
-    text-decoration: none;
-    border-radius: 4px;
-    font-size: 0.85rem;
-    line-height: 1.3;
+    padding: 3px 6px;
+    color: var(--nav-text) !important;
+    border-radius: 3px;
+    font-size: 0.82rem;
+    line-height: 1.25;
     transition: background 0.12s, color 0.12s;
   }
 
   .dropdown-link:hover {
     background-color: var(--nav-hover);
-    color: var(--nav-accent);
+    color: var(--nav-accent) !important;
   }
 
   .dropdown-link small {
     display: block;
     color: var(--nav-text-muted);
-    font-size: 0.74rem;
-    margin-top: 2px;
+    font-size: 0.70rem;
+    margin-top: 1px;
     font-weight: normal;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .bullet {
     color: var(--nav-accent);
-    font-size: 0.7rem;
-    margin-right: 5px;
-    vertical-align: middle;
+    font-size: 0.65rem;
+    margin-right: 4px;
   }
 
   .lang-switch {
-    font-size: 0.8rem;
+    font-size: 0.78rem;
     border: 1px solid var(--nav-border);
-    padding: 3px 8px;
+    padding: 2px 7px;
     border-radius: 4px;
-    color: var(--nav-text);
-    text-decoration: none;
+    color: var(--nav-text) !important;
     font-weight: 600;
   }
 
   .lang-switch:hover {
-    color: var(--nav-accent);
+    color: var(--nav-accent) !important;
     border-color: var(--nav-accent);
     background-color: var(--nav-hover);
   }
@@ -197,12 +225,14 @@
     background: none;
     border: none;
     color: var(--nav-text);
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     cursor: pointer;
   }
 
+  /* --- RESPONSIVE MOBILE --- */
   @media (max-width: 900px) {
     .mobile-toggle { display: block; }
+    
     .nav-menu {
       display: none;
       flex-direction: column;
@@ -213,20 +243,22 @@
       height: auto;
       background-color: var(--nav-bg-top);
       border-bottom: 1px solid var(--nav-border);
-      padding: 10px;
+      padding: 8px;
     }
-    
-    a {text-decoration:none;}
     
     .nav-menu.mobile-open { display: flex; }
     .nav-item { width: 100%; height: auto; }
     .nav-btn { width: 100%; justify-content: space-between; }
-    .dropdown-panel, .dropdown-panel.wide {
+    
+    .dropdown-panel, 
+    .dropdown-panel.wide {
       position: static;
-      width: 100%;
+      width: 100% !important;
+      max-width: 100% !important;
       box-shadow: none;
       grid-template-columns: 1fr;
       background-color: var(--nav-bg-dropdown);
+      max-height: none;
     }
   }
 </style>
@@ -285,12 +317,12 @@
             <div class="dropdown-group-title">1. Fondations & Économie</div>
             <ul class="dropdown-list">
               <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/index.html"><span class="bullet">▪</span> Vue d'ensemble de l'Atlas</a></li>
-              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch1_fr.html"><span class="bullet">▪</span> Pourquoi le Biochar ? <small>Thermolyse et enjeux mondiaux</small></a></li>
-              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch2_fr.html"><span class="bullet">▪</span> Modèle économique <small>Marchés et valorisation carbone</small></a></li>
-              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch3_fr.html"><span class="bullet">▪</span> Gisement de biomasse <small>Typologie des intrants compatibles</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch1_fr.html"><span class="bullet">▪</span> Ch. 1 : Pourquoi le Biochar ? <small>Thermolyse et enjeux mondiaux</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch2_fr.html"><span class="bullet">▪</span> Ch. 2 : Modèle économique <small>Marchés et valorisation carbone</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch3_fr.html"><span class="bullet">▪</span> Ch. 3 : Gisement de biomasse <small>Typologie des intrants compatibles</small></a></li>
             </ul>
 
-            <div class="dropdown-group-title">2. Qualité & Spécifications</div>
+            <div class="dropdown-group-title">2. Chapitre 5 : Spécifications & Marchés</div>
             <ul class="dropdown-list">
               <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_biochar_ideal.html"><span class="bullet">▪</span> Spécifications du biochar idéal</a></li>
               <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_indice_qualite.html"><span class="bullet">▪</span> Indice de qualité mondial</a></li>
@@ -300,7 +332,7 @@
           </div>
 
           <div>
-            <div class="dropdown-group-title">3. Traçabilité & Mesure (MRV)</div>
+            <div class="dropdown-group-title">3. Chapitre 5 : MRV & Métrologie</div>
             <ul class="dropdown-list">
               <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_metrologie_carbone.html"><span class="bullet">▪</span> Métrologie & certification ACV</a></li>
               <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_passeport_biochar.html"><span class="bullet">▪</span> Passeport numérique des lots</a></li>
@@ -308,7 +340,7 @@
               <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_gestion_risques.html"><span class="bullet">▪</span> Gestion des risques industriels</a></li>
             </ul>
 
-            <div class="dropdown-group-title">4. Écosystème & Prospective</div>
+            <div class="dropdown-group-title">4. Écosystème & Vision 2050</div>
             <ul class="dropdown-list">
               <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_recherche_mondiale.html"><span class="bullet">▪</span> Réseau de recherche & universités</a></li>
               <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_fr_consortium_biochar.html"><span class="bullet">▪</span> Consortium mondial du biochar</a></li>
@@ -323,14 +355,14 @@
         <button class="nav-btn" onclick="toggleDropdown(event, 'drop-analyses')">
           Analyses Sectorielles <span class="nav-arrow">▼</span>
         </button>
-        <div class="dropdown-panel wide" id="drop-analyses">
+        <div class="dropdown-panel wide align-right" id="drop-analyses">
           <div>
             <div class="dropdown-group-title">Logistique, Industrie & RSE</div>
             <ul class="dropdown-list">
               <li>
                 <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Logistique_et_Transport_la_biomasse_r%C3%A9siduelle_comme_carburant_de_demain.html">
                   <span class="bullet">▪</span> Logistique & Transport
-                  <small>Valorisation des cartons, palettes et résidus de flux</small>
+                  <small>Valorisation des cartons, palettes et résidus</small>
                 </a>
               </li>
               <li>
@@ -378,7 +410,7 @@
                 </a>
               </li>
               <li>
-                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Protocole_de_prévention_des_feux_de_forêt_par_thermolyse_et_Biochar.html">
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Protocole_de_pr%C3%A9vention_des_feux_de_for%C3%AAt_par_thermolyse_et_Biochar.html">
                   <span class="bullet">▪</span> Prévention des incendies de forêt
                   <small>Valorisation des sous-bois par thermolyse</small>
                 </a>
@@ -457,15 +489,18 @@
     const target = document.getElementById(id);
     const isShown = target.classList.contains('show');
     
+    // Ferme toutes les fenêtres
     document.querySelectorAll('.dropdown-panel').forEach(panel => {
       panel.classList.remove('show');
     });
 
+    // Ouvre celle sélectionnée si elle n'était pas ouverte
     if (!isShown) {
       target.classList.add('show');
     }
   }
 
+  // Ferme au clic extérieur
   document.addEventListener('click', function(event) {
     if (!event.target.closest('.nav-item')) {
       document.querySelectorAll('.dropdown-panel').forEach(panel => {
@@ -474,6 +509,7 @@
     }
   });
 
+  // Toggle Menu Mobile
   document.getElementById('mobileToggle').addEventListener('click', function() {
     document.getElementById('navMenu').classList.toggle('mobile-open');
   });
