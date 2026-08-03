@@ -159,15 +159,11 @@ Ces deux stratégies ne s’opposent pas : elles répondent à des marchés et o
 
 ---
 
-## 7. H5, H6 et H6-Scale : des configurations à documenter précisément
+## 7. H5, H6 et H6-Scale
 
 Les architectures H5, H6 et H6-Scale s’inscrivent dans une logique de modularité et d’adaptation du procédé aux objectifs du projet.
 
-Pour un Atlas consacré au biochar, cette évolution est particulièrement importante : selon la configuration retenue, l’équilibre entre production énergétique, hydrogène, molécules renouvelables et conservation d’une fraction du carbone sous forme solide peut différer.
-
-Les caractéristiques détaillées de H5 et H6-Scale devant être rendues publiques prochainement, l’Atlas évite d’attribuer par anticipation à ces architectures des bilans matière ou énergétiques qui ne sont pas encore publiquement documentés.
-
-Dès que ces données seront disponibles, cette section pourra préciser les domaines de fonctionnement, les puissances, les rendements et les possibilités de coproduction propres à chaque configuration.
+Pour un Atlas consacré au biochar, cette évolution est particulièrement importante : selon la configuration retenue, l’équilibre entre production énergétique, hydrogène, molécules de carburants renouvelables et la conservation d’une fraction du carbone sous une forme solide peut différer.
 
 La logique générale reste néanmoins claire : **la modularité de la thermolyse permet d’adapter l’architecture industrielle au territoire, à la biomasse réellement disponible, au besoin énergétique et aux valorisations recherchées du carbone**.
 
@@ -194,7 +190,7 @@ L’**[Analyse du cycle de vie](ch4_fr_analyse_cycle_vie.md)** reste donc indisp
 
 ---
 
-## 9. Une possibilité future : valoriser aussi le CO₂ biogénique
+## 9. Une possibilité : valoriser le CO₂ biogénique
 
 Dans certaines architectures industrielles futures, un flux concentré de CO₂ biogénique pourrait devenir une ressource plutôt qu’une émission finale.
 
@@ -326,7 +322,7 @@ $1,7\ \mathrm{MW_{syngaz}} \neq 1,7\ \mathrm{MW_{électriques}}$
 
 La puissance utile dépend du mode de conversion et de son rendement.
 
-Cette distinction sera particulièrement importante pour les projets de datacenters.
+Cette distinction est particulièrement importante pour les projets de datacenters Tier 1, 2, 3 ou 4.
 
 ---
 
