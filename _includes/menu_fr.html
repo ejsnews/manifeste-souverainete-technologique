@@ -31,7 +31,6 @@
     box-sizing: border-box;
   }
 
-  /* Reset global des liens dans le header */
   .site-header-nav a {
     text-decoration: none !important;
   }
@@ -42,10 +41,10 @@
     margin: 0 auto;
     display: flex;
     align-items: center;
-    padding: 20px 50px !important
     justify-content: space-between;
     padding: 0 16px;
     position: relative;
+    box-sizing: border-box;
   }
 
   .nav-brand {
@@ -100,38 +99,29 @@
     color: var(--nav-text-muted);
   }
 
-  /* --- PANNEAUX DÉROULANTS COMPACTS --- */
+  /* --- PANNEAUX DÉROULANTS DESKTOPS --- */
   .dropdown-panel {
     display: none;
     position: absolute;
     top: 100%;
     left: 0;
-    width: 290px;
+    width: 300px;
     background-color: var(--nav-bg-dropdown);
     border: 1px solid var(--nav-border);
     border-radius: 0 0 6px 6px;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
-    padding: 8px;
-    margin-top: 0;
+    padding: 10px;
     max-height: calc(85vh - 48px);
     overflow-y: auto;
     box-sizing: border-box;
+    z-index: 1000000;
   }
 
-  /* Version Large (Méga Menu) */
   .dropdown-panel.wide {
     width: 620px;
-    max-width: 92vw; /* Évite de sortir de l'écran sur petits moniteurs */
-    display: none;
+    max-width: 95vw;
     grid-template-columns: 1fr 1fr;
     gap: 12px;
-    padding: 10px;
-  }
-
-  /* Repositionnement si le menu déborde à droite */
-  .dropdown-panel.align-right {
-    left: auto;
-    right: 0;
   }
 
   .dropdown-panel.show {
@@ -142,7 +132,6 @@
     display: grid;
   }
 
-  /* Scrollbar fine et discrète */
   .dropdown-panel::-webkit-scrollbar {
     width: 5px;
   }
@@ -172,12 +161,12 @@
   }
 
   .dropdown-list li {
-    margin-bottom: 1px;
+    margin-bottom: 2px;
   }
 
   .dropdown-link {
     display: block;
-    padding: 3px 6px;
+    padding: 4px 6px;
     color: var(--nav-text) !important;
     border-radius: 3px;
     font-size: 0.82rem;
@@ -196,9 +185,6 @@
     font-size: 0.70rem;
     margin-top: 1px;
     font-weight: normal;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
   }
 
   .bullet {
@@ -216,12 +202,6 @@
     font-weight: 600;
   }
 
-  .lang-switch:hover {
-    color: var(--nav-accent) !important;
-    border-color: var(--nav-accent);
-    background-color: var(--nav-hover);
-  }
-
   .mobile-toggle {
     display: none;
     background: none;
@@ -231,10 +211,10 @@
     cursor: pointer;
   }
 
-  /* --- RESPONSIVE MOBILE --- */
+  /* --- CORRECTIFS MOBILES STRICTS --- */
   @media (max-width: 900px) {
     .mobile-toggle { display: block; }
-    
+
     .nav-menu {
       display: none;
       flex-direction: column;
@@ -242,25 +222,49 @@
       top: 100%;
       left: 0;
       right: 0;
-      height: auto;
+      width: 100vw;
+      max-height: calc(100vh - 48px);
+      overflow-y: auto;
       background-color: var(--nav-bg-top);
       border-bottom: 1px solid var(--nav-border);
-      padding: 8px;
+      padding: 10px 16px;
+      box-sizing: border-box;
+      gap: 0;
     }
-    
-    .nav-menu.mobile-open { display: flex; }
-    .nav-item { width: 100%; height: auto; }
-    .nav-btn { width: 100%; justify-content: space-between; }
-    
+
+    .nav-menu.mobile-open { 
+      display: flex; 
+    }
+
+    .nav-item {
+      width: 100%;
+      height: auto;
+      flex-direction: column;
+      align-items: stretch;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .nav-btn {
+      width: 100%;
+      justify-content: space-between;
+      height: 44px;
+      font-size: 0.95rem;
+      padding: 0;
+    }
+
+    /* Le panneau s'intègre en accordéon fluide sous le bouton */
     .dropdown-panel, 
     .dropdown-panel.wide {
-      position: static;
+      position: static !important;
       width: 100% !important;
       max-width: 100% !important;
-      box-shadow: none;
-      grid-template-columns: 1fr;
+      box-shadow: none !important;
+      grid-template-columns: 1fr !important;
       background-color: var(--nav-bg-dropdown);
-      max-height: none;
+      max-height: none !important;
+      border-radius: 4px;
+      margin-bottom: 10px;
+      padding: 8px 12px;
     }
   }
 </style>
@@ -357,7 +361,7 @@
         <button class="nav-btn" onclick="toggleDropdown(event, 'drop-analyses')">
           Analyses Sectorielles <span class="nav-arrow">▼</span>
         </button>
-        <div class="dropdown-panel wide align-right" id="drop-analyses">
+        <div class="dropdown-panel wide" id="drop-analyses">
           <div>
             <div class="dropdown-group-title">Logistique, Industrie & RSE</div>
             <ul class="dropdown-list">
@@ -491,18 +495,36 @@
     const target = document.getElementById(id);
     const isShown = target.classList.contains('show');
     
-    // Ferme toutes les fenêtres
+    // Ferme toutes les fenêtres ouvertes
     document.querySelectorAll('.dropdown-panel').forEach(panel => {
       panel.classList.remove('show');
     });
 
-    // Ouvre celle sélectionnée si elle n'était pas ouverte
     if (!isShown) {
       target.classList.add('show');
+      
+      // Calcul dynamique de positionnement uniquement sur grand écran
+      if (window.innerWidth > 900) {
+        adjustDropdownPosition(target);
+      }
     }
   }
 
-  // Ferme au clic extérieur
+  function adjustDropdownPosition(panel) {
+    // Réinitialisation des styles de calcul
+    panel.style.left = '0px';
+    
+    const rect = panel.getBoundingClientRect();
+    const viewportWidth = window.innerWidth;
+
+    // Si le panneau déborde du bord droit de l'écran
+    if (rect.right > viewportWidth - 10) {
+      const overflow = rect.right - (viewportWidth - 10);
+      panel.style.left = `-${overflow}px`;
+    }
+  }
+
+  // Fermer les menus lors d'un clic en dehors du composant
   document.addEventListener('click', function(event) {
     if (!event.target.closest('.nav-item')) {
       document.querySelectorAll('.dropdown-panel').forEach(panel => {
@@ -511,7 +533,7 @@
     }
   });
 
-  // Toggle Menu Mobile
+  // Toggle du menu mobile burger
   document.getElementById('mobileToggle').addEventListener('click', function() {
     document.getElementById('navMenu').classList.toggle('mobile-open');
   });
