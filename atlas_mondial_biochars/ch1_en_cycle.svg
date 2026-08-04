@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<style>
+text{font-family:Arial,sans-serif;fill:#17351f}.title{font-size:34px;font-weight:700}.h{font-size:20px;font-weight:700}.t{font-size:16px}.small{font-size:14px}.box{stroke:#315c3a;stroke-width:2;rx:16}.arrow{stroke:#315c3a;stroke-width:4;fill:none;marker-end:url(#a)}
+</style>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#315c3a"/></marker></defs>
+<rect width="1400" height="760" fill="#fff"/>
+<text x="700" y="55" text-anchor="middle" class="title">THE BIOCHAR CYCLE — FROM SUSTAINABLE BIOMASS TO DURABLE CARBON</text>
+<g>
+<rect class="box" x="40" y="150" width="210" height="220" fill="#edf5e7"/><text x="145" y="190" text-anchor="middle" class="h">1. SUSTAINABLE</text><text x="145" y="216" text-anchor="middle" class="h">BIOMASS</text>
+<text x="65" y="260" class="t">Forestry residues</text><text x="65" y="290" class="t">Agricultural residues</text><text x="65" y="320" class="t">Prunings, shells, by-products</text>
+<rect class="box" x="300" y="150" width="210" height="220" fill="#fff3e6"/><text x="405" y="190" text-anchor="middle" class="h">2. PREPARATION</text><text x="330" y="250" class="t">Collection</text><text x="330" y="280" class="t">Sorting &amp; drying</text><text x="330" y="310" class="t">Size reduction</text>
+<rect class="box" x="560" y="150" width="230" height="220" fill="#fceceb"/><text x="675" y="190" text-anchor="middle" class="h">3. THERMOCHEMICAL</text><text x="675" y="216" text-anchor="middle" class="h">CONVERSION</text><text x="675" y="270" text-anchor="middle" class="t">Pyrolysis / Thermolysis</text><text x="675" y="300" text-anchor="middle" class="t">Oxygen-limited environment</text>
+<rect class="box" x="840" y="150" width="220" height="220" fill="#e9f4fb"/><text x="950" y="190" text-anchor="middle" class="h">4. CO-PRODUCTS</text><text x="875" y="250" class="t">Syngas</text><text x="875" y="280" class="t">Bio-oil / vapors</text><text x="875" y="310" class="t">Recoverable heat</text>
+<rect class="box" x="1110" y="150" width="250" height="220" fill="#edf5e7"/><text x="1235" y="190" text-anchor="middle" class="h">5. APPLICATIONS</text><text x="1140" y="240" class="t">Soils &amp; agriculture</text><text x="1140" y="270" class="t">Water &amp; filtration</text><text x="1140" y="300" class="t">Materials &amp; industry</text><text x="1140" y="330" class="t">Energy &amp; services</text>
+<path class="arrow" d="M250 260 H295"/><path class="arrow" d="M510 260 H555"/><path class="arrow" d="M790 260 H835"/><path class="arrow" d="M1060 260 H1105"/>
+</g>
+<rect class="box" x="555" y="440" width="240" height="130" fill="#eee"/><text x="675" y="480" text-anchor="middle" class="h">BIOCHAR</text><text x="675" y="515" text-anchor="middle" class="t">Solid carbon-rich material</text><path class="arrow" d="M675 370 V435"/>
+<rect class="box" x="850" y="440" width="300" height="150" fill="#f1eef9"/><text x="1000" y="480" text-anchor="middle" class="h">6. DURABLE CARBON STORAGE</text><text x="885" y="525" class="t">A fraction of carbon can be stored</text><text x="885" y="555" class="t">for the long term, depending on quality,</text><text x="885" y="580" class="t">use and verified system performance.</text><path class="arrow" d="M795 505 H845"/>
+<text x="700" y="670" text-anchor="middle" class="t">Heat and energy can support conversion and local uses; biochar can serve soils, materials and environmental applications.</text>
+<text x="700" y="725" text-anchor="middle" class="small">© Eric Jacob 2026 — World Biochar Atlas — CC BY 4.0</text>
+</svg>
