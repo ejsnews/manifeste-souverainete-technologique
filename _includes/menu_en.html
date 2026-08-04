@@ -1,39 +1,569 @@
-<nav style="margin-top: 30px; padding:5px; border-top: 1px solid #30363d; font-size: 1em;">
-  <p style="color: #f2cc60; font-weight: bold; margin-bottom: 10px;">📚 Table of Contents — Manifesto & Analyses</p>
-  <ul style="list-style: none; padding: 0; columns: 1; gap: 20px;">
+<!-- NAV HEADER FIXED TOP -->
+<style>
+  :root {
+    --nav-bg-top: #32844f;
+    --nav-bg-dropdown: #21262d;
+    --nav-border: #30363d;
+    --nav-text: #e6edf3;
+    --nav-text-muted: #8b949e;
+    --nav-accent: #f2cc60;
+    --nav-hover: #2d333b;
+  }
 
-    <li style="margin-bottom: 6px;">🏠 <a href="/manifeste-souverainete-technologique/">Home</a></li>
+  body {
+    padding-top: 48px !important;
+  }
 
-    <li style="margin-bottom: 6px; margin-top: 12px; color: #f2cc60; font-weight: bold;">📖 Main documents</li>
-    <li style="margin-bottom: 6px;">📜 <a href="/manifeste-souverainete-technologique/MANIFESTO_FOR_TECHNOLOGICAL_SOVEREIGNTY_AND_RESILIENCE.html">Full Manifesto (EN)</a></li>
-    <li style="margin-bottom: 6px;">📋 <a href="/manifeste-souverainete-technologique/media/EXECUTIVE_SUMMARY.html">Executive Summary</a></li>
-    <li style="margin-bottom: 6px;">🏠 <a href="/manifeste-souverainete-technologique/analyses/no-degrowth-pathway.html">A path out of crises without degrowth</a></li>
+  /* Header principal fixe */
+  .site-header-nav {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    height: 48px !important;
+    padding: 0 !important;
+    z-index: 999999;
+    background-color: var(--nav-bg-top);
+    border-bottom: 1px solid var(--nav-border);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    font-size: 0.85rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    box-sizing: border-box;
+    overflow: visible !important;
+    text-align: left !important;
+  }
+
+  .site-header-nav a {
+    text-decoration: none !important;
+  }
+
+  .nav-container {
+    max-width: 1280px;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 16px !important;
+    position: relative;
+    box-sizing: border-box;
+  }
+
+  .nav-brand {
+    font-weight: 700;
+    color: var(--nav-accent) !important;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 4px;
+    height: 100%;
+  }
+
+  .nav-item {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+
+  .nav-btn {
+    background: transparent;
+    border: none;
+    color: var(--nav-text);
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 0 10px;
+    height: 32px;
+    cursor: pointer;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    transition: background 0.15s, color 0.15s;
+    white-space: nowrap;
+  }
+
+  .nav-btn:hover, .nav-btn.active {
+    background-color: var(--nav-hover);
+    color: var(--nav-accent);
+  }
+
+  .nav-arrow {
+    font-size: 0.6rem;
+    color: var(--nav-text-muted);
+  }
+
+  /* --- PANNEAUX DÉROULANTS DESKTOP --- */
+  .dropdown-panel {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 300px;
+    background-color: var(--nav-bg-dropdown);
+    border: 1px solid var(--nav-border);
+    border-radius: 0 0 6px 6px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+    padding: 10px;
+    max-height: calc(85vh - 48px);
+    overflow-y: auto;
+    box-sizing: border-box;
+    z-index: 1000000;
+    text-align: left !important;
+  }
+
+  .dropdown-panel.wide {
+    width: 640px;
+    max-width: 90vw;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+
+  .dropdown-panel.show {
+    display: block;
+  }
+
+  .dropdown-panel.wide.show {
+    display: grid;
+  }
+
+  .dropdown-panel::-webkit-scrollbar {
+    width: 5px;
+  }
+  .dropdown-panel::-webkit-scrollbar-track {
+    background: var(--nav-bg-dropdown);
+  }
+  .dropdown-panel::-webkit-scrollbar-thumb {
+    background: var(--nav-border);
+    border-radius: 3px;
+  }
+
+  .dropdown-group-title {
+    color: var(--nav-accent);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+    margin: 8px 0 4px 0;
+    border-bottom: 1px solid var(--nav-border);
+    padding-bottom: 4px;
+    text-align: left !important;
+  }
+
+  .dropdown-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .dropdown-list li {
+    margin-bottom: 3px;
+    text-align: left !important;
+  }
+
+  .dropdown-link {
+    display: block;
+    padding: 4px 6px;
+    color: var(--nav-text) !important;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    line-height: 1.3;
+    text-align: left !important;
+    transition: background 0.12s, color 0.12s;
+  }
+
+  .dropdown-link:hover {
+    background-color: var(--nav-hover);
+    color: var(--nav-accent) !important;
+  }
+
+  .dropdown-link small {
+    display: block;
+    color: var(--nav-text-muted);
+    font-size: 0.72rem;
+    margin-top: 2px;
+    font-weight: normal;
+    white-space: normal;
+    text-align: left !important;
+  }
+
+  .bullet {
+    color: var(--nav-accent);
+    font-size: 0.65rem;
+    margin-right: 4px;
+  }
+
+  .lang-switch {
+    font-size: 0.78rem;
+    border: 1px solid var(--nav-border);
+    padding: 4px 8px;
+    border-radius: 4px;
+    color: var(--nav-text) !important;
+    font-weight: 600;
+    display: inline-block;
+  }
+
+  .mobile-toggle {
+    display: none;
+    background: transparent;
+    border: 1px solid var(--nav-border);
+    border-radius: 4px;
+    color: var(--nav-text);
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 4px 10px;
+    cursor: pointer;
+    height: 32px;
+    align-items: center;
+  }
+
+  /* --- MODE SMARTPHONE (MOBILE) STRICT --- */
+  @media (max-width: 900px) {
+    .mobile-toggle { 
+      display: flex; 
+    }
+
+    .nav-menu {
+      display: none;
+      flex-direction: column;
+      position: fixed;
+      top: 48px;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      width: 100vw;
+      height: calc(100vh - 48px);
+      background-color: var(--nav-bg-top);
+      border-top: 1px solid var(--nav-border);
+      padding: 12px 16px 40px 16px;
+      box-sizing: border-box;
+      overflow-y: auto;
+      gap: 0;
+      z-index: 999999;
+    }
+
+    .nav-menu.mobile-open { 
+      display: flex !important; 
+    }
+
+    .nav-item {
+      width: 100%;
+      height: auto;
+      flex-direction: column;
+      align-items: stretch;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    }
+
+    .nav-btn {
+      width: 100%;
+      justify-content: space-between;
+      height: 48px;
+      font-size: 0.95rem;
+      padding: 0 4px;
+      border-radius: 0;
+    }
+
+    .dropdown-panel, 
+    .dropdown-panel.wide {
+      position: static !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      box-shadow: none !important;
+      grid-template-columns: 1fr !important;
+      background-color: var(--nav-bg-dropdown);
+      max-height: none !important;
+      border-radius: 6px;
+      margin: 6px 0 12px 0;
+      padding: 10px 12px;
+      border: 1px solid var(--nav-border);
+    }
+  }
+</style>
+
+<header class="site-header-nav">
+  <div class="nav-container">
+    <a href="/manifeste-souverainete-technologique/" class="nav-brand">
+      Manifeste
+    </a>
+    <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">Menu ▾</button>
+    <nav class="nav-menu" id="navMenu">
+      
+      <!-- CATEGORIE 1 : LE MANIFESTE -->
+      <div class="nav-item">
+        <button class="nav-btn" onclick="toggleDropdown(event, 'drop-manifeste')">
+          Manifeste <span class="nav-arrow">▼</span>
+        </button>
+        <div class="dropdown-panel" id="drop-manifeste">
+          <div class="dropdown-group-title">Foundational & Policy Documents</div>
+          <ul class="dropdown-list">
+            <li>
+              <a class="dropdown-link" href="/manifeste-souverainete-technologique/manifeste_souverainete_technologique_v3_FR.html">
+                <span class="bullet">▪</span> Manifeste complet (FR)
+                <small>Vision industrielle, souveraineté et décarbonation</small>
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-link" href="/manifeste-souverainete-technologique/EXECUTIVE_SUMMARY.html">
+                <span class="bullet">▪</span> Résumé exécutif
+                <small>Synthèse des enjeux stratégiques</small>
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-link" href="/manifeste-souverainete-technologique/note_pour_une_souverainete_forte_politique.html">
+                <span class="bullet">▪</span> Note de politique publique
+                <small>Recommandations aux décideurs</small>
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-link" href="/manifeste-souverainete-technologique/media/tribune_usine_nouvelle.html">
+                <span class="bullet">▪</span> Tribune - L'Usine Nouvelle
+                <small>Interventions & tribune média</small>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- CATEGORIE 2 : ATLAS DU BIOCHAR -->
+      <div class="nav-item">
+        <button class="nav-btn" onclick="toggleDropdown(event, 'drop-biochar')">
+          Biochar Atlas <span class="nav-arrow">▼</span>
+        </button>
+        <div class="dropdown-panel wide" id="drop-biochar">
+          <div>
+            <div class="dropdown-group-title">1. Understanding Biochar & Its Economics</div>
+            <ul class="dropdown-list">
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/index.html"><span class="bullet">▪</span> Atlas Overview</a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch1_en.html"><span class="bullet">▪</span> Why Biochar? <small>Thermolyse, carbone, sols et enjeux mondiaux</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch2_en.html"><span class="bullet">▪</span> Understand the Economic Model <small>Marchés, valorisation du carbone et création de valeur</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch3_en.html"><span class="bullet">▪</span> Identify Biomass Resources <small>Typologie des intrants et ressources valorisables</small></a></li>
+            </ul>
+
+            <div class="dropdown-group-title">2. Quality, Applications & Markets</div>
+            <ul class="dropdown-list">
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_biochar_ideal.html"><span class="bullet">▪</span> Towards the Ideal Biochar<small>Propriétés recherchées selon les usages et les marchés</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_quality_index.html"><span class="bullet">▪</span> Compare Biochar Quality<small>Indice de qualité pour caractériser et comparer les produits</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_buyer_guide.html"><span class="bullet">▪</span> Choose the Right Biochar for Your Application<small>Qualité, caractéristiques, usages et critères d'achat</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_biochar_exchange.html"><span class="bullet">▪</span> Biochar Exchange & International Market<small>Prix, qualité, contrats et structuration des échanges</small></a></li>
+            </ul>
+          </div>
+
+          <div>
+            <div class="dropdown-group-title">3. Carbon, Traceability & Certification</div>
+            <ul class="dropdown-list">
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_carbon_metrology.html"><span class="bullet">▪</span> Measure & Demonstrate Decarbonization<small>Métrologie carbone, ACV, MRV et certification</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_biochar_passport.html"><span class="bullet">▪</span> Trace Every Biochar Batch<small>Passeport numérique, origine, qualité et données carbone</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_digital_twin.html"><span class="bullet">▪</span> Track Biochar with a Digital Twin<small>Données, production et contrôle de la chaîne de valeur</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_risk_management.html"><span class="bullet">▪</span> Manage Project Risks<small>Risques industriels, économiques, carbone et réglementaires</small></a></li>
+            </ul>
+
+            <div class="dropdown-group-title">4. Projects, Territories & Applications</div>
+            <ul class="dropdown-list">
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_territories_resilience.html"><span class="bullet">▪</span> Turn Local Resources into Energy & Value<small>Industrie, logistique, hôpitaux, collectivités et agriculture</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_datacenters.html"><span class="bullet">▪</span> Data Centers & Decarbonized Energy<small>Énergie pilotable, biomasse locale et valorisation des coproduits</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_desert_restoration.html"><span class="bullet">▪</span> Restore Degraded Land<small>Biochar, eau, sols, agriculture et résilience climatique</small></a></li>
+            </ul>
+
+            <div class="dropdown-group-title">5. Global Ecosystem & Outlook</div>
+            <ul class="dropdown-list">
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_global_research.html"><span class="bullet">▪</span> Global Research & Universities<small>Faire progresser connaissances, mesures et applications</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_biochar_consortium.html"><span class="bullet">▪</span> Global Biochar Consortium<small>Coopération industrielle, scientifique et institutionnelle</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_global_observatory.html"><span class="bullet">▪</span> Global Biochar Observatory<small>Suivre marchés, productions, usages et dynamiques internationales</small></a></li>
+              <li><a class="dropdown-link" href="/manifeste-souverainete-technologique/atlas_mondial_biochars/ch5_en_roadmap_2050.html"><span class="bullet">▪</span> Roadmap to 2050<small>Déploiement industriel, territoires et prospective mondiale</small></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- CATEGORIE 3 : ANALYSES & SECTEURS INDUSTRIELS -->
+      <div class="nav-item">
+        <button class="nav-btn" onclick="toggleDropdown(event, 'drop-analyses')">
+          Sector Analyses <span class="nav-arrow">▼</span>
+        </button>
+        <div class="dropdown-panel wide" id="drop-analyses">
+          <div>
+            <div class="dropdown-group-title">Logistique, Industrie & RSE</div>
+            <ul class="dropdown-list">
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Logistique_et_Transport_la_biomasse_r%C3%A9siduelle_comme_carburant_de_demain.html">
+                  <span class="bullet">▪</span> Logistique & Transport
+                  <small>Valorisation des cartons, palettes et résidus</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Les_usages_du_Biochar_bien_plus_qu_un_puits_de_carbone.html">
+                  <span class="bullet">▪</span> Applications industrielles du biochar
+                  <small>Substitution de matériaux et puits de carbone</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/chauffage_urbain_H6_vs_chaudiere.html">
+                  <span class="bullet">▪</span> Chauffage urbain & ville circulaire
+                  <small>Remplacement des chaudières à combustion</small>
+                </a>
+              </li>
+            </ul>
+
+            <div class="dropdown-group-title">Datacenters & Énergie Numérique</div>
+            <ul class="dropdown-list">
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Datacenters_et_Intelligence_Artificielle_-_le_seul_scenario_vertueux.html">
+                  <span class="bullet">▪</span> Datacenters & Intelligence Artificielle
+                  <small>Alimentation continue et décarbonée des serveurs</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Climatisation_D%C3%A9carbon%C3%A9e_le_droit_au_froid_sans_catastrophe_%C3%A9cologique.html">
+                  <span class="bullet">▪</span> Climatisation décarbonée
+                  <small>Production de froid propre à haute efficacité</small>
+                </a>
+              </li>
+            </ul>
+
+            <div class="dropdown-group-title">Agriculture & Territoires</div>
+            <ul class="dropdown-list">
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Agriculture_et_Souverainet%C3%A9_Alimentaire_Haffner_comme_levier_de_survie_et_d_ind%C3%A9pendance.html">
+                  <span class="bullet">▪</span> Agriculture & souveraineté alimentaire
+                  <small>Régénération des sols et autonomie énergétique</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/L_INDEPENDANCE_EN_HYDROGENE_A_PORTEE_DE_CHAQUE_TERRITOIRE_COLLECTIVITES_ELUS_RURAUX.html">
+                  <span class="bullet">▪</span> Hydrogène & collectivités locales
+                  <small>Production décentralisée pour élus ruraux</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Protocole_de_pr%C3%A9vention_des_feux_de_for%C3%AAt_par_thermolyse_et_Biochar.html">
+                  <span class="bullet">▪</span> Prévention des incendies de forêt
+                  <small>Valorisation des sous-bois par thermolyse</small>
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <div class="dropdown-group-title">Aviation & Carburants Durables (SAF)</div>
+            <ul class="dropdown-list">
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/SAF_Carburant_durable_pour_l_aviation_-_L_agnosticisme_comme_garantie.html">
+                  <span class="bullet">▪</span> SAF : Agnosticisme des biomasses
+                  <small>Garantie de flexibilité sur les gisements</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/LE_SAF_HAFFNER_ENERGY_UNE_SOLUTION_FRANCAISE_IMMEDIATE_POUR_LA_DECARBONATION_DE_L_AVIATION.html">
+                  <span class="bullet">▪</span> SAF : Solution française immédiate
+                  <small>Déploiement pour l'aviation souveraine</small>
+                </a>
+              </li>
+            </ul>
+
+            <div class="dropdown-group-title">Santé, Défense & Sécurité</div>
+            <ul class="dropdown-list">
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/HOPITAL_AUTONOME_DECARBONATION_ET_ENERGIE_VERTE_SOLUTION_THERMOLYSE_HAFFNER_ENERGY.html">
+                  <span class="bullet">▪</span> Hôpital autonome
+                  <small>Sécurité énergétique des infrastructures de santé</small>
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/AUTONOMIE_ENERGETIQUE_TACTIQUE_DEFENSE_SOUVERAINETE_MILITAIRE.html">
+                  <span class="bullet">▪</span> Défense & autonomie tactique
+                  <small>Résilience énergétique militaire</small>
+                </a>
+              </li>
+            </ul>
+
+            <div class="dropdown-group-title">Modélisations & Modèles Techniques</div>
+            <ul class="dropdown-list">
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/Modelisation_economique_-_Installation_H6_et_S-iC_et_derives_du_Syngas.html">
+                  <span class="bullet">▪</span> Modélisation économique H6 & Syngas
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/media/Haffner_Energy_d_apres_les_informations_disponibles_publiquement_etude_technique_H6_H4.html">
+                  <span class="bullet">▪</span> Étude technique des modules H6/H4
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-link" href="/manifeste-souverainete-technologique/analyses/COMPARAISON_SOURCES_ENERGIE_THERMOLYSE_HAFFNER_ENERGY.html">
+                  <span class="bullet">▪</span> Comparatif des sources d'énergie
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </nav>
+
+    <div>
+      <a href="/manifeste-souverainete-technologique/MANIFESTO_FOR_TECHNOLOGICAL_SOVEREIGNTY_AND_RESILIENCE.html" class="lang-switch">
+        EN
+      </a>
+    </div>
+  </div>
+</header>
+
+<script>
+  function toggleDropdown(event, id) {
+    event.stopPropagation();
+    const target = document.getElementById(id);
+    const isShown = target.classList.contains('show');
     
-    <li style="margin-bottom: 6px; margin-top: 12px; color: #f2cc60; font-weight: bold;">🔬 Haffner Energy studies (EN)</li>
-    <li style="margin-bottom: 6px;">🏠 <a href="/manifeste-souverainete-technologique/analyses/Economic_Modeling_-_H6_and_S-iC_Installation_and_Syngas_Derivatives.html">Economic Modeling - Installation and Syngas Derivatives</a></li>
-    
-    <li style="margin-bottom: 6px; margin-top: 12px; color: #f2cc60; font-weight: bold;">🔬 Sector analyses (EN)</li>
-    <li style="margin-bottom: 6px;">⚡ <a href="/manifeste-souverainete-technologique/analyses/Data_Centers_and_Artificial_Intelligence_The_Only_Virtuous_Scenario.html">Data Centers & AI</a></li>
-    <li style="margin-bottom: 6px;">🚛 <a href="/manifeste-souverainete-technologique/analyses/Logistics_and_Transport_Residual_Biomass_as_the_Fuel_of_Tomorrow.html">Logistics & Transport</a></li>
-    <li style="margin-bottom: 6px;">🌱 <a href="/manifeste-souverainete-technologique/analyses/Biochar_Much_More_Than_a_Carbon_Sink.html">Biochar - Advanced Uses</a></li>
-    <li style="margin-bottom: 6px;">🌾 <a href="/manifeste-souverainete-technologique/analyses/Agriculture_and_Food_Sovereignty_Haffner_as_a_Lever_of_Survival_and_Independence.html">Agriculture & Food Sovereignty</a></li>
-    <li style="margin-bottom: 6px;">🔥 <a href="/manifeste-souverainete-technologique/analyses/Forest_Fire_Prevention_Protocol_Using_Thermolysis_and_Biochar.html">Forest Fire Prevention Protocol</a></li>
-    <li style="margin-bottom: 6px;">❄️ <a href="/manifeste-souverainete-technologique/analyses/Decarbonized_Air_Conditioning_The_Right_to_Cool_Without_Ecological_Disaster.html">Decarbonized Air Conditioning</a></li>
-    <li style="margin-bottom: 6px;">✈️ <a href="/manifeste-souverainete-technologique/analyses/SAF_HAFFNER_ENERGY_A_FRENCH_IMMEDIATE_SOLUTION_FOR_AVIATION_DECARBONIZATION.html">SAF - Aviation Decarbonization</a></li>
-    <li style="margin-bottom: 6px;">✈️ <a href="/manifeste-souverainete-technologique/analyses/SAF_Sustainable_Aviation_Fuel_-_Agnosticism_as_a_Guarantee.html">SAF: Sustainable Aviation Fuel - Agnosticism as a Guarantee</a></li>
-    <li style="margin-bottom: 6px;">🏥 <a href="/manifeste-souverainete-technologique/analyses/AUTOMATED_HOSPITAL_DECARBONIZATION_AND_GREEN_ENERGY_THERMOLYSIS_SOLUTION_HAFFNER_ENERGY.html">Hospital Decarbonization</a></li>
-    <li style="margin-bottom: 6px;">💧 <a href="/manifeste-souverainete-technologique/analyses/HYDROGEN_INDEPENDENCE_WITHIN_REACH_OF_EVERY_TERRITORY_LOCAL_AUTHORITIES_RURAL_ELECTED_AUTHORITIES.html">Hydrogen & Territories</a></li>
-    <li style="margin-bottom: 6px;">💧 <a href="/manifeste-souverainete-technologique/analyses/district_heating_H6_vs_boiler.html">Circular city: replacing the combustion-based district heating boiler</a></li>
-    
-    <li style="margin-bottom: 6px;">🛡️ <a href="/manifeste-souverainete-technologique/analyses/TACTICAL_ENERGY_AUTONOMY_DEFENSE_MILITARY_SOVEREIGNTY.html">Defense & Military Sovereignty</a></li>
-    <li style="margin-bottom: 6px;">🔥 <a href="/manifeste-souverainete-technologique/analyses/ENERGY_REVOLUTION_AND_ABANDONMENT_OF_NATIONAL_SOVEREIGNTY.html">Energy Revolution</a></li>
-    <li style="margin-bottom: 6px;">📊 <a href="/manifeste-souverainete-technologique/analyses/CLIMATE_RANKING_ENERGY_SOURCES_ANTHROPIC_HEAT_INCLUDED.html">Energy Sources Ranking</a></li>
-    <li style="margin-bottom: 6px;">⚖️ <a href="/manifeste-souverainete-technologique/analyses/ENERGY_SOURCES_COMPARISON_WHY_HAFFNER_ENERGY_THERMOLYSIS_CHANGES_EVERYTHING.html">Energy Sources Comparison</a></li>
-    <li style="margin-bottom: 6px;">⚔️ <a href="/manifeste-souverainete-technologique/analyses/Wars_Resources_and_Decentralization_How_Haffner_Breaks_the_Cycle.html">Wars, Resources & Decentralization</a></li>
-    <li style="margin-bottom: 6px;">🌍 <a href="/manifeste-souverainete-technologique/analyses/The_Human_and_Planetary_Cost_of_the_Current_Model_-_What_Haffner_Can_Change.html">Human & Planetary Cost of Oil</a></li>
+    // Ferme toutes les fenêtres ouvertes
+    document.querySelectorAll('.dropdown-panel').forEach(panel => {
+      panel.classList.remove('show');
+    });
 
-    <li style="margin-bottom: 6px; margin-top: 12px; color: #f2cc60; font-weight: bold;">🇫🇷 Version française</li>
-    <li style="margin-bottom: 6px;">📜 <a href="/manifeste-souverainete-technologique/manifeste_souverainete_technologique_v3_FR.html">Manifeste complet (FR)</a></li>
+    if (!isShown) {
+      target.classList.add('show');
+      
+      // Ajustement dynamique uniquement sur ordinateur
+      if (window.innerWidth > 900) {
+        adjustDropdownPosition(target);
+      }
+    }
+  }
 
-  </ul>
-</nav>
+  function adjustDropdownPosition(panel) {
+    // Réinitialise la position par défaut (aligné sous le bouton)
+    panel.style.left = '0px';
+
+    const rect = panel.getBoundingClientRect();
+    const viewportWidth = window.innerWidth;
+
+    // Si le panneau dépasse le bord droit de la fenêtre, on le decale vers la gauche
+    if (rect.right > viewportWidth - 20) {
+      const overflow = rect.right - viewportWidth + 20;
+      panel.style.left = `-${overflow}px`;
+    }
+  }
+
+  // Fermer les sous-menus si on clique en dehors
+  document.addEventListener('click', function(event) {
+    if (!event.target.closest('.nav-item')) {
+      document.querySelectorAll('.dropdown-panel').forEach(panel => {
+        panel.classList.remove('show');
+      });
+    }
+  });
+
+  // Gestion de l'ouverture du menu mobile complet
+  document.getElementById('mobileToggle').addEventListener('click', function(e) {
+    e.stopPropagation();
+    document.getElementById('navMenu').classList.toggle('mobile-open');
+  });
+</script>
