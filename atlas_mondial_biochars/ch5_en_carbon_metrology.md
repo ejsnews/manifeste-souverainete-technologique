@@ -77,17 +77,17 @@ Each batch should at minimum specify the basis on which results are expressed.
 
 For a gross mass \(M_b\) and a moisture mass fraction \(H\):
 
-\[
+$$
 M_s = M_b(1-H)
-\]
+$$
 
 where \(M_s\) is the dry mass.
 
 Example: a batch of **1,000 kg** containing 5% moisture has:
 
-\[
+$$
 M_s = 1000 \times (1-0.05)=950\ \text{kg}
-\]
+$$
 
 The wet or dry basis must always be specified in order to avoid artificially distorted comparisons.
 
@@ -97,15 +97,15 @@ The wet or dry basis must always be specified in order to avoid artificially dis
 
 If the mass fraction of carbon measured on a dry-matter basis is \(f_C\):
 
-\[
+$$
 M_C=M_s\times f_C
-\]
+$$
 
 With 950 kg of dry matter and 89% carbon:
 
-\[
+$$
 M_C=950\times0.89=845.5\ \text{kg C}
-\]
+$$
 
 This quantity describes the carbon corresponding to the batch according to the analytical method used.
 
@@ -117,21 +117,21 @@ It does **not**, by itself, constitute a certified durable atmospheric carbon re
 
 The stoichiometric conversion between carbon and carbon dioxide is based on their molar masses:
 
-\[
+$$
 M_{CO_2}=M_C\times\frac{44}{12}
-\]
+$$
 
 Thus:
 
-\[
+$$
 1\ \text{kg C}\approx3.667\ \text{kg CO}_2
-\]
+$$
 
 In the previous example:
 
-\[
+$$
 845.5\times\frac{44}{12}\approx3,100\ \text{kg CO}_2
-\]
+$$
 
 or approximately **3.10 t CO₂**. :contentReference[oaicite:3]{index=3}
 
@@ -443,15 +443,15 @@ The concept is a prospective proposal by Eric Jacob intended to connect metrolog
 
 Now suppose, **for educational purposes only**, that a framework assigns a durable-carbon factor \(f_s\).
 
-\[
+$$
 M_{C,durable}=M_C\times f_s
-\]
+$$
 
 then:
 
-\[
+$$
 M_{CO_2,durable}=M_{C,durable}\times\frac{44}{12}
-\]
+$$
 
 The result still does not automatically equal net certified removal.
 
