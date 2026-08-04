@@ -29,15 +29,29 @@ a:hover {
 }
 
 // 2. JUSTIFICATION ET NETTOYAGE DU TEXTE COURANT
-p, li {
-  text-align: justify !important; // Justifie le texte sur toute la largeur
+/*
+p, li {text-align: justify !important; color: #f0f6fc !important;} // Justifie le texte sur toute la largeur
+ul, ol, li {padding-left: 15px; margin-top: 0; margin-bottom: 0;}
+*/
+
+// (On exclut la barre de navigation .site-header-nav du text-align: justify)
+body > *:not(.site-header-nav) p, 
+body > *:not(.site-header-nav) li {
+  text-align: justify !important; 
   color: #f0f6fc !important;
 }
-
 ul, ol, li {
     padding-left: 15px;
     margin-top: 0;
     margin-bottom: 0;
+}
+
+/* Force l'alignement à gauche et un espacement propre dans le menu */
+.site-header-nav, 
+.dropdown-panel, 
+.dropdown-link, 
+.dropdown-link small {
+  text-align: left !important;
 }
 
 // 3. NETTOYAGE RADICAL DU HAUT DE PAGE (Masquage des textes redondants demandés)
