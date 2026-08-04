@@ -20,20 +20,6 @@ illustrations : réalisées avec l'assistance d'une IA générative, puis sélec
 
 ---
 
-<figure>
-  <img src="ch5_fr.png"
-       alt="Vision de la nouvelle économie du carbone reliant biomasse durable, thermolyse, énergie renouvelable, biochars techniques, agriculture, construction, filtration et stockage durable du carbone"
-       style="width:100%;height:auto;">
-  <figcaption>
-    <strong>Figure 1 — Vers une nouvelle économie du carbone biogénique.</strong>
-    La biomasse durable peut alimenter des plateformes intégrées de thermolyse produisant de l'énergie renouvelable et des biochars techniques destinés à l'agriculture, à la construction, à la filtration et à l'industrie, tout en contribuant au stockage durable du carbone et au développement d'économies territoriales circulaires.
-    © Eric Jacob 2026 — Atlas mondial de la valorisation économique du biochar — CC BY 4.0.
-    <a href="ch5_fr.png">Voir l'infographie en pleine résolution</a>
-  </figcaption>
-</figure>
-
----
-
 # Une mutation industrielle
 
 Pendant longtemps, les installations de thermolyse étaient principalement conçues pour produire de l'énergie.
