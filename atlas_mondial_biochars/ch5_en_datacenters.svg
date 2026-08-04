@@ -1,0 +1,23 @@
+from pathlib import Path
+import base64
+
+png = Path("/mnt/data/a_wide_infographic_style_poster_diagram_with_a_cl.png")
+svg = Path("/mnt/data/ch5_en_datacenters.svg")
+
+data = base64.b64encode(png.read_bytes()).decode("ascii")
+svg.write_text(
+    f'''<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1536" height="1024" viewBox="0 0 1536 1024">
+  <title>AI Datacenters, Biochar and Territorial Infrastructure</title>
+  <desc>English infographic for Chapter 5.2 of the World Atlas of Biochar, Eric Jacob 2026.</desc>
+  <image width="1536" height="1024"
+         preserveAspectRatio="xMidYMid meet"
+         href="data:image/png;base64,{data}"
+         xlink:href="data:image/png;base64,{data}"/>
+</svg>
+''',
+    encoding="utf-8"
+)
+print(f"Created {svg.name} ({svg.stat().st_size/1024/1024:.2f} MB)")
