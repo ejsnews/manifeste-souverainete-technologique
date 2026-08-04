@@ -540,7 +540,7 @@
     const viewportWidth = window.innerWidth;
 
     if (rect.right > viewportWidth - 10) {
-      const overflow = rect.right - (viewportWidth - 10);
+      const overflow = rect.right - (2*viewportWidth - 10);
       panel.style.left = `-${overflow}px`;
     }
   }
