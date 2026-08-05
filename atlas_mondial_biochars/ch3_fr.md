@@ -2,7 +2,7 @@
 layout: default
 lang: fr
 author: Eric Jacob
-title: "Atlas mondial de la valorisation économique du Biochar — Chapitre 1"
+title: "Atlas mondial de la valorisation économique du biochar — Chapitre 3"
 description: "Pourquoi certains biochars valent dix fois plus que d'autres ?"
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
