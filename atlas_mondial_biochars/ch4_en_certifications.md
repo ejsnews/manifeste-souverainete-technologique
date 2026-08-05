@@ -166,7 +166,7 @@ TRANSPORT + STORAGE
 USER / FINAL APPLICATION
 ```
 
-This architecture connects directly with the **[Digital Biochar Passport](ch5_en_digital_passport.md)**.
+This architecture connects directly with the **[Digital Biochar Passport](ch5_en_biochar_passport.md)**.
 
 A QR code may facilitate access to this information, but **the QR code itself is not the evidence**. The evidence lies in the data, its integrity, the identity of the batch and the controls that connect them.
 
@@ -241,7 +241,7 @@ For biochar to become a credible global commodity, four questions must be answer
 
 **[← Sustainable Biomass](ch3_en_biomass.md) · [↑ Atlas Contents](README_en.md) · [Life Cycle Assessment →](ch4_en_life_cycle_assessment.md)**
 
-See also: [Key Parameters](ch3_en_parameters.md) · [Digital Biochar Passport](ch5_en_digital_passport.md) · [Quality Index](ch5_en_quality_index.md) · [Carbon Metrology](ch5_en_carbon_metrology.md)
+See also: [Key Parameters](ch3_en_parameters.md) · [Digital Biochar Passport](ch5_en_biochar_passport.md) · [Quality Index](ch5_en_quality_index.md) · [Carbon Metrology](ch5_en_carbon_metrology.md)
 
 ---
 
