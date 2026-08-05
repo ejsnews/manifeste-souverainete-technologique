@@ -43,7 +43,7 @@ The following figure summarizes the proposed model.
 
 *Figure 1 — AI Datacenter + Biochar: links between local resources, thermochemical conversion, computing, heat recovery, carbon storage and traceability. Click the image to open it at full resolution.*
 
-**[Enlarge PNG infographic](ch5_en_datacenters.png) · [View vector SVG version](ch5_en_datacenters.svg)**
+**[Enlarge PNG infographic](ch5_en_datacenters.png)**
 
 ---
 
