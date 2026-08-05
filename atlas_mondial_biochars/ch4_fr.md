@@ -2,14 +2,18 @@
 layout: default
 lang: fr
 author: Eric Jacob
-title: "Atlas mondial de la valorisation économique du Biochar — Chapitre 1"
-description: "Le biochar : un matériau stratégique du XXIe siècle"
+title: "Atlas mondial de la valorisation économique du Biochar — Chapitre 4"
+description: "Les limites du biochar : un matériau d'avenir sous conditions"
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 # Chapitre 4 — Les limites du biochar : un matériau d'avenir... sous conditions
 
 > **Le biochar n'est pas un produit universel. Ses performances dépendent directement de la qualité de la biomasse, de la maîtrise du procédé de thermolyse et de son usage final. Une production ou une utilisation inadaptée peut réduire fortement ses bénéfices, voire entraîner des effets indésirables.**
+
+![Chapitre 4 — Les limites du biochar : qualité, biomasses, pH, contaminants et certifications](ch4_fr.png)
+
+*Figure — Les principales conditions qui déterminent la qualité et la sécurité d'utilisation d'un biochar. © Eric Jacob 2026 — Atlas mondial du Biochar — CC BY 4.0.*
 
 ---
 
@@ -144,4 +148,3 @@ Le biochar ne doit pas être considéré comme un produit standard.
 Sa qualité dépend de toute la chaîne de production, depuis le choix de la biomasse jusqu'au contrôle analytique final.
 
 Les meilleurs résultats sont obtenus lorsque le biochar est produit, certifié et utilisé en fonction de l'application recherchée.
-
