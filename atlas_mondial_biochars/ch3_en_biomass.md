@@ -167,7 +167,7 @@ This proximity transforms treatment costs into economic opportunities while keep
 
 A credible biochar industry must be able to trace every batch back to its origin.
 
-The future **[Digital Biochar Passport](ch5_en_digital_passport.md)** should therefore record at least:
+The future **[Digital Biochar Passport](ch5_en_biochar_passport.md)** should therefore record at least:
 
 - biomass category;
 - geographical origin;
@@ -196,7 +196,7 @@ Biochar becomes particularly valuable when it closes a local circular loop: genu
 See also:
 
 - [Biochar Classification](ch3_en_classification.md)
-- [Life Cycle Assessment](ch4_en_life_cycle.md)
+- [Life Cycle Assessment](ch4_en_life_cycle_assessment.md)
 - [Territories & Resilience](ch5_en_territories_resilience.md)
 - [Reclaiming Deserts](ch5_en_desert_restoration.md)
 
