@@ -85,7 +85,7 @@ For reliable carbon accounting, stability should therefore be evaluated through 
 See also:
 
 - **[Carbon Metrology](ch5_en_carbon_metrology.md)**
-- **[Life Cycle Assessment](ch4_en_life_cycle.md)**
+- **[Life Cycle Assessment](ch4_en_life_cycle_assessment.md)**
 
 ---
 
@@ -154,8 +154,8 @@ By properly characterizing each biochar, it becomes possible to identify where i
 
 See also:
 
-- [Life Cycle Assessment](ch4_en_life_cycle.md)
-- [Digital Biochar Passport](ch5_en_digital_passport.md)
+- [Life Cycle Assessment](ch4_en_life_cycle_assessment.md)
+- [Digital Biochar Passport](ch5_en_biochar_passport.md)
 - [Global Quality Index](ch5_en_quality_index.md)
 - [Carbon Metrology](ch5_en_carbon_metrology.md)
 
