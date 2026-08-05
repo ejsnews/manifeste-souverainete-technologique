@@ -173,7 +173,7 @@ The next chapter leaves the general families behind and focuses on measurement i
 See also:
 
 - [Biomass Feedstocks](ch3_en_biomass.md)
-- [Buyer's Guide](ch5_en_buyers_guide.md)
+- [Buyer's Guide](ch5_en_buyer_guide.md)
 - [Global Biochar Quality Index](ch5_en_quality_index.md)
 
 ---
