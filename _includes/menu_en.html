@@ -732,14 +732,84 @@
 </script>
 
 <script>
-(function() {
+(function () {
   const atlasRoot = "/manifeste-souverainete-technologique/atlas_mondial_biochars/";
-  const pageMap = {"README_en.html": "index.html", "ch1_en.html": "ch1_fr.html", "ch2_en.html": "ch2_fr.html", "ch2_en_prices.html": "ch2_fr_prix.html", "ch3_en.html": "ch3_fr.html", "ch3_en_classification.html": "ch3_fr_classification.html", "ch3_en_parameters.html": "ch3_fr_parametres.html", "ch3_en_biomass.html": "ch3_fr_biomasses.html", "ch4_en.html": "ch4_fr.html", "ch4_en_certifications.html": "ch4_fr_certifications.html", "ch4_en_life_cycle_assessment.html": "ch4_fr_analyse_cycle_vie.html", "ch4_en_materials.html": "ch4_fr_materiaux.html", "ch4_en_filtration.html": "ch4_fr_filtration.html", "ch5_en.html": "ch5_fr.html", "ch5_en_biochar_ideal.html": "ch5_fr_biochar_ideal.html", "ch5_en_datacenters.html": "ch5_fr_datacenters.html", "ch5_en_biochar_passport.html": "ch5_fr_passeport_biochar.html", "ch5_en_quality_index.html": "ch5_fr_indice_qualite.html", "ch5_en_biochar_exchange.html": "ch5_fr_bourse_biochar.html", "ch5_en_global_price_index.html": "ch5_fr_indice_prix_mondial.html", "ch5_en_global_consortium.html": "ch5_fr_consortium_mondial.html", "ch5_en_global_observatory.html": "ch5_fr_observatoire_mondial.html", "ch5_en_global_research.html": "ch5_fr_recherche_mondiale.html", "ch5_en_buyer_guide.html": "ch5_fr_guide_acheteur.html", "ch5_en_carbon_metrology.html": "ch5_fr_metrologie_carbone.html", "ch5_en_digital_twin.html": "ch5_fr_jumeau_numerique.html", "ch5_en_risk_management.html": "ch5_fr_gestion_risques.html", "ch5_en_desert_restoration.html": "ch5_fr_reconquete_deserts.html", "ch5_en_territories_resilience.html": "ch5_fr_territoires_resilience.html", "ch5_en_roadmap_2050.html": "ch5_fr_feuille_route_2050.html"};
-  const link = document.getElementById("context-language-switch");
-  if (!link) return;
-  let page = window.location.pathname.split("/").pop() || "README_en.html";
-  if (Object.prototype.hasOwnProperty.call(pageMap, page)) {
-    link.href = atlasRoot + pageMap[page];
+  const atlasMap = {
+    "README_en.html":"index.html",
+    "ch1_en.html":"ch1_fr.html",
+    "ch2_en.html":"ch2_fr.html",
+    "ch2_en_prices.html":"ch2_fr_prix.html",
+    "ch3_en.html":"ch3_fr.html",
+    "ch3_en_classification.html":"ch3_fr_classification.html",
+    "ch3_en_parameters.html":"ch3_fr_parametres.html",
+    "ch3_en_biomass.html":"ch3_fr_biomasses.html",
+    "ch4_en.html":"ch4_fr.html",
+    "ch4_en_certifications.html":"ch4_fr_certifications.html",
+    "ch4_en_life_cycle_assessment.html":"ch4_fr_analyse_cycle_vie.html",
+    "ch4_en_materials.html":"ch4_fr_materiaux.html",
+    "ch4_en_filtration.html":"ch4_fr_filtration.html",
+    "ch5_en.html":"ch5_fr.html",
+    "ch5_en_biochar_ideal.html":"ch5_fr_biochar_ideal.html",
+    "ch5_en_datacenters.html":"ch5_fr_datacenters.html",
+    "ch5_en_biochar_passport.html":"ch5_fr_passeport_biochar.html",
+    "ch5_en_quality_index.html":"ch5_fr_indice_qualite.html",
+    "ch5_en_biochar_exchange.html":"ch5_fr_bourse_biochar.html",
+    "ch5_en_global_price_index.html":"ch5_fr_indice_prix_mondial.html",
+    "ch5_en_global_consortium.html":"ch5_fr_consortium_mondial.html",
+    "ch5_en_global_observatory.html":"ch5_fr_observatoire_mondial.html",
+    "ch5_en_global_research.html":"ch5_fr_recherche_mondiale.html",
+    "ch5_en_buyer_guide.html":"ch5_fr_guide_acheteur.html",
+    "ch5_en_carbon_metrology.html":"ch5_fr_metrologie_carbone.html",
+    "ch5_en_digital_twin.html":"ch5_fr_jumeau_numerique.html",
+    "ch5_en_risk_management.html":"ch5_fr_gestion_risques.html",
+    "ch5_en_desert_restoration.html":"ch5_fr_reconquete_deserts.html",
+    "ch5_en_territories_resilience.html":"ch5_fr_territoires_resilience.html",
+    "ch5_en_roadmap_2050.html":"ch5_fr_feuille_route_2050.html"
+  };
+
+  const btn = document.getElementById("context-language-switch");
+  if (!btn) return;
+
+  /* ---------------------------------------------------------
+     PRIORITÉ 1 :
+     utiliser le lien FR présent dans le H1
+     --------------------------------------------------------- */
+  const h1 = document.querySelector("h1");
+  if (h1) {
+      const links = h1.querySelectorAll("a[href]");
+      for (const a of links) {
+          const href = a.getAttribute("href");
+          if (!href) continue;
+          if (
+              href.includes("_FR") ||
+              href.includes("_fr") ||
+              href.includes("franc") ||
+              href.includes("FRANCAIS") ||
+              href.includes("FRANÇAIS")
+          ) {
+              btn.href = a.href;
+              btn.style.display = "inline-block";
+              return;
+          }
+      }
   }
+
+  /* ---------------------------------------------------------
+     PRIORITÉ 2 :
+     table Atlas
+     --------------------------------------------------------- */
+  const page = window.location.pathname.split("/").pop() || "README_en.html";
+  if (atlasMap[page]) {
+      btn.href = atlasRoot + atlasMap[page];
+      btn.style.display = "inline-block";
+      return;
+  }
+
+  /* ---------------------------------------------------------
+     PRIORITÉ 3 :
+     aucune traduction
+     --------------------------------------------------------- */
+  btn.style.display = "none";
+
 })();
 </script>
