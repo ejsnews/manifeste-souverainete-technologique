@@ -182,5 +182,3 @@ suffisante pour les clients les plus exigeants (datacenters, aviation).
 *Éric Jacob — calculs basés sur la connaissance libre, aucune source
 explicite d'Haffner Energy, mais la science ne diffère pas, elle est
 déterministe.*
-
----
