@@ -4,7 +4,7 @@ lang: fr
 author: eric_jacob
 title: "MANIFESTE POUR LA SOUVERAINETÉ ET LA RÉSILIENCE TECHNOLOGIQUE"
 ---
-# MANIFESTE POUR LA SOUVERAINETÉ ET LA RÉSILIENCE TECHNOLOGIQUE [(English version - EN)](MANIFESTO_FOR_TECHNOLOGICAL_SOVEREIGNTY_AND_RESILIENCE.md)
+# MANIFESTE POUR LA SOUVERAINETÉ ET LA RÉSILIENCE TECHNOLOGIQUE [(English version - EN)](manifeste_souverainete_technologique_v3_EN.md)
 
 *Vers un écosystème national d'autonomie énergétique, sanitaire et agricole*
 
