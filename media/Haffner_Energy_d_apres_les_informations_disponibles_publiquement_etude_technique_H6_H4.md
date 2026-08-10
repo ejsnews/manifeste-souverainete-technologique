@@ -1,5 +1,7 @@
 ---
 layout: default
+lang: fr
+author: eric_jacob
 title: "Étude Technique Haffner Energy — H6 et S-iC : deux architectures distinctes"
 ---
 
