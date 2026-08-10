@@ -7,6 +7,7 @@ title: "Haffner Energy Technical Study — H6 and S-iC: Two Distinct Architectur
 
 # Haffner Energy Concept Based on Publicly Available Information [(French version - FR)](Haffner_Energy_d_apres_les_informations_disponibles_publiquement_etude_technique_H6_H4.md)
 
+
 *Éric Jacob, engineer (Maths-Sup, DEA) — non-contractual*
 
 > **Preliminary note**: This document is an independent model based on
@@ -16,78 +17,76 @@ title: "Haffner Energy Technical Study — H6 and S-iC: Two Distinct Architectur
 
 ---
 
-## I. Architecture of the Coupled H6 + S-iC Installation
+## I. Two Haffner Energy Architectures Studied Separately
 
 The concept is based on two complementary modules operating in tandem:
 
 | Component | Input | Main output | H₂ production |
 |:----------|:--------|:-----------------|:-------------:|
-| **H6** | Raw biomass (wood, straw, waste) | Syngas + Biochar | 60 kg H₂/h |
-| **S-iC / high-capacity H₂ architecture** | Carbon/biochar from the H6 architecture | Green hydrogen | **482 kg H₂/h*** |
-| **Modeled total** | | | **542 kg H₂/h*** |
+| **H6** | Raw biomass (wood, straw, waste) | Syngas + Biochar | >≈50 kg H₂/h |
+| **S-iC / high-capacity H₂ architecture** | Carbon/biochar from the H6 architecture | Green hydrogen | **500 kg H₂/h*** |
 
-The two architectures should be studied separately.
+The 500 kg H₂/h figure for the 20 MW system corresponds to information that was previously made public or communicated, although its exact configuration is not documented here. It must not be added to the performance of the 2 MW H6.
 
-### H6 / lower-power configuration
+The two architectures must be studied separately.
 
-The H6 processes local biomass through thermolysis and produces, among other
-products, syngas and biochar. Recent public data for the C-iC range give,
-for HYNOCA® C-iC, a reference configuration of around **50 kg H₂/h**, with
-biomass consumption depending in particular on its lower heating value and
-moisture content. The **≈ 60 kg H₂/h** used in earlier versions of this study
-should be considered a working configuration/performance rather than a
-universal physical limit of the H6.
+### 2 MW H6 / lower-power configuration
 
-The public HYNOCA® C-iC datasheet also gives an **LCOH below €2.34/kg**
-for **50 kg H₂/h**, based on an assumption of biomass at **€90/t** and
-electricity at **€70/MWh**.
+The H6 processes local biomass through thermolysis and produces, among other products, syngas and biochar. Recent public data for the C-iC range give, for HYNOCA® C-iC, a reference configuration of around **50 kg H₂/h,*** with biomass consumption depending in particular on its LHV and moisture content. The **≈ 60 kg H₂/h** used in some earlier versions of this study should be considered a working configuration or performance, rather than a universal physical limit of the H6.
 
-The €2.34/kg LCOH announced by Haffner corresponds to hydrogen delivered at 30 bar. It includes utilities, including the electricity required for the process and for compression up to 30 bar. Compression beyond 30 bar, distribution and transport are not included.
+The public **HYNOCA® C-iC** datasheet gives an LCOH below **€2.34/kg H₂**, for a production of ***50 kg H₂/h,** based on an assumption of biomass at **€90/t** and electricity at **€70/MWh**.
+
+The announced LCOH corresponds to **hydrogen** delivered at **30 bar**. It includes utilities, including the electricity required for the process and for compression up to 30 bar. Compression beyond 30 bar, distribution and transport are not included.
 
 **Impact of Biomass Cost**
+
 669 kg/h × €90/t = €60.21/h for 50 kg H₂/h:
+
 This implies a cost of 60.21/50 = **€1.204/kg**.
-Free biomass could therefore halve the manufacturing costs of these biofuels and bring the **LCOH below €1.14/kg**.
 
-### S-iC / high-capacity architecture
+The biomass component therefore represents approximately €1.20/kg H₂ under this assumption.
 
-The high-capacity system of approximately **20 MW** should not be added
-to the H6 in the present model. It is considered here as an **autonomous
-architecture**, supplied with its own biomass and with improved performance
-compared with the H6.
+As a simplified marginal analysis, if biomass were available free of charge and all other LCOH parameters remained unchanged:
 
-A performance of approximately **482 kg H₂/h** had previously been
-communicated publicly during a presentation in Amsterdam; a figure of about
-**500 kg H₂/h** was subsequently mentioned. The exact configuration, biomass
-consumption and corresponding levelized cost are not publicly documented in
-the sources used here.
+2.34 − 1.204 = **€1.136/kg H₂**
 
-The figure **542 kg H₂/h = 60 + 482** from the previous version is therefore
-**abandoned**: it resulted from an assumed combination of two architectures
-that the available information does not establish.
+i.e. a theoretical level below approximately **€1.14/kg H₂**.
 
-The only electrical performance figure retained here for the S-iC is the
-reported figure of **2.8 kWh of electricity per kilogram of hydrogen**.
-A precise LCOH should not be inferred from this without knowing the complete
-material, heat, CAPEX and operating balance.
+This is not a new manufacturer LCOH: this value is an independent estimate. Local biomass nevertheless entails collection, preparation, storage and transport costs.
 
-The question of the system's energy autonomy — internal production of heat,
-cooling and potentially electricity, heat recovery, or an external supply
-limited to start-up — must also remain a **hypothesis to be verified**, rather
-than a stated characteristic of the module in this study.
+### S-iC / ~20 MW high-capacity architecture
+
+The high-capacity system of approximately **20 MW** is studied separately from the H6. It is considered here as an **autonomous architecture**, supplied with its own biomass.
+
+→ significantly higher performance, but economic data are still incomplete
+
+A performance of approximately **482 kg H₂/h** was previously communicated at a trade show in Amsterdam. A figure of **500 kg H₂/h** was subsequently confirmed. The exact configuration, biomass consumption and corresponding levelized cost are not publicly documented in the sources used here.
+
+The energy-performance figure retained for the S-iC is **2.8 kWh of electricity per kilogram of hydrogen**. No LCOH should be extrapolated from this single figure.
+
+The possibility of substantial energy autonomy for the system — heat recovery, internal electricity generation, cooling and heat production, or a need for external supply limited to start-up — is a hypothesis to be verified, rather than a characteristic currently asserted in this study.
 
 ---
-
 
 ## II. Production Balances — Two Distinct Architectures
 
-$$\text{Operating hours} = 8760 \times 85\% = 7446\ \text{h/year}$$
+For the H6 at 50 kg/h:
 
-$$\text{Annual production} = 542\ \text{kg/h} \times 7446\ \text{h} = 4\ 035\ 732\ \text{kg H}_2\text{/year}$$
+$$\text{Operating hours} = 8760 \times 91\% = 8000\ \text{h/year}$$
+
+$$\text{Annual production} = 50\ \text{kg/h} \times 8000\ \text{h} = 400\ 000\ \text{kg H}_2\text{/year}$$
+
+For the S-iC at 500 kg/h:
+
+$$\text{Operating hours} = 8760 \times 91\% = 8000\ \text{h/year}$$
+
+$$\text{Annual production} = 500\ \text{kg/h} \times 8000\ \text{h} = 4\ 000\ 000\ \text{kg H}_2\text{/year}$$
 
 ---
 
-## III. Comparison of Production Costs — Public Data and Independent Modeling
+## III. Comparison of Production Costs — Public Data and Modeling
+
+This table is based on the assumption of an S-iC using free biomass.
 
 | Energy | Process | Material cost | Distribution cost | **Final price** | Comment |
 |:--------|:--------|:------------:|:-----------------:|:--------------:|:-----------|
@@ -125,9 +124,9 @@ This advantage is structural, not cyclical: it is based on a feedstock
 waste stream that otherwise has to be disposed of), whereas fossil fuels are
 subject to global markets, geopolitics and rising carbon taxes.
 
-**La tendance va s'accentuer :** la taxe carbone européenne (ETS) augmente
-chaque année sur les fossiles, creusant mécaniquement l'écart en faveur
-de Haffner sans que la technologie ait besoin d'évoluer.
+**The trend will intensify:** the European carbon tax (ETS) increases
+every year on fossil fuels, mechanically widening the gap in Haffner's
+favor without the technology needing to evolve.
 
 ---
 
@@ -185,11 +184,11 @@ physical and chemical laws. Conversion efficiencies, stoichiometric ratios
 and energy balances do not depend on Haffner Energy to be true — they can be
 independently verified in the scientific literature.
 
-Ce qui est spécifique à Haffner, et qui constitue sa valeur propriétaire,
-c'est l'ingénierie qui permet d'atteindre ces rendements théoriques dans
-un module compact, transportable, déployable en moins d'un mois — et
-de les reproduire industriellement à grande échelle avec une fiabilité
-suffisante pour les clients les plus exigeants (datacenters, aviation).
+What is specific to Haffner, and constitutes its proprietary value, is the
+engineering that makes it possible to achieve these theoretical efficiencies
+in a compact, transportable module, deployable in less than one month — and
+to reproduce them industrially at large scale with sufficient reliability
+for the most demanding customers (data centers, aviation).
 
 *Éric Jacob — calculations based on freely available knowledge, no explicit
 Haffner Energy source, but science does not differ; it is deterministic.*
@@ -197,3 +196,4 @@ Haffner Energy source, but science does not differ; it is deterministic.*
 ---
 
 *Complete Manifesto: [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
+
