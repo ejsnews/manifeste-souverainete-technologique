@@ -12,7 +12,7 @@ author: eric_jacob
 
 Il existe en France une technologie de rupture mature, brevetée dans le monde entier, rentable sans subvention, capable de produire simultanément de l'hydrogène vert, du carburant durable pour l'aviation (SAF), du biochar — un puits de carbone solide et mesurable — ainsi qu'ammoniac et méthanol, deux intrants industriels et agricoles aujourd'hui massivement importés. Elle fonctionne sur des déchets agricoles, des résidus forestiers, du bois de classe B. Elle ne nécessite ni fondation ni permis de construire. Un module s'installe en moins d'un mois sur une simple dalle de béton.
 
-Cette technologie s'appelle la thermolyse de biomasse décentralisée en cascade. Elle est développée par Haffner Energy, PME française cotée, fondée il y a une décennie par des ingénieurs qui ont déposé leurs brevets dans le monde entier.
+Cette technologie s'appelle la thermolyse de biomasse décentralisée en cascade. Elle est développée par Haffner Energy, PME française cotée, fondée il y a une décennie par des ingénieurs qui ont déposé leurs 100 brevets dans le monde entier.
 
 Ses fondateurs détenaient 50 % du capital il y a six mois. Ils en détiennent aujourd'hui 11 %.
 
@@ -22,7 +22,7 @@ Ses fondateurs détenaient 50 % du capital il y a six mois. Ils en détiennent a
 
 Haffner Energy avait besoin de 4 millions d'euros — une somme dérisoire à l'échelle des enjeux. Le crédit bancaire classique était inaccessible, comme il l'est pour la quasi-totalité des PME cotées en phase de déploiement industriel. Le seul financement disponible était un mécanisme ABO (obligations à bons de souscription d'actions), structurellement dilutif : chaque tranche émise réduit mécaniquement la part des fondateurs, jusqu'à les évincer de fait de leur propre entreprise.
 
-Ce n'est pas un cas isolé. Selon des données évoquées à l'Assemblée nationale, ce mécanisme aurait détruit plus de soixante entreprises en France en moins de dix ans. Le mode opératoire est toujours le même : assécher la trésorerie, bloquer l'accès au crédit, proposer le financement dilutif comme seule bouée. Les petits porteurs voient leur capitalisation divisée par dix, vingt, trente, un million, un milliard... Les fondateurs perdent le contrôle. La technologie survit dans la société, mais sans ses architectes — et la porte s'ouvre à une acquisition à bas prix ou à une copie non contestée.
+Ce n'est pas un cas isolé. Selon des données évoquées à l'Assemblée nationale, ce mécanisme, moralement illicite qui perdure depuis des années, aurait détruit plus de soixante entreprises en France en moins de dix ans. Le mode opératoire est toujours le même : assécher la trésorerie, bloquer l'accès au crédit, proposer le financement dilutif comme seule bouée. Les petits porteurs voient leur capitalisation divisée par dix, vingt, trente, un million, un milliard... Les fondateurs perdent le contrôle. La technologie survit dans la société, mais sans ses architectes — et la porte s'ouvre à une acquisition à bas prix ou à une copie non contestée.
 
 Une proposition de loi visant à réguler ces mécanismes OCABSA est actuellement portée à l'Assemblée nationale. Elle va dans le bon sens. Elle ne suffit pas.
 
