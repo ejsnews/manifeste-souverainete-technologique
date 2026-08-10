@@ -22,9 +22,9 @@ Cette technologie existe. Les modules sont disponibles. Les brevets sont frança
 
 La thermolyse de biomasse résiduelle (déchets agricoles, résidus forestiers, bois de classe B) permet à une commune, un hôpital, une coopérative agricole ou un opérateur de data center de produire sa propre énergie décarbonée, sans fondation, sans permis de construire, en moins d'un mois d'installation.
 
-- Le coût de production de l'hydrogène atteint **moins de 2 €/kg**, déjà compétitif face au fossile sans subvention.
+- Le coût de production de l'hydrogène se situe entre **1,2 €/kg** si l'on utilise de la biomasse gratuite et **2,34 €/kg** si l'on utilise 669 kg/h de biomasse à **90 €/t** sans subventions.
 - Le SAF produit se situe à **parité avec le kérosène fossile** dès aujourd'hui, avec une trajectoire de baisse continue.
-- Le biochar coproduit séquestre durablement le carbone biogénique dans les sols agricoles, générant des crédits carbone valorisables (**110–140 €/tonne de CO₂**).
+- Le biochar coproduit séquestre durablement le carbone biogénique dans les sols agricoles, générant des crédits carbone valorisables (**110€–2000€/tonne de CO₂**).
 
 Chaque déploiement réduit la facture énergétique locale, crée des emplois non délocalisables, valorise des ressources considérées aujourd'hui comme des charges à éliminer — et réduit mécaniquement le déficit commercial français.
 
@@ -69,5 +69,3 @@ La solution française existe, elle est mature, elle est brevetée, elle est ren
 ---
 
 *Note rédigée par un actionnaire indépendant de Haffner Energy, ingénieur de formation (Maths-Sup/Spé, DEA de physique), sans mandat politique ni intérêt commercial direct dans ce déploiement.*
-
-*Manifeste complet : [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
