@@ -20,7 +20,7 @@ La France traverse une période de tension stratégique, marquée par un décala
 
 Pendant que certaines de nos PME porteuses de ruptures technologiques majeures subissent des pressions financières fortes, des difficultés évitables ou choisissent l'exil vers des marchés plus accueillants, des brevets et des savoir-faire s'exportent vers des puissances étrangères plus promptes à s'approprier les technologies de demain.
 
-<center><img src="media/FR/echec_absurde_des_politiques_ecologiques_fr.png" width="200" alt="Haffner Energy - Les limites des politiques énergétiques actuelles"></center>
+<center><img src="media/FR/echec_absurde_des_politiques_ecologiques_fr.png" width="700" alt="Haffner Energy - Les limites des politiques énergétiques actuelles"></center>
 
 Le modèle énergétique actuel repose largement sur des réseaux centralisés et sur des technologies comme l'électrolyse alimentée par des énergies fossiles ou nucléaires — un hydrogène qui se retrouve alors en concurrence directe avec l'intelligence artificielle, les cryptomonnaies ou l'industrie pour l'accès à l'électricité. Ce choix contribue à l'inflation, sollicite fortement nos ressources financières et sature nos infrastructures électriques. L'électrolyse en réseau agit comme un goulot d'étranglement sur une infrastructure électrique déjà mise sous tension par l'électrification massive des usages.
 
