@@ -20,7 +20,7 @@ France is going through a period of strategic tension, marked by a growing gap b
 
 While some of our SMEs carrying major technological breakthroughs face strong financial pressure, avoidable difficulties, or choose to relocate to more welcoming markets, patents and know-how are being exported to foreign powers quicker to seize tomorrow's technologies.
 
-<center><img src="media/EN/image1.jpg" width="174" alt="Haffner Energy - The limits of current energy policies"></center>
+<center><img src="media/EN/echec_absurde_des_politiques_ecologiques_en.png" width="700" alt="Haffner Energy - The limits of current energy policies"></center>
 
 The current energy model relies largely on centralized grids and on technologies such as electrolysis powered by fossil or nuclear energy — hydrogen that then finds itself in direct competition with artificial intelligence, cryptocurrencies, or industry for access to electricity. This choice contributes to inflation, puts heavy strain on our financial resources, and saturates our electrical infrastructure. Grid-based electrolysis acts as a bottleneck on an electrical infrastructure already under pressure from the massive electrification of usage.
 
