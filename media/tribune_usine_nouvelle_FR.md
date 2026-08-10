@@ -14,7 +14,7 @@ Il existe en France une technologie de rupture mature, brevetée dans le monde e
 
 Cette technologie s'appelle la thermolyse de biomasse décentralisée en cascade. Elle est développée par Haffner Energy, PME française cotée, fondée il y a une décennie par des ingénieurs qui ont déposé leurs 100 brevets dans le monde entier.
 
-Ses fondateurs détenaient 50 % du capital il y a six mois. Ils en détiennent aujourd'hui 11 %.
+Ses fondateurs détenaient 41% du capital mi-2025. En mars 2026, ils n'en détenaient plus que 11 %.
 
 ---
 
