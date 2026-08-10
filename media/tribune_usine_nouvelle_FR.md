@@ -52,4 +52,3 @@ La solution existe. Elle est française. Elle est brevetée. Elle est rentable. 
 
 ---
 
-*Manifeste complet : [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
