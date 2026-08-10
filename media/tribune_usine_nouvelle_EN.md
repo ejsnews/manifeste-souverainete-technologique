@@ -5,7 +5,7 @@ lang: en
 author: eric_jacob
 ---
 
-# France is letting its most valuable patents die
+# France is letting its most valuable patents die [(French version - FR)](tribune_usine_nouvelle_FR.md)
 
 *By Éric Jacob, engineer (Maths-Sup, DEA), independent shareholder*
 
