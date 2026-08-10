@@ -196,5 +196,3 @@ Haffner Energy source, but science does not differ; it is deterministic.*
 
 ---
 
-*Complete Manifesto: [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
-
