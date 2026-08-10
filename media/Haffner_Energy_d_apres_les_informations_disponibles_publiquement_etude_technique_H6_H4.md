@@ -16,78 +16,68 @@ title: "Étude Technique Haffner Energy — H6 et S-iC : deux architectures dist
 
 ---
 
-## I. Architecture de l'installation couplée H6 + S-iC
+## I. Deux architectures Haffner Energy étudiées séparément
 
 Le concept repose sur deux modules complémentaires fonctionnant en tandem :
 
 | Composant | Intrant | Sortie principale | Production H₂ |
 |:----------|:--------|:-----------------|:-------------:|
-| **H6** | Biomasse brute (bois, pailles, déchets) | Syngas + Biochar | 60 kg H₂/h |
-| **S-iC / architecture H₂ haute capacité** | Carbone/biochar issu de l'architecture H6 | Hydrogène vert | **482 kg H₂/h*** |
-| **Total modélisé** | | | **542 kg H₂/h*** |
+| **H6** | Biomasse brute (bois, pailles, déchets) | Syngas + Biochar | >≈50 kg H₂/h |
+| **S-iC / architecture H₂ haute capacité** | Carbone/biochar issu de l'architecture H6 | Hydrogène vert | **500 kg H₂/h*** |
 
+Les valeurs 500 kg H₂/h de 20MW correspondent à des informations publiques ou communiquées antérieurement dont la configuration exacte n'est pas documentée ici. Elles ne doivent pas être additionnées aux performances du H6 de 2MW.
 Les deux architectures doivent être étudiées séparément.
 
-### H6 / configuration de plus petite puissance
+### H6 de 2 MW / configuration de plus petite puissance
 
-Le H6 traite une biomasse locale par thermolyse et produit notamment du
-syngas et du biochar. Les données publiques récentes de la gamme C-iC
-donnent, pour HYNOCA® C-iC, une configuration de référence autour de
-**50 kg H₂/h**, avec une consommation de biomasse dépendant notamment du
-PCI et de l'humidité. Les **≈ 60 kg H₂/h** utilisés dans certaines
-versions antérieures de cette étude doivent être considérés comme une
-configuration/performance de travail et non comme une limite physique
-universelle du H6.
+Le H6 traite une biomasse locale par thermolyse et produit notamment du syngas et du biochar. Les données publiques récentes de la gamme C-iC donnent, pour HYNOCA® C-iC, une configuration de référence autour de **50 kg H₂/h,*** avec une consommation de biomasse dépendant notamment du PCI et de l'humidité. Les **≈ 60 kg H₂/h** utilisés dans certaines versions antérieures de cette étude doivent être considérés comme une configuration ou performance de travail et non comme une limite physique universelle du H6.
 
-La fiche publique HYNOCA® C-iC associe par ailleurs un **LCOH inférieur à 2,34 €/kg** 
-pour  **50 kg H₂/h**, avec une hypothèse de biomasse à **90 €/t** et d'électricité
-à **70 €/MWh**.
+La fiche publique **HYNOCA® C-iC** associe un LCOH inférieur à **2,34 €/kg H₂**, pour une production de ***50 kg H₂/h,** avec une hypothèse de biomasse à **90 €/t** et d'électricité à **70 €/MWh**.
 
-Le LCOH de 2,34 €/kg annoncé par Haffner correspond à de l'hydrogène livré à 30 bar. Il inclut notamment les utilités, dont l'électricité nécessaire au procédé et à la compression jusqu'à 30 bar. La compression au-delà de 30 bar, la distribution et le transport ne sont pas inclus.
+Le LCOH annoncé correspond à de l'**hydrogène** livré à **30 bar**. Il inclut notamment les utilités, dont l'électricité nécessaire au procédé et à la compression jusqu'à 30 bar. La compression au-delà de 30 bar, la distribution et le transport ne sont pas inclus.
 
-**Poids du cout de la Biomasse**
+**Impact du coût de la biomasse**
 
 669 kg/h × 90€/t = 60,21€/h pour 50 kg H₂/h :
+
 Ce qui implique un coût de 60,21/50 = **1,204€/kg**.
 
-La biomasse gratuite pourrait donc réduire de moitié les coûts de production de ces biocarburants et ramener le ***coût actualisé de production (LCOH) en dessous de 1,14 €/kg**.
+La composante biomasse représente donc environ 1,20 €/kg H₂ dans cette hypothèse.
+
+À titre d'analyse marginale simplifiée, si la biomasse était disponible gratuitement et que tous les autres paramètres du LCOH restaient inchangés :
+
+2,34 − 1,204 = **1,136 €/kg H₂**
+
+soit un niveau théorique inférieur à environ **1,14 €/kg H₂**.
+
+Il ne s'agit pas d'un nouveau LCOH constructeur : cette valeur est une estimation indépendante. Une biomasse locale entraîne néanmoins des coûts de collecte, préparation, stockage et transport.
 
 ### S-iC / architecture haute capacité
 
-Le système haute capacité d'environ **20 MW** ne doit pas être additionné
-au H6 dans le présent modèle. Il est considéré ici comme une **architecture
-autonome**, alimentée par sa propre biomasse et dont les performances sont améliorées par rapport au H6.
+Le système haute capacité d'environ **20 MW** est étudié séparément du H6. Il est considéré ici comme une **architecture autonome**, alimentée par sa propre biomasse.
 
-Une performance de l'ordre de **482 kg H₂/h** avait été publiquement
-communiquée antérieurement dans le cadre d'une présentation à Amsterdam ;
-une valeur d'environ **500 kg H₂/h** a ensuite été évoquée. La configuration
-exacte, la consommation de biomasse et le coût actualisé correspondant ne
-sont pas documentés publiquement dans les sources utilisées ici.
+Une performance de l'ordre de **482 kg H₂/h** a été communiquée antérieurement dans le cadre d'un salon à Amsterdam. Une valeur de **500 kg H₂/h** a ensuite été confirmée. La configuration exacte, la consommation de biomasse et le coût actualisé correspondant ne sont pas documentés publiquement dans les sources utilisées ici.
 
-Le chiffre **542 kg H₂/h = 60 + 482** de la version précédente est donc
-**abandonné** : il résultait d'une hypothèse d'association de deux
-architectures que les informations disponibles ne permettent pas
-d'établir.
+Le chiffre de performance énergétique retenu pour le S-iC est **2,8 kWh d'électricité par kg d'hydrogène**. Aucun LCOH ne doit être extrapolé à partir de cette seule donnée.
 
-Le seul élément de performance électrique retenu ici pour le S-iC est
-l'information communiquée de **2,8 kWh d'électricité par kg d'hydrogène**.
-Il ne faut pas en déduire un LCOH précis sans connaître le bilan complet
-de matière, de chaleur, de CAPEX et d'exploitation.
-
-La question de l'autonomie énergétique du système — production interne
-de chaleur, froid et éventuellement électricité, récupération de chaleur,
-ou apport externe limité au démarrage — doit également rester une
-**hypothèse à vérifier**, et non une caractéristique affirmée du module
-dans cette étude.
+La possibilité d'une autonomie énergétique importante du système — récupération de chaleur, production interne d'électricité, froid et chaleur, ou besoin d'un apport externe limité au démarrage — constitue une hypothèse à vérifier, et non une caractéristique actuellement affirmée dans cette étude.
 
 ---
 
 
 ## II. Bilans de production — deux architectures distinctes
 
-$$\text{Heures opérationnelles} = 8760 \times 85\% = 7446\ \text{h/an}$$
+Pour le H6 à 50 kg/h :
 
-$$\text{Production annuelle} = 542\ \text{kg/h} \times 7446\ \text{h} = 4\ 035\ 732\ \text{kg H}_2\text{/an}$$
+$$\text{Heures opérationnelles} = 8760 \times 91\% = 8000\ \text{h/an}$$
+
+$$\text{Production annuelle} = 50\ \text{kg/h} \times 8000\ \text{h} = 400\ 000\ \text{kg H}_2\text{/an}$$
+
+Pour le S-iC à 500 kg/h :
+
+$$\text{Heures opérationnelles} = 8760 \times 91\% = 8000\ \text{h/an}$$
+
+$$\text{Production annuelle} = 500\ \text{kg/h} \times 8000\ \text{h} = 4\ 000\ 000\ \text{kg H}_2\text{/an}$$
 
 ---
 
@@ -124,10 +114,8 @@ que son équivalent fossile :
 - **SAF** : 0,76 €/kg vs 1,18-1,38 €/kg kérosène → **facteur 1,5-1,8×**
 - **Syngas direct** : 0,035 €/kWh vs 0,05-0,08 €/kWh réseau → **moins cher**
 
-Cet avantage est structurel, pas conjoncturel : il repose sur une matière
-première (biomasse résiduelle) dont le coût d'opportunité est nul voire
-négatif (c'est un déchet à éliminer), alors que le fossile est soumis
-aux marchés mondiaux, à la géopolitique et aux taxes carbone croissantes.
+Cet avantage est structurel, pas conjoncturel : il repose sur une matière première (biomasse résiduelle) dont le coût d'opportunité est nul voire négatif (c'est un déchet à éliminer) sans jamais faire appel à la moindre subvention, alors que le fossile est soumis aux marchés mondiaux, à la géopolitique et aux taxes carbone croissantes.
+Le fossile a un coût secondaire masqué très onéreux qui pèse sur les populations et le monde animal et végétal, une destruction globale des écosystèmes, une destruction des acquis, une augmentation des coûts d'assurances et un recul mondial des espérances possibles en matière de COP ou ralentissement de l'accroissement constant des temperatures. Les efforts d'une minorité sont anéantis par les efforts destructeurs d'une majorité et l'on constate plutôt une accélération rapide des problemes qu'un recul possible.
 
 **La tendance va s'accentuer :** la taxe carbone européenne (ETS) augmente
 chaque année sur les fossiles, creusant mécaniquement l'écart en faveur
