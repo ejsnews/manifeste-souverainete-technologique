@@ -184,5 +184,3 @@ explicite d'Haffner Energy, mais la science ne diffère pas, elle est
 déterministe.*
 
 ---
-
-*Manifeste complet : [https://ejsnews.github.io/manifeste-souverainete-technologique/](https://ejsnews.github.io/manifeste-souverainete-technologique/)*
