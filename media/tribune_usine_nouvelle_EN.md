@@ -53,4 +53,4 @@ The solution exists. It is French. It is patented. It is profitable. All that re
 
 ---
 
-*Full manifesto: [https://ejsnews.github.io/manifeste-souverainet
+*Full manifesto: [https://ejsnews.github.io/manifeste-souverainete-technologique/EXECUTIVE_SUMMARY.md](https://ejsnews.github.io/manifeste-souverainete-technologique/EXECUTIVE_SUMMARY.md)*
