@@ -48,7 +48,7 @@ Finally, it offers a virtuous mission for the robotics revolution: rather than s
 | **Co-product: Marketable biogenic CO₂** | 600 kg/hour (e-fuels, agri-food, industrial applications) |
 | **Overall energy efficiency** | > 75%–80% (optimized endothermic process) |
 | **Estimated net production cost (H₂ at 30 bar)** | < €2.34/kg (biomass at €90/t and electricity at €70/MWh) |
-| | < €1.25/kg (free biomass and electricity at €70/MWh) |
+| | < €1.13/kg (free biomass and electricity at €70/MWh) |
 | **Net plant footprint** | 1,000 m² (adjustable), including 5 days of biomass storage capacity |
 
 ---
