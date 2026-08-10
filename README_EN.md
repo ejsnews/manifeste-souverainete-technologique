@@ -2,11 +2,11 @@
 ### Towards a national ecosystem of energy, health, and agricultural autonomy
 **Independent Strategic Brief — June 2026**
 
-📥 **[Read the Technological Sovereignty Manifesto (French version)](manifeste_souverainete_technologique_v3_FR.md)**
+📥 **[Read the Technological Sovereignty Manifesto (French version)](manifeste_souverainete_technologique_v3_EN.md)**
 
-📥 **[View the strategic presentation (Advocacy Kit in PDF format)](Kit_de_Plaidoyer_Souveraineté_Technologique.pdf)**
+📥 **[View the strategic presentation (Advocacy Kit in PDF format)](Kit_de_Plaidoyer_Souveraineté_Technologique_EN.pdf)**
 
-📥 **[View the executive summary on energy sovereignty & industrial resilience](EXECUTIVE_SUMMARY.md)**
+📥 **[View the executive summary on energy sovereignty & industrial resilience](EXECUTIVE_SUMMARY_EN.md)**
 
 ---
 
@@ -34,7 +34,7 @@ Against this backdrop of extreme tension, decentralized thermolysis technology (
 
 Finally, it offers a virtuous mission for the robotics revolution: rather than simply saturating networks, the automated systems and robots of tomorrow must be harnessed for the active cleanup of the planet—specifically by collecting and sorting the millions of tons of plastic and organic waste that feed these processing modules.
 
-![Cascading thermolysis architecture](architecture-cascade_FR.png)
+![Cascading thermolysis architecture](architecture-cascade_EN.png)
 
 ### Key technical specifications (Standard H6 Module)
 
