@@ -1,5 +1,7 @@
-# Plaidoyer pour la souveraineté et la résilience technologique
+# Plaidoyer pour la souveraineté et la résilience technologique [(English version - EN)](README_EN.md)
+
 ### Vers un écosystème national d'autonomie énergétique, sanitaire et agricole
+
 **Note stratégique indépendante — Juin 2026**
 
 📥 **[Lire le Manifeste de souveraineté technologique (French version)](manifeste_souverainete_technologique_v3_FR.md)**
