@@ -38,19 +38,19 @@ Elle offre enfin une mission vertueuse à la révolution robotique : plutôt que
 
 ![Architecture en cascade de la thermolyse](architecture-cascade_FR.png)
 
-### Caractéristiques techniques fondamentales (Module standard H6)
+### Key Technical Specifications (H6 Standard Module)
 
-| Paramètre | Valeur standard spécifiée |
+| Parameter | Specified Standard Value |
 | :--- | :--- |
-| **Capacité nominale thermique** | 2 MW par unité modulaire |
-| **Durée de fonctionnement annuelle** | 8 000 heures par an |
-| **Intrants (biomasse résiduelle / Déchets)** | 0,669 tonne / heure (Selon l'humidité max 55%) |
-| **Production hydrogène vert H₂** | 50 kg / heure (Pureté 99,97% qualité mobilité – ISO 14687) |
-| **Co-produit : CO2 biogénique commercialisable** | 600 kg / heure (e-carburants, agri-food, industries) |
-| **Rendement énergétique global** | > 75% à 80% (Procédé endothermique optimisé) |
-| **Coût net de production estimé (H₂ à 30 bar)** | < 2,34 € / kg (biomasse à 90 €/t et électricité à 70 €/MWh) |
-|                                                 | < 1,25 € / kg (biomasse gratuite et électricité à 70 €/MWh) |
-| **Empreinte nette de l’usine** | 1 000 m2 (ajustable) avec 5 jours de capacité de stockage de biomasse |
+| **Nominal thermal capacity** | 2 MW per modular unit |
+| **Annual operating time** | 8,000 hours per year |
+| **Input (residual biomass / waste)** | 0.669 tonnes/hour (based on max. 55% moisture content) |
+| **Green hydrogen (H₂) output** | 50 kg/hour (99.97% purity, mobility grade – ISO 14687) |
+| **Co-product: Marketable biogenic CO₂** | 600 kg/hour (e-fuels, agri-food, industrial applications) |
+| **Overall energy efficiency** | > 75%–80% (optimized endothermic process) |
+| **Estimated net production cost (H₂ at 30 bar)** | < €2.34/kg (biomass at €90/t and electricity at €70/MWh) |
+| | < €1.25/kg (free biomass and electricity at €70/MWh) |
+| **Net plant footprint** | 1,000 m² (adjustable), including 5 days of biomass storage capacity |
 
 ---
 
