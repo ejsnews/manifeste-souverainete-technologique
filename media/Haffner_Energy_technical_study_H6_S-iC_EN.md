@@ -119,6 +119,7 @@ than its fossil equivalent:
 - **SAF**: €0.76/kg vs €1.18–1.38/kg kerosene → **1.5–1.8× lower**
 - **Direct syngas**: €0.035/kWh vs €0.05–0.08/kWh grid gas → **lower cost**
 
+
 This advantage is structural, not cyclical: it is based on a feedstock
 (residual biomass) whose opportunity cost is zero or even negative (it is a
 waste stream that otherwise has to be disposed of), whereas fossil fuels are
