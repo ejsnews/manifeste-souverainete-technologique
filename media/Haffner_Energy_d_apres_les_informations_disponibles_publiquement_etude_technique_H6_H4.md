@@ -52,9 +52,11 @@ soit un niveau théorique inférieur à environ **1,14 €/kg H₂**.
 
 Il ne s'agit pas d'un nouveau LCOH constructeur : cette valeur est une estimation indépendante. Une biomasse locale entraîne néanmoins des coûts de collecte, préparation, stockage et transport.
 
-### S-iC / architecture haute capacité
+### S-iC / architecture haute capacité ~20 MW
 
 Le système haute capacité d'environ **20 MW** est étudié séparément du H6. Il est considéré ici comme une **architecture autonome**, alimentée par sa propre biomasse.
+
+→ performances très supérieures mais données économiques encore incomplètes
 
 Une performance de l'ordre de **482 kg H₂/h** a été communiquée antérieurement dans le cadre d'un salon à Amsterdam. Une valeur de **500 kg H₂/h** a ensuite été confirmée. La configuration exacte, la consommation de biomasse et le coût actualisé correspondant ne sont pas documentés publiquement dans les sources utilisées ici.
 
@@ -82,6 +84,8 @@ $$\text{Production annuelle} = 500\ \text{kg/h} \times 8000\ \text{h} = 4\ 000\ 
 ---
 
 ## III. Comparaison des prix de production — données publiques et modélisation
+
+Ce tableau part d'une hypothèse d'un S-iC avec une biomasse gratuite.
 
 | Énergie | Procédé | Coût matière | Coût distribution | **Prix final** | Commentaire |
 |:--------|:--------|:------------:|:-----------------:|:--------------:|:-----------|
@@ -115,26 +119,18 @@ que son équivalent fossile :
 - **Syngas direct** : 0,035 €/kWh vs 0,05-0,08 €/kWh réseau → **moins cher**
 
 Cet avantage est structurel, pas conjoncturel : il repose sur une matière première (biomasse résiduelle) dont le coût d'opportunité est nul voire négatif (c'est un déchet à éliminer) sans jamais faire appel à la moindre subvention, alors que le fossile est soumis aux marchés mondiaux, à la géopolitique et aux taxes carbone croissantes.
-Le fossile a un coût secondaire masqué très onéreux qui pèse sur les populations et le monde animal et végétal, une destruction globale des écosystèmes, une destruction des acquis, une augmentation des coûts d'assurances et un recul mondial des espérances possibles en matière de COP ou ralentissement de l'accroissement constant des temperatures. Les efforts d'une minorité sont anéantis par les efforts destructeurs d'une majorité et l'on constate plutôt une accélération rapide des problemes qu'un recul possible.
+Les combustibles fossiles engendrent un coût secondaire massif et occulte qui pèse sur les populations humaines ainsi que sur les règnes animal et végétal ; ce coût se manifeste par la destruction généralisée des écosystèmes, l'érosion de progrès durement acquis, la hausse des coûts d'assurance et un recul mondial quant aux ambitions liées à la COP Climat/Biodiversité/Désertification visant à freiner l'élévation constante des températures. Les efforts d'une minorité sont réduits à néant par les actions destructrices d'une majorité ; loin d'assister à un possible renversement de tendance, nous sommes témoins d'une accélération rapide de ces problèmes.
 
-**La tendance va s'accentuer :** la taxe carbone européenne (ETS) augmente
-chaque année sur les fossiles, creusant mécaniquement l'écart en faveur
-de Haffner sans que la technologie ait besoin d'évoluer.
+**La tendance va s'accentuer :** la taxe carbone européenne (ETS) augmente chaque année sur les fossiles, creusant mécaniquement l'écart en faveur de Haffner sans que la technologie ait besoin d'évoluer.
 
 ---
 
 ## V. Donnée publique récente : LCOH HYNOCA® C-iC
 
-La fiche technique publique HYNOCA® C-iC indique un **LCOH inférieur à
-2,34 €/kg d'hydrogène**. Cette valeur est explicitement associée à une
-hypothèse de **biomasse à 90 €/t** et d'électricité à **70 €/MWh**.
+La fiche technique publique HYNOCA® C-iC indique un **LCOH inférieur à 2,34 €/kg d'hydrogène**. Cette valeur est explicitement associée à une hypothèse de **biomasse à 90 €/t** et d'électricité à **70 €/MWh**.
 
-Il est important de distinguer cette hypothèse d'un modèle territorial
-alimenté par une biomasse locale déjà disponible. Dans ce second cas,
-l'exploitant peut ne pas acheter la biomasse : il peut utiliser ses
-propres résidus agricoles, des résidus d'entretien d'espaces verts, ou
-certains flux de bois, cartons et matières organiques admissibles issus
-de plateformes logistiques ou alimentaires.
+Il est important de distinguer cette hypothèse d'un modèle territorial alimenté par une biomasse locale déjà disponible. Dans ce second cas, l'exploitant peut ne pas acheter la biomasse : il peut utiliser ses
+propres résidus agricoles, des résidus d'entretien d'espaces verts, ou certains flux de bois, cartons et matières organiques admissibles issus de plateformes logistiques ou alimentaires.
 
 Le coût pertinent devient alors principalement :
 
@@ -144,16 +140,12 @@ plutôt qu'un achat de biomasse à 90 €/t.
 
 Cette différence ne permet pas, à elle seule, de calculer un nouveau LCOH :
 les autres paramètres industriels et financiers doivent rester cohérents.
-Elle constitue toutefois un axe essentiel d'analyse économique pour la
-thermolyse décentralisée.
+Elle constitue toutefois un axe essentiel d'analyse économique pour la thermolyse décentralisée.
 
 ### Référence publique
 
-Haffner Energy indique également pour HYNOCA® C-iC une consommation de
-**669 kg/h de biomasse** (PCI 10,8 MJ/kg, 35 % d'humidité) pour une
-production de **50 kg/h d'hydrogène**, avec 8 000 heures de fonctionnement
-annuel. La fiche précise que l'apport en biomasse varie selon son PCI et
-son taux d'humidité.
+Haffner Energy indique également pour HYNOCA® C-iC une consommation de **669 kg/h de biomasse** (PCI 10,8 MJ/kg, 35 % d'humidité) pour une production de **50 kg/h d'hydrogène**, avec 8 000 heures de fonctionnement
+annuel. La fiche précise que l'apport en biomasse varie selon son PCI et son taux d'humidité.
 
 ## V. Méthode de lecture des performances
 
@@ -166,7 +158,7 @@ Cette étude distingue désormais deux niveaux de technologie :
 
 2. **S-iC / architecture haute capacité d'environ 20 MW**, pour laquelle
    les informations disponibles sont beaucoup plus limitées. Les
-   performances de l'ordre de 482–500 kg H₂/h et la consommation électrique
+   performances de l'ordre de 482–500 kg H₂/h et la consommation électrique 
    annoncée de 2,8 kWh/kg H₂ sont conservées comme informations de travail,
    sans extrapolation du coût de production.
 
