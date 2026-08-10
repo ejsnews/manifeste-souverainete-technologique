@@ -216,12 +216,3 @@ Le concept de **Territoire Biochar** propose une vision où agriculture, énergi
 
 Il s'agit d'une proposition prospective destinée à nourrir la réflexion sur les modèles de développement locaux.
 
----
-
-## Figures associées
-
-- ch5_fr_territoire_biochar.svg
-- ch5_fr_flux_territoriaux.svg
-- ch5_fr_acteurs.svg
-- ch5_fr_benefices_territoire.svg
-- ch5_fr_reseau_mondial.svg
