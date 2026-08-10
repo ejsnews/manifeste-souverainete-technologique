@@ -4,8 +4,6 @@
 
 📥 **[Lire le Manifeste de souveraineté technologique (French version)](manifeste_souverainete_technologique_v3_FR.md)**
 
-📥 **[Read the Manifesto for Technological Sovereignty and Resilience (English version)](MANIFESTO_FOR_TECHNOLOGICAL_SOVEREIGNTY_AND_RESILIENCE.md)**
-
 📥 **[Consulter la présentation stratégique (Kit de Plaidoyer au format PDF)](Kit_de_Plaidoyer_Souveraineté_Technologique.pdf)**
 
 📥 **[Consulter le résumé exécutif de la souveraineté énergétique & résilience industrielle](EXECUTIVE_SUMMARY.md)**
