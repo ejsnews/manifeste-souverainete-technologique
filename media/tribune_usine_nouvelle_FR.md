@@ -4,7 +4,7 @@ title: "La France laisse mourir ses brevets les plus précieux"
 lang: fr
 author: eric_jacob
 ---
-# La France laisse mourir ses brevets les plus précieux
+# La France laisse mourir ses brevets les plus précieux [(English version - EN)](tribune_usine_nouvelle_EN.md)
 
 *Par Éric Jacob, ingénieur (Maths-Sup, DEA), actionnaire indépendant*
 
