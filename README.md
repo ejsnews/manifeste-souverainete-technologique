@@ -42,12 +42,13 @@ Elle offre enfin une mission vertueuse à la révolution robotique : plutôt que
 
 | Paramètre | Valeur standard spécifiée |
 | :--- | :--- |
-| **Capacité nominale thermique** | 2 MW à 5 MW par unité modulaire |
-| **Intrants (biomasse résiduelle / Déchets)** | 1,0 à 1,2 tonne / heure (Selon l'humidité < 30%) |
-| **Production hydrogène vert H₂** | 130 à 150 kg / heure (Pureté 99,97%) |
-| **Co-produit : Biochar solide** | 250 à 300 kg / heure (Séquestration carbone stable) |
+| **Durée de fonctionnement annuelle** | 8 000 heures par an |
+| **Capacité nominale thermique** | 2 MW par unité modulaire |
+| **Intrants (biomasse résiduelle / Déchets)** | 0,669 tonne / heure (Selon l'humidité < 30%) |
+| **Production hydrogène vert H₂** | 50 kg / heure (Pureté 99,97% qualité mobilité – ISO 14687) |
+| **Co-produit : CO2 biogénique commercialisable** | 600 kg / heure |
 | **Rendement énergétique global** | > 75% à 80% (Procédé endothermique optimisé) |
-| **Coût net de production estimé (H₂)** | < 2,00 € / kg (Valorisation des crédits carbone incluse) |
+| **Coût net de production estimé (H₂ à 30 bar)** | < 2,34 € / kg (biomasse à 90 €/t et électricité à 70 €/MWh) |
 
 ---
 
