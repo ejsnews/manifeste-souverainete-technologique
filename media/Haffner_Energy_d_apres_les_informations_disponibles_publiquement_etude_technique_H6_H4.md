@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Étude Technique Haffner Energy — Couple H6 + H4 (S-iC)"
+title: "Étude Technique Haffner Energy — H6 et S-iC : deux architectures distinctes"
 ---
 
 # Concept Haffner Energy d'après les informations disponibles publiquement
@@ -21,19 +21,58 @@ Le concept repose sur deux modules complémentaires fonctionnant en tandem :
 | Composant | Intrant | Sortie principale | Production H₂ |
 |:----------|:--------|:-----------------|:-------------:|
 | **H6** | Biomasse brute (bois, pailles, déchets) | Syngas + Biochar | 60 kg H₂/h |
-| **S-iC (H4 amélioré)** | Biochar issu du H6 | Hydrogène vert | 482 kg H₂/h |
-| **Total installation** | | | **542 kg H₂/h** |
+| **S-iC / architecture H₂ haute capacité** | Carbone/biochar issu de l'architecture H6 | Hydrogène vert | **482 kg H₂/h*** |
+| **Total modélisé** | | | **542 kg H₂/h*** |
 
-Le H6 traite la biomasse brute par thermolyse et produit simultanément
-du syngas (converti en hydrogène) et du biochar. Ce biochar alimente
-ensuite le S-iC qui en extrait un volume d'hydrogène bien supérieur.
+Les deux architectures doivent être étudiées séparément.
 
-**Hypothèse ratio H6/S-iC :** il faut estimer 4 à 5 modules H6 pour
-alimenter un S-iC en continu. *À confirmer par Haffner Energy.*
+### H6 / configuration de plus petite puissance
+
+Le H6 traite une biomasse locale par thermolyse et produit notamment du
+syngas et du biochar. Les données publiques récentes de la gamme C-iC
+donnent, pour HYNOCA® C-iC, une configuration de référence autour de
+**50 kg H₂/h**, avec une consommation de biomasse dépendant notamment du
+PCI et de l'humidité. Les **≈ 60 kg H₂/h** utilisés dans certaines
+versions antérieures de cette étude doivent être considérés comme une
+configuration/performance de travail et non comme une limite physique
+universelle du H6.
+
+La fiche publique HYNOCA® C-iC associe par ailleurs un **LCOH inférieur
+à 2,34 €/kg**, avec une hypothèse de biomasse à **90 €/t** et d'électricité
+à **70 €/MWh**.
+
+### S-iC / architecture haute capacité
+
+Le système haute capacité d'environ **20 MW** ne doit pas être additionné
+au H6 dans le présent modèle. Il est considéré ici comme une **architecture
+autonome**, alimentée par sa propre biomasse.
+
+Une performance de l'ordre de **482 kg H₂/h** avait été publiquement
+communiquée antérieurement dans le cadre d'une présentation à Amsterdam ;
+une valeur d'environ **500 kg H₂/h** a ensuite été évoquée. La configuration
+exacte, la consommation de biomasse et le coût actualisé correspondant ne
+sont pas documentés publiquement dans les sources utilisées ici.
+
+Le chiffre **542 kg H₂/h = 60 + 482** de la version précédente est donc
+**abandonné** : il résultait d'une hypothèse d'association de deux
+architectures que les informations disponibles ne permettent pas
+d'établir.
+
+Le seul élément de performance électrique retenu ici pour le S-iC est
+l'information communiquée de **2,8 kWh d'électricité par kg d'hydrogène**.
+Il ne faut pas en déduire un LCOH précis sans connaître le bilan complet
+de matière, de chaleur, de CAPEX et d'exploitation.
+
+La question de l'autonomie énergétique du système — production interne
+de chaleur, froid et éventuellement électricité, récupération de chaleur,
+ou apport externe limité au démarrage — doit également rester une
+**hypothèse à vérifier**, et non une caractéristique affirmée du module
+dans cette étude.
 
 ---
 
-## II. Bilan annuel de production (disponibilité 85%)
+
+## II. Bilans de production — deux architectures distinctes
 
 $$\text{Heures opérationnelles} = 8760 \times 85\% = 7446\ \text{h/an}$$
 
@@ -41,7 +80,7 @@ $$\text{Production annuelle} = 542\ \text{kg/h} \times 7446\ \text{h} = 4\ 035\ 
 
 ---
 
-## III. Comparaison des prix de production — Haffner vs fossile
+## III. Comparaison des prix de production — données publiques et modélisation
 
 | Énergie | Procédé | Coût matière | Coût distribution | **Prix final** | Commentaire |
 |:--------|:--------|:------------:|:-----------------:|:--------------:|:-----------|
@@ -85,7 +124,56 @@ de Haffner sans que la technologie ait besoin d'évoluer.
 
 ---
 
-## V. Remarque sur la déterminisme scientifique
+## V. Donnée publique récente : LCOH HYNOCA® C-iC
+
+La fiche technique publique HYNOCA® C-iC indique un **LCOH inférieur à
+2,34 €/kg d'hydrogène**. Cette valeur est explicitement associée à une
+hypothèse de **biomasse à 90 €/t** et d'électricité à **70 €/MWh**.
+
+Il est important de distinguer cette hypothèse d'un modèle territorial
+alimenté par une biomasse locale déjà disponible. Dans ce second cas,
+l'exploitant peut ne pas acheter la biomasse : il peut utiliser ses
+propres résidus agricoles, des résidus d'entretien d'espaces verts, ou
+certains flux de bois, cartons et matières organiques admissibles issus
+de plateformes logistiques ou alimentaires.
+
+Le coût pertinent devient alors principalement :
+
+**collecte + préparation/tri + stockage + transport**
+
+plutôt qu'un achat de biomasse à 90 €/t.
+
+Cette différence ne permet pas, à elle seule, de calculer un nouveau LCOH :
+les autres paramètres industriels et financiers doivent rester cohérents.
+Elle constitue toutefois un axe essentiel d'analyse économique pour la
+thermolyse décentralisée.
+
+### Référence publique
+
+Haffner Energy indique également pour HYNOCA® C-iC une consommation de
+**669 kg/h de biomasse** (PCI 10,8 MJ/kg, 35 % d'humidité) pour une
+production de **50 kg/h d'hydrogène**, avec 8 000 heures de fonctionnement
+annuel. La fiche précise que l'apport en biomasse varie selon son PCI et
+son taux d'humidité.
+
+## V. Méthode de lecture des performances
+
+Cette étude distingue désormais deux niveaux de technologie :
+
+1. **H6 / C-iC de plus petite puissance**, pour lequel certaines données
+   publiques permettent de discuter le coût de l'hydrogène, notamment
+   le LCOH annoncé inférieur à 2,34 €/kg dans une hypothèse de biomasse
+   à 90 €/t et d'électricité à 70 €/MWh ;
+
+2. **S-iC / architecture haute capacité d'environ 20 MW**, pour laquelle
+   les informations disponibles sont beaucoup plus limitées. Les
+   performances de l'ordre de 482–500 kg H₂/h et la consommation électrique
+   annoncée de 2,8 kWh/kg H₂ sont conservées comme informations de travail,
+   sans extrapolation du coût de production.
+
+Aucune addition entre les deux architectures n'est effectuée.
+
+## VI. Remarque sur le déterminisme scientifique
 
 Les calculs présentés ici sont basés sur des lois physiques et chimiques
 connues et reproductibles. Les rendements de conversion, les rapports
