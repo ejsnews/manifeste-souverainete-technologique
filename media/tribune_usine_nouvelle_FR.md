@@ -50,5 +50,3 @@ La fenêtre est étroite. Si la France ne protège pas et ne déploie pas mainte
 
 La solution existe. Elle est française. Elle est brevetée. Elle est rentable. Il reste à décider de ne pas la laisser mourir.
 
----
-
