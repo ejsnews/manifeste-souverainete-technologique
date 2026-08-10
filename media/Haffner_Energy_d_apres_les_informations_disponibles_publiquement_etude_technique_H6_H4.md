@@ -118,6 +118,7 @@ que son équivalent fossile :
 - **SAF** : 0,76 €/kg vs 1,18-1,38 €/kg kérosène → **facteur 1,5-1,8×**
 - **Syngas direct** : 0,035 €/kWh vs 0,05-0,08 €/kWh réseau → **moins cher**
 
+
 Cet avantage est structurel, pas conjoncturel : il repose sur une matière première (biomasse résiduelle) dont le coût d'opportunité est nul voire négatif (c'est un déchet à éliminer) sans jamais faire appel à la moindre subvention, alors que le fossile est soumis aux marchés mondiaux, à la géopolitique et aux taxes carbone croissantes.
 Les combustibles fossiles engendrent un coût secondaire massif et occulte qui pèse sur les populations humaines ainsi que sur les règnes animal et végétal ; ce coût se manifeste par la destruction généralisée des écosystèmes, l'érosion de progrès durement acquis, la hausse des coûts d'assurance et un recul mondial quant aux ambitions liées à la COP Climat/Biodiversité/Désertification visant à freiner l'élévation constante des températures. Les efforts d'une minorité sont réduits à néant par les actions destructrices d'une majorité ; loin d'assister à un possible renversement de tendance, nous sommes témoins d'une accélération rapide de ces problèmes.
 
