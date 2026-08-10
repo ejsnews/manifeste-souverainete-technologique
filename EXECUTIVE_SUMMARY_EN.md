@@ -24,7 +24,7 @@ This technology replaces fossil hydrocarbons with green energy carriers that cap
 * **Multi-feedstock flexibility:** Valorization of local residual biomass and organic waste streams, featuring high tolerance for moisture and feedstock variability.
 * **Flexible energy carriers:** High-efficiency generation of cost-competitive local syngas (estimated at ~€0.035/kWh), high-purity green hydrogen (99.97%), or synthetic aviation fuels (e-SAF).
 * **Negative emissions profile:** Co-production of high-purity solid biochar. This co-product permanently sequesters biogenic carbon in the soil, transforming the industrial unit into an active carbon sink.
-* **Subsidy-free profitability:** The target net cost of hydrogen ranges from €0.00/kg to less than €2.00/kg—depending on the opportunity cost of the biomass—made possible by the combined value of the energy produced and the carbon credits associated with the biochar. ![Thermolysis cascade architecture](architecture-cascade_FR.png)
+* **Subsidy-free profitability:** The target net cost of hydrogen ranges from €0.00/kg to less than €2.00/kg—depending on the opportunity cost of the biomass—made possible by the combined value of the energy produced and the carbon credits associated with the biochar. ![Thermolysis cascade architecture](architecture-cascade_EN.png)
 
 ---
 
