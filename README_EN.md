@@ -37,16 +37,19 @@ Finally, it offers a virtuous mission for the robotics revolution: rather than s
 
 ![Cascading thermolysis architecture](architecture-cascade_EN.png)
 
-### Key technical specifications (Standard H6 Module)
+### Key Technical Specifications (H6 Standard Module)
 
-| Parameter | Specified standard value |
+| Parameter | Specified Standard Value |
 | :--- | :--- |
-| **Nominal thermal capacity** | 2 MW to 5 MW per modular unit |
-| **Input (residual biomass / waste)** | 1.0 to 1.2 tonnes/hour (depending on moisture content < 30%) |
-| **Green hydrogen (H₂) output** | 130 to 150 kg/hour (99.97% purity) |
-| **Co-product: Solid biochar** | 250 to 300 kg/hour (stable carbon sequestration) |
-| **Overall energy efficiency** | > 75% to 80% (optimized endothermic process) |
-| **Estimated net production cost (H₂)** | < €2.00/kg (including carbon credit valuation) |
+| **Nominal thermal capacity** | 2 MW per modular unit |
+| **Annual operating time** | 8,000 hours per year |
+| **Input (residual biomass / waste)** | 0.669 tonnes/hour (based on max. 55% moisture content) |
+| **Green hydrogen (H₂) output** | 50 kg/hour (99.97% purity, mobility grade – ISO 14687) |
+| **Co-product: Marketable biogenic CO₂** | 600 kg/hour (e-fuels, agri-food, industrial applications) |
+| **Overall energy efficiency** | > 75%–80% (optimized endothermic process) |
+| **Estimated net production cost (H₂ at 30 bar)** | < €2.34/kg (biomass at €90/t and electricity at €70/MWh) |
+| | < €1.25/kg (free biomass and electricity at €70/MWh) |
+| **Net plant footprint** | 1,000 m² (adjustable), including 5 days of biomass storage capacity |
 
 ---
 
