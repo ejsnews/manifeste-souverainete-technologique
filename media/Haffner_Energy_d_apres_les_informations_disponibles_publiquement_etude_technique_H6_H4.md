@@ -46,8 +46,10 @@ pour  **50 kg H₂/h**, avec une hypothèse de biomasse à **90 €/t** et d'él
 Le LCOH de 2,34 €/kg annoncé par Haffner correspond à de l'hydrogène livré à 30 bar. Il inclut notamment les utilités, dont l'électricité nécessaire au procédé et à la compression jusqu'à 30 bar. La compression au-delà de 30 bar, la distribution et le transport ne sont pas inclus.
 
 **Poids du cout de la Biomasse**
+
 669 kg/h × 90€/t = 60,21€/h pour 50 kg H₂/h :
 Ce qui implique un coût de 60,21/50 = **1,204€/kg**.
+
 Une biomasse gratuite peut ainsi diviser par 2 les coûts de fabrication de ces bio carburants et faire passer le  **LCOH inférieur à 1,14 €/kg** .
 
 ### S-iC / architecture haute capacité
