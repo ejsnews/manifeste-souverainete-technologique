@@ -140,5 +140,3 @@ One strength of this technology lies in its indifference to feedstock type. Unli
 
 Decentralized dry thermolysis is not presented as just another alternative, but as one possible building block of long-term resilience. Repairing our environment with the tools of engineering seems, in my view, a more workable near-term path than space exploration for addressing today's energy and climate challenges. France has the resources and the know-how to drive this transition; what remains is the political and industrial will to fully embrace it.
 
----
-
