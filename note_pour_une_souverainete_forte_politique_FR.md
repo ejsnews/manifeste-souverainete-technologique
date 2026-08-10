@@ -5,7 +5,7 @@ author: eric_jacob
 title: "Souveraineté énergétique & résilience industrielle"
 ---
 
-# SOUVERAINETÉ ÉNERGÉTIQUE & RÉSILIENCE INDUSTRIELLE
+# SOUVERAINETÉ ÉNERGÉTIQUE & RÉSILIENCE INDUSTRIELLE [(English version - EN)](note_pour_une_souverainete_forte_politique_EN.md)
 *Note stratégique indépendante — Juin 2026*
 
 ---
