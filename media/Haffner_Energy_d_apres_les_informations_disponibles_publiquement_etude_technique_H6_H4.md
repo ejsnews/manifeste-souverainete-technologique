@@ -39,8 +39,8 @@ versions antérieures de cette étude doivent être considérés comme une
 configuration/performance de travail et non comme une limite physique
 universelle du H6.
 
-La fiche publique HYNOCA® C-iC associe par ailleurs un **LCOH inférieur
-à 2,34 €/kg**, avec une hypothèse de biomasse à **90 €/t** et d'électricité
+La fiche publique HYNOCA® C-iC associe par ailleurs un **LCOH inférieur à 2,34 €/kg** 
+pour  **50 kg H₂/h**, avec une hypothèse de biomasse à **90 €/t** et d'électricité
 à **70 €/MWh**.
 
 ### S-iC / architecture haute capacité
