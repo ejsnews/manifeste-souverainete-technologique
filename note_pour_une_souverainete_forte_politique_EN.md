@@ -1,0 +1,67 @@
+---
+layout: default
+title: "France is letting its most valuable patents die"
+lang: en
+author: eric_jacob
+---
+
+# France is letting its most valuable patents die [(French version - FR)](note_pour_une_souverainete_forte_politique_FR.md)
+
+*By Éric Jacob, engineer (Maths-Sup, DEA), independent shareholder*
+
+---
+
+France possesses a mature, disruptive technology—patented worldwide and profitable without subsidies—capable of simultaneously producing green hydrogen, sustainable aviation fuel (SAF), and biochar (a solid, measurable carbon sink), as well as ammonia and methanol (two industrial and agricultural inputs currently imported on a massive scale). It operates using agricultural waste, forestry residues, and Class B wood. It requires neither foundations nor building permits; a module can be installed in less than a month on a simple concrete slab.
+
+This technology is known as "cascaded decentralized biomass thermolysis." It was developed by Haffner Energy, a publicly traded French SME founded a decade ago by engineers who secured global patents for their work.
+
+Six months ago, the founders held 50% of the company's equity. Today, they hold 11%.
+
+---
+
+## The mechanism of destruction
+
+Haffner Energy needed €4 million—a negligible sum given the stakes involved. Conventional bank loans were out of reach, as they are for almost all listed SMEs in the industrial rollout phase. The only available financing was an ABO mechanism (bonds with share warrants attached), which is structurally dilutive: each tranche issued mechanically reduces the founders' stake, effectively squeezing them out of their own company.
+
+This is not an isolated case. According to data cited in the National Assembly, this mechanism has destroyed more than sixty companies in France in less than ten years. The modus operandi is always the same: drain cash reserves, block access to credit, and offer dilutive financing as the only lifeline. Minority shareholders see the value of their holdings slashed tenfold, twentyfold, or thirtyfold. Founders lose control. The technology survives within the company, but without its architects—opening the door to a low-cost acquisition or an uncontested copycat product.
+
+A bill aimed at regulating these OCABSA mechanisms is currently before the National Assembly. It is a step in the right direction, yet it is not enough.
+
+---
+
+## What this technology really represents
+
+France imports over €60 billion worth of fossil fuels annually. Energy demand driven by AI and robotics is set to double this pressure over the next five years. Yet neither nuclear power alone—which generates anthropogenic heat without an active carbon sink—nor electrolysis—a net energy consumer on an already saturated grid—can meet this surging demand while simultaneously decarbonizing.
+
+AI destroys jobs, overloads power grids, and worsens the carbon footprint. A data center powered by Haffner modules reverses this effect entirely: carbon-negative energy, local jobs that cannot be offshored, and energy independence. AI alone results in a net loss. AI coupled with this technology neutralizes the damage. This scenario is viable. No one has implemented it at scale yet—not because it is unfeasible, but because the SME making it possible could be dismantled by financial interests before it has the chance to deploy.
+
+The production cost of hydrogen is under €2/kg without subsidies. The Sustainable Aviation Fuel (SAF) produced is already at price parity with fossil-based kerosene. The co-produced biochar generates carbon credits valued at €110–140 per tonne of sequestered CO₂. If this sector were rolled out nationwide, it would structurally reduce France’s trade deficit by tens of billions of euros annually.
+
+---
+
+## What the State Must Do
+
+**An anti-dilution shield**: a sovereign fund targeting strategic, publicly traded tech SMEs that hold breakthrough patents, prohibiting toxic financing mechanisms that destroy founders' equity prior to industrial deployment.
+
+**A regulatory fast-track**: reducing the processing time to under three months for the environmental permits (ICPE) required to authorize these decentralized mobile units at critical infrastructure sites—such as municipalities, hospitals, agricultural cooperatives, and data center operators.
+
+France cannot afford to lose, through administrative inertia and the absence of a sovereign financial shield, the few companies that hold groundbreaking, patented technologies. The cost of a protection fund targeted at these ten or twenty strategic companies would be infinitesimal compared to the cost of a decade of additional energy imports or the acquisition of French patents by foreign capital.
+
+---
+
+## The Window Is Narrow
+
+The explosion in energy demand linked to AI and robotics will create an unprecedented surge in demand over the next five years. If France does not deploy its own decarbonized solutions now, American or Asian capital will—using our patents, acquired at the cost of stock market distress.
+
+There is no other viable scenario:
+
+- **Nuclear power alone** generates anthropogenic heat without an active carbon sink.
+
+- **Electrolysis** is a net energy consumer on an already saturated grid.
+
+Imports perpetuate dependence and deepen the deficit.
+
+The French solution exists; it is mature, patented, and profitable without subsidies. The decision to implement it remains to be made.
+
+---
+
