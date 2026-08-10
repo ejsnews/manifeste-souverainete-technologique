@@ -49,7 +49,7 @@ Elle offre enfin une mission vertueuse à la révolution robotique : plutôt que
 | **Co-produit : CO2 biogénique commercialisable** | 600 kg / heure (e-carburants, agri-food, industries) |
 | **Rendement énergétique global** | > 75% à 80% (Procédé endothermique optimisé) |
 | **Coût net de production estimé (H₂ à 30 bar)** | < 2,34 € / kg (biomasse à 90 €/t et électricité à 70 €/MWh) |
-|                                                 | < 1,25 € / kg (biomasse gratuite et électricité à 70 €/MWh) |
+|                                                 | < 1,13 € / kg (biomasse gratuite et électricité à 70 €/MWh) |
 | **Empreinte nette de l’usine** | 1 000 m2 (ajustable) avec 5 jours de capacité de stockage de biomasse |
 
 ---
