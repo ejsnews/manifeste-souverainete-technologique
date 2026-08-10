@@ -193,6 +193,3 @@ for the most demanding customers (data centers, aviation).
 
 *Éric Jacob — calculations based on freely available knowledge, no explicit
 Haffner Energy source, but science does not differ; it is deterministic.*
-
----
-
