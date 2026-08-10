@@ -44,12 +44,13 @@ Elle offre enfin une mission vertueuse à la révolution robotique : plutôt que
 | :--- | :--- |
 | **Durée de fonctionnement annuelle** | 8 000 heures par an |
 | **Capacité nominale thermique** | 2 MW par unité modulaire |
-| **Intrants (biomasse résiduelle / Déchets)** | 0,669 tonne / heure (Selon l'humidité < 30%) |
+| **Intrants (biomasse résiduelle / Déchets)** | 0,669 tonne / heure (Selon l'humidité max 55%) |
 | **Production hydrogène vert H₂** | 50 kg / heure (Pureté 99,97% qualité mobilité – ISO 14687) |
 | **Co-produit : CO2 biogénique commercialisable** | 600 kg / heure |
 | **Rendement énergétique global** | > 75% à 80% (Procédé endothermique optimisé) |
 | **Coût net de production estimé (H₂ à 30 bar)** | < 2,34 € / kg (biomasse à 90 €/t et électricité à 70 €/MWh) |
 |                                                 | < 1,25 € / kg (biomasse gratuite et électricité à 70 €/MWh) |
+| **Empreinte nette de l’usine** | 1 000 m2 (ajustable) avec 5 jours de capacité de stockage de biomasse |
 
 ---
 
