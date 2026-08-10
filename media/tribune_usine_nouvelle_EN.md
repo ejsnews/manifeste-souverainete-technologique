@@ -51,5 +51,3 @@ The window of opportunity is narrow. If France fails to protect and deploy its o
 
 The solution exists. It is French. It is patented. It is profitable. All that remains is the decision not to let it die.
 
----
-
