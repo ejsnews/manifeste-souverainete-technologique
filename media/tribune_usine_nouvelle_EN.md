@@ -15,7 +15,7 @@ France possesses a mature, disruptive technology—patented worldwide and profit
 
 This technology is known as "cascaded decentralized biomass thermolysis." It was developed by Haffner Energy, a publicly traded French SME founded a decade ago by engineers who secured global patents for their work.
 
-Six months ago, the founders held 50% of the company's equity. Today, they hold 11%.
+Its founders held 41% of the capital in mid-2025. By March 2026, they held only 11%.
 
 ---
 
