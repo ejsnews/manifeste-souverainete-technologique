@@ -2,7 +2,7 @@
 ### Towards a national ecosystem of energy, health, and agricultural autonomy
 **Independent Strategic Brief — June 2026**
 
-📥 **[Read the Technological Sovereignty Manifesto (French version)](manifeste_souverainete_technologique_v3_EN.md)**
+📥 **[Read the Technological Sovereignty Manifesto](manifeste_souverainete_technologique_v3_EN.md)**
 
 📥 **[View the strategic presentation (Advocacy Kit in PDF format)](Kit_de_Plaidoyer_Souveraineté_Technologique_EN.pdf)**
 
