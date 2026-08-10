@@ -8,7 +8,7 @@ title: "MANIFESTO FOR TECHNOLOGICAL SOVEREIGNTY AND RESILIENCE"
 
 *Toward a national ecosystem of energy, health, and agricultural autonomy*
 
-📥 [Read the Manifesto for Technological Sovereignty and Resilience](README.md)
+📥 [Read the Manifesto for Technological Sovereignty and Resilience](README_EN.md)
 
 Independent Strategic Note - EJS - June 2026
 
@@ -142,19 +142,3 @@ Decentralized dry thermolysis is not presented as just another alternative, but 
 
 ---
 
-## 📚 Additional sector-specific analyses
-
-This manifesto has been developed into targeted technical notes for different audiences:
-
-- 🏥 [Data centers and Artificial Intelligence: Toward a single virtuous scenario](analyses/Datacenters_et_Intelligence_Artificielle_-_le_seul_scenario_vertueux.md)
-- 🏥 [The autonomous, circular hospital: thermolysis in the service of health resilience](analyses/HOPITAL_AUTONOME_DECARBONATION_ET_ENERGIE_VERTE_SOLUTION_THERMOLYSE_HAFFNER_ENERGY.md)
-- 🪖 [Tactical energy autonomy: defense and military sovereignty](analyses/AUTONOMIE_ENERGETIQUE_TACTIQUE_DEFENSE_SOUVERAINETE_MILITAIRE.md)
-- 🌾 [Hydrogen independence within reach of every territory (local authorities, rural officials)](analyses/L_INDEPENDANCE_EN_HYDROGENE_A_PORTEE_DE_CHAQUE_TERRITOIRE_COLLECTIVITES_ELUS_RURAUX.md)
-- ✈️ [Haffner Energy SAF: an immediate French solution for aviation decarbonization](analyses/LE_SAF_HAFFNER_ENERGY_UNE_SOLUTION_FRANCAISE_IMMEDIATE_POUR_LA_DECARBONATION_DE_L_AVIATION.md)
-- 🇫🇷 [Haffner Energy: France letting its energy revolution move abroad](analyses/REVOLUTION_ENERGETIQUE_ET_ABANDON_DE_SOUVERAINETE_NATIONALE.md)
-- 📊 [Global energy source comparison: why Haffner Energy thermolysis changes everything](analyses/COMPARAISON_SOURCES_ENERGIE_THERMOLYSE_HAFFNER_ENERGY.md)
-- 🌡️ [Climate ranking of energy sources: anthropogenic heat included](analyses/CLASSEMENT_CLIMATIQUE_SOURCES_ENERGIE_CHALEUR_ANTHROPIQUE.md)
-
----
-
-**Disclaimer:** *This strategic note is an independent contribution to the public debate on industrial and energy sovereignty. The author expresses personal opinions based on publicly available data and does not act on behalf of the company mentioned. As an individual shareholder, this text is shared in a spirit of transparency, for informational and macroeconomic analysis purposes only. It does not constitute investment advice, an incitement to buy, or a stock market recommendation.*
