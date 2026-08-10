@@ -34,7 +34,7 @@ La France importe chaque année plus de 60 milliards d'euros d'énergie fossile.
 
 L'IA détruit des emplois, sature les réseaux électriques et aggrave le bilan carbone. Un data center alimenté par des modules Haffner inverse exactement cet effet : énergie carbone-négative, emplois locaux non délocalisables, indépendance énergétique. IA seule, c'est une destruction nette. IA couplée à cette technologie, c'est une neutralisation des dégâts. Ce scénario existe. Personne ne l'a encore mis en œuvre à grande échelle, non parce qu'il est irréalisable, mais parce que la PME qui le rend possible pourrait être démantelée par la finance avant d'avoir pu se déployer.
 
-Le coût de production de l'hydrogène sans subventions se situe entre 1,2 €/kg si l'on utilise de la biomasse gratuite et 2,34 €/kg si l'on utilise 669 kg/h de biomasse à 90 €/t. Le SAF produit est déjà à parité avec le kérosène fossile. Le biochar coproduit génère des crédits carbone valorisables à 110-2000 €/tonne de CO₂ séquestré. Si cette filière se déployait à l'échelle nationale, elle réduirait structurellement le déficit commercial français de plusieurs dizaines de milliards par an.
+Le coût de production de l'hydrogène sans subventions se situe entre 1,2 €/kg si l'on utilise de la biomasse gratuite et 2,34 €/kg si l'on utilise 669 kg/h de biomasse à 90 €/t. Le SAF produit est déjà à parité avec le kérosène fossile. Le biochar coproduit génère des crédits carbone valorisables à 110€-2000 €/tonne de CO₂ séquestré. Si cette filière se déployait à l'échelle nationale, elle réduirait structurellement le déficit commercial français de plusieurs dizaines de milliards par an.
 
 ---
 
