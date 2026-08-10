@@ -35,7 +35,7 @@ France imports over €60 billion worth of fossil fuels annually. Energy demand 
 
 AI destroys jobs, overloads power grids, and worsens the carbon footprint. A data center powered by Haffner modules reverses this effect entirely: carbon-negative energy, local jobs that cannot be offshored, and energy independence. AI alone results in a net loss. AI coupled with this technology neutralizes the damage. This scenario is viable. No one has implemented it at scale yet—not because it is unfeasible, but because the SME making it possible could be dismantled by financial interests before it has the chance to deploy.
 
-The production cost of hydrogen is between €1,2/kg if using free biomass and €2,34/kg if using 669 kg/h of biomass at €90/t without subsidies. The Sustainable Aviation Fuel (SAF) produced is already at price parity with fossil-based kerosene. The co-produced biochar generates carbon credits valued at €110–140 per tonne of sequestered CO₂. If this sector were rolled out nationwide, it would structurally reduce France’s trade deficit by tens of billions of euros annually.
+The production cost of hydrogen is between €1,2/kg if using free biomass and €2,34/kg if using 669 kg/h of biomass at €90/t without subsidies. The Sustainable Aviation Fuel (SAF) produced is already at price parity with fossil-based kerosene. The co-produced biochar generates carbon credits valued at €110–€2000 per tonne of sequestered CO₂. If this sector were rolled out nationwide, it would structurally reduce France’s trade deficit by tens of billions of euros annually.
 
 ---
 
