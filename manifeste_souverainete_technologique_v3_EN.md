@@ -32,6 +32,8 @@ Sovereignty is not decreed; it is built on mastery of the value chain, from wast
 
 We stand at a pivotal moment: continue on the current trajectory at the risk of seeing our capacity to bounce back erode, or take charge of our technological and energy destiny through the deployment of decentralized thermolysis systems.
 
+<center><img src="media/FR/Cibles_energie_verte_bas_couts_EN.png" width="700" alt="Haffner Energy - Stakeholders likely to be interested in very low-cost green energy"></center>
+
 ## II. The Solution: high-yield decentralized biomass thermolysis
 
 **The thermodynamic challenge: the limits of so-called clean energy in the face of the urgency to sequester carbon**
