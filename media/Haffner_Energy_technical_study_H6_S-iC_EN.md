@@ -54,6 +54,8 @@ i.e. a theoretical level below approximately **€1.14/kg H₂**.
 
 This is not a new manufacturer LCOH: this value is an independent estimate. Local biomass nevertheless entails collection, preparation, storage and transport costs.
 
+![Summary of the CORE100 offering modules](synthese_modules_offre_CORE100_EN.png)
+
 ### S-iC / ~20 MW high-capacity architecture
 
 The high-capacity system of approximately **20 MW** is studied separately from the H6. It is considered here as an **autonomous architecture**, supplied with its own biomass.
