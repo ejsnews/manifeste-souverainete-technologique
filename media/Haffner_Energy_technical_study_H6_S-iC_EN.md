@@ -5,7 +5,7 @@ author: eric_jacob
 title: "Haffner Energy Technical Study — H6 and S-iC: Two Distinct Architectures"
 ---
 
-# Haffner Energy Concept Based on Publicly Available Information [(French version - FR)](Haffner_Energy_etude_technique_H6_H4_FR.md)
+# Haffner Energy Concept Based on Publicly Available Information [(French version - FR)](Haffner_Energy_etude_technique_H6_S-iC_FR.md)
 
 
 *Éric Jacob, engineer (Maths-Sup, DEA) — non-contractual*
