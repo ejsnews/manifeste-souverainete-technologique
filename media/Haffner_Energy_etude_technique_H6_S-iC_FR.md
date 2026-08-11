@@ -70,10 +70,10 @@ La possibilité d'une autonomie énergétique importante du système — récup�
 
 La quantité d'électricité nécessaire pour produire un kilogramme d'H₂ peut être systémiquement plus faible que dans une architecture d'électrolyse où l'électricité est la matière énergétique principale.
 
-*2,8 kWh/kg  H₂ → coût électrique potentiellement très faible.*
-*Biomasse très bon marché → deuxième levier majeur.*
-*Grande unité 20 MW → troisième levier : CAPEX/OPEX par kg potentiellement fortement réduit.*
-*CO₂ valorisable → quatrième source potentielle de revenus.*
+- *2,8 kWh/kg  H₂ → coût électrique potentiellement très faible.*
+- *Biomasse très bon marché → deuxième levier majeur.*
+- *Grande unité 20 MW → troisième levier : CAPEX/OPEX par kg potentiellement fortement réduit.*
+- *CO₂ valorisable → quatrième source potentielle de revenus.*
 
 | Électricité | Coût électrique / kg H₂ |
 | :--- | :--- |
