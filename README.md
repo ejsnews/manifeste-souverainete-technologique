@@ -38,7 +38,7 @@ Elle offre enfin une mission vertueuse à la révolution robotique : plutôt que
 
 ![Architecture en cascade de la thermolyse](architecture-cascade_FR.png)
 
-### Caractéristiques techniques fondamentales (Module standard H6)
+### Caractéristiques techniques fondamentales (Module HYNOCA® C-iC)
 
 | Paramètre | Valeur standard spécifiée |
 | :--- | :--- |
