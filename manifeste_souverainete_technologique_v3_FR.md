@@ -32,6 +32,8 @@ La souveraineté ne se décrète pas ; elle se construit sur la maîtrise de la 
 
 Nous sommes à un moment charnière : continuer sur la trajectoire actuelle au risque de voir s'éroder nos capacités de rebond, ou reprendre en main notre destin technologique et énergétique par le déploiement de systèmes de thermolyse décentralisée.
 
+<center><img src="media/FR/Cibles_energie_verte_bas_couts_FR.png" width="700" alt="Haffner Energy - Les acteurs susceptibles d'être intéressés par une énergie verte à très bas coût"></center>
+
 ## II. La Solution : la thermolyse de biomasse décentralisée à fort rendement
 
 **Le défi thermodynamique : les limites des énergies dites propres face à l'urgence de séquestrer le carbone**
