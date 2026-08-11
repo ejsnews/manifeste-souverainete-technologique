@@ -58,15 +58,32 @@ This is not a new manufacturer LCOH: this value is an independent estimate. Loca
 
 ### S-iC / ~20 MW high-capacity architecture
 
-The high-capacity system of approximately **20 MW** is studied separately from the H6. It is considered here as an **autonomous architecture**, supplied with its own biomass.
+The high-capacity system (approx. **20 MW**) is being studied separately from the H6. It is treated here as a **standalone architecture**, powered by its own biomass supply.
 
-→ significantly higher performance, but economic data are still incomplete
+It is plausible that a 20 MW unit would have a significantly lower LCOH than a 2–5 MW unit—not because the thermolysis process itself is inherently twice as efficient, but because scaling up can drastically reduce specific CAPEX, auxiliary power consumption, and fixed costs per kilogram of H₂ produced.
 
-A performance of approximately **482 kg H₂/h** was previously communicated at a trade show in Amsterdam. A figure of **500 kg H₂/h** was subsequently confirmed. The exact configuration, biomass consumption and corresponding levelized cost are not publicly documented in the sources used here.
+→ superior performance, but economic data still incomplete
 
-The energy-performance figure retained for the S-iC is **2.8 kWh of electricity per kilogram of hydrogen**. No LCOH should be extrapolated from this single figure.
+A performance level of approximately **482 kg H₂/h** was previously reported at a trade show in Amsterdam. A figure of **500 kg H₂/h** was subsequently confirmed. The exact configuration, biomass consumption, and corresponding levelized cost of hydrogen (LCOH) are not publicly documented in the sources used here.
 
-The possibility of substantial energy autonomy for the system — heat recovery, internal electricity generation, cooling and heat production, or a need for external supply limited to start-up — is a hypothesis to be verified, rather than a characteristic currently asserted in this study.
+The energy performance figure that was temporarily cited—and which I am adopting for the S-iC—is **2.8 kWh of electricity per kilogram of hydrogen**. No LCOH figure should be extrapolated from this single data point.
+
+The potential for significant system energy autonomy—through heat recovery, internal generation of electricity, cooling and heating, or an external energy input limited to startup—is a hypothesis to be verified, rather than a confirmed characteristic of the current study.
+
+The amount of electricity required to produce one kilogram of H₂ may be lower at the system level than in an electrolysis-based architecture, where electricity serves as the primary energy input.
+
+- *2.8 kWh/kg H₂ → potentially very low electricity cost.*
+- *Very low-cost biomass → second major lever.*
+- *Large 20 MW unit → third lever: potentially significant reduction in CAPEX/OPEX per kg.*
+- *Valorizable CO₂ → fourth potential revenue stream.*
+
+| Electricity | Electric cost / kg H₂ |
+| :--- | :--- |
+| **5 c€/kWh** | 0.14 €/kg |
+| **7 c€/kWh** | 0.196 €/kg |
+| **10 c€/kWh** | 0.28 €/kg |
+| **15 c€/kWh** | 0.42 €/kg (This price serves as a basis) |
+| **20 c€/kWh** | 0.56 €/kg |
 
 ---
 
