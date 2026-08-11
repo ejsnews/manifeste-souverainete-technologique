@@ -37,14 +37,14 @@ Finally, it offers a virtuous mission for the robotics revolution: rather than s
 
 ![Cascading thermolysis architecture](architecture-cascade_EN.png)
 
-### Key Technical Specifications (H6 Standard Module)
+### Key Technical Specifications (HYNOCA® C-iC Module)
 
 | Parameter | Specified Standard Value |
 | :--- | :--- |
 | **Nominal thermal capacity** | 2 MW per modular unit |
 | **Annual operating time** | 8,000 hours per year |
 | **Input (residual biomass / waste)** | 0.669 tonnes/hour (based on max. 55% moisture content) |
-| **Green hydrogen (H₂) output** | 50 kg/hour (99.97% purity, mobility grade – ISO 14687) |
+| **Green hydrogen (H₂) production at 30 bar** | 50 kg/hour (99.97% purity – ISO 14687); N6 option available (99.9999%) |
 | **Co-product: Marketable biogenic CO₂** | 600 kg/hour (e-fuels, agri-food, industrial applications) |
 | **Overall energy efficiency** | > 75%–80% (optimized endothermic process) |
 | **Estimated net production cost (H₂ at 30 bar)** | < €2.34/kg (biomass at €90/t and electricity at €70/MWh) |
