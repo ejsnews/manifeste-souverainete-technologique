@@ -58,13 +58,30 @@ Il ne s'agit pas d'un nouveau LCOH constructeur : cette valeur est une estimatio
 
 Le système haute capacité d'environ **20 MW** est étudié séparément du H6. Il est considéré ici comme une **architecture autonome**, alimentée par sa propre biomasse.
 
+Il est plausible qu'une unité de 20 MW ait un LCOH sensiblement inférieur à celui d'une unité de 2–5 MW, non parce que la thermolyse serait intrinsèquement deux fois plus efficace, mais parce que le passage à grande échelle peut réduire fortement le CAPEX spécifique, les consommations auxiliaires et les coûts fixes rapportés au kilogramme d'H₂ produit.
+
 → performances très supérieures mais données économiques encore incomplètes
 
 Une performance de l'ordre de **482 kg H₂/h** a été communiquée antérieurement dans le cadre d'un salon à Amsterdam. Une valeur de **500 kg H₂/h** a ensuite été confirmée. La configuration exacte, la consommation de biomasse et le coût actualisé correspondant ne sont pas documentés publiquement dans les sources utilisées ici.
 
-Le chiffre de performance énergétique retenu pour le S-iC est **2,8 kWh d'électricité par kg d'hydrogène**. Aucun LCOH ne doit être extrapolé à partir de cette seule donnée.
+Le chiffre de performance énergétique qui a été temporairement indiqué et que je retiens pour le S-iC est **2,8 kWh d'électricité par kg d'hydrogène**. Aucun LCOH ne doit être extrapolé à partir de cette seule donnée.
 
 La possibilité d'une autonomie énergétique importante du système — récupération de chaleur, production interne d'électricité, froid et chaleur, ou besoin d'un apport externe limité au démarrage — constitue une hypothèse à vérifier, et non une caractéristique actuellement affirmée dans cette étude.
+
+La quantité d'électricité nécessaire pour produire un kilogramme d'H₂ peut être systémiquement plus faible que dans une architecture d'électrolyse où l'électricité est la matière énergétique principale.
+
+*2,8 kWh/kg  H₂ → coût électrique potentiellement très faible.*
+*Biomasse très bon marché → deuxième levier majeur.*
+*Grande unité 20 MW → troisième levier : CAPEX/OPEX par kg potentiellement fortement réduit.*
+*CO₂ valorisable → quatrième source potentielle de revenus.*
+
+| Électricité | Coût électrique / kg H₂ |
+| :--- | :--- |
+| **5 c€/kWh** | 0,14 €/kg |
+| **7 c€/kWh** | 0,196 €/kg |
+| **10 c€/kWh** | 0,28 €/kg |
+| **15 c€/kWh** | 0,42 €/kg (Ce tarif sert de base) | 
+| **20 c€/kWh** | 0,56 €/kg |
 
 ---
 
