@@ -52,7 +52,7 @@ soit un niveau théorique inférieur à environ **1,14 €/kg H₂**.
 
 Il ne s'agit pas d'un nouveau LCOH constructeur : cette valeur est une estimation indépendante. Une biomasse locale entraîne néanmoins des coûts de collecte, préparation, stockage et transport.
 
-[Synthèse des modules de l'offre CORE100](synthese_modules_offre_CORE100_FR.png)
+![Synthèse des modules de l'offre CORE100](synthese_modules_offre_CORE100_FR.png)
 
 ### S-iC / architecture haute capacité ~20 MW
 
