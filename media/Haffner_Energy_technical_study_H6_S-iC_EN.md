@@ -156,6 +156,9 @@ The public HYNOCA® C-iC technical datasheet indicates an **LCOH below
 €2.34/kg of hydrogen**. This value is explicitly associated with an
 assumption of **biomass at €90/t** and electricity at **€70/MWh**.
 
+![Estimated figures and orders of magnitude](Chiffrages_estimatifs_EN.png)
+
+
 It is important to distinguish this assumption from a territorial model
 supplied by biomass that is already locally available. In the latter case,
 the operator may not need to purchase the biomass: it can use its own
