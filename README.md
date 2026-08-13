@@ -52,7 +52,7 @@ Elle offre enfin une mission vertueuse à la révolution robotique : plutôt que
 |                                                 | < 1,13 € / kg (biomasse gratuite et électricité à 70 €/MWh) |
 | **Empreinte nette de l’usine** | 1 000 m2 (ajustable) avec 5 jours de capacité de stockage de biomasse |
 
-[Haffner Energy — Étude technique : H6 et S-iC](github.com/ejsnews/manifeste-souverainete-technologique/blob/main/media/Haffner_Energy_technical_study_H6_S-iC_FR.md)
+[Haffner Energy — Étude technique : H6 et S-iC](https://ejsnews.github.io/manifeste-souverainete-technologique/media/Haffner_Energy_etude_technique_H6_S-iC_FR.html)
 
 ---
 
