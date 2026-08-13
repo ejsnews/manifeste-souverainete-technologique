@@ -1,3 +1,10 @@
+---
+layout: default
+lang: en
+author: eric_jacob
+title: "A Plea for Technological Sovereignty and Resilience"
+---
+
 # A Plea for Technological Sovereignty and Resilience  [(French version - FR)](README.md)
 
 ### Towards a national ecosystem of energy, health, and agricultural autonomy
