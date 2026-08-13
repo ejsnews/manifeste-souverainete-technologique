@@ -149,6 +149,8 @@ Les combustibles fossiles engendrent un coût secondaire massif et occulte qui p
 
 La fiche technique publique HYNOCA® C-iC indique un **LCOH inférieur à 2,34 €/kg d'hydrogène**. Cette valeur est explicitement associée à une hypothèse de **biomasse à 90 €/t** et d'électricité à **70 €/MWh**.
 
+![Chiffrages et ordre de grandeurs estimés](Chiffrages_estimatifs_FR.png)
+
 Il est important de distinguer cette hypothèse d'un modèle territorial alimenté par une biomasse locale déjà disponible. Dans ce second cas, l'exploitant peut ne pas acheter la biomasse : il peut utiliser ses
 propres résidus agricoles, des résidus d'entretien d'espaces verts, ou certains flux de bois, cartons et matières organiques admissibles issus de plateformes logistiques ou alimentaires.
 
