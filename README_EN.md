@@ -51,6 +51,8 @@ Finally, it offers a virtuous mission for the robotics revolution: rather than s
 | | < €1.13/kg (free biomass and electricity at €70/MWh) |
 | **Net plant footprint** | 1,000 m² (adjustable), including 5 days of biomass storage capacity |
 
+[Haffner Energy — Technical Study: H6 and S-iC](https://ejsnews.github.io/manifeste-souverainete-technologique/media/Haffner_Energy_etude_technique_H6_S-iC_EN.html)
+
 ---
 
 ## III. The stock market and financial strategy: Protecting our industrial gems
