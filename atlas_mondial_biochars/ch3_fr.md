@@ -11,6 +11,23 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 > **Tous les biochars ne se ressemblent pas. Deux biochars visuellement identiques peuvent présenter des propriétés physiques, chimiques et économiques radicalement différentes.**
 
+**← [Prix et valeur économique](ch2_fr_prix.md) • [Sommaire](README.md) • [Biomasse durable →](ch3_fr_biomasses.md)**
+
+---
+
+<figure>
+<img src="ch3_fr.png"
+alt="Pourquoi certains biochars valent-ils dix fois plus que d'autres ?" 
+style="display:block;width:100%;height:auto;margin:0 auto;">
+<figcaption>
+<strong>Figure 1 — Tous les biochars ne se valent pas.</strong>
+La biomasse, le procédé de production, la température, le temps de séjour, la porosité, le carbone fixe, la teneur en cendres et les certifications déterminent les propriétés finales du biochar. 
+<br><br>
+© Eric Jacob 2026 — Atlas mondial de la valorisation économique du biochar — CC BY 4.0 —
+<a href="ch3_fr.png">Voir l'infographie en taille réelle</a>
+</figcaption>
+</figure>
+
 ---
 
 # Une erreur fréquente
