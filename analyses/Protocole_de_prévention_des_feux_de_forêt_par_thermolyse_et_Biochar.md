@@ -244,6 +244,8 @@ La France compte environ 17 millions d'hectares de forêt. Les zones
 3-4 millions d'hectares. Une centaine de brigades mobiles suffirait
 à couvrir le cycle de prévention sur ces zones critiques.
 
+![depuis des déchets de bimasse jusqu'à la prospérité](../media/FR/From_hashes_to_prosperity_-_FR.png)
+
 ---
 
 ## Conclusion : transformer le risque en ressource
