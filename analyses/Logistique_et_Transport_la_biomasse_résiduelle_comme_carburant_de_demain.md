@@ -83,7 +83,7 @@ Les réglementations européennes (Euro 7, objectifs CO₂ 2030) poussent les op
 
 Un hub logistique équipé de modules Haffner devient naturellement une **station de production et de distribution d'hydrogène** pour sa propre flotte et pour les transporteurs partenaires de la zone. Ce hub multi-énergie (électricité, chaleur, hydrogène, biochar) transforme un centre de coût en centre de profit énergétique.
 
-![centre logistique producteur d'energie](../media/EN/centre_logistique_producteur_energie_FR.png)
+![centre logistique producteur d'energie](../media/FR/centre_logistique_producteur_energie_FR.png)
 
 ---
 
