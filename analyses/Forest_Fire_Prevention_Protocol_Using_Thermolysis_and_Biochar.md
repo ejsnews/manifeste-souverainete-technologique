@@ -237,6 +237,8 @@ areas (PACA, Occitanie, Corsica, Aquitaine) account for
 3–4 million hectares. Around one hundred mobile brigades would
 suffice to cover the prevention cycle in these critical zones.
 
+![from biomass waste to prosperity](../media/EN/From_hashes_to_prosperity_-_EN.png)
+
 ---
 
 ## Conclusion: turning risk into a resource
