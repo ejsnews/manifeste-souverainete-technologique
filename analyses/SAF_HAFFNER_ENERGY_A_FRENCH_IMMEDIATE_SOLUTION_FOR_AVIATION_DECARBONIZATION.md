@@ -45,6 +45,8 @@ Beyond price alone, SAFNOCA offers a combination of cumulative advantages for a 
 - Modular installation (2–5 MW), no foundations needed, operational in less than one month
 - Independence from global fuel and electricity markets
 
+![Airline SAF the right solution](../media/EN/Airline_SAF_the_right_solution_-_EN.png)
+
 ---
 
 ## 5. Conclusion
