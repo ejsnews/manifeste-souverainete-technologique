@@ -81,6 +81,8 @@ European regulations (Euro 7, 2030 CO₂ targets) are pushing logistics operator
 
 A logistics hub equipped with Haffner modules naturally becomes a **hydrogen production and distribution station** for its own fleet and for partner carriers in the area. This multi-energy hub (electricity, heat, hydrogen, biochar) transforms a cost center into an energy profit center.
 
+![logistic hub energy producer](../media/EN/centre_logistique_producteur_energie_EN.png)
+
 ---
 
 ## Priority Targets in France
@@ -89,4 +91,4 @@ A logistics hub equipped with Haffner modules naturally becomes a **hydrogen pro
 - **FM Logistic** — independent French operator, rooted in the regions
 - **Amazon Logistics France** — largest consumer of forklift hydrogen in Europe
 - **Port logistics zones** — Dunkerque, Le Havre, Marseille-Fos: abundant port biomass
----
+
