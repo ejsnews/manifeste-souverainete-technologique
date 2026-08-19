@@ -144,8 +144,12 @@ La thermolyse sèche décentralisée ne se présente pas comme une simple altern
 
 ---
 
+## V. Exemples 
+
+**Groupes hôteliers :**
 <center><img src="media/FR/Le_groupe_hotelier_un_tourisme_enclin_a_sauver_la_nature_FR.png" width="700" alt="Haffner Energy — Le groupe hôtelier est guidé par un tourisme enclin à sauver la planète."></center>
 
+**Décarboner son usine :**
 <center><img src="media/FR/decarboner_mon_usine_n_est_plus_un_pb_FR.png" width="700" alt="Haffner Energy — décarboner mon usine n'est plus un pb."></center>
 
 ---
