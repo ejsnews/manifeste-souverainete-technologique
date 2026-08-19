@@ -144,6 +144,8 @@ La thermolyse sèche décentralisée ne se présente pas comme une simple altern
 
 ---
 
+<center><img src="media/FR/decarboner_mon_usine_n_est_plus_un_pb_FR.png" width="700" alt="Haffner Energy — décarboner mon usine n'est plus un pb."></center>
+
 ![decarboner_mon_usine_n_est_plus_un_pb](/media/FR/decarboner_mon_usine_n_est_plus_un_pb_FR.png)
 
 ---
