@@ -26,6 +26,8 @@ La souveraineté agricole ne peut pas se construire sur des agriculteurs appauvr
 endettés et dépendants de l'énergie et des intrants étrangers. **Sans moyens financiers,
 pas de souveraineté.**
 
+![agriculteur de la survie à la prospérité](../media/FR/agriculteur_de_la_survie_a_la_prospérité_1_FR.png)
+
 ---
 
 ## La solution : transformer les déchets agricoles en autonomie totale
