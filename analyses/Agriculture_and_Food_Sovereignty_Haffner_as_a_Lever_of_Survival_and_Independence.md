@@ -22,6 +22,8 @@ In France, one farmer commits suicide every two days. This figure is not an abst
 
 Agricultural sovereignty cannot be built on impoverished, indebted farmers who are dependent on foreign energy and inputs. **Without financial means, there can be no sovereignty.**
 
+![Farmer - From survival to prosperity](../media/EN/agriculteur_de_la_survie_a_la_prospérité_1_EN.png)
+
 ---
 
 ## The Solution: Transforming Agricultural Waste into Total Autonomy
