@@ -144,4 +144,8 @@ La thermolyse sèche décentralisée ne se présente pas comme une simple altern
 
 ---
 
+![decarboner_mon_usine_n_est_plus_un_pb](/media/FR/decarboner_mon_usine_n_est_plus_un_pb_FR.png)
+
+---
+
 **Avertissement :** *Cette note stratégique est une contribution indépendante au débat public sur la souveraineté industrielle et énergétique. L'auteur exprime des opinions personnelles fondées sur des données publiques et n'agit en aucun cas pour le compte de l'entreprise citée. Étant lui-même actionnaire à titre individuel, ce texte est partagé dans un esprit de transparence, à des fins exclusivement informatives et d'analyse macroéconomique. Il ne constitue en aucun cas un conseil en investissement, une incitation à l'achat ou une recommandation d'ordre boursier.*
