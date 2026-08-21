@@ -1,7 +1,7 @@
 # LE MONDE CHANGE  
 ## Dette, IA, robotique, énergie : le problème n'est plus celui du XXe siècle
 
-![Le monde change — dette, IA, robotique et nouveau contrat économique](media/Le_monde_change_FR.png)
+![Le monde change — dette, IA, robotique et nouveau contrat économique](media/FR/Le_monde_change_FR.png)
 
 > **Cette planche est une représentation prospective et illustrée.**
 > Certaines courbes et situations représentent des scénarios destinés à montrer les mécanismes économiques en jeu et ne constituent pas, sauf indication contraire, une prévision officielle.
