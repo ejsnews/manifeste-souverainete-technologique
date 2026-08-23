@@ -2,7 +2,7 @@
 
 ## Une vision pour sortir de l'impasse
 
-![Le monde change — la carte générale du manifeste](media/le_monde_change_01_vue_generale.png)
+![Le monde change — la carte générale du manifeste](media/FR/le_monde_change_01_vue_generale_FR.png)
 
 Le monde change plus vite que les sociétés humaines ne parviennent à l'admettre. Nous continuons pourtant à raisonner avec les catégories d'hier : le travail, la croissance, les impôts, les retraites, l'énergie, l'industrie, la gauche, la droite, la lutte des classes. Pendant ce temps, plusieurs transformations profondes avancent simultanément. La dette publique augmente, les intérêts absorbent une part croissante des ressources, la dépendance énergétique fragilise les économies, les sols s'appauvrissent, la pollution se disperse dans les océans et les écosystèmes, tandis que l'intelligence artificielle et la robotique commencent à remplacer des activités humaines qui semblaient autrefois impossibles à automatiser.
 
