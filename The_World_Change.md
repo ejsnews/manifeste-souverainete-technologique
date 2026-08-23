@@ -93,7 +93,7 @@ L'enjeu est de mieux utiliser ce qui existe déjà.
 
 # Produire localement au lieu de déplacer l'énergie
 
-![Une énergie produite localement évite une partie des transports, des dépendances et des pertes](media/le_monde_change_05_production_locale.png)
+![Une énergie produite localement évite une partie des transports, des dépendances et des pertes](media/FR/le_monde_change_05_production_locale_FR.png)
 
 Nous avons pris l'habitude de considérer comme normale une économie dans laquelle l'énergie voyage sur des milliers de kilomètres avant d'arriver là où elle sera utilisée. Des matières premières traversent les mers, sont transformées ailleurs, puis reviennent sous forme de produits.
 
@@ -117,7 +117,7 @@ C'est ainsi qu'une solution énergétique peut devenir le point de départ d'une
 
 # La thermolyse : une autre manière d'utiliser la biomasse
 
-![La thermolyse transforme une biomasse en plusieurs ressources au lieu de la réduire uniquement à la combustion](media/le_monde_change_06_thermolyse_biochar.png)
+![La thermolyse transforme une biomasse en plusieurs ressources au lieu de la réduire uniquement à la combustion](media/FR/le_monde_change_06_thermolyse_biochar_FR.png)
 
 Pendant longtemps, l'utilisation de la biomasse a été pensée principalement à travers la combustion. On brûle une matière organique pour produire de la chaleur. Cette logique peut être utile dans certains cas, mais elle détruit immédiatement une partie du carbone contenu dans la matière.
 
@@ -143,7 +143,7 @@ Le véritable progrès consiste à apprendre à tirer davantage de valeur d'une 
 
 # Réparer les sols au lieu de les épuiser
 
-![Un sol vivant est un système complexe que l'on peut chercher à restaurer plutôt qu'à alimenter indéfiniment par des intrants](media/le_monde_change_07_sols_biochar.png)
+![Un sol vivant est un système complexe que l'on peut chercher à restaurer plutôt qu'à alimenter indéfiniment par des intrants](media/FR/le_monde_change_07_sols_biochar_FR.png)
 
 Pendant des décennies, nous avons demandé à la terre de produire davantage sans toujours nous demander ce que nous lui retirions.
 
@@ -169,7 +169,7 @@ Mais lorsque les conditions sont réunies, il peut devenir l'un des outils d'une
 
 # Pollution, engrais et déséquilibres naturels
 
-![Les excès de nutriments peuvent circuler des terres vers les rivières puis vers la mer et provoquer des déséquilibres écologiques](media/le_monde_change_08_engrais_mer_algues.png)
+![Les excès de nutriments peuvent circuler des terres vers les rivières puis vers la mer et provoquer des déséquilibres écologiques](media/FR/le_monde_change_08_engrais_mer_algues_FR.png)
 
 L'agriculture moderne a permis de produire énormément de nourriture. Il ne s'agit pas de nier cette réalité. Mais produire davantage n'autorise pas à ignorer les conséquences des méthodes utilisées.
 
@@ -193,7 +193,7 @@ Le but est d'arrêter de considérer la destruction progressive de l'environneme
 
 # Le sable, les littoraux et les erreurs irréversibles
 
-![Le sable est une protection physique des littoraux et son extraction excessive peut contribuer à fragiliser certaines zones côtières](media/le_monde_change_09_sable_littoral.png)
+![Le sable est une protection physique des littoraux et son extraction excessive peut contribuer à fragiliser certaines zones côtières](media/FR/le_monde_change_09_sable_littoral_FR.png)
 
 Le sable semble banal parce qu'il est partout.
 
@@ -215,7 +215,7 @@ Lorsqu'une nature protège gratuitement un territoire depuis des milliers d'ann�
 
 # Dépolluer la planète avec les machines
 
-![Les robots et les machines peuvent être conçus pour retirer les déchets des milieux naturels et automatiser des tâches de dépollution](media/le_monde_change_10_robots_depollution.png)
+![Les robots et les machines peuvent être conçus pour retirer les déchets des milieux naturels et automatiser des tâches de dépollution](media/FR/le_monde_change_10_robots_depollution_FR.png)
 
 Nous savons désormais construire des machines capables de voir, de trier, de déplacer des objets, d'apprendre certains comportements et d'effectuer des tâches répétitives pendant de longues périodes.
 
@@ -239,7 +239,7 @@ Mais cela suppose de choisir ses priorités.
 
 # Les machines changent la valeur du travail
 
-![La machine n'est plus seulement un outil qui augmente la capacité humaine : elle peut progressivement réaliser une partie entière de la chaîne de travail](media/le_monde_change_11_machine_travail.png)
+![La machine n'est plus seulement un outil qui augmente la capacité humaine : elle peut progressivement réaliser une partie entière de la chaîne de travail](media/FR/le_monde_change_11_machine_travail_FR.png)
 
 Autrefois, la machine était principalement dépourvue d'intelligence. Elle augmentait la puissance de l'homme.
 
@@ -269,7 +269,7 @@ C'est pourquoi la transformation qui commence risque d'être beaucoup plus rapid
 
 # Quand le travail disparaît, comment la société survit-elle ?
 
-![Un jeune cherche un emploi pendant que la machine a déjà remplacé une partie des postes disponibles](media/le_monde_change_12_emploi_automatisation.png)
+![Un jeune cherche un emploi pendant que la machine a déjà remplacé une partie des postes disponibles](media/FR/le_monde_change_12_emploi_automatisation_FR.png)
 
 Notre système économique repose encore largement sur une hypothèse simple : les humains travaillent, reçoivent un revenu, paient des cotisations et des impôts, consomment, puis financent indirectement les services collectifs et les retraites.
 
@@ -301,7 +301,7 @@ Mais le système de distribution ne suit plus.
 
 # La production automatisée doit contribuer à la société
 
-![La richesse produite par les systèmes automatisés doit contribuer au financement de la société lorsque le travail humain disparaît](media/le_monde_change_13_contribution_robots.png)
+![La richesse produite par les systèmes automatisés doit contribuer au financement de la société lorsque le travail humain disparaît](media/FR/le_monde_change_13_contribution_robots_FR.png)
 
 La question n'est pas de savoir si un robot doit payer un impôt comme une personne.
 
@@ -341,7 +341,7 @@ L'objectif est de trouver un équilibre.
 
 # Simplifier la fiscalité au lieu de taxer la complexité
 
-![Une fiscalité simple libère du temps pour produire plutôt que pour alimenter une bureaucratie toujours plus complexe](media/le_monde_change_14_fiscalite_simple.png)
+![Une fiscalité simple libère du temps pour produire plutôt que pour alimenter une bureaucratie toujours plus complexe](media/FR/le_monde_change_14_fiscalite_simple_FR.png)
 
 La complexité fiscale est devenue une activité économique en elle-même.
 
@@ -377,7 +377,7 @@ Pourquoi avons-nous construit un système fiscal que même ceux qui le font fonc
 
 # La politique doit cesser de promettre ce qu'elle ne peut financer
 
-![Les promesses électorales financées par une dette future peuvent devenir une forme de démagogie transmise aux générations suivantes](media/le_monde_change_15_promesses_dette.png)
+![Les promesses électorales financées par une dette future peuvent devenir une forme de démagogie transmise aux générations suivantes](media/FR/le_monde_change_15_promesses_dette_FR.png)
 
 La politique moderne s'est progressivement habituée à une mécanique dangereuse.
 
@@ -411,7 +411,7 @@ Il consiste parfois à expliquer pourquoi une promesse impossible ne sera pas fa
 
 # La technologie doit devenir un outil de réparation
 
-![La puissance technologique peut être orientée vers la dépollution, la restauration des sols, l'énergie et la reconstruction des écosystèmes](media/le_monde_change_16_technologie_reparation.png)
+![La puissance technologique peut être orientée vers la dépollution, la restauration des sols, l'énergie et la reconstruction des écosystèmes](media/FR/le_monde_change_16_technologie_reparation_FR.png)
 
 La technologie n'est ni bonne ni mauvaise par nature.
 
@@ -451,7 +451,7 @@ Il doit aussi être mesuré par le nombre de problèmes que ces machines nous pe
 
 # L'homme et la machine face au prochain seuil
 
-![L'humanité entre dans une période où la machine devient progressivement utile non seulement à l'homme, mais aussi à d'autres machines](media/le_monde_change_17_homme_machine_futur.png)
+![L'humanité entre dans une période où la machine devient progressivement utile non seulement à l'homme, mais aussi à d'autres machines](media/FR/le_monde_change_17_homme_machine_futur_FR.png)
 
 Pendant longtemps, la relation était simple.
 
@@ -491,7 +491,7 @@ Mais nous ne devons pas attendre une réponse parfaite sur le futur lointain pou
 
 # Conclusion — choisir ce que nous voulons faire de notre puissance
 
-![Le monde futur dépend moins de la puissance des machines que de la manière dont l'humanité décide de les utiliser](media/le_monde_change_18_conclusion.png)
+![Le monde futur dépend moins de la puissance des machines que de la manière dont l'humanité décide de les utiliser](media/FR/le_monde_change_18_conclusion_FR.png)
 
 Le monde change.
 
