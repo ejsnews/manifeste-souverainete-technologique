@@ -73,7 +73,7 @@ Il est plus facile de prévenir une spirale que d'essayer de la réparer lorsqu'
 
 # Retrouver la souveraineté énergétique
 
-![La souveraineté énergétique libère des ressources financières et réduit les dépendances](media/le_monde_change_04_souverainete_energetique.png)
+![La souveraineté énergétique libère des ressources financières et réduit les dépendances](media/FR/le_monde_change_04_souverainete_energetique_FR.png)
 
 Pour agir, il faut de l'énergie. Pour transformer une économie, il faut également de l'énergie. Pour dépolluer, recycler, fabriquer des machines, restaurer des sols ou faire fonctionner des infrastructures, il faut encore de l'énergie.
 
