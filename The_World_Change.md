@@ -239,7 +239,7 @@ Mais cela suppose de choisir ses priorités.
 
 # Les machines changent la valeur du travail
 
-![La machine n'est plus seulement un outil qui augmente la capacité humaine : elle peut progressivement réaliser une partie entière de la chaîne de travail](media/FR/le_monde_change_11_machine_valeur_travail_FR.png)
+![La machine n'est plus seulement un outil qui augmente la capacité humaine : elle peut progressivement réaliser une partie entière de la chaîne de travail](media/FR/le_monde_change_11_machines_valeur_travail_FR.png)
 
 Autrefois, la machine était principalement dépourvue d'intelligence. Elle augmentait la puissance de l'homme.
 
