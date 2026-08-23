@@ -215,7 +215,7 @@ Lorsqu'une nature protège gratuitement un territoire depuis des milliers d'ann�
 
 # Dépolluer la planète avec les machines
 
-![Les robots et les machines peuvent être conçus pour retirer les déchets des milieux naturels et automatiser des tâches de dépollution](media/FR/le_monde_change_10_robots_depollution_FR.png)
+![Les robots et les machines peuvent être conçus pour retirer les déchets des milieux naturels et automatiser des tâches de dépollution](media/FR/le_monde_change_10_depollution_machines_FR.png)
 
 Nous savons désormais construire des machines capables de voir, de trier, de déplacer des objets, d'apprendre certains comportements et d'effectuer des tâches répétitives pendant de longues périodes.
 
