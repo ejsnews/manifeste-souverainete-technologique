@@ -143,7 +143,7 @@ Le véritable progrès consiste à apprendre à tirer davantage de valeur d'une 
 
 # Réparer les sols au lieu de les épuiser
 
-![Un sol vivant est un système complexe que l'on peut chercher à restaurer plutôt qu'à alimenter indéfiniment par des intrants](media/FR/le_monde_change_07_sols_biochar_FR.png)
+![Un sol vivant est un système complexe que l'on peut chercher à restaurer plutôt qu'à alimenter indéfiniment par des intrants](media/FR/le_monde_change_07_reparer_les_sols_biochar_FR.png)
 
 Pendant des décennies, nous avons demandé à la terre de produire davantage sans toujours nous demander ce que nous lui retirions.
 
