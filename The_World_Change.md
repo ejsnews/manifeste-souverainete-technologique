@@ -45,7 +45,7 @@ Le monde change. Nous devons donc changer la manière dont nous organisons le mo
 
 # La dette, l'étreinte qui empêche d'agir
 
-![La dette publique devient une étreinte lorsque le déficit se répète et que les intérêts augmentent](media/le_monde_change_02_dette_etreinte.png)
+![La dette publique devient une étreinte lorsque le déficit se répète et que les intérêts augmentent](media/le_monde_change_02_dette_etreinte_FR.png)
 
 Il existe une raison pour laquelle il devient de plus en plus difficile de résoudre les problèmes : nous avons construit une économie dans laquelle une part croissante de l'énergie politique et financière est absorbée par les conséquences des décisions passées.
 
@@ -63,7 +63,7 @@ C'est pourquoi la question de la dette ne peut pas être séparée de toutes les
 
 Avant de pouvoir agir librement, il faut retrouver des marges d'action.
 
-![Le cercle vicieux : déficit, dette, intérêts, risque, hausse du coût du financement](media/le_monde_change_03_cercle_vicieux_dette.png)
+![Le cercle vicieux : déficit, dette, intérêts, risque, hausse du coût du financement](media/le_monde_change_03_cercle_vicieux_dette_FR.png)
 
 La première courbe importante de ce manifeste devra donc montrer ce mécanisme. Le but n'est pas de prédire exactement l'avenir à partir d'un taux arbitraire, mais de faire comprendre la dynamique : un déficit répété n'est pas une simple addition. Lorsque les intérêts s'accumulent sur une dette croissante, le problème peut accélérer.
 
