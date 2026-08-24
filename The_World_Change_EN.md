@@ -5,7 +5,7 @@ author: eric_jacob
 title: "THE WORLD IS CHANGING"
 ---
 
-# THE WORLD IS CHANGING
+# THE WORLD IS CHANGING [(French version - EN)](Le_monde_change_FR.md)
 
 ## A vision for finding a way out of the deadlock
 
