@@ -1,3 +1,10 @@
+---
+layout: default
+lang: fr
+author: eric_jacob
+title: "LE MONDE CHANGE"
+---
+
 # LE MONDE CHANGE
 
 ## Une vision pour sortir de l'impasse
