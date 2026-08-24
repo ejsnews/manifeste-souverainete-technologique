@@ -3,6 +3,7 @@ layout: default
 lang: fr
 author: eric_jacob
 title: "LE MONDE CHANGE – NOUS DEVONS CHANGER AVEC LUI"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # LE MONDE CHANGE – NOUS DEVONS CHANGER AVEC LUI [(English version - EN)](The_World_Change_EN.md)
