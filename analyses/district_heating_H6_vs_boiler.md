@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "FROM LINEAR METABOLISM TO THE CIRCULAR CITY: H6 VERSUS THE BOILER"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 # From linear metabolism to the circular city: replacing the urban boiler with the H6 [(French version - FR)](chauffage_urbain_H6_vs_chaudiere.md)
 
