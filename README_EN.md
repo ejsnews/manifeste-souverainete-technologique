@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "A Plea for Technological Sovereignty and Resilience"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # A Plea for Technological Sovereignty and Resilience  [(French version - FR)](README.md)
