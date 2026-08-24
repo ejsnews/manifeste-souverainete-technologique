@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "Executive Summary: Energy Sovereignty and Industrial Resilience"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Executive Summary: Energy Sovereignty & Industrial Resilience
