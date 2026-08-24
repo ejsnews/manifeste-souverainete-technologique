@@ -3,6 +3,7 @@ layout: default
 lang: fr
 author:	eric_jacob
 title: "Modélisation Économique - Installation H6 + S-iC et dérivés du Syngas"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Modélisation Économique - Installation H6 + S-iC et dérivés du Syngas [(English version - EN)](Economic_Modeling_-_H6_and_S-iC_Installation_and_Syngas_Derivatives.md)
