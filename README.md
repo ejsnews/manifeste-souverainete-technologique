@@ -1,4 +1,5 @@
 # Plaidoyer pour la souveraineté et la résilience technologique [(English version - EN)](README_EN.md)
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 
 ### Vers un écosystème national d'autonomie énergétique, sanitaire et agricole
 
