@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "The human and planetary Cost of the current model — What Haffner can change"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # The human and planetary cost of the current model - What Haffner can change [(French version - FR)](Le_cout_humain_et_planetaire_du_modele_actuel_-_Ce_que_Haffner_peut_changer.md)
