@@ -61,17 +61,17 @@ For a production rate of 500 kg of hydrogen per hour, with approximately **6,690
 The calculation is:
 
 $$
-6.69\ \text{t/h} \times 90\ €/t = 602.10\ €/h
+6.69\,\mathrm{t/h} \times 90\,\mathrm{EUR/t} = 602.10\,\mathrm{EUR/h}
 $$
 
 $$
-602.10\ €/h \div 500\ \text{kg H₂/h} = 1.2042\ €/kg H₂
+602.10\,\mathrm{EUR/h} \div 500\,\mathrm{kg\,H_2/h} = 1.2042\,\mathrm{EUR/kg\,H_2}
 $$
 
 To this component must then be added the electricity consumption:
 
 $$
-2.8\ \text{kWh/kg H₂} \times electricity\ price
+2.8\,\mathrm{kWh/kg\,H_2} \times \mathrm{electricity\ price}
 $$
 
 followed by industrial investment, depreciation, operation, maintenance, biomass preparation and logistics, as well as any additional purification stages.
