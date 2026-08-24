@@ -4,13 +4,12 @@
 
 ### Production territoriale, pureté, économie et modularité industrielle
 
-> **Version de travail — août 2026**
+> **Version 1.0 — août 2026**
 >
 > Cet Atlas étudie les usages de l'hydrogène en fonction de sa pureté et de ses spécifications, en prenant comme point de départ la technologie HYNOCA® développée par Haffner Energy. Les données publiques sont distinguées des performances techniques annoncées mais pas encore publiées officiellement. Toute donnée relative à la future configuration 20 MW devra être vérifiée et actualisée lors de sa divulgation officielle.
 
 ![Illustration 01 — Biomasse, hydrogène et molécules de valeur](images/01-biomasse-hydrogene-molecules-valeur_FR.png)
 
-*Illustration à créer ultérieurement — largeur cible : 700 px.*
 
 ---
 
@@ -78,7 +77,6 @@ Les performances de la configuration 20 MW décrites dans cette section devront 
 
 ![Illustration 02 — Anatomie économique d'un kilogramme d'hydrogène](images/02-economie-un-kg-hydrogene_FR.png)
 
-*Illustration à créer ultérieurement — largeur cible : 700 px.*
 
 ---
 
@@ -110,7 +108,6 @@ Cette logique multi-produits peut renforcer la résilience économique d'une ins
 
 ![Illustration 03 — Une biomasse, plusieurs molécules de valeur](images/03-biomasse-plusieurs-molecules_FR.png)
 
-*Illustration à créer ultérieurement — largeur cible : 700 px.*
 
 ---
 
@@ -135,7 +132,6 @@ Cette architecture permet de suivre la demande au lieu d'imposer une qualité ma
 
 ![Illustration 04 — La cascade de pureté de l'hydrogène](images/04-cascade-puretes-hydrogene_FR.png)
 
-*Illustration à créer ultérieurement — largeur cible : 700 px.*
 
 ---
 
@@ -217,7 +213,6 @@ La question n'est donc pas de savoir si toute industrie doit devenir petite. Ell
 
 ![Illustration 05 — Gigantisme, concentration et modularité territoriale](images/05-gigantisme-modularite-industrie_FR.png)
 
-*Illustration à créer ultérieurement — largeur cible : 700 px.*
 
 ---
 
@@ -255,7 +250,6 @@ Le principe central devient :
 
 ![Illustration 06 — L'industrie à la mesure du territoire](images/06-industrie-bonne-echelle_FR.png)
 
-*Illustration à créer ultérieurement — largeur cible : 700 px.*
 
 ---
 
@@ -294,30 +288,18 @@ L'objectif est de construire des systèmes industriels capables de produire suff
 - Site officiel : https://www.haffner-energy.com/
 - Génération H6 : https://www.haffner-energy.com/fr/haffner-energy-unveils-the-h6-generation/
 
----
-
-# Illustrations prévues
-
-Les illustrations seront créées séparément, au format PNG, avec une largeur cible de **700 px**.
-
-1. `images/01-biomasse-hydrogene-molecules-valeur.png` — **De la biomasse aux molécules de valeur**
-2. `images/02-economie-un-kg-hydrogene.png` — **Ce qui compose réellement le coût d'un kilogramme d'H₂**
-3. `images/03-biomasse-plusieurs-molecules.png` — **Hydrogène, CO₂ biogénique et chaînes de valeur**
-4. `images/04-cascade-puretes-hydrogene.png` — **De la pureté initiale aux usages spécialisés**
-5. `images/05-gigantisme-modularite-industrie.png` — **Concentration ou réplication ?**
-6. `images/06-industrie-bonne-echelle.png` — **L'industrie à la mesure du territoire**
 
 ---
 
-# Données à vérifier et compléter lors des prochaines versions
+# Périmètre technique et données en évolution
 
-- Confirmation officielle de la pression de sortie de l'hydrogène de la configuration 20 MW, actuellement retenue ici comme environ **30 bar**.
-- Publication officielle des performances du 20 MW.
-- Confirmation officielle de la production de 500 kg/h et de la consommation de biomasse de 6 690 kg/h dans les conditions de référence.
-- Confirmation officielle de la consommation électrique spécifique de 2,8 kWh/kg.
-- Décomposition complète du coût de production du kilogramme d'hydrogène.
-- Coût et consommation énergétique des étapes de purification vers les différents niveaux de pureté.
-- Marché mondial estimé par niveau de pureté.
-- Répartition des consommations par pays et par secteur.
-- Identification des marchés potentiels N6, N7, N8 et au-delà.
-- Cartographie mondiale des grands clusters industriels consommateurs d'hydrogène de haute et très haute pureté.
+Cet Atlas distingue volontairement les **données publiques documentées** des **données prospectives utilisées comme hypothèses de travail** pour la future configuration 20 MW. Cette distinction est particulièrement importante pour la production horaire envisagée, la consommation de biomasse, la consommation électrique spécifique et la pression de sortie de l'hydrogène, qui devront être actualisées lorsque les caractéristiques techniques définitives seront publiées officiellement.
+
+Les chiffres relatifs à la configuration 20 MW doivent donc être lus comme une représentation du scénario technique actuellement étudié dans cet Atlas, et non comme une fiche constructeur définitive. Les données confirmées par les documents officiels de Haffner Energy conservent, quant à elles, leur statut de référence pour les équipements déjà documentés publiquement.
+
+De même, la nomenclature pédagogique des puretés — N3, N4, N5, N6, N7 et au-delà — ne remplace pas les spécifications industrielles détaillées. Selon l'usage final, la nature et la concentration des impuretés résiduelles peuvent être plus importantes que le seul nombre de « 9 » figurant dans un pourcentage de pureté.
+
+L'Atlas a vocation à évoluer à mesure que de nouvelles données publiques permettront d'affiner l'économie de la production, les coûts et consommations des étapes de purification, la structure des marchés par niveau de pureté, la répartition sectorielle et géographique de la demande et l'identification des besoins réellement compatibles avec les niveaux N6, N7, N8 et au-delà.
+
+Cette évolution n'est pas une réserve sur le raisonnement général présenté ici. Elle correspond au fonctionnement normal d'un Atlas technique : une structure stable, enrichie progressivement par des données plus précises, des sources supplémentaires et des cartographies sectorielles.
+
