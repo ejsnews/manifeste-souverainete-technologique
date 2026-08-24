@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "Forest Fire Prevention Protocol Using Thermolysis and Biochar"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Forest Fire Prevention Protocol Using Thermolysis and Biochar [(French version - FR)](Protocole_de_prévention_des_feux_de_forêt_par_thermolyse_et_Biochar.md)
