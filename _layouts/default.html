@@ -22,14 +22,47 @@
         {% include menu_fr.html %}
       {% endif %}
       <hr>
-      {% assign author = site.data.authors[page.author] %}
-      <!-- On vérifie que l'auteur existe bien avant de l'afficher -->
-      <p><a href="https://github.com/ejsnews/manifeste-souverainete-technologique/" style="display: block !important;">Github Manifeste/Manifesto</a></p>
-      <p><a href="https://github.com/ejsnews/" style="display: block !important;">Github {{ author.name }} Home</a></p>
-      {% if author %}
-        <a href="{{ author.linkedin }}">Linkedin: {{ author.name }}</a><br>
-        <p>{{ author.bio }}</p>
+{% assign author = site.data.authors[page.author] %}
+
+<!-- Licence : affichée uniquement si la page possède un champ license -->
+{% if page.license %}
+  <p class="page-license">
+    <strong>
+      {% if page.lang == 'en' %}
+        License:
+      {% else %}
+        Licence :
       {% endif %}
+    </strong>
+    {{ page.license }}
+  </p>
+{% endif %}
+
+<p>
+  <a href="https://github.com/ejsnews/manifeste-souverainete-technologique/"
+     style="display: block !important;">
+    Github Manifeste/Manifesto
+  </a>
+</p>
+
+{% if author %}
+
+  <p>
+    <a href="https://github.com/ejsnews/"
+       style="display: block !important;">
+      Github {{ author.name }} Home
+    </a>
+  </p>
+
+  {% if author.linkedin %}
+    <a href="{{ author.linkedin }}">LinkedIn: {{ author.name }}</a><br>
+  {% endif %}
+
+  {% if author.bio %}
+    <p>{{ author.bio }}</p>
+  {% endif %}
+
+{% endif %}
     </main>
   </body>
 </html>
