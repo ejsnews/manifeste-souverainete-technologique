@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "Biochar: Much More Than a Carbon Sink"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Biochar: Much More Than a Carbon Sink [(French version - FR)](Les_usages_du_Biochar_bien_plus_qu_un_puits_de_carbone.md)
