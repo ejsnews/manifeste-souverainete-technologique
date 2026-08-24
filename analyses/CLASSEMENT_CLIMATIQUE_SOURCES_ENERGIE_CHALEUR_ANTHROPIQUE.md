@@ -3,6 +3,7 @@ layout: default
 lang: fr
 author: eric_jacob
 title: "CLASSEMENT CLIMATIQUE DES SOURCES D'ÉNERGIE"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 # CLASSEMENT CLIMATIQUE DES SOURCES D'ÉNERGIE [(English version - EN)](CLIMATE_RANKING_ENERGY_SOURCES_ANTHROPIC_HEAT_INCLUDED.md)
 
