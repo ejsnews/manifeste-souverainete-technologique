@@ -3,6 +3,7 @@ layout: default
 lang: fr
 author: eric_jacob
 title: "Climatisation décarbonée : le droit au froid sans catastrophe écologique"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Climatisation décarbonée : le droit au froid sans catastrophe écologique [(English version - EN)](Decarbonized_Air_Conditioning_The_Right_to_Cool_Without_Ecological_Disaster.md)
