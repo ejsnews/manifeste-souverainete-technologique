@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "A Path Without Degrowth: Quantified Diagnosis and a Portfolio of Economically Viable Solutions"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # A 100% ecological path without degrowth: Quantified Diagnosis and a Portfolio of Economically Viable Solutions [(French version - FR)](chemin_climatique_sans_decroissance.md)
