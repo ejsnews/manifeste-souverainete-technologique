@@ -2,10 +2,10 @@
 layout: default
 lang: fr
 author: eric_jacob
-title: "LE MONDE CHANGE"
+title: "LE MONDE CHANGE – NOUS DEVONS CHANGER AVEC LUI"
 ---
 
-# LE MONDE CHANGE  [(English version - EN)](The_World_Change_EN.md)
+# LE MONDE CHANGE – NOUS DEVONS CHANGER AVEC LUI [(English version - EN)](The_World_Change_EN.md)
 
 ## Une vision pour sortir de l'impasse
 
