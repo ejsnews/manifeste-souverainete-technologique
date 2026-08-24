@@ -1,4 +1,12 @@
-# ATLAS DE L'HYDROGÈNE À HAUTE VALEUR
+---
+layout: default
+lang: fr
+author: eric_jacob
+title: "ATLAS DE L'HYDROGÈNE À HAUTE VALEUR"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
+---
+
+# ATLAS DE L'HYDROGÈNE À HAUTE VALEUR [(English version - EN)](Atlas_hydrogen_Haffner_Energy_EN.md)
 
 ## De la biomasse résiduelle locale aux usages industriels de très haute pureté
 
