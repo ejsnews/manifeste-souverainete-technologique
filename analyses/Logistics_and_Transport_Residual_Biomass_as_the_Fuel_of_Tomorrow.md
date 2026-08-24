@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "Logistics and Transport: Residual Biomass as the Fuel of Tomorrow"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Logistics and Transport: Residual Biomass as the Fuel of Tomorrow [(French version - FR)](Logistique_et_Transport_la_biomasse_résiduelle_comme_carburant_de_demain.md)
