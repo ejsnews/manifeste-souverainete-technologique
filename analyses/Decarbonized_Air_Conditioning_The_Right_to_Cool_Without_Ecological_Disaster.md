@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "Decarbonized Air Conditioning: The Right to Cool Without Ecological Disaster"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 # Decarbonized Air Conditioning: The Right to Cool Without Ecological Disaster [(French version - FR)](Climatisation_Décarbonée_le_droit_au_froid_sans_catastrophe_écologique.md)
 
