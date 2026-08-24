@@ -3,7 +3,9 @@ layout: default
 lang: en
 author: eric_jacob
 title: "MANIFESTO FOR TECHNOLOGICAL SOVEREIGNTY AND RESILIENCE"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
+
 # MANIFESTO FOR TECHNOLOGICAL SOVEREIGNTY AND RESILIENCE [(Version française - FR)](manifeste_souverainete_technologique_v3_FR.md)
 
 *Toward a national ecosystem of energy, health, and agricultural autonomy*
