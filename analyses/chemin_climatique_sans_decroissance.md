@@ -3,6 +3,7 @@ layout: default
 lang: fr
 author: eric_jacob
 title: "Un chemin sans décroissance : diagnostic chiffré et portefeuille de solutions économiquement viables"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Un chemin 100% écologiste sans décroissance : diagnostic chiffré et portefeuille de solutions économiquement viables [(English version - EN)](no-degrowth-pathway.md)
