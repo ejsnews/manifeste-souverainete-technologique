@@ -54,19 +54,19 @@ Pour une production de 500 kg d'hydrogène par heure, avec environ **6 690 kg de
 
 Le calcul est le suivant :
 
-\[
+$$
 6,69\ \text{t/h} \times 90\ €/t = 602,10\ €/h
-\]
+$$
 
-\[
+$$
 602,10\ €/h \div 500\ \text{kg H₂/h} = 1,2042\ €/kg H₂
-\]
+$$
 
 À cette composante doivent ensuite s'ajouter la consommation électrique :
 
-\[
+$$
 2,8\ \text{kWh/kg H₂} \times prix\ de\ l'électricité
-\]
+$$
 
 puis l'investissement industriel, son amortissement, l'exploitation, la maintenance, la préparation et la logistique de la biomasse, ainsi que les éventuelles étapes supplémentaires de purification.
 
