@@ -3,6 +3,7 @@ layout: default
 lang: fr
 author: eric_jacob
 title: "Guerres, Ressources et Décentralisation : Comment Haffner brise le cycle"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Guerres, Ressources et Décentralisation : Comment Haffner brise le cycle [(English version - EN)](Wars_Resources_and_Decentralization_How_Haffner_Breaks_the_Cycle.md)
