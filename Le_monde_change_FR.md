@@ -5,7 +5,7 @@ author: eric_jacob
 title: "LE MONDE CHANGE"
 ---
 
-# LE MONDE CHANGE
+# LE MONDE CHANGE  [(English version - EN)](The_World_Change_EN.md)
 
 ## Une vision pour sortir de l'impasse
 
