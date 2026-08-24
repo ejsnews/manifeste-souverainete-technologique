@@ -3,6 +3,7 @@ layout: default
 lang: fr
 author: eric_jacob
 title: "Datacenters et intelligence artificielle : le seul scénario vertueux"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Datacenters et intelligence artificielle : le seul scénario vertueux [(English version - EN)](Data_Centers_and_Artificial_Intelligence_The_Only_Virtuous_Scenario.md)
