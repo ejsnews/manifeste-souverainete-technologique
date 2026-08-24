@@ -2,10 +2,10 @@
 layout: default
 lang: en
 author: eric_jacob
-title: "THE WORLD IS CHANGING"
+title: "THE WORLD IS CHANGING — WE MUST CHANGE WITH IT"
 ---
 
-# THE WORLD IS CHANGING [(French version - EN)](Le_monde_change_FR.md)
+# THE WORLD IS CHANGING — WE MUST CHANGE WITH IT [(French version - FR)](Le_monde_change_FR.md)
 
 ## A vision for finding a way out of the deadlock
 
