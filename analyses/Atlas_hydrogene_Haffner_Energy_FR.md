@@ -8,7 +8,7 @@
 >
 > Cet Atlas étudie les usages de l'hydrogène en fonction de sa pureté et de ses spécifications, en prenant comme point de départ la technologie HYNOCA® développée par Haffner Energy. Les données publiques sont distinguées des performances techniques annoncées mais pas encore publiées officiellement. Toute donnée relative à la future configuration 20 MW devra être vérifiée et actualisée lors de sa divulgation officielle.
 
-![Illustration 01 — Biomasse, hydrogène et molécules de valeur](images/01-biomasse-hydrogene-molecules-valeur.png)
+![Illustration 01 — Biomasse, hydrogène et molécules de valeur](images/01-biomasse-hydrogene-molecules-valeur_FR.png)
 
 *Illustration à créer ultérieurement — largeur cible : 700 px.*
 
@@ -59,7 +59,7 @@ $$
 $$
 
 $$
-602,10\ €/h \div 500\ \text{kg H₂/h} = 1,2042\ €/kg H₂
+602,10\ €/h \div 500\ \text{kg H₂/h} = 1,2042\ €/kg  H₂
 $$
 
 À cette composante doivent ensuite s'ajouter la consommation électrique :
@@ -76,7 +76,7 @@ Le coût total ne peut donc jamais être réduit à la seule donnée de **2,8 kW
 
 Les performances de la configuration 20 MW décrites dans cette section devront être mises à jour lorsque les données techniques officielles seront publiées.
 
-![Illustration 02 — Anatomie économique d'un kilogramme d'hydrogène](images/02-economie-un-kg-hydrogene.png)
+![Illustration 02 — Anatomie économique d'un kilogramme d'hydrogène](images/02-economie-un-kg-hydrogene_FR.png)
 
 *Illustration à créer ultérieurement — largeur cible : 700 px.*
 
@@ -108,7 +108,7 @@ Selon les technologies et les chaînes de valeur considérées, l'association d'
 
 Cette logique multi-produits peut renforcer la résilience économique d'une installation. Lorsque le prix d'un produit baisse, les autres flux peuvent conserver une valeur. Mais il ne faut pas considérer automatiquement chaque coproduit comme une source de revenu : **une molécule n'a une valeur économique que si un client, une utilisation et une filière capable de l'absorber existent réellement.**
 
-![Illustration 03 — Une biomasse, plusieurs molécules de valeur](images/03-biomasse-plusieurs-molecules.png)
+![Illustration 03 — Une biomasse, plusieurs molécules de valeur](images/03-biomasse-plusieurs-molecules_FR.png)
 
 *Illustration à créer ultérieurement — largeur cible : 700 px.*
 
@@ -133,7 +133,7 @@ Cette architecture permet de suivre la demande au lieu d'imposer une qualité ma
 
 > **La meilleure molécule n'est pas nécessairement la plus pure. C'est celle dont la qualité correspond précisément au procédé qui l'utilise.**
 
-![Illustration 04 — La cascade de pureté de l'hydrogène](images/04-cascade-puretes-hydrogene.png)
+![Illustration 04 — La cascade de pureté de l'hydrogène](images/04-cascade-puretes-hydrogene_FR.png)
 
 *Illustration à créer ultérieurement — largeur cible : 700 px.*
 
@@ -215,7 +215,7 @@ La question n'est donc pas de savoir si toute industrie doit devenir petite. Ell
 
 > **Quelles activités doivent réellement être concentrées et lesquelles peuvent être reproduites sous forme de modules ?**
 
-![Illustration 05 — Gigantisme, concentration et modularité territoriale](images/05-gigantisme-modularite-industrie.png)
+![Illustration 05 — Gigantisme, concentration et modularité territoriale](images/05-gigantisme-modularite-industrie_FR.png)
 
 *Illustration à créer ultérieurement — largeur cible : 700 px.*
 
@@ -253,7 +253,7 @@ Le principe central devient :
 
 > **La taille optimale d'une installation n'est pas la plus grande possible. C'est la plus grande qui reste compatible avec les ressources durablement disponibles et les besoins économiques réels du territoire.**
 
-![Illustration 06 — L'industrie à la mesure du territoire](images/06-industrie-bonne-echelle.png)
+![Illustration 06 — L'industrie à la mesure du territoire](images/06-industrie-bonne-echelle_FR.png)
 
 *Illustration à créer ultérieurement — largeur cible : 700 px.*
 
