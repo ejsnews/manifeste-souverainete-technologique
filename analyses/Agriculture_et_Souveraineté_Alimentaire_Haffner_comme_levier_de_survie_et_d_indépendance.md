@@ -3,6 +3,7 @@ layout: default
 lang: fr
 author: eric_jacob
 title: "Agriculture et souveraineté alimentaire : Haffner comme levier de survie et d'indépendance"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Agriculture et souveraineté alimentaire : Haffner comme levier de survie et d'indépendance [(English version - EN)](Agriculture_and_Food_Sovereignty_Haffner_as_a_Lever_of_Survival_and_Independence.md)
