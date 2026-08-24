@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "ATLAS OF HIGH-VALUE HYDROGEN"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # ATLAS OF HIGH-VALUE HYDROGEN [(French version - FR)](Atlas_hydrogene_Haffner_Energy_FR.md)
