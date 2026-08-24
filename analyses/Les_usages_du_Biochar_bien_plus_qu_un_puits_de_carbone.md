@@ -3,6 +3,7 @@ layout: default
 lang: fr
 author: eric_jacob
 title: "Le Biochar : bien plus qu'un puits de carbone"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Le Biochar : bien plus qu'un puits de carbone [(English version - EN)](Biochar_Much_More_Than_a_Carbon_Sink.md)
