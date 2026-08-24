@@ -1,3 +1,11 @@
+---
+layout: default
+lang: en
+author: Eric Jacob
+title: "WORLD ATLAS OF THE ECONOMIC VALORIZATION OF BIOCHAR"
+license: Creative Commons CC BY 4.0
+---
+
 # WORLD ATLAS OF THE ECONOMIC VALORIZATION OF BIOCHAR
 ## Markets • Applications • Carbon • Industry • Territories • Outlook
 
