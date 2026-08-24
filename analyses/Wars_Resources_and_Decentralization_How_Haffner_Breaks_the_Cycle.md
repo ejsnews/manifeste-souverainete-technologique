@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "Wars, Resources and Decentralization: How Haffner Breaks the Cycle"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Wars, Resources and Decentralization: How Haffner Breaks the Cycle [(French version - FR)](Guerres_Ressources_et_Decentralisation_Comment_Haffner_Energy_brise_le_cycle.md)
