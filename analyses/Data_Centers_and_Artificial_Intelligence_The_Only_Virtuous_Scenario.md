@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "Data Centers and Artificial Intelligence: The Only Virtuous Scenario"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Data Centers and Artificial Intelligence: The Only Virtuous Scenario [(French version - FR)](Datacenters_et_Intelligence_Artificielle_-_le_seul_scenario_vertueux.md)
