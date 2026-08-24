@@ -3,6 +3,7 @@ layout: default
 lang: fr
 author: eric_jacob
 title: "Résumé exécutif : Souveraineté énergétique et résilience industrielle"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # Résumé exécutif : Souveraineté énergétique & résilience industrielle [(English version - EN)](EXECUTIVE_SUMMARY_EN.md)
