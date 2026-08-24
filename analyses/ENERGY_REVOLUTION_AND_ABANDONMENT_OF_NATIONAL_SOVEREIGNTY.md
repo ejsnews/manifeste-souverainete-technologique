@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "HAFFNER ENERGY: FRANCE IS LETTING ITS ENERGY REVOLUTION GO ABROAD"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 # HAFFNER ENERGY: FRANCE IS LETTING ITS ENERGY REVOLUTION GO ABROAD [(French version - FR)](REVOLUTION_ENERGETIQUE_ET_ABANDON_DE_SOUVERAINETE_NATIONALE.md)
 
