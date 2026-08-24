@@ -3,6 +3,7 @@ layout: default
 lang: fr
 author: eric_jacob
 title: "SAF : Carburant durable pour l'aviation — L'agnosticisme comme garantie"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # SAF : Carburant durable pour l'aviation - L'agnosticisme comme garantie [(English version - EN)](SAF_Sustainable_Aviation_Fuel_-_Agnosticism_as_a_Guarantee.md)
