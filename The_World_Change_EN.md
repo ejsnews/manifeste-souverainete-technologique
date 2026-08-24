@@ -3,6 +3,7 @@ layout: default
 lang: en
 author: eric_jacob
 title: "THE WORLD IS CHANGING — WE MUST CHANGE WITH IT"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
 # THE WORLD IS CHANGING — WE MUST CHANGE WITH IT [(French version - FR)](Le_monde_change_FR.md)
