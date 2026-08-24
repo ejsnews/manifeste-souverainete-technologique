@@ -3,6 +3,7 @@ layout: default
 lang: fr
 author: eric_jacob
 title: "HAFFNER ENERGY : LA FRANCE LAISSE PARTIR SA RÉVOLUTION ÉNERGÉTIQUE À L'ÉTRANGER"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 # HAFFNER ENERGY : LA FRANCE LAISSE PARTIR SA RÉVOLUTION ÉNERGÉTIQUE À L'ÉTRANGER [(English version - EN)](ENERGY_REVOLUTION_AND_ABANDONMENT_OF_NATIONAL_SOVEREIGNTY.md)
 
