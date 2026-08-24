@@ -1,3 +1,10 @@
+---
+layout: default
+lang: en
+author: eric_jacob
+title: "THE WORLD IS CHANGING"
+---
+
 # THE WORLD IS CHANGING
 
 ## A vision for finding a way out of the deadlock
