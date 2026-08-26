@@ -426,8 +426,7 @@ NEW CAPACITY FOR GREENING
 ```
 
 <!-- IMAGE-08 : images/08-modele-3-metropole-circulaire.png -->
-![Industrial model 3: circular metropolis](images/08-model-3-circular-metropolis_EN.png
-.png)
+![Industrial model 3: circular metropolis](images/08-model-3-circular-metropolis_EN.png)
 
 ---
 
