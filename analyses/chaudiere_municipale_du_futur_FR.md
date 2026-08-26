@@ -28,7 +28,7 @@ Dans cette perspective, la question n'est plus seulement : **comment remplacer u
 
 L'ambition de cet article n'est donc pas de présenter une usine miraculeuse qui résoudrait tous les problèmes d'une métropole. Il consiste plutôt à examiner une hypothèse industrielle : **la chaudière municipale pourrait devenir le centre visible d'une plateforme territoriale plus large, associant biomasse, énergie, coproduits, agriculture, emplois locaux, végétalisation et amélioration progressive de la résilience du territoire.**
 
-![Vision globale : ville végétalisée et infrastructure énergétique territoriale](images/01-ville-energetique-du-futur.png)
+![Vision globale : ville végétalisée et infrastructure énergétique territoriale](images/01-ville-energetique-du-futur_FR.png)
 
 ---
 
@@ -190,7 +190,7 @@ ALIMENTATION DE L'UNITÉ
 La meilleure biomasse n'est donc pas nécessairement celle qui est gratuite à l'origine. C'est celle qui présente le meilleur compromis entre disponibilité, qualité, coût de collecte, préparation et distance de transport.
 
 <!-- IMAGE-04 : images/04-voyage-de-la-biomasse.png -->
-![Le parcours territorial de la biomasse](images/04-voyage-de-la-biomasse.png)
+![Le parcours territorial de la biomasse](images/04-voyage-de-la-biomasse_FR.png)
 
 ---
 
@@ -265,7 +265,7 @@ VILLE   INDUSTRIE   SOLS
 ```
 
 <!-- IMAGE-05 : images/05-hub-municipal-multi-energie.png -->
-![Le hub municipal multi-énergie](images/05-hub-municipal-multi-energie.png)
+![Le hub municipal multi-énergie](images/05-hub-municipal-multi-energie_FR.png)
 
 ---
 
@@ -388,7 +388,7 @@ Le premier modèle est le plus simple. Une plateforme de thermolyse alimente pri
 Ce modèle convient particulièrement à un quartier comprenant plusieurs bâtiments proches. Son principal avantage est sa simplicité relative : la chaleur est un produit local, difficilement transportable sur de longues distances mais immédiatement utile lorsqu'elle est produite à proximité des consommateurs.
 
 <!-- IMAGE-06 : images/06-modele-1-chaudiere-quartier.png -->
-![Modèle industriel 1 : chaudière urbaine de quartier](images/06-modele-1-chaudiere-quartier.png)
+![Modèle industriel 1 : chaudière urbaine de quartier](images/06-modele-1-chaudiere-quartier_FR.png)
 
 ## Modèle 2 — Le hub municipal multi-énergie
 
@@ -402,7 +402,7 @@ L'objectif est d'améliorer le facteur d'utilisation annuel de l'installation. L
 - la saisonnalité des marchés.
 
 <!-- IMAGE-07 : images/07-modele-2-hub-multi-energie.png -->
-![Modèle industriel 2 : hub municipal multi-énergie](images/07-modele-2-hub-multi-energie.png)
+![Modèle industriel 2 : hub municipal multi-énergie](images/07-modele-2-hub-multi-energie_FR.png)
 
 ## Modèle 3 — La métropole circulaire
 
@@ -427,7 +427,7 @@ NOUVELLE CAPACITÉ DE VÉGÉTALISATION
 ```
 
 <!-- IMAGE-08 : images/08-modele-3-metropole-circulaire.png -->
-![Modèle industriel 3 : métropole circulaire](images/08-modele-3-metropole-circulaire.png)
+![Modèle industriel 3 : métropole circulaire](images/08-modele-3-metropole-circulaire_FR.png)
 
 ---
 
@@ -484,4 +484,4 @@ Cet article distingue trois niveaux :
 2. **Les scénarios et calculs de travail**, tels que l'exemple territorial de 50 000 tonnes de biomasse par an, qui constituent des hypothèses et non des caractéristiques garanties d'une installation.
 3. **La vision prospective**, qui explore la manière dont une collectivité pourrait organiser biomasse, énergie, agriculture, emplois et végétalisation autour d'une plateforme industrielle.
 
-[**→ Ouvrir le PDF technique Haffner Energy**](PDF_TECHNIQUE_HAFFNER_URL)
+[**→ Ouvrir le PDF technique Haffner Energy**](../media/PDF/Synoca_vs_Chaudière_biomasse_position_paper.pdf)
