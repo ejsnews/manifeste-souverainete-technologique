@@ -1,4 +1,12 @@
-# La chaudière municipale du futur
+---
+layout: default
+lang: fr
+author: eric_jacob
+title: "La chaudière municipale du futur"
+license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
+---
+
+# La chaudière municipale du futur [(English version - EN)](district_heating_H6_vs_boiler.md)
 
 ## De la biomasse locale au chauffage urbain, aux coproduits et à une économie territoriale circulaire
 
@@ -20,8 +28,8 @@ Dans cette perspective, la question n'est plus seulement : **comment remplacer u
 
 L'ambition de cet article n'est donc pas de présenter une usine miraculeuse qui résoudrait tous les problèmes d'une métropole. Il consiste plutôt à examiner une hypothèse industrielle : **la chaudière municipale pourrait devenir le centre visible d'une plateforme territoriale plus large, associant biomasse, énergie, coproduits, agriculture, emplois locaux, végétalisation et amélioration progressive de la résilience du territoire.**
 
-<!-- IMAGE-01 : assets/images/01-ville-energetique-du-futur.webp -->
-![Vision globale : ville végétalisée et infrastructure énergétique territoriale](assets/images/01-ville-energetique-du-futur.webp)
+<!-- IMAGE-01 : images/01-ville-energetique-du-futur.png -->
+![Vision globale : ville végétalisée et infrastructure énergétique territoriale](images/01-ville-energetique-du-futur.png)
 
 ---
 
@@ -43,8 +51,8 @@ Une chaudière ou une plateforme thermique de plusieurs mégawatts pourrait ains
 
 La première idée fondamentale est donc simple : **la chaudière urbaine n'est pas un appareil domestique agrandi. C'est une infrastructure de réseau.**
 
-<!-- IMAGE-02 : assets/images/02-chaudiere-urbaine-reseau.webp -->
-![Une chaudière urbaine alimentant un réseau de chaleur](assets/images/02-chaudiere-urbaine-reseau.webp)
+<!-- IMAGE-02 : images/02-chaudiere-urbaine-reseau.png -->
+![Une chaudière urbaine alimentant un réseau de chaleur](images/02-chaudiere-urbaine-reseau.png)
 
 ---
 
@@ -97,8 +105,8 @@ HYNOCA correspond à une architecture dédiée à la production d'hydrogène ren
  électricité     pour synthèse  + CO₂ biogénique
 ```
 
-<!-- IMAGE-03 : assets/images/03-trois-architectures-hypergas.webp -->
-![Les trois architectures de valorisation](assets/images/03-trois-architectures-hypergas.webp)
+<!-- IMAGE-03 : images/03-trois-architectures-hypergas.png -->
+![Les trois architectures de valorisation](images/03-trois-architectures-hypergas.png)
 
 ---
 
@@ -183,8 +191,8 @@ ALIMENTATION DE L'UNITÉ
 
 La meilleure biomasse n'est donc pas nécessairement celle qui est gratuite à l'origine. C'est celle qui présente le meilleur compromis entre disponibilité, qualité, coût de collecte, préparation et distance de transport.
 
-<!-- IMAGE-04 : assets/images/04-voyage-de-la-biomasse.webp -->
-![Le parcours territorial de la biomasse](assets/images/04-voyage-de-la-biomasse.webp)
+<!-- IMAGE-04 : images/04-voyage-de-la-biomasse.png -->
+![Le parcours territorial de la biomasse](images/04-voyage-de-la-biomasse.png)
 
 ---
 
@@ -258,8 +266,8 @@ CHALEUR  MOLÉCULES BIOCHAR
 VILLE   INDUSTRIE   SOLS
 ```
 
-<!-- IMAGE-05 : assets/images/05-hub-municipal-multi-energie.webp -->
-![Le hub municipal multi-énergie](assets/images/05-hub-municipal-multi-energie.webp)
+<!-- IMAGE-05 : images/05-hub-municipal-multi-energie.png -->
+![Le hub municipal multi-énergie](images/05-hub-municipal-multi-energie.png)
 
 ---
 
@@ -381,8 +389,8 @@ Le premier modèle est le plus simple. Une plateforme de thermolyse alimente pri
 
 Ce modèle convient particulièrement à un quartier comprenant plusieurs bâtiments proches. Son principal avantage est sa simplicité relative : la chaleur est un produit local, difficilement transportable sur de longues distances mais immédiatement utile lorsqu'elle est produite à proximité des consommateurs.
 
-<!-- IMAGE-06 : assets/images/06-modele-1-chaudiere-quartier.webp -->
-![Modèle industriel 1 : chaudière urbaine de quartier](assets/images/06-modele-1-chaudiere-quartier.webp)
+<!-- IMAGE-06 : images/06-modele-1-chaudiere-quartier.png -->
+![Modèle industriel 1 : chaudière urbaine de quartier](images/06-modele-1-chaudiere-quartier.png)
 
 ## Modèle 2 — Le hub municipal multi-énergie
 
@@ -395,8 +403,8 @@ L'objectif est d'améliorer le facteur d'utilisation annuel de l'installation. L
 - la valeur des différents produits ;
 - la saisonnalité des marchés.
 
-<!-- IMAGE-07 : assets/images/07-modele-2-hub-multi-energie.webp -->
-![Modèle industriel 2 : hub municipal multi-énergie](assets/images/07-modele-2-hub-multi-energie.webp)
+<!-- IMAGE-07 : images/07-modele-2-hub-multi-energie.png -->
+![Modèle industriel 2 : hub municipal multi-énergie](images/07-modele-2-hub-multi-energie.png)
 
 ## Modèle 3 — La métropole circulaire
 
@@ -420,8 +428,8 @@ SOLS ET ACTIVITÉS TERRITORIALES
 NOUVELLE CAPACITÉ DE VÉGÉTALISATION
 ```
 
-<!-- IMAGE-08 : assets/images/08-modele-3-metropole-circulaire.webp -->
-![Modèle industriel 3 : métropole circulaire](assets/images/08-modele-3-metropole-circulaire.webp)
+<!-- IMAGE-08 : images/08-modele-3-metropole-circulaire.png -->
+![Modèle industriel 3 : métropole circulaire](images/08-modele-3-metropole-circulaire.png)
 
 ---
 
