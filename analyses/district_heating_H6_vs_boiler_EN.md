@@ -50,7 +50,7 @@ A multi-megawatt boiler or thermal platform could therefore form the energy core
 
 The first fundamental idea is therefore simple: **an urban boiler is not merely an enlarged domestic appliance. It is network infrastructure.**
 
-![An urban boiler supplying a district heating network](images/02-chaudiere-urbaine-reseau_EN.png)
+![An urban boiler supplying a district heating network](images/02-urban-heating-system_EN.png)
 
 ---
 
@@ -104,7 +104,7 @@ HYNOCA corresponds to an architecture dedicated to the production of renewable h
 ```
 
 <!-- IMAGE-03 : images/03-trois-architectures-hypergas.png -->
-![The three valorization architectures](images/03-trois-architectures-hypergas_EN.png)
+![The three valorization architectures](images/03-three-architectures-hypergas_EN.png)
 
 ---
 
@@ -190,7 +190,7 @@ FEEDING THE UNIT
 The best biomass is therefore not necessarily the one that is free at the source. It is the one that offers the best compromise between availability, quality, collection cost, preparation and transport distance.
 
 <!-- IMAGE-04 : images/04-voyage-de-la-biomasse.png -->
-![The territorial journey of biomass](images/04-voyage-de-la-biomasse_EN.png)
+![The territorial journey of biomass](images/04-journey-of-biomass_EN.png)
 
 ---
 
@@ -264,7 +264,7 @@ CITY   INDUSTRY    SOILS
 ```
 
 <!-- IMAGE-05 : images/05-hub-municipal-multi-energie.png -->
-![The municipal multi-energy hub](images/05-hub-municipal-multi-energie_EN.png)
+![The municipal multi-energy hub](images/05-hub-municipal-multi-energy_EN.png)
 
 ---
 
@@ -387,7 +387,7 @@ The first model is the simplest. A thermolysis platform primarily supplies a boi
 This model is particularly suitable for a district comprising several nearby buildings. Its main advantage is its relative simplicity: heat is a local product that is difficult to transport over long distances but immediately useful when produced close to consumers.
 
 <!-- IMAGE-06 : images/06-modele-1-chaudiere-quartier.png -->
-![Industrial model 1: urban district boiler](images/06-modele-1-chaudiere-quartier_EN.png)
+![Industrial model 1: urban district boiler](images/06-model-1-boiler-for-neighbourhood_EN.png)
 
 ## Model 2 — The municipal multi-energy hub
 
@@ -401,7 +401,7 @@ The objective is to improve the installation's annual utilization factor. The ce
 - market seasonality.
 
 <!-- IMAGE-07 : images/07-modele-2-hub-multi-energie.png -->
-![Industrial model 2: municipal multi-energy hub](images/07-modele-2-hub-multi-energie_EN.png)
+![Industrial model 2: municipal multi-energy hub](images/07-model-2-hub-multi-energy_EN.png)
 
 ## Model 3 — The circular metropolis
 
@@ -426,7 +426,8 @@ NEW CAPACITY FOR GREENING
 ```
 
 <!-- IMAGE-08 : images/08-modele-3-metropole-circulaire.png -->
-![Industrial model 3: circular metropolis](images/08-modele-3-metropole-circulaire_EN.png)
+![Industrial model 3: circular metropolis](images/08-model-3-circular-metropolis_EN.png
+.png)
 
 ---
 
