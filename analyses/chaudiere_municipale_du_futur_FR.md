@@ -4,7 +4,7 @@
 
 > **Document de travail — Atlas mondial de la valorisation économique du biochar**
 
-[**→ Consulter le PDF technique Haffner Energy**](../media/Synoca_vs_Chaudière_biomasse_position_paper.pdf)
+[**→ Consulter le PDF technique Haffner Energy**](../media/PDF/Synoca_vs_Chaudière_biomasse_position_paper.pdf)
 
 > **Important :** remplacer `PDF_TECHNIQUE_HAFFNER_URL` par le chemin relatif exact du PDF déjà téléchargé dans le dépôt GitHub. Le lien relatif permettra au document de rester portable à l'intérieur du dépôt.
 
