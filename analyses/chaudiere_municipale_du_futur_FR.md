@@ -6,7 +6,7 @@ title: "La chaudière municipale du futur"
 license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
-# La chaudière municipale du futur [(English version - EN)](district_heating_H6_vs_boiler.md)
+# La chaudière municipale du futur [(English version - EN)](district_heating_H6_vs_boiler_EN.md)
 
 ## De la biomasse locale au chauffage urbain, aux coproduits et à une économie territoriale circulaire
 
