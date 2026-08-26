@@ -8,13 +8,13 @@ license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 
 
 # La chaudière municipale du futur [(English version - EN)](district_heating_H6_vs_boiler_EN.md)
 
+Dans cet article, le terme « chaudière municipale » désigne l'infrastructure de production thermique vue du point de vue de la collectivité. Techniquement, l'architecture envisagée peut associer une plateforme thermochimique, une production de gaz énergétique et les équipements de valorisation thermique nécessaires au réseau de chaleur.
+
 ## De la biomasse locale au chauffage urbain, aux coproduits et à une économie territoriale circulaire
 
 > **Document de travail — Atlas mondial de la valorisation économique du biochar**
 
 [**→ Consulter le PDF technique Haffner Energy**](../media/PDF/Synoca_vs_Chaudière_biomasse_position_paper.pdf)
-
-> **Important :** remplacer `PDF_TECHNIQUE_HAFFNER_URL` par le chemin relatif exact du PDF déjà téléchargé dans le dépôt GitHub. Le lien relatif permettra au document de rester portable à l'intérieur du dépôt.
 
 ---
 
