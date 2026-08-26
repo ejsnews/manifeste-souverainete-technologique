@@ -5,6 +5,7 @@ author: eric_jacob
 title: "DU MÉTABOLISME LINÉAIRE À LA VILLE CIRCULAIRE : LE H6 CONTRE LA CHAUDIÈRE"
 license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
+
 # Du métabolisme linéaire à la ville circulaire : remplacer la chaudière urbaine par le H6 [(English version - EN)](district_heating_H6_vs_boiler.md)
 
 *Note technique — EJS — Juillet 2026*
