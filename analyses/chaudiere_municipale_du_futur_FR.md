@@ -28,7 +28,6 @@ Dans cette perspective, la question n'est plus seulement : **comment remplacer u
 
 L'ambition de cet article n'est donc pas de présenter une usine miraculeuse qui résoudrait tous les problèmes d'une métropole. Il consiste plutôt à examiner une hypothèse industrielle : **la chaudière municipale pourrait devenir le centre visible d'une plateforme territoriale plus large, associant biomasse, énergie, coproduits, agriculture, emplois locaux, végétalisation et amélioration progressive de la résilience du territoire.**
 
-<!-- IMAGE-01 : images/01-ville-energetique-du-futur.png -->
 ![Vision globale : ville végétalisée et infrastructure énergétique territoriale](images/01-ville-energetique-du-futur.png)
 
 ---
@@ -51,8 +50,7 @@ Une chaudière ou une plateforme thermique de plusieurs mégawatts pourrait ains
 
 La première idée fondamentale est donc simple : **la chaudière urbaine n'est pas un appareil domestique agrandi. C'est une infrastructure de réseau.**
 
-<!-- IMAGE-02 : images/02-chaudiere-urbaine-reseau.png -->
-![Une chaudière urbaine alimentant un réseau de chaleur](images/02-chaudiere-urbaine-reseau.png)
+![Une chaudière urbaine alimentant un réseau de chaleur](images/02-chaudiere-urbaine-reseau_FR.png)
 
 ---
 
@@ -106,7 +104,7 @@ HYNOCA correspond à une architecture dédiée à la production d'hydrogène ren
 ```
 
 <!-- IMAGE-03 : images/03-trois-architectures-hypergas.png -->
-![Les trois architectures de valorisation](images/03-trois-architectures-hypergas.png)
+![Les trois architectures de valorisation](images/03-trois-architectures-hypergas_FR.png)
 
 ---
 
