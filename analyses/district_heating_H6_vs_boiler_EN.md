@@ -14,7 +14,7 @@ In this article, the term “municipal boiler” refers to thermal production in
 
 > **Working document — Global Atlas of the Economic Valorization of Biochar**
 
-[**→ View the Haffner Energy technical PDF**](../media/PDF/Synoca_vs_Chaudière_biomasse_position_paper.pdf)
+[**→ View the Haffner Energy technical PDF**](../media/PDF/Synoca_vs_Biomass_Boiler_Position_Paper_EN.png)
 
 ---
 
@@ -483,4 +483,4 @@ This article distinguishes three levels:
 2. **Working scenarios and calculations**, such as the territorial example involving 50,000 tonnes of biomass per year, which are assumptions rather than guaranteed characteristics of an installation.
 3. **The prospective vision**, which explores how a local authority could organize biomass, energy, agriculture, employment and greening around an industrial platform.
 
-[**→ Open the Haffner Energy technical PDF**](../media/PDF/Synoca_vs_Chaudière_biomasse_position_paper.pdf)
+[**→ Open the Haffner Energy technical PDF**](../media/PDF/Synoca_vs_Biomass_Boiler_Position_Paper_EN.png)
