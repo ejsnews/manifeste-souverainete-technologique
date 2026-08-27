@@ -6,7 +6,7 @@ title: "La chaudière municipale du futur"
 license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
-# La chaudière municipale du futur [(English version - EN)](district_heating_H6_vs_boiler_EN.md)
+# La chaudière municipale du futur [(English version - EN)](Municipal_Boiler_of_the_Future_EN.md)
 
 Dans cet article, le terme « chaudière municipale » désigne l'infrastructure de production thermique vue du point de vue de la collectivité. Techniquement, l'architecture envisagée peut associer une plateforme thermochimique, une production de gaz énergétique et les équipements de valorisation thermique nécessaires au réseau de chaleur.
 
