@@ -25,6 +25,10 @@ The units are marketed for thermal capacities ranging from 500 kW to 5 MW, posit
 
 **Why this matters for an urban heating network:** an existing heating network (underground pipes already in place in many cities) does not need to be rebuilt — only the heat source at the head of the network changes. An H6 unit can be installed on the outskirts or close to a local biomass source (municipal green waste, Class B wood, agricultural residues) and inject its heat into the existing network over several kilometers, without heavy modification to the distribution infrastructure.
 
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/Maire_ville_moyenne_6_problemes_1_systeme_FR.png" width="700" alt="Circular city model utilizing non-calcined biomass" caption="Circular city model utilizing non-calcined biomass"></center>
+
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/The_mayor_of_a_mid_sized_city_EN.png" width="700" alt="Circular city model with boiler and district heating using non-calcined biomass" caption="Circular city model with boiler and district heating using non-calcined biomass"></center>
+
 ## III. HYNOCA H6: hydrogen for urban mobility
 
 **What is confirmed:** for a 5 MW unit, the full production cost (LCOH) of HYNOCA H6 green hydrogen reaches ~ €2.00/kg, compared to €3.57/kg for the previous generation and around €7.81/kg for an electrolyzer powered at €79/MWh. This gain rests on two factors: an energy cost of biomass roughly four times lower than that of electricity, and a faster thermolysis kinetics combined with simplified mechanics.
