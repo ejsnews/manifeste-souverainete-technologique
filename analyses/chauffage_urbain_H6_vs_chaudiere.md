@@ -26,9 +26,9 @@ Les unités sont commercialisées pour des puissances de 500 kW à 5 MW thermiqu
 
 **Pourquoi c'est pertinent pour un réseau de chaleur urbain :** un réseau de chaleur existant (canalisations souterraines déjà en place dans de nombreuses villes) n'a pas besoin d'être reconstruit — seule la source de chaleur en tête de réseau change. Une unité H6 peut être installée en périphérie ou à proximité d'un gisement de biomasse locale (déchets verts municipaux, bois B, résidus agricoles) et injecter sa chaleur dans le réseau existant sur plusieurs kilomètres, sans modification lourde de l'infrastructure de distribution.
 
-<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/Maire_ville_moyenne_6_problemes_1_systeme_FR.png" width="700" alt="Modèle de ville circulaire avec chauffage urbain à partir d'une biomasse non calcinée" caption="Modèle de ville circulaire avec chauffage urbain à partir d'une biomasse non calcinée"></center>
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/Maire_ville_moyenne_6_problemes_1_systeme_FR.png" width="700" alt="Modèle de ville circulaire tirant profit d'une biomasse non calcinée" caption="Modèle de ville circulaire tirant profit d'une biomasse non calcinée"></center>
 
-<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/02-chaudiere-urbaine-reseau_FR.png" width="700" alt="Modèle de ville circulaire avec chauffage urbain à partir d'une biomasse non calcinée" caption="Modèle de ville circulaire avec chauffage urbain à partir d'une biomasse non calcinée"></center>
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/02-chaudiere-urbaine-reseau_FR.png" width="700" alt="Modèle de ville circulaire avec chaudière et chauffage urbain à partir d'une biomasse non calcinée" caption="Modèle de ville circulaire avec chaudière et hauffage urbain à partir d'une biomasse non calcinée"></center>
 
 ## III. HYNOCA H6 : l'hydrogène pour la mobilité urbaine
 
