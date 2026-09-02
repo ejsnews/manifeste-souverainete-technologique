@@ -26,6 +26,10 @@ Les unités sont commercialisées pour des puissances de 500 kW à 5 MW thermiqu
 
 **Pourquoi c'est pertinent pour un réseau de chaleur urbain :** un réseau de chaleur existant (canalisations souterraines déjà en place dans de nombreuses villes) n'a pas besoin d'être reconstruit — seule la source de chaleur en tête de réseau change. Une unité H6 peut être installée en périphérie ou à proximité d'un gisement de biomasse locale (déchets verts municipaux, bois B, résidus agricoles) et injecter sa chaleur dans le réseau existant sur plusieurs kilomètres, sans modification lourde de l'infrastructure de distribution.
 
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/Maire_ville_moyenne_6_problemes_1_systeme_FR.png" width="700" alt="Modèle de ville circulaire avec chauffage urbain à partir d'une biomasse non calcinée" caption="Modèle de ville circulaire avec chauffage urbain à partir d'une biomasse non calcinée"></center>
+
+<center><img src="https://ejsnews.github.io/manifeste-souverainete-technologique/analyses/images/02-chaudiere-urbaine-reseau_FR.png" width="700" alt="Modèle de ville circulaire avec chauffage urbain à partir d'une biomasse non calcinée" caption="Modèle de ville circulaire avec chauffage urbain à partir d'une biomasse non calcinée"></center>
+
 ## III. HYNOCA H6 : l'hydrogène pour la mobilité urbaine
 
 **Ce qui est confirmé :** pour une unité de 5 MW, le coût complet de production (LCOH) de l'hydrogène vert HYNOCA H6 atteint ~ 2.00 €/kg, contre 3,57 €/kg pour la génération précédente et environ 7,81 €/kg pour un électrolyseur alimenté à 79 €/MWh. Ce gain tient à deux facteurs : un coût énergétique de la biomasse environ quatre fois inférieur à celui de l'électricité, et une accélération de la cinétique de thermolyse combinée à une mécanique simplifiée.
