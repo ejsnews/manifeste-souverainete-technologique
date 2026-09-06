@@ -50,7 +50,7 @@ $$
 A=(C,P,S,M)
 $$
 
-avec culture principale $C$, partenaire $P$, sol $S$ et mode de gestion $M$.
+avec culture principale $$ C $$, partenaire $$ P $$, sol $$ S $$ et mode de gestion $$ M $$.
 
 # 3. Fonctions recherchées
 
@@ -109,7 +109,9 @@ $$
 
 Pour une association :
 
-$ R = R_{alimentaire} + R_{H_2} + R_{biochar} + R_{chaleur} + R_{carbone} - C_{production} - C_{récolte} - C_{transport} - C_{transformation} $
+$$
+R = R_{alimentaire} + R_{H_2} + R_{biochar} + R_{chaleur} + R_{carbone} - C_{production} - C_{récolte} - C_{transport} - C_{transformation} 
+$$
 
 Le prix de l'H₂, du biochar et du carbone doit rester paramétrable.
 
@@ -119,17 +121,8 @@ Le modèle impose :
 
 $$
 
-B_{disp}
-=
-B_{produite}
--
-B_{retour\ sol}
--
-B_{élevage}
--
-B_{autres}
--
-B_{pertes}
+B_{disp} = B_{produite} - B_{retour\ sol} - B_{élevage} - B_{autres} - B_{pertes} 
+
 $$
 
 Ce point est non négociable : la thermolyse ne doit pas être optimisée en détruisant la fertilité.
