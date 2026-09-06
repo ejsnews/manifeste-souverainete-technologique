@@ -121,7 +121,7 @@ Le modèle impose :
 
 $$
 
-B_{disp} = B_{produite} - B_{\mathrm{retour\,sol}} - B_{élevage} - B_{autres} - B_{pertes} 
+B_{disp} = B_{produite} - B_{\text{retour au sol}} - B_{élevage} - B_{autres} - B_{pertes} 
 
 $$
 
