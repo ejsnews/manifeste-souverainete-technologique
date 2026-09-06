@@ -120,7 +120,7 @@ Le prix de l'H₂, du biochar et du carbone doit rester paramétrable.
 Le modèle impose :
 
 $$
-B_{disp} = B_{produite} - B_{retour \au \sol} - B_{élevage} - B_{autres} - B_{pertes} 
+B_{disp} = B_{produite} - B_{\text{retour au sol}} - B_{élevage} - B_{autres} - B_{pertes} 
 $$
 
 Ce point est non négociable : la thermolyse ne doit pas être optimisée en détruisant la fertilité.
