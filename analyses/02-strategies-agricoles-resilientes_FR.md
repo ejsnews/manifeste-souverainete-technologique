@@ -50,7 +50,7 @@ $$
 A=(C,P,S,M)
 $$
 
-avec culture principale $$ C $$, partenaire $$ P $$, sol $$ S $$ et mode de gestion $$ M $$.
+avec culture principale C, partenaire P, sol S et mode de gestion M.
 
 # 3. Fonctions recherchées
 
@@ -131,7 +131,7 @@ Ce point est non négociable : la thermolyse ne doit pas être optimisée en dé
 
 Le biochar est testé comme variable agronomique.
 
-La littérature indique des effets moyens positifs sur les propriétés hydriques, mais avec une forte dépendance au sol et au matériau. Une méta-analyse de 939 observations rapporte +25,6 % d'AWC pour les sols grossiers, +20,9 % pour les sols moyens et +11,5 % pour les sols fins. citeturn0search10
+La littérature indique des effets moyens positifs sur les propriétés hydriques, mais avec une forte dépendance au sol et au matériau. Une méta-analyse de 939 observations rapporte +25,6 % d'AWC pour les sols grossiers, +20,9 % pour les sols moyens et +11,5 % pour les sols fins.
 
 L'agent ne doit donc jamais appliquer automatiquement un +25 % à toutes les cultures.
 
