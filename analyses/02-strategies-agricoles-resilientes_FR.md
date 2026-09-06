@@ -201,7 +201,7 @@ Les valeurs suivantes ne sont pas des mesures agronomiques : elles illustrent se
 | Maïs + biomasse | 94 | 73 | 77 | 64 | 78 | **64** |
 | Maïs + légumineuse + biomasse | 95 | 78 | 81 | 72 | 82 | **72** |
 
-![Exemple de classement](03-revenu-resilient-exemple.png)
+![Exemple de classement](images/03-strategies-agricoles-revenu-resilient-exemple_FR.png)
 
 # 10. Calendrier
 
