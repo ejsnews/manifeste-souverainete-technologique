@@ -107,24 +107,7 @@ Pour une association :
 
 $$
 
-R=
-R_{alimentaire}
-+
-R_{H_2}
-+
-R_{biochar}
-+
-R_{chaleur}
-+
-R_{carbone}
--
-C_{production}
--
-C_{récolte}
--
-C_{transport}
--
-C_{transformation}
+R = R_{alimentaire} + R_{H_2} + R_{biochar} + R_{chaleur} + R_{carbone} - C_{production} - C_{récolte} - C_{transport} - C_{transformation}
 
 $$
 
