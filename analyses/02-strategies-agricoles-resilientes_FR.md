@@ -2,606 +2,576 @@
 layout: default
 lang: fr
 author: eric_jacob
-title: "Agriculteurs — stratégies agricoles résilientes"
-description: "Protocole quantitatif pour classer les associations agricoles selon leur revenu minimum sous sécheresse, canicule et pluie extrême, avec thermolyse HYNOCA et retour du biochar au sol."
+title: "Agriculture résiliente — le parachute de la biomasse"
+description: "Exemples simples pour associer cultures alimentaires et biomasse afin de conserver un revenu lorsque sécheresse, canicule, grêle, inondation ou récolte déclassée perturbent une exploitation."
 license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
-# Agriculteurs — stratégies agricoles résilientes
+# Agriculture résiliente — le parachute de la biomasse
 
-## Mission
+## Une mauvaise récolte ne devrait pas forcément devenir une année sans revenu
 
-Construire une base quantitative **France → Europe → Monde** permettant d'identifier, pour chaque territoire, sol, climat et système de culture, les associations agricoles capables de maintenir le meilleur revenu lorsque les conditions climatiques deviennent défavorables.
+Une exploitation agricole dépend souvent d'un nombre limité de récoltes.
 
-L'objectif n'est donc pas de rechercher uniquement le rendement maximal dans une année normale.
+Lorsque tout se passe bien, le système fonctionne :
 
-$$\boxed{A^*=\arg\max_A\min_{s\in S}R(A,s)}$$
+**semis → récolte → vente → revenu**
 
-Le système optimal est celui qui maximise le **revenu minimum** sur l'ensemble des scénarios climatiques étudiés.
+Mais une sécheresse, une canicule, une grêle, une inondation ou simplement une mauvaise qualité de récolte peut changer complètement la situation.
+
+Des fruits peuvent être trop petits.
+
+Des légumes peuvent être déformés.
+
+Une partie de la récolte peut ne plus correspondre aux calibres demandés.
+
+Une céréale peut donner beaucoup moins que prévu.
+
+Dans ce cas, une partie du travail reste pourtant à faire alors que le revenu disparaît.
+
+L'idée présentée ici est simple :
+
+> **Une récolte alimentaire qui n'est plus vendable peut parfois devenir une biomasse énergétique.**
+
+La matière végétale n'a plus besoin d'être triée selon son calibre alimentaire.
+
+Elle peut être collectée en vrac et orientée vers une installation de valorisation énergétique.
+
+Le but n'est donc pas de remplacer l'agriculture alimentaire.
+
+Le but est de lui donner **un deuxième débouché lorsque le premier fonctionne mal**.
 
 ---
 
-# 1. Scénarios climatiques
+# 1. Deux débouchés au lieu d'un seul
 
-L'agent doit évaluer chaque stratégie sur six scénarios :
-
-| Code | Scénario | Effet recherché dans le modèle |
+| Récolte | Débouché habituel | Débouché de secours |
 |---|---|---|
-| N | Année normale | référence économique |
-| D | Sécheresse | déficit hydrique prolongé |
-| C | Canicule | températures extrêmes |
-| DC | Sécheresse + canicule | stress thermique et hydrique combiné |
-| P | Pluie extrême / inondation | excès d'eau, ruissellement, érosion |
-| DP | Sécheresse puis pluie extrême | succession de deux stress opposés |
+| Fruits conformes | Vente alimentaire | — |
+| Fruits trop petits | Vente difficile ou perte | Biomasse |
+| Légumes déformés | Déclassement | Biomasse |
+| Feuilles et parties végétales | Déchet ou compost | Biomasse |
+| Récolte touchée par la grêle | Produit déclassé | Biomasse |
+| Récolte fortement touchée par la sécheresse | Faible valeur alimentaire | Biomasse |
+| Résidus de céréales | Résidus agricoles | Biomasse énergétique |
+| Culture dédiée non alimentaire | — | Biomasse énergétique |
 
-On définit :
+La différence est importante.
 
-$$S=\{N,D,C,DC,P,DP\}$$
+Le marché alimentaire peut dire :
 
-Le scénario **DP** est important : une culture peut résister à la sécheresse mais être vulnérable à une pluie extrême sur un sol dégradé ou compacté.
+> **« Ce produit ne correspond plus à mon cahier des charges. »**
 
----
+La filière énergétique pose une autre question :
 
-# 2. Définition d'une stratégie agricole
-
-Pour chaque culture principale, l'agent recherche :
-
-- légumineuses associées ;
-- plantes à racines profondes ;
-- plantes à cycle complémentaire ;
-- couverts végétaux ;
-- cultures intermédiaires ;
-- biomasses pérennes ;
-- cultures de secours ;
-- plantes adaptées aux déficits hydriques ;
-- valorisation des récoltes déclassées ;
-- valorisation des résidus réellement disponibles.
-
-Une stratégie est définie par :
-
-$$\boxed{A=(C,P,S,M,T)}$$
-
-avec :
-
-- $C$ : culture principale ;
-- $P$ : plante(s) partenaire(s) ;
-- $S$ : type de sol ;
-- $M$ : mode de gestion ;
-- $T$ : système de transformation et de valorisation.
+> **« Combien de biomasse avez-vous et quelle énergie pouvons-nous en tirer ? »**
 
 ---
 
-# 3. Fonctions recherchées
+# 2. Le principe du parachute
 
-| Fonction | Exemples |
-|---|---|
-| Azote | légumineuse, fixation biologique |
-| Eau | racines complémentaires, couverture |
-| Sol | structure, couverture, limitation de l'érosion |
-| Temps | cycles différents |
-| Espace | hauteurs et profondeurs racinaires différentes |
-| Résilience | reprise après stress |
-| Biomasse | matière valorisable |
-| Revenu | nouveau produit ou débouché |
-| Biodiversité | diversification des espèces |
-| Risque | diminution de la dépendance à une seule récolte |
+Une exploitation peut être organisée avec :
 
-La complémentarité peut être représentée par :
+**une culture principale**
 
-$$F(A)=f_{eau}+f_{azote}+f_{sol}+f_{temps}+f_{espace}+f_{biomasse}+f_{revenu}$$
++
 
-Cette expression constitue un cadre de classement ; les fonctions doivent ensuite être quantifiées avec des données adaptées au territoire.
+**une culture complémentaire**
 
----
++
 
-# 4. Conversion biomasse → H₂
+**une réserve de biomasse**
 
-Référence de travail pour une configuration HYNOCA :
+Le résultat recherché n'est pas nécessairement le meilleur revenu pendant une année parfaite.
 
-$$669\ {\rm kg/h}\longrightarrow50\ {\rm kgH_2/h}$$
+Il est de pouvoir continuer à générer un revenu lorsque l'année devient mauvaise.
 
-avec une biomasse de référence à environ 35 % d'humidité.
+### Exemple très simple
 
-À 8 000 heures/an :
+| Situation | Revenu alimentaire | Revenu biomasse | Revenu total |
+|---|---:|---:|---:|
+| Année normale | 20 000 € | 3 000 € | **23 000 €** |
+| Sécheresse | 9 000 € | 9 000 € | **18 000 €** |
+| Forte sécheresse | 3 000 € | 14 000 € | **17 000 €** |
+| Récolte presque perdue | 1 000 € | 16 000 € | **17 000 €** |
 
-$$669\times8000=5\,352\,000\ {\rm kg/an}$$
+**Chiffres fictifs destinés à illustrer le mécanisme.**
 
-soit :
+L'objectif n'est pas de promettre ces revenus.
 
-$$\boxed{5\,352\ {\rm t_{humide}/an}}$$
+L'objectif est de montrer le changement de logique :
 
-La valeur arrondie de référence peut être représentée par :
-
-$$\boxed{5\,300\ {\rm t_{humide}/an}}$$
-
-À 35 % d'humidité :
-
-$$1\ {\rm t_{humide}}=0.65\ {\rm tMS}$$
-
-et :
-
-$$1\ {\rm tMS}\approx1.538\ {\rm t_{humide}}$$
-
-Le rendement correspondant est :
-
-$$\frac{50}{0.669}=74.7\ {\rm kgH_2/t_{humide}}$$
-
-donc :
-
-$$74.7\times1.538\approx115\ {\rm kgH_2/tMS}$$
-
-Ainsi, pour les calculs exploratoires :
-
-$$\boxed{1\ {\rm tMS}\approx115\ {\rm kgH_2}}$$
-
-Cette valeur est une **conversion de modèle**, et non un rendement universel de toutes les biomasses.
-
-Pour 5 300 t humides/an :
-
-$$5300\times0.65=3445\ {\rm tMS/an}$$
-
-Donc :
-
-$$\boxed{N_{H6}=\frac{B_{MS,disp}}{3445}}$$
-
-où $B_{MS,disp}$ est la biomasse sèche réellement disponible pour la thermolyse.
+> **Une récolte alimentaire peut perdre une grande partie de sa valeur sans que toute la biomasse de la parcelle perde sa valeur.**
 
 ---
 
-# 5. Valorisation économique
+# 3. Quatre périodes de trois mois
 
-Pour une stratégie $A$ et un scénario $s$ :
+Une année agricole peut être regardée simplement en quatre périodes :
 
-$$\boxed{R(A,s)=R_{alimentaire}+R_{matière}+R_{H_2}+R_{biochar}+R_{chaleur}+R_{carbone}-C_{production}-C_{récolte}-C_{stockage}-C_{transport}-C_{transformation}}$$
+| Période | Mois | Principaux risques à examiner |
+|---|---|---|
+| P1 | Janvier – Mars | excès d'eau, gel, démarrage difficile |
+| P2 | Avril – Juin | gel tardif, sécheresse précoce, grêle |
+| P3 | Juillet – Septembre | sécheresse, canicule, grêle, incendie |
+| P4 | Octobre – Décembre | pluies extrêmes, inondation, récoltes tardives |
 
-Par exemple :
+Le but est de ne pas considérer uniquement **la récolte de fin d'année**.
 
-$$R_{H_2}=Q_{H_2}\times P_{H_2}$$
-
-$$R_{biochar}=Q_{biochar}\times P_{biochar}$$
-
-$$R_{carbone}=Q_{carbone}\times P_{carbone}$$
-
-Les prix de l'H₂, du biochar et du carbone restent **paramétrables**.
-
----
-
-# 6. Biomasse réellement disponible
-
-Le modèle impose une contrainte fondamentale :
-
-$$\boxed{B_{disp}=B_{produite}-B_{\text{retour au sol}}-B_{élevage}-B_{autres}-B_{pertes}}$$
-
-Cette équation est **non négociable**.
-
-La biomasse produite n'est pas automatiquement une biomasse énergétique disponible.
-
-Une partie doit rester dans le système agricole pour :
-
-- maintenir la matière organique du sol ;
-- restituer des éléments minéraux ;
-- protéger le sol ;
-- nourrir éventuellement l'élevage ;
-- maintenir les fonctions biologiques ;
-- satisfaire les autres usages existants ;
-- tenir compte des pertes de récolte et de stockage.
-
-On impose donc :
-
-$$B_{disp}\geq0$$
-
-et :
-
-$$B_{thermolyse}\leq B_{disp}$$
-
-La biomasse effectivement envoyée vers la thermolyse est :
-
-$$\boxed{B_{thermolyse}=\min(B_{disp},B_{besoin\ industriel})}$$
-
-Cette contrainte empêche le modèle de produire artificiellement davantage d'H₂ en retirant trop de matière organique au sol.
-
-## 6.1 Décomposition
-
-Pour chaque culture :
-
-$$B_{produite}=B_{résidus}+B_{cultures\ de\ biomasse}+B_{récoltes\ déclassées}+B_{autres}$$
-
-Les coefficients doivent être déterminés **par culture, région, rendement et système de production**.
-
-Le modèle ne doit jamais supposer que 100 % des résidus agricoles sont récupérables.
-
-On peut définir :
-
-$$f_{disp}=\frac{B_{disp}}{B_{produite}}$$
-
-avec :
-
-$$0\leq f_{disp}\leq1$$
+Une exploitation peut avoir plusieurs productions et plusieurs possibilités de récupération au cours de l'année.
 
 ---
 
-# 7. Biochar et eau
+# 4. Croiser les cultures et les risques
 
-Le biochar est traité comme une **variable agronomique**, et non comme une valeur fixe.
+Le tableau suivant est un exemple de lecture simple.
 
-Les effets hydriques dépendent notamment :
+🟢 = plutôt favorable  
+🟡 = dépend fortement des conditions  
+🔴 = risque important  
+⚪ = peu concerné pendant cette période
 
-- du type de sol ;
-- de la texture ;
-- du matériau ;
-- de la dose ;
-- de la granulométrie ;
-- de la porosité ;
-- du climat ;
-- du mode d'application.
+| Culture | P1 | P2 | P3 | P4 | Rôle possible |
+|---|---|---|---|---|---|
+| 🌽 Maïs | ⚪ | 🟡 | 🔴 sécheresse/canicule | 🟢 | alimentation + biomasse |
+| 🌾 Sorgho | ⚪ | 🟢 | 🟢 | 🟢 | alimentation + biomasse |
+| 🌱 Soja | ⚪ | 🟡 | 🟡 | 🟢 | alimentation + complément |
+| 🌾 Blé | 🟡 | 🟢 | 🟡 | 🟢 | alimentation + résidus |
+| 🌱 Féverole | 🟡 | 🟢 | 🟡 | 🟢 | légumineuse + alimentation |
+| 🎋 Bambou géant | 🟢 | 🟢 | 🟢 | 🟢 | biomasse pluriannuelle |
+| 🌿 Miscanthus | 🟢 | 🟢 | 🟢 | 🟢 | biomasse pluriannuelle |
 
-Une méta-analyse de 939 observations rapporte des augmentations moyennes de la capacité en eau disponible (AWC) de l'ordre de :
+Ce tableau ne constitue pas une prescription agronomique.
 
-| Texture | Variation moyenne AWC |
+Il sert à montrer le principe : **plusieurs productions peuvent avoir des sensibilités différentes aux mêmes événements.**
+
+---
+
+# 5. Exemple : maïs + sorgho
+
+Imaginons une exploitation qui répartit sa production entre maïs et sorgho.
+
+### Année normale
+
+| Production | Revenu exemple |
 |---|---:|
-| Sols grossiers | +25,6 % |
-| Sols moyens | +20,9 % |
-| Sols fins | +11,5 % |
+| Maïs | 12 000 € |
+| Sorgho | 7 000 € |
+| Biomasse issue des résidus | 3 000 € |
+| **Total** | **22 000 €** |
 
-Ces valeurs ne doivent **jamais** être appliquées automatiquement à une exploitation.
+### Année de forte sécheresse
 
-L'agent doit utiliser :
+| Production | Revenu exemple |
+|---|---:|
+| Maïs | 5 000 € |
+| Sorgho | 6 500 € |
+| Biomasse supplémentaire | 8 000 € |
+| **Total** | **19 500 €** |
 
-$$\boxed{\Delta W=f(sol,biochar,dose,granulométrie,porosité,climat)}$$
+Dans cet exemple, le maïs a fortement souffert.
 
-On peut alors représenter :
+Mais le sorgho a mieux résisté et une partie de la biomasse a conservé une valeur énergétique.
 
-$$W_{disponible}=W_{initial}+\Delta W_{biochar}+\Delta W_{structure}+\Delta W_{couverture}+\Delta W_{racines}$$
-
----
-
-# 8. Rendement sous stress climatique
-
-Pour chaque stratégie :
-
-$$Y_N,Y_D,Y_C,Y_{DC},Y_P,Y_{DP}$$
-
-puis :
-
-$$R_N,R_D,R_C,R_{DC},R_P,R_{DP}$$
-
-Le critère principal est :
-
-$$\boxed{R_{min}(A)=\min(R_N,R_D,R_C,R_{DC},R_P,R_{DP})}$$
-
-Le classement primaire est :
-
-$$\boxed{A^*=\arg\max_A R_{min}(A)}$$
+> **La diversification n'empêche pas l'accident. Elle évite que l'accident touche tous les revenus en même temps.**
 
 ---
 
-# 9. Indice de résilience
+# 6. Exemple : fruits ou légumes déclassés
 
-Un indicateur secondaire mesure la perte relative par rapport à l'année normale :
+C'est probablement l'un des cas les plus intéressants.
 
-$$\boxed{RI(A)=\frac{R_{min}(A)}{R_N(A)}}$$
+Imaginons une exploitation produisant normalement :
 
-Le classement doit distinguer :
+**20 000 € de fruits et légumes commercialisables.**
 
-1. **revenu absolu résilient** : $R_{min}$ ;
-2. **proportion du revenu conservée** : $RI$.
+Une année de grêle ou de sécheresse arrive.
 
-Une stratégie ayant un $RI$ élevé mais un revenu absolu faible n'est pas nécessairement économiquement préférable.
+La récolte donne :
 
----
+- petits fruits ;
+- fruits abîmés ;
+- légumes hors calibre ;
+- feuilles abondantes ;
+- produits qui ne peuvent plus être vendus normalement.
 
-# 10. Exemple pédagogique
+### Avant la création du débouché énergétique
 
-Les valeurs suivantes sont **fictives** et illustrent uniquement le fonctionnement du classement.
+| Situation | Valeur |
+|---|---:|
+| Produits vendables | 4 000 € |
+| Produits déclassés | presque 0 € |
+| Tri et manutention | toujours nécessaires |
+| Transport vers les distributeurs | partiellement nécessaire |
+| **Revenu agricole** | **fortement réduit** |
 
-| Stratégie | Normal | Sécheresse | Canicule | D+C | Pluie extrême | D→P | **Minimum** |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Maïs seul | 100 | 55 | 65 | 35 | 70 | 30 | **30** |
-| Maïs + légumineuse | 97 | 70 | 74 | 55 | 76 | 50 | **50** |
-| Maïs + biomasse | 94 | 73 | 77 | 64 | 78 | 61 | **61** |
-| Maïs + légumineuse + biomasse | 95 | 78 | 81 | 72 | 82 | 70 | **70** |
+### Avec un débouché biomasse
 
-Le classement fictif devient :
+| Situation | Valeur |
+|---|---:|
+| Produits encore vendables | 4 000 € |
+| Biomasse récupérée | 40 t |
+| Tri alimentaire supplémentaire | fortement réduit |
+| Transport vers distributeurs | réduit pour la partie déclassée |
+| Collecte vers la coopérative | oui |
+| Valorisation énergétique | **revenu de secours** |
 
-$$70>61>50>30$$
+La valeur exacte dépend de la quantité de matière sèche, du prix de l'énergie, de la collecte, du transport et du coût de transformation.
 
-![Exemple de classement](images/03-strategies-agricoles-revenu-resilient-exemple_FR.png)
+Mais le principe est simple :
 
----
-
-# 11. Calendrier de biomasse et continuité industrielle
-
-| Mois | Récolte | Biomasse produite | Biomasse disponible | Stock initial | Stock final | Consommation H6 |
-|---|---:|---:|---:|---:|---:|---:|
-| Janvier | | | | | | |
-| Février | | | | | | |
-| Mars | | | | | | |
-| Avril | | | | | | |
-| Mai | | | | | | |
-| Juin | | | | | | |
-| Juillet | | | | | | |
-| Août | | | | | | |
-| Septembre | | | | | | |
-| Octobre | | | | | | |
-| Novembre | | | | | | |
-| Décembre | | | | | | |
-
-Le bilan de stock respecte :
-
-$$B_{stock,t+1}=B_{stock,t}+B_{disponible,t}-B_{thermolyse,t}$$
-
-avec :
-
-$$B_{stock,t}\geq0$$
-
-L'objectif est :
-
-$$\boxed{production\ saisonnière+stockage\longrightarrow approvisionnement\ industriel\ continu}$$
-
-Le coût du stockage doit être intégré dans le modèle économique.
+> **Un fruit qui n'est plus acceptable pour le marché alimentaire peut encore être une matière première énergétique.**
 
 ---
 
-# 12. Récoltes déclassées : conservation d'une valeur économique
+# 7. Le climat peut même simplifier certaines opérations
 
-Une mauvaise récolte alimentaire ne doit pas nécessairement devenir une perte économique totale.
+Une mauvaise récolte peut normalement entraîner :
 
-Les débouchés peuvent être représentés par une cascade :
+**récolte → tri → calibrage → conditionnement → stockage → transport → refus**
 
-$$\boxed{alimentaire\rightarrow alimentation\ animale\rightarrow matière\rightarrow thermolyse}$$
+Pour une partie devenue impropre à la vente alimentaire, une autre chaîne peut être envisagée :
 
-Le choix dépend :
+**récolte → collecte en vrac → coopérative → valorisation énergétique**
 
-- de la qualité de la récolte ;
-- des normes applicables ;
-- du prix ;
-- du coût de transport ;
-- de l'humidité ;
-- du coût de transformation ;
-- de la disponibilité industrielle.
+Cela peut supprimer une partie des opérations de tri et de conditionnement.
 
-Le modèle recherche le débouché maximisant la valeur nette :
+Il faut cependant comparer les coûts réels de collecte, de transport et de manutention.
 
-$$V^*=\max_j(P_jQ_j-C_j)$$
-
-sous réserve des contraintes réglementaires, agronomiques et logistiques.
+> **Une récolte dégradée peut donc avoir moins de valeur alimentaire, mais aussi coûter moins cher à préparer pour son nouveau débouché.**
 
 ---
 
-# 13. Biomasses complémentaires
+# 8. Les résidus de céréales deviennent un deuxième produit
 
-Lorsque leur adaptation au territoire est pertinente, l'agent peut tester notamment :
+Une céréale fournit d'abord son produit alimentaire.
 
-- miscanthus ;
-- sorgho ;
-- switchgrass ;
-- silphie ;
-- bambou ;
-- saule ;
-- peuplier ;
-- camelina ;
-- autres espèces pérennes ou annuelles adaptées.
+Elle fournit aussi des résidus.
 
-Pour chaque biomasse :
+Une partie de ces résidus doit rester dans le système agricole.
 
-$$B_{biomasse/ha}$$
+Une autre partie peut, lorsqu'elle est réellement disponible, être valorisée énergétiquement.
 
-puis :
+### Exemple pédagogique
 
-$$H_2/ha$$
+| Production | Grain vendu | Biomasse disponible | Valorisation énergétique |
+|---|---:|---:|---:|
+| Sorgho | 1 000 t | 1 500 tMS | importante |
+| Maïs | 1 000 t | 1 300 tMS | importante |
+| Blé | 1 000 t | 1 100 tMS | importante |
+| Soja | 1 000 t | 600 tMS | plus limitée |
 
-et, lorsque les paramètres industriels sont disponibles :
+**Valeurs illustratives : elles doivent être remplacées par les données réelles de chaque culture et territoire.**
 
-$$biochar/ha$$
-
-ainsi que :
-
-$$CA_{biomasse/ha}$$
-
-et :
-
-$$R_{net/ha}$$
-
-Le classement doit porter sur le **système agricole complet**, et non sur la seule production de biomasse.
+La biomasse disponible n'est jamais égale automatiquement à tous les résidus produits.
 
 ---
 
-# 14. Première segmentation française
+# 9. La règle la plus importante : le sol passe avant l'énergie
 
-Cette table constitue un **plan de recherche**, et non une prescription agronomique.
+Tout ne doit pas être exporté.
 
-| Zone | Cultures dominantes à tester | Compléments à étudier |
-|---|---|---|
-| Hauts-de-France | blé, betterave, pomme de terre | légumineuses, miscanthus |
-| Grand Est | blé, orge, colza, maïs | féverole, légumineuses, miscanthus |
-| Centre-Val de Loire | blé, colza, tournesol | légumineuses, miscanthus, sorgho |
-| Nouvelle-Aquitaine | maïs, soja, blé, tournesol | sorgho, miscanthus |
-| Occitanie | blé dur, tournesol, maïs | légumineuses, biomasses tolérantes au déficit hydrique |
-| Bretagne / Pays de la Loire | maïs, céréales, prairies | légumineuses, biomasses pérennes |
-| Méditerranée | céréales, vigne, fruits, légumes | espèces adaptées au déficit hydrique |
+Une partie de la biomasse doit rester sur l'exploitation pour maintenir le fonctionnement du sol.
 
-Pour chaque zone :
+### Exemple simple
 
-$$région\rightarrow sol\rightarrow climat\rightarrow culture\rightarrow association\rightarrow économie$$
+Une parcelle produit :
 
----
+**100 tonnes de biomasse.**
 
-# 15. France → Europe → Monde
+On ne dit pas :
 
-Une fois les modèles français suffisamment documentés, l'agent doit être étendu progressivement à :
+> « 100 tonnes pour l'usine. »
 
-- Europe ;
-- bassin méditerranéen ;
-- Afrique ;
-- Inde ;
-- Asie du Sud-Est ;
-- Amériques ;
-- Australie.
+On regarde d'abord :
 
-La plante ou l'association optimale devient :
+| Destination | Exemple |
+|---|---:|
+| Retour nécessaire au sol | 35 t |
+| Élevage | 15 t |
+| Autres usages | 10 t |
+| Pertes | 5 t |
+| **Biomasse réellement disponible** | **35 t** |
 
-$$\boxed{Plant^*=f(climat,sol,eau,saison,culture,marché,mécanisation,biomasse,thermolyse)}$$
+La règle de fond est donc :
 
-L'objectif n'est pas de trouver une plante universelle, mais la combinaison optimale pour chaque contexte.
+> **On ne transforme en énergie que ce qui peut réellement être retiré sans dégrader le système agricole.**
 
 ---
 
-# 16. Calcul à l'hectare
+# 10. Une règle de conversion simple
 
-Pour chaque stratégie :
+Pour donner un ordre de grandeur, une configuration de référence HYNOCA peut être représentée par :
 
-$$B_{disp/ha}=B_{produite/ha}-B_{\text{retour au sol}/ha}-B_{élevage/ha}-B_{autres/ha}-B_{pertes/ha}$$
+| Donnée de référence | Valeur |
+|---|---:|
+| Biomasse humide | 669 kg/h |
+| Hydrogène | 50 kg/h |
+| Fonctionnement annuel de référence | 8 000 h |
+| Biomasse humide annuelle | environ 5 300 t |
+| Biomasse sèche correspondante à 35 % d'humidité | environ 3 445 tMS |
+| H₂ correspondant par tonne de matière sèche | environ **115 kg H₂/tMS** |
 
-Puis :
+Cette dernière valeur sert uniquement de **règle d'ordre de grandeur** pour les exemples.
 
-$$H_2/ha=B_{thermolyse/ha}\times\eta_{H_2}$$
-
-où $\eta_{H_2}$ dépend de la biomasse et de la configuration industrielle.
-
-Le revenu total est :
-
-$$R_{ha}=R_{alimentaire,ha}+R_{énergie,ha}+R_{biochar,ha}+R_{carbone,ha}-C_{total,ha}$$
-
-et :
-
-$$\boxed{R_{min,ha}=\min_{s\in S}R_{ha}(s)}$$
+Elle ne signifie pas que toutes les biomasses donnent exactement 115 kg d'H₂ par tonne.
 
 ---
 
-# 17. Optimisation du territoire
+# 11. Exemple : combien peut représenter une biomasse ?
 
-Pour un territoire comportant $i=1,\ldots,n$ systèmes de culture :
+Avec la règle d'exemple précédente :
 
-$$B_{disp,territoire}=\sum_iB_{disp,i}$$
+| Biomasse sèche disponible | H₂ potentiel |
+|---:|---:|
+| 10 tMS | environ 1 150 kg |
+| 50 tMS | environ 5 750 kg |
+| 100 tMS | environ 11 500 kg |
+| 500 tMS | environ 57 500 kg |
+| 1 000 tMS | environ 115 000 kg |
 
-et :
+À titre d'exemple seulement, avec une hypothèse de **5 €/kg H₂** :
 
-$$H_{2,territoire}=\sum_iH_{2,i}$$
+| Biomasse sèche | H₂ potentiel | Valeur brute illustrative |
+|---:|---:|---:|
+| 10 tMS | 1,15 t | 5 750 € |
+| 50 tMS | 5,75 t | 28 750 € |
+| 100 tMS | 11,5 t | 57 500 € |
+| 500 tMS | 57,5 t | 287 500 € |
+| 1 000 tMS | 115 t | 575 000 € |
 
-Le nombre théorique de H6 est :
-
-$$\boxed{N_{H6}=\frac{B_{MS,disp,territoire}}{3445}}$$
-
-L'optimisation réelle doit ensuite intégrer :
-
-- distances ;
-- coûts de transport ;
-- stockage ;
-- saisonnalité ;
-- capacités de traitement ;
-- marché local ;
-- retour du biochar vers les sols.
-
----
-
-# 18. Boucle matière et carbone
-
-Le système complet peut être représenté par :
-
-$$\boxed{agriculture\rightarrow biomasse\ disponible\rightarrow thermolyse\rightarrow \{H_2,\ chaleur,\ biochar,\ carbone\}\rightarrow agriculture}$$
-
-Le biochar retourné au sol doit être comptabilisé comme une sortie de thermolyse et une entrée du système agricole.
-
-Il faut donc éviter de compter deux fois la même matière :
-
-$$B_{biochar}\rightarrow B_{\text{retour au sol}}$$
+Ces montants sont des **valeurs brutes illustratives**, avant collecte, stockage, transport, transformation, financement et autres coûts.
 
 ---
 
-# 19. Sortie finale attendue
+# 12. Pourquoi une coopérative change l'échelle
 
-Pour chaque territoire, culture et stratégie :
+Un agriculteur n'a pas nécessairement assez de biomasse pour alimenter une installation industrielle.
 
-| Variable | Résultat |
+Une coopérative peut regrouper les volumes.
+
+### Exemple
+
+| Agriculteurs | Biomasse disponible chacun | Total |
+|---:|---:|---:|
+| 10 | 20 tMS | 200 tMS |
+| 50 | 20 tMS | 1 000 tMS |
+| 100 | 20 tMS | 2 000 tMS |
+| 200 | 20 tMS | 4 000 tMS |
+
+Le dernier exemple représente déjà un volume proche de l'ordre de grandeur annuel d'une installation de référence de 8 000 heures.
+
+La coopérative permet donc de transformer :
+
+**des petits volumes individuels**
+
+en :
+
+**une ressource énergétique industrielle.**
+
+---
+
+# 13. Le stockage change également le problème
+
+La récolte agricole est saisonnière.
+
+L'énergie peut être produite, transformée et stockée sous différentes formes selon la technologie retenue.
+
+L'objectif est donc de dissocier :
+
+**moment de la récolte**
+
+et
+
+**moment de l'utilisation de l'énergie.**
+
+L'hydrogène peut être stocké directement ou servir à produire d'autres vecteurs énergétiques, selon les infrastructures disponibles.
+
+La filière peut ainsi rechercher :
+
+**biomasse récoltée → stockage de biomasse → transformation → énergie stockable → utilisation ultérieure**
+
+---
+
+# 14. Le bambou : une réserve de biomasse pluriannuelle
+
+Une autre possibilité consiste à ne pas dépendre uniquement des résidus d'une culture alimentaire.
+
+Des cultures pérennes peuvent constituer une réserve de biomasse.
+
+Le **bambou géant**, notamment le bambou Moso (*Phyllostachys edulis*), peut être étudié comme candidat dans les régions où ses conditions de culture sont adaptées.
+
+Son intérêt dans ce modèle est surtout sa production de biomasse.
+
+Il peut également avoir des débouchés alimentaires ou industriels, mais il ne faut pas considérer le bambou comme une culture universelle : le climat, le sol, l'eau, l'implantation et les débouchés locaux doivent être vérifiés.
+
+---
+
+# 15. Trois modèles simples
+
+| Modèle | Production principale | Protection | Biomasse |
+|---|---|---|---|
+| 🌽 **Culture seule** | une culture alimentaire | faible diversification | résidus |
+| 🌽🌾 **Deux cultures** | deux productions alimentaires | diversification climatique | résidus des deux cultures |
+| 🌽🌾🎋 **Alimentaire + biomasse** | alimentation + culture de secours | diversification forte | résidus + biomasse dédiée |
+
+Le troisième modèle n'est pas nécessairement le plus rentable chaque année.
+
+Son intérêt est de disposer d'un **revenu de secours lorsque la production alimentaire échoue**.
+
+---
+
+# 16. Exemple sur quatre années
+
+Voici un exemple fictif montrant pourquoi la diversification peut être intéressante.
+
+| Année | Climat | Maïs seul | Maïs + sorgho | Maïs + sorgho + biomasse |
+|---|---|---:|---:|---:|
+| 1 | normale | 1 200 k€ | 1 150 k€ | 1 100 k€ |
+| 2 | sécheresse | 550 k€ | 780 k€ | 900 k€ |
+| 3 | canicule | 600 k€ | 820 k€ | 880 k€ |
+| 4 | pluie extrême | 500 k€ | 760 k€ | 850 k€ |
+| **Total** | | **2 850 k€** | **3 510 k€** | **3 730 k€** |
+
+**Exemple pédagogique uniquement.**
+
+Le message n'est pas que ces montants seront obtenus dans une exploitation réelle.
+
+Le message est :
+
+> **Une petite perte de revenu pendant une année normale peut être acceptable si elle permet d'éviter un effondrement pendant les mauvaises années.**
+
+---
+
+# 17. Le vrai objectif
+
+Il ne s'agit pas de faire disparaître les fruits, les légumes, le blé, le maïs ou les autres productions alimentaires.
+
+Au contraire.
+
+L'objectif est de leur donner **un filet de sécurité économique**.
+
+### Aujourd'hui
+
+**Récolte alimentaire**
+
+→ conforme : revenu
+
+→ non conforme : faible valeur ou perte
+
+### Avec un deuxième débouché
+
+**Récolte alimentaire**
+
+→ conforme : revenu alimentaire
+
+→ déclassée : biomasse
+
+→ biomasse : énergie
+
+→ énergie : revenu
+
+Ainsi :
+
+> **Une mauvaise année alimentaire ne devient pas automatiquement une année sans revenu.**
+
+---
+
+# 18. Le tableau de décision
+
+| Si votre problème est… | Une piste à étudier |
 |---|---|
-| Territoire | … |
-| Culture principale | … |
-| Association | … |
-| Type de sol | … |
-| Climat | … |
-| Eau disponible | … |
-| Rendement N | … |
-| Rendement D | … |
-| Rendement C | … |
-| Rendement DC | … |
-| Rendement P | … |
-| Rendement DP | … |
-| Biomasse produite | … |
-| Retour au sol | … |
-| Biomasse élevage | … |
-| Autres usages | … |
-| Pertes | … |
-| **Biomasse disponible** | **…** |
-| Biomasse thermolysée | … |
-| H₂/ha | … |
-| Biochar/ha | … |
-| CA alimentaire | … |
-| CA matière | … |
-| CA énergie | … |
-| CA biochar | … |
-| CA carbone | … |
-| Coûts | … |
-| **Revenu minimum** | **…** |
-| **Indice de résilience** | **…** |
-| H6 nécessaires | … |
-
-Le classement final est effectué prioritairement sur :
-
-$$\boxed{R_{min}}$$
-
-puis sur :
-
-- indice de résilience ;
-- besoin en eau ;
-- biomasse disponible ;
-- revenu annuel ;
-- coûts logistiques ;
-- stabilité du système ;
-- bénéfices agronomiques ;
-- potentiel de retour du biochar au sol.
+| Sécheresse | associer une culture plus tolérante au déficit hydrique |
+| Canicule | diversifier les cycles et les espèces |
+| Grêle | prévoir un débouché biomasse pour les produits déclassés |
+| Inondation | diversifier les parcelles et les cultures |
+| Mauvais calibre | valoriser la biomasse hors marché alimentaire |
+| Résidus importants | étudier leur valorisation énergétique |
+| Forte saisonnalité | combiner récoltes et stockage |
+| Faible volume individuel | organiser une collecte coopérative |
+| Besoin de revenu de secours | créer un deuxième débouché |
+| Sol fragile | conserver prioritairement la biomasse nécessaire au sol |
 
 ---
 
-# 20. Principe général
+# 19. Le principe en une image
 
-L'agent recherche une agriculture capable de produire plusieurs valeurs à partir du même territoire :
+**UNE EXPLOITATION**
 
-$$\boxed{alimentaire+matière+énergie+biochar+carbone}$$
+↓
 
-La diversification n'est pas considérée comme une diminution de la production alimentaire.
+**PLUSIEURS CULTURES**
 
-Elle constitue une **assurance productive** permettant de conserver un débouché économique lorsque le rendement alimentaire devient insuffisant.
+↓
 
-Une récolte peut ainsi changer de destination sans perdre nécessairement toute sa valeur :
+**PLUSIEURS PÉRIODES DE PRODUCTION**
 
-$$\boxed{alimentaire\rightarrow matière\rightarrow énergie\rightarrow biochar}$$
+↓
 
-La thermolyse devient alors un **débouché de résilience**, et non simplement une technologie de production d'hydrogène.
+**PLUSIEURS RISQUES CLIMATIQUES**
+
+↓
+
+**PLUSIEURS DÉBOUCHÉS**
+
+↓
+
+**ALIMENTATION + BIOMASSE + ÉNERGIE**
+
+↓
+
+**REVENU PLUS RÉSILIENT**
+
+La logique n'est donc pas :
+
+> **produire plus à tout prix**
+
+mais :
+
+> **éviter qu'un seul accident climatique puisse supprimer presque tout le revenu de l'exploitation.**
 
 ---
 
 # Conclusion
 
-L'objectif final n'est plus seulement :
+Un agriculteur ne devrait pas avoir à prévoir exactement quelle catastrophe climatique va se produire.
 
-> **Quelle culture produit le plus dans une bonne année ?**
+Il devrait pouvoir disposer de plusieurs débouchés.
 
-mais :
+Une récolte peut être :
 
-> **Quelle combinaison agricole conserve le meilleur revenu lorsque l'année devient mauvaise ?**
+- bonne ;
+- moyenne ;
+- déclassée ;
+- partiellement détruite ;
+- presque entièrement perdue pour l'alimentation.
 
-Le principe mathématique est :
+Mais la matière végétale ne disparaît pas pour autant.
 
-$$\boxed{A^*=\arg\max_A\min_{s\in S}R(A,s)}$$
+Elle peut parfois devenir une ressource énergétique.
 
-avec :
+C'est le principe du **parachute de la biomasse** :
 
-$$S=\{N,D,C,DC,P,DP\}$$
+> ### **Quand le marché alimentaire ne veut plus de votre récolte, la biomasse peut encore avoir une valeur énergétique.**
 
-et la contrainte fondamentale :
+La récolte alimentaire reste le premier objectif.
 
-$$\boxed{B_{disp}=B_{produite}-B_{\text{retour au sol}}-B_{élevage}-B_{autres}-B_{pertes}}$$
+La biomasse constitue le deuxième débouché.
 
-Ainsi, l'énergie ne doit pas être obtenue au détriment de l'agriculture.
+La thermolyse peut alors transformer une partie de cette biomasse en énergie, notamment en hydrogène, avec éventuellement production de chaleur et de biochar selon la configuration retenue.
 
-Le système recherché est une agriculture capable de transformer ses ressources excédentaires ou ses débouchés dégradés en **revenus complémentaires, énergie, biochar et résilience hydrique**, tout en maintenant la fertilité du sol.
+Et surtout :
+
+> **Les dettes continuent lorsque la récolte s'arrête. Le deuxième débouché doit donc exister avant l'accident climatique.**
+
+Le principe final est simple :
+
+**une récolte réussie rapporte.**
+
+**une récolte moyenne rapporte moins.**
+
+**une récolte déclassée peut encore rapporter.**
+
+**une récolte alimentaire fortement détruite peut encore laisser une valeur dans la biomasse.**
+
+C'est cette possibilité qui transforme la biomasse en **parachute économique agricole**.
