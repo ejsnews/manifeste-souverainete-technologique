@@ -106,6 +106,7 @@ $$
 Pour une association :
 
 $$
+
 R=
 R_{alimentaire}
 +
@@ -124,6 +125,7 @@ C_{récolte}
 C_{transport}
 -
 C_{transformation}
+
 $$
 
 Le prix de l'H₂, du biochar et du carbone doit rester paramétrable.
@@ -133,6 +135,7 @@ Le prix de l'H₂, du biochar et du carbone doit rester paramétrable.
 Le modèle impose :
 
 $$
+
 B_{disp}
 =
 B_{produite}
