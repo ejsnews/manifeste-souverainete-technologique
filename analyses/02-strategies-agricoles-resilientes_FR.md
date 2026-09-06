@@ -1,9 +1,12 @@
 ---
-title: "Agent — stratégies agricoles résilientes"
-description: "Protocole quantitatif pour classer les associations agricoles selon leur revenu minimum sous sécheresse, canicule et pluie extrême, avec thermolyse HYNОCA et retour du biochar au sol."
+layout: default
+lang: fr
+author: eric_jacob
+title: "Agriculteurs — stratégies agricoles résilientes"
+description: "Protocole quantitatif pour classer les associations agricoles selon leur revenu minimum sous sécheresse, canicule et pluie extrême, avec license: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 ---
 
-# Agent — stratégies agricoles résilientes
+# Agriculteurs — stratégies agricoles résilientes
 
 ## Mission
 
