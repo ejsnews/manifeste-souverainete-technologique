@@ -15,17 +15,15 @@ Construire une base quantitative **France → Europe → Monde** permettant d'id
 
 L'objectif n'est donc pas de rechercher uniquement le rendement maximal dans une année normale.
 
-$$
-\boxed{
-A^*=\arg\max_A\min_{s\in S}R(A,s)
-}
-$$
+$$\boxed{A^*=\arg\max_A\min_{s\in S}R(A,s)}$$
 
 Le système optimal est celui qui maximise le **revenu minimum** sur l'ensemble des scénarios climatiques étudiés.
 
 ---
 
 # 1. Scénarios climatiques
+
+L'agent doit évaluer chaque stratégie sur six scénarios :
 
 | Code | Scénario | Effet recherché dans le modèle |
 |---|---|---|
@@ -38,9 +36,7 @@ Le système optimal est celui qui maximise le **revenu minimum** sur l'ensemble 
 
 On définit :
 
-$$
-S=\{N,D,C,DC,P,DP\}
-$$
+$$S=\{N,D,C,DC,P,DP\}$$
 
 Le scénario **DP** est important : une culture peut résister à la sécheresse mais être vulnérable à une pluie extrême sur un sol dégradé ou compacté.
 
@@ -63,11 +59,7 @@ Pour chaque culture principale, l'agent recherche :
 
 Une stratégie est définie par :
 
-$$
-\boxed{
-A=(C,P,S,M,T)
-}
-$$
+$$\boxed{A=(C,P,S,M,T)}$$
 
 avec :
 
@@ -96,11 +88,7 @@ avec :
 
 La complémentarité peut être représentée par :
 
-$$
-F(A)=
-f_{eau}+f_{azote}+f_{sol}+f_{temps}+f_{espace}
-+f_{biomasse}+f_{revenu}
-$$
+$$F(A)=f_{eau}+f_{azote}+f_{sol}+f_{temps}+f_{espace}+f_{biomasse}+f_{revenu}$$
 
 Cette expression constitue un cadre de classement ; les fonctions doivent ensuite être quantifiées avec des données adaptées au territoire.
 
@@ -110,79 +98,51 @@ Cette expression constitue un cadre de classement ; les fonctions doivent ensuit
 
 Référence de travail pour une configuration HYNOCA :
 
-$$
-669\ \mathrm{kg/h}
-\longrightarrow
-50\ \mathrm{kgH_2/h}
-$$
+$$669\ {\rm kg/h}\longrightarrow50\ {\rm kgH_2/h}$$
 
 avec une biomasse de référence à environ 35 % d'humidité.
 
 À 8 000 heures/an :
 
-$$
-669\times8000=5\,352\,000\ \mathrm{kg/an}
-$$
+$$669\times8000=5\,352\,000\ {\rm kg/an}$$
 
 soit :
 
-$$
-\boxed{5\,352\ \mathrm{t_{humide}/an}}
-$$
+$$\boxed{5\,352\ {\rm t_{humide}/an}}$$
 
 La valeur arrondie de référence peut être représentée par :
 
-$$
-\boxed{5\,300\ \mathrm{t_{humide}/an}}
-$$
+$$\boxed{5\,300\ {\rm t_{humide}/an}}$$
 
 À 35 % d'humidité :
 
-$$
-1\ \mathrm{t_{humide}}=0.65\ \mathrm{tMS}
-$$
+$$1\ {\rm t_{humide}}=0.65\ {\rm tMS}$$
 
 et :
 
-$$
-1\ \mathrm{tMS}\approx1.538\ \mathrm{t_{humide}}
-$$
+$$1\ {\rm tMS}\approx1.538\ {\rm t_{humide}}$$
 
 Le rendement correspondant est :
 
-$$
-\frac{50}{0.669}=74.7\ \mathrm{kgH_2/t_{humide}}
-$$
+$$\frac{50}{0.669}=74.7\ {\rm kgH_2/t_{humide}}$$
 
 donc :
 
-$$
-74.7\times1.538\approx115\ \mathrm{kgH_2/tMS}
-$$
+$$74.7\times1.538\approx115\ {\rm kgH_2/tMS}$$
 
 Ainsi, pour les calculs exploratoires :
 
-$$
-\boxed{
-1\ \mathrm{tMS}\approx115\ \mathrm{kgH_2}
-}
-$$
+$$\boxed{1\ {\rm tMS}\approx115\ {\rm kgH_2}}$$
 
 Cette valeur est une **conversion de modèle**, et non un rendement universel de toutes les biomasses.
 
 Pour 5 300 t humides/an :
 
-$$
-5300\times0.65=3445\ \mathrm{tMS/an}
-$$
+$$5300\times0.65=3445\ {\rm tMS/an}$$
 
 Donc :
 
-$$
-\boxed{
-N_{H6}=\frac{B_{MS,disp}}{3445}
-}
-$$
+$$\boxed{N_{H6}=\frac{B_{MS,disp}}{3445}}$$
 
 où $B_{MS,disp}$ est la biomasse sèche réellement disponible pour la thermolyse.
 
@@ -192,36 +152,15 @@ où $B_{MS,disp}$ est la biomasse sèche réellement disponible pour la thermoly
 
 Pour une stratégie $A$ et un scénario $s$ :
 
-$$
-\boxed{
-R(A,s)=
-R_{alimentaire}
-+R_{matière}
-+R_{H_2}
-+R_{biochar}
-+R_{chaleur}
-+R_{carbone}
--C_{production}
--C_{récolte}
--C_{stockage}
--C_{transport}
--C_{transformation}
-}
-$$
+$$\boxed{R(A,s)=R_{alimentaire}+R_{matière}+R_{H_2}+R_{biochar}+R_{chaleur}+R_{carbone}-C_{production}-C_{récolte}-C_{stockage}-C_{transport}-C_{transformation}}$$
 
 Par exemple :
 
-$$
-R_{H_2}=Q_{H_2}\times P_{H_2}
-$$
+$$R_{H_2}=Q_{H_2}\times P_{H_2}$$
 
-$$
-R_{biochar}=Q_{biochar}\times P_{biochar}
-$$
+$$R_{biochar}=Q_{biochar}\times P_{biochar}$$
 
-$$
-R_{carbone}=Q_{carbone}\times P_{carbone}
-$$
+$$R_{carbone}=Q_{carbone}\times P_{carbone}$$
 
 Les prix de l'H₂, du biochar et du carbone restent **paramétrables**.
 
@@ -231,21 +170,7 @@ Les prix de l'H₂, du biochar et du carbone restent **paramétrables**.
 
 Le modèle impose une contrainte fondamentale :
 
-$$
-\boxed{
-B_{disp}
-=
-B_{produite}
--
-B_{\text{retour au sol}}
--
-B_{élevage}
--
-B_{autres}
--
-B_{pertes}
-}
-$$
+$$\boxed{B_{disp}=B_{produite}-B_{\text{retour au sol}}-B_{élevage}-B_{autres}-B_{pertes}}$$
 
 Cette équation est **non négociable**.
 
@@ -263,29 +188,15 @@ Une partie doit rester dans le système agricole pour :
 
 On impose donc :
 
-$$
-B_{disp}\geq0
-$$
+$$B_{disp}\geq0$$
 
 et :
 
-$$
-B_{thermolyse}\leq B_{disp}
-$$
+$$B_{thermolyse}\leq B_{disp}$$
 
 La biomasse effectivement envoyée vers la thermolyse est :
 
-$$
-\boxed{
-B_{thermolyse}
-=
-\min
-\left(
-B_{disp},
-B_{besoin\ industriel}
-\right)
-}
-$$
+$$\boxed{B_{thermolyse}=\min(B_{disp},B_{besoin\ industriel})}$$
 
 Cette contrainte empêche le modèle de produire artificiellement davantage d'H₂ en retirant trop de matière organique au sol.
 
@@ -293,17 +204,7 @@ Cette contrainte empêche le modèle de produire artificiellement davantage d'H�
 
 Pour chaque culture :
 
-$$
-B_{produite}
-=
-B_{résidus}
-+
-B_{cultures\ de\ biomasse}
-+
-B_{récoltes\ déclassées}
-+
-B_{autres}
-$$
+$$B_{produite}=B_{résidus}+B_{cultures\ de\ biomasse}+B_{récoltes\ déclassées}+B_{autres}$$
 
 Les coefficients doivent être déterminés **par culture, région, rendement et système de production**.
 
@@ -311,15 +212,11 @@ Le modèle ne doit jamais supposer que 100 % des résidus agricoles sont récup�
 
 On peut définir :
 
-$$
-f_{disp}=\frac{B_{disp}}{B_{produite}}
-$$
+$$f_{disp}=\frac{B_{disp}}{B_{produite}}$$
 
 avec :
 
-$$
-0\leq f_{disp}\leq1
-$$
+$$0\leq f_{disp}\leq1$$
 
 ---
 
@@ -350,28 +247,11 @@ Ces valeurs ne doivent **jamais** être appliquées automatiquement à une explo
 
 L'agent doit utiliser :
 
-$$
-\boxed{
-\Delta W=
-f(sol,biochar,dose,granulométrie,porosité,climat)
-}
-$$
+$$\boxed{\Delta W=f(sol,biochar,dose,granulométrie,porosité,climat)}$$
 
 On peut alors représenter :
 
-$$
-W_{disponible}
-=
-W_{initial}
-+
-\Delta W_{biochar}
-+
-\Delta W_{structure}
-+
-\Delta W_{couverture}
-+
-\Delta W_{racines}
-$$
+$$W_{disponible}=W_{initial}+\Delta W_{biochar}+\Delta W_{structure}+\Delta W_{couverture}+\Delta W_{racines}$$
 
 ---
 
@@ -379,33 +259,19 @@ $$
 
 Pour chaque stratégie :
 
-$$
-Y_N,Y_D,Y_C,Y_{DC},Y_P,Y_{DP}
-$$
+$$Y_N,Y_D,Y_C,Y_{DC},Y_P,Y_{DP}$$
 
 puis :
 
-$$
-R_N,R_D,R_C,R_{DC},R_P,R_{DP}
-$$
+$$R_N,R_D,R_C,R_{DC},R_P,R_{DP}$$
 
 Le critère principal est :
 
-$$
-\boxed{
-R_{min}(A)=
-\min
-(R_N,R_D,R_C,R_{DC},R_P,R_{DP})
-}
-$$
+$$\boxed{R_{min}(A)=\min(R_N,R_D,R_C,R_{DC},R_P,R_{DP})}$$
 
 Le classement primaire est :
 
-$$
-\boxed{
-A^*=\arg\max_A R_{min}(A)
-}
-$$
+$$\boxed{A^*=\arg\max_A R_{min}(A)}$$
 
 ---
 
@@ -413,11 +279,7 @@ $$
 
 Un indicateur secondaire mesure la perte relative par rapport à l'année normale :
 
-$$
-\boxed{
-RI(A)=\frac{R_{min}(A)}{R_N(A)}
-}
-$$
+$$\boxed{RI(A)=\frac{R_{min}(A)}{R_N(A)}}$$
 
 Le classement doit distinguer :
 
@@ -441,9 +303,7 @@ Les valeurs suivantes sont **fictives** et illustrent uniquement le fonctionneme
 
 Le classement fictif devient :
 
-$$
-70>61>50>30
-$$
+$$70>61>50>30$$
 
 ![Exemple de classement](images/03-strategies-agricoles-revenu-resilient-exemple_FR.png)
 
@@ -468,33 +328,15 @@ $$
 
 Le bilan de stock respecte :
 
-$$
-B_{stock,t+1}
-=
-B_{stock,t}
-+
-B_{disponible,t}
--
-B_{thermolyse,t}
-$$
+$$B_{stock,t+1}=B_{stock,t}+B_{disponible,t}-B_{thermolyse,t}$$
 
 avec :
 
-$$
-B_{stock,t}\geq0
-$$
+$$B_{stock,t}\geq0$$
 
 L'objectif est :
 
-$$
-\boxed{
-production\ saisonnière
-+
-stockage
-\longrightarrow
-approvisionnement\ industriel\ continu
-}
-$$
+$$\boxed{production\ saisonnière+stockage\longrightarrow approvisionnement\ industriel\ continu}$$
 
 Le coût du stockage doit être intégré dans le modèle économique.
 
@@ -506,17 +348,7 @@ Une mauvaise récolte alimentaire ne doit pas nécessairement devenir une perte 
 
 Les débouchés peuvent être représentés par une cascade :
 
-$$
-\boxed{
-alimentaire
-\rightarrow
-alimentation\ animale
-\rightarrow
-matière
-\rightarrow
-thermolyse
-}
-$$
+$$\boxed{alimentaire\rightarrow alimentation\ animale\rightarrow matière\rightarrow thermolyse}$$
 
 Le choix dépend :
 
@@ -530,9 +362,7 @@ Le choix dépend :
 
 Le modèle recherche le débouché maximisant la valeur nette :
 
-$$
-V^*=\max_j(P_jQ_j-C_j)
-$$
+$$V^*=\max_j(P_jQ_j-C_j)$$
 
 sous réserve des contraintes réglementaires, agronomiques et logistiques.
 
@@ -554,33 +384,23 @@ Lorsque leur adaptation au territoire est pertinente, l'agent peut tester notamm
 
 Pour chaque biomasse :
 
-$$
-B_{biomasse/ha}
-$$
+$$B_{biomasse/ha}$$
 
 puis :
 
-$$
-H_2/ha
-$$
+$$H_2/ha$$
 
 et, lorsque les paramètres industriels sont disponibles :
 
-$$
-biochar/ha
-$$
+$$biochar/ha$$
 
 ainsi que :
 
-$$
-CA_{biomasse/ha}
-$$
+$$CA_{biomasse/ha}$$
 
 et :
 
-$$
-R_{net/ha}
-$$
+$$R_{net/ha}$$
 
 Le classement doit porter sur le **système agricole complet**, et non sur la seule production de biomasse.
 
@@ -602,19 +422,7 @@ Cette table constitue un **plan de recherche**, et non une prescription agronomi
 
 Pour chaque zone :
 
-$$
-région
-\rightarrow
-sol
-\rightarrow
-climat
-\rightarrow
-culture
-\rightarrow
-association
-\rightarrow
-économie
-$$
+$$région\rightarrow sol\rightarrow climat\rightarrow culture\rightarrow association\rightarrow économie$$
 
 ---
 
@@ -632,13 +440,7 @@ Une fois les modèles français suffisamment documentés, l'agent doit être ét
 
 La plante ou l'association optimale devient :
 
-$$
-\boxed{
-Plant^*
-=
-f(climat,sol,eau,saison,culture,marché,mécanisation,biomasse,thermolyse)
-}
-$$
+$$\boxed{Plant^*=f(climat,sol,eau,saison,culture,marché,mécanisation,biomasse,thermolyse)}$$
 
 L'objectif n'est pas de trouver une plante universelle, mais la combinaison optimale pour chaque contexte.
 
@@ -648,55 +450,21 @@ L'objectif n'est pas de trouver une plante universelle, mais la combinaison opti
 
 Pour chaque stratégie :
 
-$$
-B_{disp/ha}
-=
-B_{produite/ha}
--
-B_{\text{retour au sol}/ha}
--
-B_{élevage/ha}
--
-B_{autres/ha}
--
-B_{pertes/ha}
-$$
+$$B_{disp/ha}=B_{produite/ha}-B_{\text{retour au sol}/ha}-B_{élevage/ha}-B_{autres/ha}-B_{pertes/ha}$$
 
 Puis :
 
-$$
-H_2/ha
-=
-B_{thermolyse/ha}\times\eta_{H_2}
-$$
+$$H_2/ha=B_{thermolyse/ha}\times\eta_{H_2}$$
 
 où $\eta_{H_2}$ dépend de la biomasse et de la configuration industrielle.
 
 Le revenu total est :
 
-$$
-R_{ha}
-=
-R_{alimentaire,ha}
-+
-R_{énergie,ha}
-+
-R_{biochar,ha}
-+
-R_{carbone,ha}
--
-C_{total,ha}
-$$
+$$R_{ha}=R_{alimentaire,ha}+R_{énergie,ha}+R_{biochar,ha}+R_{carbone,ha}-C_{total,ha}$$
 
 et :
 
-$$
-\boxed{
-R_{min,ha}
-=
-\min_{s\in S}R_{ha}(s)
-}
-$$
+$$\boxed{R_{min,ha}=\min_{s\in S}R_{ha}(s)}$$
 
 ---
 
@@ -704,29 +472,15 @@ $$
 
 Pour un territoire comportant $i=1,\ldots,n$ systèmes de culture :
 
-$$
-B_{disp,territoire}
-=
-\sum_i B_{disp,i}
-$$
+$$B_{disp,territoire}=\sum_iB_{disp,i}$$
 
 et :
 
-$$
-H_{2,territoire}
-=
-\sum_i H_{2,i}
-$$
+$$H_{2,territoire}=\sum_iH_{2,i}$$
 
 Le nombre théorique de H6 est :
 
-$$
-\boxed{
-N_{H6}
-=
-\frac{B_{MS,disp,territoire}}{3445}
-}
-$$
+$$\boxed{N_{H6}=\frac{B_{MS,disp,territoire}}{3445}}$$
 
 L'optimisation réelle doit ensuite intégrer :
 
@@ -744,34 +498,13 @@ L'optimisation réelle doit ensuite intégrer :
 
 Le système complet peut être représenté par :
 
-$$
-\boxed{
-agriculture
-\rightarrow
-biomasse\ disponible
-\rightarrow
-thermolyse
-\rightarrow
-\begin{cases}
-H_2\\
-chaleur\\
-biochar\\
-carbone
-\end{cases}
-\rightarrow
-agriculture
-}
-$$
+$$\boxed{agriculture\rightarrow biomasse\ disponible\rightarrow thermolyse\rightarrow \{H_2,\ chaleur,\ biochar,\ carbone\}\rightarrow agriculture}$$
 
 Le biochar retourné au sol doit être comptabilisé comme une sortie de thermolyse et une entrée du système agricole.
 
 Il faut donc éviter de compter deux fois la même matière :
 
-$$
-B_{biochar}
-\rightarrow
-B_{\text{retour au sol}}
-$$
+$$B_{biochar}\rightarrow B_{\text{retour au sol}}$$
 
 ---
 
@@ -814,9 +547,7 @@ Pour chaque territoire, culture et stratégie :
 
 Le classement final est effectué prioritairement sur :
 
-$$
-\boxed{R_{min}}
-$$
+$$\boxed{R_{min}}$$
 
 puis sur :
 
@@ -835,19 +566,7 @@ puis sur :
 
 L'agent recherche une agriculture capable de produire plusieurs valeurs à partir du même territoire :
 
-$$
-\boxed{
-alimentaire
-+
-matière
-+
-énergie
-+
-biochar
-+
-carbone
-}
-$$
+$$\boxed{alimentaire+matière+énergie+biochar+carbone}$$
 
 La diversification n'est pas considérée comme une diminution de la production alimentaire.
 
@@ -855,17 +574,7 @@ Elle constitue une **assurance productive** permettant de conserver un débouch�
 
 Une récolte peut ainsi changer de destination sans perdre nécessairement toute sa valeur :
 
-$$
-\boxed{
-alimentaire
-\rightarrow
-matière
-\rightarrow
-énergie
-\rightarrow
-biochar
-}
-$$
+$$\boxed{alimentaire\rightarrow matière\rightarrow énergie\rightarrow biochar}$$
 
 La thermolyse devient alors un **débouché de résilience**, et non simplement une technologie de production d'hydrogène.
 
@@ -883,21 +592,15 @@ mais :
 
 Le principe mathématique est :
 
-$$
-\boxed{A^*=\arg\max_A\min_{s\in S}R(A,s)}
-$$
+$$\boxed{A^*=\arg\max_A\min_{s\in S}R(A,s)}$$
 
 avec :
 
-$$
-S=\{N,D,C,DC,P,DP\}
-$$
+$$S=\{N,D,C,DC,P,DP\}$$
 
 et la contrainte fondamentale :
 
-$$
-\boxed{B_{disp}=B_{produite}-B_{\text{retour au sol}}-B_{élevage}-B_{autres}-B_{pertes}}
-$$
+$$\boxed{B_{disp}=B_{produite}-B_{\text{retour au sol}}-B_{élevage}-B_{autres}-B_{pertes}}$$
 
 Ainsi, l'énergie ne doit pas être obtenue au détriment de l'agriculture.
 
