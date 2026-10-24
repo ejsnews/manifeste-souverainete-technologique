@@ -60,7 +60,9 @@ This would not mean that thermolysis automatically qualifies for funding, or tha
 - [Decree No. 2023-854 of 1 September 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048039013)
 - [LinkedIn: Hydrogen, scale-up and decentralisation](https://fr.linkedin.com/posts/eric-jacob-299a21344_hydrog%C3%A8ne-haffnerenergy-thermolyse-activity-7516468302353895424-4Ypq)
 
-![Aligning the legal framework for technology neutrality in hydrogen](images/hydrogene-reforme-neutralite-technologique.jpg)
+![A local hydrogen network produced and supplied on site](images/hydrogen-local-network.jpg)
+
+![Aligning the legal framework for technology neutrality in hydrogen](images/hydrogen-technology-neutrality.jpg)
 
 ## 3. SAF: European targets should leave room for sustainable pathways that can meet them
 
@@ -99,12 +101,13 @@ The aim is not to create an exception for SB-HEFA. It is to make the framework c
 - [Regulation (EU) 2023/2405 — ReFuelEU Aviation](https://eur-lex.europa.eu/eli/reg/2023/2405/oj)
 - [Delegated Regulation (EU) 2025/723](https://eur-lex.europa.eu/eli/reg_del/2025/723/oj)
 - [European Commission — ReFuelEU Aviation FAQ](https://transport.ec.europa.eu/transport-modes/air/environment/refueleu-aviation/faq-refueleu-aviation_en)
+- [LinkedIn: proposed regulatory clarifications for SAF](https://fr.linkedin.com/posts/eric-jacob-299a21344_saf-refueleu-red-activity-7517583692655902720-ViIK)
 - [LinkedIn: SAF and hydrogen — should Europe open every viable pathway?](https://fr.linkedin.com/posts/eric-jacob-299a21344_haffnerenergy-saf-sbhefa-activity-7508870054000766977-aZ56)
 - [LinkedIn: Taxing kerosene to fund SAF, provided the SAF is competitive](https://fr.linkedin.com/posts/eric-jacob-299a21344_saf-sbhefa-haffnerenergy-activity-7511415430515707904-7-8Y)
 
-![SAF from solid biomass: current rules and proposed regulatory clarifications](images/saf-cadre-reglementaire-propositions.jpg)
+![SAF from solid biomass: current rules and proposed regulatory clarifications](images/saf-regulatory-framework.jpg)
 
-![How the European rules for biomass-based SAF fit together](images/saf-articulation-des-textes.jpg)
+![How the European rules for biomass-based SAF fit together](images/saf-regulatory-pathway.jpg)
 
 ## 4. Biogas and biomethane: a meaningful opening whose implementing rules must keep pace
 
@@ -137,9 +140,9 @@ This approach is stronger than alleging an unproven exclusion. It builds on a re
 - [French Senate — question on CPBs and pyrogasification](https://www.senat.fr/questions/base/2026/qSEQ260207627.html)
 - [LinkedIn: CPB decree and regulatory clarification](https://fr.linkedin.com/posts/eric-jacob-299a21344_biom%C3%A9thane-gazrenouvelable-souverainet%C3%A9%C3%A9nerg%C3%A9tique-activity-7515723539149135872-dmSa)
 
-![Biogas production certificates: new routes and rules to review](images/biomethane-cpb-pyrolysis-gasification-rules.png)
+![CPB decree: newly eligible pathways, subject to conditions](images/cpb-eligible-pathways.jpg)
 
-*Upload the image to `analyses/images/` as `biomethane-cpb-pyrolysis-gasification-rules.png`.*
+![CPB: regulatory consistency between Articles R. 446-105 and R. 446-112 needs review](images/cpb-regulatory-review.jpg)
 
 ## 5. The common thread: coherent rules can sometimes do more than another scheme
 

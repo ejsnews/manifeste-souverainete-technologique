@@ -60,7 +60,9 @@ Cette réforme ne signifie ni que la thermolyse est automatiquement admissible �
 - [Décret n° 2023-854 du 1er septembre 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048039013)
 - [Publication LinkedIn : Hydrogène, passage à l’échelle et décentralisation](https://fr.linkedin.com/posts/eric-jacob-299a21344_hydrog%C3%A8ne-haffnerenergy-thermolyse-activity-7516468302353895424-4Ypq)
 
-![Les textes à mettre en cohérence pour une véritable neutralité technologique en matière d’hydrogène](images/hydrogene-reforme-neutralite-technologique.jpg)
+![Réseau local d’hydrogène produit et distribué sur place](images/hydrogene-reseau-local.jpg)
+
+![Les textes à mettre en cohérence pour une véritable neutralité technologique en matière d’hydrogène](images/hydrogene-neutralite-technologique.jpg)
 
 ## 3. SAF : les objectifs européens doivent laisser une place aux voies durables qui peuvent les atteindre
 
@@ -99,6 +101,7 @@ L’enjeu n’est pas de créer une exception pour SB-HEFA. Il est de rendre le 
 - [Règlement (UE) 2023/2405 — ReFuelEU Aviation](https://eur-lex.europa.eu/eli/reg/2023/2405/oj)
 - [Règlement délégué (UE) 2025/723](https://eur-lex.europa.eu/eli/reg_del/2025/723/oj)
 - [Commission européenne — FAQ ReFuelEU Aviation](https://transport.ec.europa.eu/transport-modes/air/environment/refueleu-aviation/faq-refueleu-aviation_en)
+- [Publication LinkedIn : propositions de clarification réglementaire pour les SAF](https://fr.linkedin.com/posts/eric-jacob-299a21344_saf-refueleu-red-activity-7517583692655902720-ViIK)
 - [Publication LinkedIn : SAF et hydrogène, ouvrir les voies possibles](https://fr.linkedin.com/posts/eric-jacob-299a21344_haffnerenergy-saf-sbhefa-activity-7508870054000766977-aZ56)
 - [Publication LinkedIn : taxer le kérosène pour financer un SAF compétitif](https://fr.linkedin.com/posts/eric-jacob-299a21344_saf-sbhefa-haffnerenergy-activity-7511415430515707904-7-8Y)
 
@@ -137,9 +140,9 @@ Cette approche est plus solide qu’une accusation d’exclusion non démontrée
 - [Sénat — question sur les CPB et la pyrogazéification](https://www.senat.fr/questions/base/2026/qSEQ260207627.html)
 - [Publication LinkedIn : décret CPB et clarification des règles](https://fr.linkedin.com/posts/eric-jacob-299a21344_biom%C3%A9thane-gazrenouvelable-souverainet%C3%A9%C3%A9nerg%C3%A9tique-activity-7515723539149135872-dmSa)
 
-![CPB : point de cohérence à vérifier entre les articles R. 446-105 et R. 446-112](images/cpb-r446-105-r446-112-point-a-verifier.jpg)
-
 ![Décret CPB : les filières désormais admises sous conditions](images/cpb-decret-2026-933-filieres-admises.jpg)
+
+![CPB : point de cohérence à vérifier entre les articles R. 446-105 et R. 446-112](images/cpb-r446-105-r446-112-point-a-verifier.jpg)
 
 ## 5. Le fil commun : une règle cohérente vaut parfois mieux qu’un dispositif supplémentaire
 
