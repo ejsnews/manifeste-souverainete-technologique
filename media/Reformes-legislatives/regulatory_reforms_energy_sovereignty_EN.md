@@ -185,23 +185,23 @@ It asks that rules be assessed against their stated objectives and that technolo
 
 ---
 
-## Résumé des actions proposées pour une mise en cohérence réglementaire et un passage à l’échelle industrielle
+## Summary of Proposed Actions for Regulatory Alignment and Industrial Scale-Up
 
-Les propositions présentées dans cet article convergent vers un objectif commun : **permettre aux technologies conformes aux objectifs européens de se développer à l’échelle industrielle, sur la base de leurs performances réelles plutôt que de choix technologiques restrictifs.**
+The proposals presented in this article share a common objective: **to enable technologies that comply with European objectives to reach industrial scale, based on their actual performance rather than unjustified technological restrictions.**
 
-Trois domaines sont concernés : le gaz et le biométhane, l’hydrogène et les carburants d’aviation durables (SAF). Pour chacun, il s’agit d’identifier les dispositions à clarifier ou à modifier, de lever les restrictions injustifiées et d’assurer une articulation cohérente entre les textes européens, leurs mesures d’application et les dispositifs de soutien.
+Three areas are concerned: gas and biomethane, hydrogen, and sustainable aviation fuels (SAF). For each, the aim is to identify provisions that need clarification or amendment, remove unjustified barriers, and ensure consistency between European legislation, implementing measures, and public support mechanisms.
 
-![Synthèse des modifications réglementaires proposées pour le gaz et le biométhane, l’hydrogène et les SAF, en vue d’un passage à l’échelle industrielle.](images/synthese-actions-passage-echelle.jpg)
+![Summary of proposed regulatory changes for biogas and biomethane, hydrogen, and sustainable aviation fuels, designed to enable industrial scale-up.](images/summary-actions-industrial-scale-up.jpg)
 
-### Une ambition commune : passer des objectifs aux résultats
+### A shared ambition: turning objectives into results
 
-La transition énergétique ne pourra changer d’échelle durablement si elle repose sur des subventions permanentes ou sur la mise à l’écart de solutions potentiellement compétitives. Les soutiens publics peuvent accompagner l’émergence des filières, mais ils ne remplacent ni la compétitivité économique, ni la sécurité juridique, ni la capacité à déployer des installations reproductibles.
+The energy transition cannot achieve lasting industrial scale if it depends on permanent subsidies or excludes potentially competitive solutions. Public support can help emerging industries develop, but it cannot replace economic competitiveness, legal certainty, or the ability to deploy repeatable, commercially viable installations.
 
-L’enjeu est donc de rendre les règles suffisamment claires, cohérentes et ouvertes pour que les solutions conformes aux exigences de durabilité, de réduction des émissions et de performance puissent être évaluées équitablement, puis développées lorsque leurs résultats le justifient.
+The priority is therefore to establish rules that are clear, consistent, and sufficiently open to ensure that solutions meeting sustainability, emissions-reduction, and performance requirements can be assessed fairly and developed where their results justify it.
 
-Cette démarche s’inscrit dans une ambition plus large : valoriser les ressources locales, renforcer la souveraineté énergétique européenne, stimuler l’investissement industriel et l’emploi, et accélérer la réduction des émissions sans créer de dépendances économiques durables.
+This approach serves a broader ambition: making better use of local resources, strengthening European energy sovereignty, stimulating industrial investment and employment, and accelerating emissions reductions without creating lasting economic dependencies.
 
-**Cette synthèse constitue une proposition de travail, et non un texte juridique définitif.** Les modifications suggérées doivent être examinées par les autorités compétentes, confrontées aux textes applicables et ajustées, le cas échéant, au cours du processus législatif et réglementaire. L’objectif est de fournir une base concrète au débat : identifier les verrous, proposer des évolutions précises et rendre possible un passage à l’échelle fondé sur des critères objectifs.
+**This summary is a working proposal, not a definitive legislative text.** The suggested amendments must be examined by the competent authorities, assessed against the applicable legislation, and adjusted where necessary during the legislative and regulatory process. The aim is to provide a practical basis for discussion: identify the barriers, propose specific changes, and make industrial scale-up possible on the basis of objective criteria.
 
 
 ## Conclusion — Giving objectives the means to become reality
