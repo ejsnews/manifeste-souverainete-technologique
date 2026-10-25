@@ -105,9 +105,8 @@ The aim is not to create an exception for SB-HEFA. It is to make the framework c
 - [LinkedIn: SAF and hydrogen — should Europe open every viable pathway?](https://fr.linkedin.com/posts/eric-jacob-299a21344_haffnerenergy-saf-sbhefa-activity-7508870054000766977-aZ56)
 - [LinkedIn: Taxing kerosene to fund SAF, provided the SAF is competitive](https://fr.linkedin.com/posts/eric-jacob-299a21344_saf-sbhefa-haffnerenergy-activity-7511415430515707904-7-8Y)
 
-![SAF from solid biomass: current rules and proposed regulatory clarifications](images/saf-regulatory-framework.jpg)
+![SAF from solid biomass: current rules and proposed regulatory clarifications](images/saf-regulatory-framework-proposals.png)
 
-![How the European rules for biomass-based SAF fit together](images/saf-regulatory-pathway.jpg)
 
 ## 4. Biogas and biomethane: a meaningful opening whose implementing rules must keep pace
 
