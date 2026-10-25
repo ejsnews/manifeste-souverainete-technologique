@@ -5,7 +5,7 @@ author: eric_jacob
 title: "Souveraineté énergétique : remettre les règles en cohérence pour libérer les solutions"
 ---
 
-# Souveraineté énergétique : remettre les règles en cohérence pour libérer les solutions
+# Souveraineté énergétique : remettre les règles en cohérence pour libérer les solutions [(English version - EN)](regulatory_reforms_energy_sovereignty_EN.md)
 
 *Éric Jacob — Dossier de travail, version française — 20 octobre 2026*
 
