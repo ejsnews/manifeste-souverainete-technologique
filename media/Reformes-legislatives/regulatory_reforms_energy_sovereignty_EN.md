@@ -139,9 +139,9 @@ This approach is stronger than alleging an unproven exclusion. It builds on a re
 - [French Senate — question on CPBs and pyrogasification](https://www.senat.fr/questions/base/2026/qSEQ260207627.html)
 - [LinkedIn: CPB decree and regulatory clarification](https://fr.linkedin.com/posts/eric-jacob-299a21344_biom%C3%A9thane-gazrenouvelable-souverainet%C3%A9%C3%A9nerg%C3%A9tique-activity-7515723539149135872-dmSa)
 
-![CPB decree: newly eligible pathways, subject to conditions](images/cpb-eligible-pathways.jpg)
+![CPB decree: newly eligible pathways, subject to conditions](images/cpb-decree-2026-933-approved-study-programs.png)
 
-![CPB: regulatory consistency between Articles R. 446-105 and R. 446-112 needs review](images/cpb-regulatory-review.jpg)
+![CPB: regulatory consistency between Articles R. 446-105 and R. 446-112 needs review](images/cpb-r446-105-r446-112-point-to-verify.png)
 
 ## 5. The common thread: coherent rules can sometimes do more than another scheme
 
