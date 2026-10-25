@@ -181,6 +181,28 @@ Pour conserver sa crédibilité, le plaidoyer doit être aussi clair sur ses lim
 
 Il demande que les règles soient examinées à la lumière des objectifs annoncés et que les choix technologiques puissent être justifiés. Les aides publiques peuvent être utiles lorsqu’elles répondent à une défaillance de marché, soutiennent l’innovation ou accélèrent une infrastructure collective. Elles deviennent plus difficiles à défendre lorsqu’elles servent durablement à compenser une architecture réglementaire qui empêche de comparer les solutions.
 
+
+---
+
+## Résumé des actions proposées pour une mise en cohérence réglementaire et un passage à l’échelle industrielle
+
+Les propositions présentées dans cet article convergent vers un objectif commun : **permettre aux technologies conformes aux objectifs européens de se développer à l’échelle industrielle, sur la base de leurs performances réelles plutôt que de choix technologiques restrictifs.**
+
+Trois domaines sont concernés : le gaz et le biométhane, l’hydrogène et les carburants d’aviation durables (SAF). Pour chacun, il s’agit d’identifier les dispositions à clarifier ou à modifier, de lever les restrictions injustifiées et d’assurer une articulation cohérente entre les textes européens, leurs mesures d’application et les dispositifs de soutien.
+
+![Synthèse des modifications réglementaires proposées pour le gaz et le biométhane, l’hydrogène et les SAF, en vue d’un passage à l’échelle industrielle.](images/synthese-actions-passage-echelle.jpg)
+
+### Une ambition commune : passer des objectifs aux résultats
+
+La transition énergétique ne pourra changer d’échelle durablement si elle repose sur des subventions permanentes ou sur la mise à l’écart de solutions potentiellement compétitives. Les soutiens publics peuvent accompagner l’émergence des filières, mais ils ne remplacent ni la compétitivité économique, ni la sécurité juridique, ni la capacité à déployer des installations reproductibles.
+
+L’enjeu est donc de rendre les règles suffisamment claires, cohérentes et ouvertes pour que les solutions conformes aux exigences de durabilité, de réduction des émissions et de performance puissent être évaluées équitablement, puis développées lorsque leurs résultats le justifient.
+
+Cette démarche s’inscrit dans une ambition plus large : valoriser les ressources locales, renforcer la souveraineté énergétique européenne, stimuler l’investissement industriel et l’emploi, et accélérer la réduction des émissions sans créer de dépendances économiques durables.
+
+**Cette synthèse constitue une proposition de travail, et non un texte juridique définitif.** Les modifications suggérées doivent être examinées par les autorités compétentes, confrontées aux textes applicables et ajustées, le cas échéant, au cours du processus législatif et réglementaire. L’objectif est de fournir une base concrète au débat : identifier les verrous, proposer des évolutions précises et rendre possible un passage à l’échelle fondé sur des critères objectifs.
+
+
 ## Conclusion — Donner aux objectifs les moyens de devenir réalité
 
 L’Europe s’est fixé des objectifs énergétiques et climatiques considérables. Pour les atteindre, elle aura besoin d’électricité décarbonée, d’efficacité énergétique, de réseaux, de carburants durables, de molécules renouvelables, de ressources mieux valorisées et d’industries capables de produire à des coûts acceptables. Aucune technologie ne peut tout faire. Aucune filière ne doit non plus être condamnée sans que ses performances aient été examinées selon des critères clairs.
