@@ -105,9 +105,7 @@ L’enjeu n’est pas de créer une exception pour SB-HEFA. Il est de rendre le 
 - [Publication LinkedIn : SAF et hydrogène, ouvrir les voies possibles](https://fr.linkedin.com/posts/eric-jacob-299a21344_haffnerenergy-saf-sbhefa-activity-7508870054000766977-aZ56)
 - [Publication LinkedIn : taxer le kérosène pour financer un SAF compétitif](https://fr.linkedin.com/posts/eric-jacob-299a21344_saf-sbhefa-haffnerenergy-activity-7511415430515707904-7-8Y)
 
-![SAF issus de biomasse solide : textes en vigueur et clarifications réglementaires proposées](images/saf-cadre-reglementaire-propositions.jpg)
-
-![Articulation des textes européens applicables aux SAF issus de biomasse solide](images/saf-articulation-des-textes.jpg)
+![SAF issus de biomasse solide : textes en vigueur et clarifications réglementaires proposées](images/saf-cadre-reglementaire-propositions.png)
 
 ## 4. Biogaz et biométhane : une ouverture importante, dont les modalités doivent rester cohérentes
 
