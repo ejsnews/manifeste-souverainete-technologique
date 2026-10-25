@@ -190,7 +190,7 @@ Les propositions présentées dans cet article convergent vers un objectif commu
 
 Trois domaines sont concernés : le gaz et le biométhane, l’hydrogène et les carburants d’aviation durables (SAF). Pour chacun, il s’agit d’identifier les dispositions à clarifier ou à modifier, de lever les restrictions injustifiées et d’assurer une articulation cohérente entre les textes européens, leurs mesures d’application et les dispositifs de soutien.
 
-![Synthèse des modifications réglementaires proposées pour le gaz et le biométhane, l’hydrogène et les SAF, en vue d’un passage à l’échelle industrielle.](images/synthese-actions-passage-echelle.jpg)
+![Synthèse des modifications réglementaires proposées pour le gaz et le biométhane, l’hydrogène et les SAF, en vue d’un passage à l’échelle industrielle.](images/synthese-actions-passage-echelle.png)
 
 ### Une ambition commune : passer des objectifs aux résultats
 
