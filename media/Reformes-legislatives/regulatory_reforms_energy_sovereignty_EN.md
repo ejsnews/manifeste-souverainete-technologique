@@ -5,7 +5,7 @@ author: eric_jacob
 title: "Energy sovereignty: making the rules coherent so solutions can scale"
 ---
 
-# Energy sovereignty: making the rules coherent so solutions can scale
+# Energy sovereignty: making the rules coherent so solutions can scale [(French version - FR)](reformes_reglementaires_souverainete_energetique_FR.md)
 
 *Eric Jacob — Working paper, English version — 20 October 2026*
 
