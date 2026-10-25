@@ -191,7 +191,7 @@ The proposals presented in this article share a common objective: **to enable te
 
 Three areas are concerned: gas and biomethane, hydrogen, and sustainable aviation fuels (SAF). For each, the aim is to identify provisions that need clarification or amendment, remove unjustified barriers, and ensure consistency between European legislation, implementing measures, and public support mechanisms.
 
-![Summary of proposed regulatory changes for biogas and biomethane, hydrogen, and sustainable aviation fuels, designed to enable industrial scale-up.](images/summary-actions-industrial-scale-up.jpg)
+![Summary of proposed regulatory changes for biogas and biomethane, hydrogen, and sustainable aviation fuels, designed to enable industrial scale-up.](images/summary-actions-industrial-scale-up.png)
 
 ### A shared ambition: turning objectives into results
 
