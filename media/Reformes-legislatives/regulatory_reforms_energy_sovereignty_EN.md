@@ -9,7 +9,7 @@ title: "Energy sovereignty: making the rules coherent so solutions can scale"
 
 *Eric Jacob — Working paper, English version — 20 October 2026*
 
-> Europe does not only need more technologies. It also needs rules that allow them to demonstrate what they can deliver.
+> Europe does not need more technologies. It needs rules that allow them to demonstrate what they can deliver.
 
 The energy transition is often presented as a race to invest: announce capacity, open funding windows, mobilise billions and set increasingly ambitious targets. All of that may be necessary. But a quieter question comes first: do the rules we have written actually allow solutions that could contribute to those targets to exist, develop and scale?
 
