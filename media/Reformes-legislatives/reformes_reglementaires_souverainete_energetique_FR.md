@@ -9,7 +9,7 @@ title: "Souveraineté énergétique : remettre les règles en cohérence pour li
 
 *Éric Jacob — Dossier de travail, version française — 20 octobre 2026*
 
-> L’Europe ne manque pas seulement de technologies. Elle a aussi besoin de règles qui leur permettent de démontrer ce qu’elles savent faire.
+> L’Europe ne manque pas de technologies efficaces. Elle a besoin de règles qui leur permettent de démontrer ce qu’elles savent faire.
 
 La transition énergétique est souvent racontée comme une course aux investissements : annoncer des capacités, ouvrir des guichets, mobiliser des milliards, fixer des objectifs toujours plus ambitieux. Tout cela peut être nécessaire. Mais une question plus discrète précède les autres : les règles que nous avons écrites permettent-elles réellement aux solutions capables de contribuer à ces objectifs d’exister, de se développer et de changer d’échelle ?
 
